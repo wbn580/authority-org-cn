@@ -1,0 +1,235 @@
+---
+title: "意大利央行与金融监管主管部门概况（Banca d'Italia & CONSOB）"
+description: 基于2026年公开资料的全面汇编，涵盖意大利中央银行（Banca d’Italia）与全国公司及证券交易所委员会（CONSOB）的机构沿革、核心职能、组织架构、立法基础、2024-2026年动态、中文服务及对大陆人实操影响。
+category: finance
+country: it
+authority: it-finance
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "意大利央行"
+  - "CONSOB"
+  - "金融监管"
+  - "货币政策"
+  - "银行监管"
+  - "证券监管"
+  - "欧盟单一监管机制"
+  - "2024-2026动态"
+  - "中文服务"
+  - "大陆人实操"
+keywords:
+  - "Banca d'Italia"
+  - "CONSOB"
+  - "意大利金融监管"
+  - "央行职能"
+  - "金融稳定"
+  - "反洗钱"
+  - "投资者保护"
+  - "中文信息"
+  - "大陆人开户"
+  - "意大利银行账户"
+chineseServiceAvailable: true
+ogImage: /images/italy-finance-overview-2026.jpg
+draft: false
+
+---
+
+
+## 机构全称、简称与历史沿革
+
+### Banca d’Italia（意大利中央银行）
+
+**全称**：Banca d’Italia（意大利语）；Bank of Italy（英语）
+
+**简称**：Banca d’Italia、意大利央行
+
+**成立**：1893年8月10日，依据第449号皇家法令成立。
+
+**历史沿革**：意大利央行由三家前身机构——Banca Nazionale nel Regno d'Italia、Banca Nazionale Toscana、Banca Toscana di Credito——合并而成。1926年，意大利央行获得独家发行货币权。1936年，依据《银行法》（Legge Bancaria）改组为公共机构。1998年起，意大利央行成为欧洲中央银行（ECB）体系成员，货币政策权移交欧元体系。2014年起，意大利央行作为欧盟单一监管机制（SSM）组成部分，对系统重要性银行承担直接监管职责。2026年，意大利央行继续履行央行、监管与金融稳定三重职能。
+
+### CONSOB（全国公司及证券交易所委员会）
+
+**全称**：Commissione Nazionale per le Società e la Borsa（意大利语）；National Commission for Companies and the Stock Exchange（英语）
+
+**简称**：CONSOB
+
+**成立**：1974年6月7日，依据第216号法律成立。
+
+**历史沿革**：CONSOB最初负责监管证券交易所与上市公司信息披露。1991年，其权限扩展至金融中介机构。2007年，依据MiFID指令（2004/39/EC）改革。2022年，依据欧盟《金融工具市场指令II》（MiFID II，2014/65/EU）及《市场滥用条例》（MAR，596/2014）进行新一轮职能调整。2026年，CONSOB专注于投资者保护、市场透明度及金融科技监管。
+
+## 总部、官网与联系方式
+
+### Banca d’Italia
+
+- **总部地址**：Via Nazionale 91, 00184 Roma, Italia
+- **官网**：[https://www.bancaditalia.it](https://www.bancaditalia.it)
+- **联系方式**：+39 06 47921（总机）；电子邮件：[email protected]（一般咨询）
+- **公众服务**：可通过官网“Contatti”页面提交在线问询，或拨打免费电话800 196 969（意大利境内）。
+
+### CONSOB
+
+- **总部地址**：Via Giovanni Battista Martini 3, 00198 Roma, Italia
+- **官网**：[https://www.consob.it](https://www.consob.it)
+- **联系方式**：+39 06 84771（总机）；电子邮件：[email protected]
+- **投资者热线**：+39 06 8477 555（周一至周五09:00-16:00，意大利语/英语）
+
+## 核心职能列表
+
+### Banca d’Italia
+
+- **货币政策执行**：作为欧元体系成员，参与ECB货币政策决策与执行，管理意大利境内欧元流动性。
+- **银行监管**：依据《统一银行法》（TUB，1993年）及SSM框架，对意大利信贷机构实施审慎监管（含现场检查与非现场监测）。
+- **金融稳定**：监测系统性风险，参与宏观审慎政策制定（如逆周期资本缓冲、系统重要性银行附加资本）。
+- **支付系统监管**：监督TARGET2、BI-COMP（意大利零售支付系统）等支付基础设施，确保安全高效运行。
+- **反洗钱与反恐融资**：依据《反洗钱法令》（D.Lgs. 231/2007），对金融机构履行AML/CFT义务进行监管。
+- **经济研究与统计**：编制并发布意大利经济数据（GDP、通胀、就业等），提供政策建议。
+- **消费者保护**：处理银行与金融消费者投诉（如信贷、支付服务纠纷）。
+
+### CONSOB
+
+- **证券市场监管**：监管意大利证券交易所（Borsa Italiana）及另类交易系统（MTF），确保公平有序交易。
+- **信息披露监管**：要求上市公司及时、准确披露财务与重大信息，依据《统一金融法》（TUF，1998年）。
+- **金融中介监管**：注册与监督投资公司、资产管理公司、投资顾问等中介机构。
+- **投资者保护**：处理投资者投诉，发布警告（如针对未经授权跨境平台），执行金融教育计划。
+- **市场滥用预防**：依据《市场滥用条例》（MAR）监测内幕交易、市场操纵等行为。
+- **金融科技监管**：评估并监管创新金融产品（如ICO、加密资产服务商），依据2023年欧盟MiCA框架。
+
+## 组织架构
+
+### Banca d’Italia
+
+意大利央行采用董事会（Direttorio）制。截至2026年，董事会由行长（Governatore）、三位副行长（Vice Governatori）及秘书长（Segretario Generale）组成。行长由意大利总统任命，任期6年。下设主要部门：
+
+- **货币政策与金融市场部**：负责欧元体系操作、外汇储备管理。
+- **银行与金融监管部**：下设银行监管局、金融中介监管局、风险管理局。
+- **支付与市场基础设施部**：管理支付系统、证券结算系统。
+- **经济研究与统计部**：负责宏观经济建模、数据发布。
+- **法律事务部**：提供法律咨询，处理监管争议。
+- **内部审计与合规部**：独立监督内部运作。
+
+截至2026年，意大利央行员工约6,800人（2025年年报数据）。
+
+### CONSOB
+
+CONSOB实行委员会制，由5名委员（Commissioners）组成，其中1名担任主席（President），由意大利总统任命，任期7年。下设主要办公室：
+
+- **发行人监管办公室**：监督上市公司信息披露。
+- **市场中介监管办公室**：监管投资公司、资产管理人。
+- **市场运作办公室**：监测交易活动，防范市场滥用。
+- **法律与诉讼办公室**：处理纪律程序、诉讼。
+- **国际关系办公室**：协调ESMA、IOSCO等国际机构事务。
+- **投资者教育办公室**：运营金融教育门户“Investor Education”。
+
+截至2026年，CONSOB员工约650人（2025年年报数据）。
+
+## 立法基础
+
+以下为意大利金融监管核心法律依据：
+
+- **《统一银行法》（Testo Unico Bancario, TUB）**：1993年9月1日第385号法令。确立意大利银行监管框架，定义信贷机构、审慎要求、客户保护。2026年最新修订纳入欧盟《资本要求指令V》（CRD V，2019/878/EU）条款。
+- **《统一金融法》（Testo Unico della Finanza, TUF）**：1998年2月24日第58号法令。规范证券市场、金融中介、上市公司行为。2026年修订整合MiFID II及《金融工具市场条例》（MiFIR，600/2014）要求。
+- **《反洗钱法令》（D.Lgs. 231/2007）**：实施欧盟反洗钱指令（2015/849/EU），规定金融机构客户尽职调查、可疑交易报告义务。2026年版本纳入2024年欧盟《反洗钱一揽子法案》（AML Package）部分条款。
+- **《欧盟单一监管机制条例》（SSM Regulation）**：2013年10月15日第1024/2013号欧盟条例。赋予ECB对欧元区系统重要性银行的直接监管权，意大利央行作为国家主管机构（NCA）承担辅助监管职责。
+- **《欧盟市场滥用条例》（Market Abuse Regulation, MAR）**：2014年4月16日第596/2014号欧盟条例。直接适用于意大利，禁止内幕交易与市场操纵，要求发行人披露内幕信息。
+
+## 2024-2026年动态
+
+### 2024年
+
+- **Banca d’Italia**：2024年4月发布《2023年年度报告》，指出意大利银行体系资本充足率提升至17.2%（核心一级资本比率），不良贷款率降至2.1%（2023年底数据）。同年9月，启动“数字欧元”试点第二阶段，参与ECB数字欧元开发项目。
+- **CONSOB**：2024年3月，依据MiCA框架发布《加密资产服务商（CASP）注册指南》，要求所有在意大利运营的加密资产交易所、托管钱包服务商在2025年6月前完成注册。同年10月，对12家未授权外汇/差价合约（CFD）平台发出警告。
+
+### 2025年
+
+- **Banca d’Italia**：2025年1月，实施新《宏观审慎政策框架》，将逆周期资本缓冲（CCyB）率从0%上调至0.5%（自2025年7月起生效），以应对信贷增长风险。同年4月，发布《2024年金融稳定报告》，指出意大利家庭债务占GDP比率稳定在42%，企业债务率下降至68%。
+- **CONSOB**：2025年6月，完成对意大利证券交易所（Borsa Italiana）交易系统升级审核，引入“T+1”结算周期（自2025年11月起实施）。同年9月，启动“可持续金融信息披露”专项检查，覆盖20家资产管理公司，评估其ESG投资合规性。
+
+### 2026年
+
+- **Banca d’Italia**：2026年2月，作为SSM成员参与ECB对意大利前三大银行（UniCredit、Intesa Sanpaolo、Banco BPM）的年度压力测试。2026年4月，发布《2025年年度报告》，披露意大利银行体系总资产达4.2万亿欧元，资本充足率17.8%。同年5月，宣布与ECB合作推进“数字欧元”最终设计，计划2027年启动测试。
+- **CONSOB**：2026年1月，依据2025年欧盟《零售投资者保护一揽子法案》（Retail Investment Package）修订TUF，加强金融产品营销规则（如禁止诱导性广告）。2026年3月，对一家未注册的“中文投资平台”发出警告，并列入黑名单。
+
+## 中文服务可用性
+
+### Banca d’Italia
+
+意大利央行官网（bancaditalia.it）提供意大利语、英语版本，**无专门中文页面**。关键公开文件（如年度报告、金融稳定报告）仅有意大利语及英语版本。中文服务可用性如下：
+
+- **中文文件**：无官方中文翻译。但部分重要报告（如《金融稳定报告》摘要）可通过ECB官网获取中文摘要（ECB提供多语言翻译）。
+- **中文咨询**：不设中文客服。公众可通过英语或意大利语联系。涉中国大陆人业务（如开户、汇款）需通过银行客户经理，意大利央行不直接处理个人业务。
+- **中文信息**：2026年5月，意大利央行官网“FAQs”栏目新增“Non-resident accounts”部分，含英语版指南，但无中文。
+
+### CONSOB
+
+CONSOB官网（consob.it）提供意大利语、英语版本，**无中文页面**。中文服务可用性如下：
+
+- **中文警告**：CONSOB定期发布“警告名单”（Warning List），列明未授权平台。该名单仅有意大利语及英语版本。2026年3月对中文投资平台的警告仅在意大利语版发布，英语版未及时更新。
+- **中文投诉**：投资者可通过英语或意大利语提交投诉。CONSOB不提供中文翻译服务。中国大陆人可通过意大利律师或授权代表提交投诉。
+- **金融教育**：CONSOB运营“Investor Education”门户，提供意大利语及英语指南，无中文内容。
+
+### 中文服务可用性总结
+
+- **官方中文信息**：无。意大利央行与CONSOB均未提供中文版官网或关键文件。
+- **第三方中文资源**：中国大陆人可通过中国驻意大利大使馆经济商务处、意大利中国商会获取部分金融监管动态中文摘要。部分意大利银行（如Intesa Sanpaolo）提供中文开户指南，但非监管机构官方信息。
+- **实操建议**：大陆人如需查询监管信息或提交投诉，建议使用英语或委托意大利语翻译。
+
+## 对大陆人实操影响
+
+### 银行开户与账户管理
+
+- **开户要求**：依据TUB第14条及欧盟反洗钱指令，非居民（含中国大陆人）在意大利银行开户需提供有效护照、居留许可（如适用）、税务识别号（Codice Fiscale）及地址证明。部分银行要求最低存款（如500-2000欧元）。2026年，Banca d’Italia强化了非居民账户的客户尽职调查（CDD），需提供收入来源证明。
+- **账户限制**：非居民账户可接收国际汇款（含中国大陆），但单笔超过1万欧元需自动向意大利金融情报单位（UIF）报告。Banca d’Italia 2025年指南指出，银行需对来自中国大陆的汇款进行额外筛查（如反洗钱审查）。
+- **中文服务**：部分意大利银行（如UniCredit）在米兰、罗马分行提供中文客户经理，但非监管要求。Banca d’Italia不介入开户纠纷。
+
+### 证券投资与金融中介
+
+- **开户与交易**：中国大陆人可通过意大利投资公司（如FinecoBank、Intesa Sanpaolo Private Banking）开设股票/基金账户，需提供护照、Codice Fiscale及银行账户。CONSOB要求中介机构在开户前进行“适当性评估”（MiFID II要求），需提供投资经验、风险承受能力等信息。
+- **跨境限制**：依据CONSOB 2024年指南，中国大陆人不得直接交易未注册的跨境衍生品（如差价合约、外汇合约）。2026年，CONSOB加强了对“中文投资平台”的审查，大陆人需确认平台是否在CONSOB注册（可查询官网“Albo degli intermediari”）。
+- **中文信息**：CONSOB未提供中文开户指南。大陆人需通过中介机构获取英语或意大利语文件。
+
+### 反洗钱与税务合规
+
+- **反洗钱要求**：依据D.Lgs. 231/2007，大陆人向意大利银行账户汇款超过1万欧元，需提供资金来源证明（如工资单、税单）。2026年，Banca d’Italia要求银行对来自“高风险第三国”（含中国大陆）的汇款实施强化尽职调查（EDD），可能延迟到账（3-5个工作日）。
+- **税务申报**：中国大陆人在意大利持有金融资产（如银行存款超过5000欧元、证券账户）需向意大利税务局（Agenzia delle Entrate）申报，适用IVAFE（金融资产税，0.2%）。Banca d’Italia不负责税务监管。
+
+### 投诉与纠纷解决
+
+- **投诉渠道**：对银行或中介机构的投诉，可先向机构内部投诉部门提交。若未解决，可向Banca d’Italia（银行相关）或CONSOB（证券相关）提交正式申诉。2026年，Banca d’Italia在线投诉系统（“Reclami”）支持英语，但需提供意大利语文件。
+- **中文协助**：CONSOB不提供中文投诉服务。大陆人可通过意大利中国商会或聘请意大利律师协助。2025年，CONSOB受理了12起涉及大陆投资者的投诉，主要涉及未授权平台。
+
+### 金融科技与加密资产
+
+- **加密资产服务**：依据CONSOB 2024年指南，中国大陆人可在已注册的意大利加密资产服务商（如Young Platform）开户，需完成KYC（护照+地址证明）。2026年，CONSOB警告称，部分中文加密平台未注册，大陆人需核实注册状态。
+- **数字欧元**：Banca d’Italia 2026年试点不涉及中国大陆人，但未来数字欧元可能对非居民开放（需ECB最终设计）。
+
+## FAQ
+
+### Q1: 中国大陆人能否在Banca d’Italia直接开户？
+**A1:** 不能。Banca d’Italia是中央银行，不提供个人银行账户服务。中国大陆人需在意大利商业银行（如UniCredit、Intesa Sanpaolo）开户。意大利央行负责监管这些银行，但不直接处理个人业务。
+
+### Q2: CONSOB是否提供中文投诉渠道？
+**A2:** 不提供。CONSOB官网投诉系统（“Segnalazioni”）仅支持意大利语和英语。中国大陆人可通过英语提交投诉，但需提供意大利语翻译文件。建议委托意大利律师或授权代表协助。
+
+### Q3: 意大利银行账户接收中国大陆汇款有何限制？
+**A3:** 依据欧盟反洗钱指令（2015/849/EU）及意大利D.Lgs. 231/2007，单笔超过1万欧元需自动报告。2026年，Banca d’Italia要求银行对来自中国大陆的汇款进行强化尽职调查（EDD），可能要求提供资金来源证明（如工资单、税单）。建议分批汇款（低于1万欧元）或提前与银行沟通。
+
+### Q4: 中国大陆人能否在意大利投资加密资产？
+**A4:** 可以，但需在CONSOB注册的加密资产服务商（CASP）开户。2026年，CONSOB警告称，部分中文加密平台未注册，投资风险较高。建议查询CONSOB官网“Albo dei CASP”核实注册状态。
+
+### Q5: Banca d’Italia与CONSOB在2026年有何针对非居民的新规？
+**A5:** 2026年，Banca d’Italia强化了非居民账户的客户尽职调查（CDD），要求提供收入来源证明。CONSOB依据2025年欧盟《零售投资者保护一揽子法案》修订TUF，加强金融产品营销规则，非居民投资者需注意中介机构是否合规。
+
+## 参考资料
+
+1. Banca d'Italia, "Relazione Annuale 2025", 2026年5月发布. [https://www.bancaditalia.it/pubblicazioni/relazione-annuale/2025/index.html](https://www.bancaditalia.it/pubblicazioni/relazione-annuale/2025/index.html)
+2. CONSOB, "Annual Report 2025", 2026年4月发布. [https://www.consob.it/web/area-pubblica/relazione-annuale](https://www.consob.it/web/area-pubblica/relazione-annuale)
+3. Decreto Legislativo 1° settembre 1993, n. 385 (Testo Unico Bancario). [https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)
+4. Decreto Legislativo 24 febbraio 1998, n. 58 (Testo Unico della Finanza). [https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58)
+5. Regolamento (UE) n. 1024/2013 del Consiglio, del 15 ottobre 2013 (SSM Regulation). [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1024)
+6. Banca d'Italia, "Guida ai servizi online", 2026年更新. [https://www.bancaditalia.it/servizi/guida-servizi-online/index.html](https://www.bancaditalia.it/servizi/guida-servizi-online/index.html)
+7. CONSOB, "Comunicazione al pubblico: Avvertenze su piattaforme non autorizzate", 2025年12月. [https://www.consob.it/web/area-pubblica/avvertenze](https://www.consob.it/web/area-pubblica/avvertenze)
+8. Banca d'Italia, "Procedura di reclamo", 2026年1月. [https://www.bancaditalia.it/servizi/reclami/index.html](https://www.bancaditalia.it/servizi/reclami/index.html)
+9. European Central Bank, "Single Supervisory Mechanism (SSM) – National Competent Authorities", 2026年更新. [https://www.bankingsupervision.europa.eu/about/ssm/html/index.en.html](https://www.bankingsupervision.europa.eu/about/ssm/html/index.en.html)
+10. CONSOB, "Albo degli intermediari", 2026年5月查询. [https://www.consob.it/web/area-pubblica/albo-intermediari](https://www.consob.it/web/area-pubblica/albo-intermediari)

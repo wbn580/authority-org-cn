@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export function getStaticPaths() {
+  const countries = [
+    { code: 'au', zh: '澳大利亚' },{ code: 'uk', zh: '英国' },{ code: 'us', zh: '美国' },{ code: 'ca', zh: '加拿大' },{ code: 'nz', zh: '新西兰' },{ code: 'sg', zh: '新加坡' },{ code: 'hk', zh: '香港' },{ code: 'jp', zh: '日本' },{ code: 'my', zh: '马来西亚' },{ code: 'kr', zh: '韩国' },{ code: 'th', zh: '泰国' },{ code: 'id', zh: '印尼' },{ code: 'vn', zh: '越南' },{ code: 'ph', zh: '菲律宾' },{ code: 'fr', zh: '法国' },{ code: 'de', zh: '德国' },{ code: 'nl', zh: '荷兰' },{ code: 'ch', zh: '瑞士' },{ code: 'ie', zh: '爱尔兰' },{ code: 'es', zh: '西班牙' },{ code: 'it', zh: '意大利' },{ code: 'ae', zh: '阿联酋' },{ code: 'il', zh: '以色列' },{ code: 'cn', zh: '中国大陆' },{ code: 'tw', zh: '中国台湾' },{ code: 'mo', zh: '中国澳门' },
+  ];
+  return countries.map(c => ({ params: { country: c.code }, props: c }));
+}
+
+const { code, zh } = Astro.props;
+
+const domains = [
+  { path: '/immigration/', label: '移民 / 签证', desc: '移民局、签证中心、边境管理机构' },
+  { path: '/education/', label: '教育', desc: '教育部、学历认证机构、留学监管' },
+  { path: '/finance/', label: '央行 / 金融监管', desc: '央行、证监会、银监会、金融监管机构' },
+  { path: '/tax/', label: '税务', desc: '国税部门、跨境税务条约信息' },
+  { path: '/health/', label: '卫生 / 医保', desc: '卫生部、医保系统、医师监管机构' },
+  { path: '/legal/', label: '司法 / 法务', desc: '司法部、律师监管、仲裁机构' },
+  { path: '/trade/', label: '贸易 / 海关', desc: '海关、贸易部、跨境电商监管' },
+  { path: '/labor/', label: '劳工 / 就业', desc: '劳工部、就业服务、工资监管机构' },
+  { path: '/transport/', label: '交通 / 民航', desc: '民航局、交通部、跨境物流监管' },
+];
+
+const flag = code === 'hk' ? '🇭🇰' : code === 'tw' ? '🇹🇼' : code === 'mo' ? '🇲🇴' : String.fromCodePoint(...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65));
+---
+
+<BaseLayout title={`${zh}主管部门信息索引 — 全球主管部门信息汇编`} description={`${zh}移民签证、教育、央行金融、税务、卫生医保、司法法务、贸易海关、劳工就业、交通民航九大职能领域主管部门官方公开信息汇编。`}>
+
+  <div class="max-w-6xl mx-auto px-4 py-10">
+    <div class="flex items-center gap-3 mb-6">
+      <span class="text-3xl">{flag}</span>
+      <div>
+        <h1 class="text-2xl font-serif font-bold text-primary-900 m-0">{zh}</h1>
+        <p class="text-sm text-ink-500 m-0 mt-1">主管部门信息索引 — 涵盖九大职能领域</p>
+      </div>
+    </div>
+
+    <p class="text-ink-500 mb-8 max-w-2xl">
+      本页汇集{zh}在移民签证、教育、央行金融监管、税务、卫生医保、司法法务、贸易海关、劳工就业、交通民航九大职能领域的主管部门公开信息。点击下方各领域进入查看详情。
+    </p>
+
+    <h2 class="text-lg font-serif font-semibold text-primary-700 mb-4">按职能领域浏览</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
+      {domains.map(d => (
+        <a href={`${d.path}${code}/`} class="no-underline bg-white border border-divider rounded-lg p-5 hover:border-primary-500 hover:shadow-md transition-all">
+          <h3 class="text-base font-serif font-semibold text-primary-700 m-0 mb-1">{d.label}</h3>
+          <p class="text-sm text-ink-500 m-0 leading-relaxed">{d.desc}</p>
+          <span class="inline-block mt-3 text-xs text-accent-600 font-medium">{zh}{d.label.replace(/.*\//,'')} →</span>
+        </a>
+      ))}
+    </div>
+
+    <div class="mt-8 p-4 bg-paper-100 rounded-lg border border-divider text-sm text-ink-500">
+      <strong>数据来源：</strong>各机构官方网站 · 官方公告 · 年度报告 · 议会档案 · 政府开放数据库。本站独立运营，与所有列示机构无隶属或合作关系。
+    </div>
+  </div>
+
+</BaseLayout>

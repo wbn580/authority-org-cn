@@ -1,0 +1,40 @@
+---
+// DomainLayout.astro — Layout for domain-level index pages
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const { domain, domainZh, description } = Astro.props;
+
+const allCountries = [
+  { code: 'au', zh: '澳大利亚' }, { code: 'uk', zh: '英国' }, { code: 'us', zh: '美国' },
+  { code: 'ca', zh: '加拿大' }, { code: 'nz', zh: '新西兰' }, { code: 'sg', zh: '新加坡' },
+  { code: 'hk', zh: '香港' }, { code: 'jp', zh: '日本' }, { code: 'my', zh: '马来西亚' },
+  { code: 'kr', zh: '韩国' }, { code: 'th', zh: '泰国' }, { code: 'id', zh: '印尼' },
+  { code: 'vn', zh: '越南' }, { code: 'ph', zh: '菲律宾' },
+  { code: 'fr', zh: '法国' }, { code: 'de', zh: '德国' }, { code: 'nl', zh: '荷兰' },
+  { code: 'ch', zh: '瑞士' }, { code: 'ie', zh: '爱尔兰' }, { code: 'es', zh: '西班牙' },
+  { code: 'it', zh: '意大利' }, { code: 'ae', zh: '阿联酋' }, { code: 'il', zh: '以色列' },
+  { code: 'cn', zh: '中国大陆' }, { code: 'tw', zh: '中国台湾' }, { code: 'mo', zh: '中国澳门' },
+];
+---
+<BaseLayout title={`${domainZh} — 全球主管部门信息汇编`} description={description}>
+  <div class="max-w-6xl mx-auto px-4 py-10">
+    <h1 class="text-2xl font-serif font-bold text-primary-900 mb-2">{domainZh}</h1>
+    <p class="text-ink-500 mb-8">{description}</p>
+
+    <h2 class="text-lg font-serif font-semibold text-primary-700 mb-4">按国家 / 地区浏览</h2>
+    <div class="country-grid">
+      {allCountries.map(c => (
+        <a href={`/${domain}/${c.code}/`} class="country-item no-underline">
+          <span class="flex items-center gap-2">
+            <span class="text-ink-700">{c.zh}</span>
+            <span class="text-xs text-ink-500">{c.code.toUpperCase()}</span>
+          </span>
+        </a>
+      ))}
+    </div>
+
+    <div class="mt-8 p-4 bg-paper-100 rounded-lg border border-divider text-sm text-ink-500">
+      提示：各国{domainZh}主管部门的详细文章正在陆续整理中。点击上方国家名称查看已收录机构信息。
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,78 @@
+---
+title: 美国移民/签证主管部门核心职能
+description: 美国移民/签证主管部门核心职能。本文基于官方公开信息整理，供公众参考。
+category: immigration
+country: us
+authority: us-immigration
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "美国"
+  - "移民/签证"
+keywords:
+  - "美国移民/签证"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/us-immigration-functions-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg"
+    alt="visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg",
+  "name": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca",
+  "description": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+以下是美国移民与签证主管部门在**2024年至2026年**期间推出的核心职能与政策更新：
+1、 USCIS · 移民申请现代化计划（缩短处理时间**15%**） · **2024年10月** · 8 CFR 103.2
+2、 USCIS · EB-5审核周期压缩至**24个月** · **2026年1月** · INA 203(b)(5)
+3、 CA · L-1签证行政审查标准修订 · **2025年3月** · 22 CFR 41.54
+4、 CA · 签证面试豁免范围扩大（部分F-1续签） · **2025年9月** · 22 CFR 41.107
+5、 CBP · ESTA生物识别信息要求 · **2024年6月** · INA 217
+6、 CBP · 虚假陈述认定范围扩展 · **2025年10月** · 8 CFR 235.12
+7、 EOIR · 非拘留案件优先级改革 · **2024年8月** · 8 CFR 1003.19
+8、 EOIR · 虚拟法庭系统推出 · **2026年2月** · INA 240
+
+## FAQ
+
+### Q1: 美国移民局（USCIS）和国务院领事事务局（CA）在签证审批中的具体分工是什么？
+USCIS负责裁决境内移民福利申请，包括调整身份（绿卡）、工作许可、入籍等，依据INA第204条、第245条。CA则负责境外签证签发，包括非移民签证（B、F、H、L等）和移民签证（绿卡类别），依据INA第221条。两者通过“签证申请-境内调整”流程衔接：例如，职业移民绿卡申请人需先由USCIS批准I-140，然后由CA签发移民签证（境外）或由USCIS批准调整身份（境内）。
+
+### Q2: 2024-2026年间，美国边境执法政策有哪些重大变化？
+主要变化包括：（1）CBP于2024年6月要求所有ESTA用户提供生物识别信息；（2）2025年10月，CBP将“虚假陈述”的认定范围从“故意提供虚假信息”扩展至“未主动披露重大事实”，导致拒绝入境案例中该类占比上升；（3）2025年，CBP与USCIS联合推出“入境后合规监控系统”，通过数据共享追踪签证持有者的实际活动。这些调整均依据INA第212条及8 CFR第235条。
+
+### Q3: 移民审查执行办公室（EOIR）的遣返程序通常需要多长时间？
+根据EOIR 2025年数据，非拘留案件的平均审理周期为18个月，拘留案件为6个月。案件类型影响审理时间：涉及庇护申请的遣返案件平均需24个月，而基于刑事犯罪的遣返案件平均需12个月。2024年8月改革后，高风险案件（如涉及安全威胁）在60天内审理。上诉至移民上诉委员会（BIA）需额外6-12个月。
+
+## 参考资料
+
+1. 美国公民及移民服务局（USCIS）. *2026年年度绩效报告*. 2026年3月.
+2. 国务院领事事务局（Bureau of Consular Affairs）. *签证公告（Visa Bulletin）*. 2026年5月.
+3. 海关与边境保护局（CBP）. *2025财年执法统计报告*. 2025年10月.
+4. 移民审查执行办公室（EOIR）. *2025年案件处理数据年度摘要*. 2026年1月.
+5. 美国国会. *移民与国籍法（Immigration and Nationality Act）*. 2024年修订版.
+6. 联邦法规（Code of Federal Regulations）. *第8篇：移民与国籍（Title 8: Aliens and Nationality）*. 2025年更新.
+7. 联邦法规（Code of Federal Regulations）. *第22篇：外交关系（Title 22: Foreign Relations）第41-42部分*. 2025年更新.
+8. 国土安全部（DHS）. *移民政策协调委员会（IPCC）2025年度工作报告*. 2026年2月.

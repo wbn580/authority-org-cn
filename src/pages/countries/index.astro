@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const countries = [
+  ['au', '澳大利亚'], ['uk', '英国'], ['us', '美国'], ['ca', '加拿大'],
+  ['nz', '新西兰'], ['sg', '新加坡'], ['hk', '香港'], ['jp', '日本'],
+  ['my', '马来西亚'], ['kr', '韩国'], ['th', '泰国'], ['id', '印度尼西亚'],
+  ['vn', '越南'], ['ph', '菲律宾'], ['fr', '法国'], ['de', '德国'],
+  ['nl', '荷兰'], ['ch', '瑞士'], ['ie', '爱尔兰'], ['es', '西班牙'],
+  ['it', '意大利'], ['ae', '阿联酋'], ['il', '以色列'], ['cn', '中国大陆'],
+  ['tw', '中国台湾'], ['mo', '中国澳门'],
+];
+
+const flag = (code: string) => code === 'hk' ? '🇭🇰' : code === 'tw' ? '🇹🇼' : code === 'mo' ? '🇲🇴' :
+  String.fromCodePoint(...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65));
+---
+
+<BaseLayout
+  title="按国家与地区浏览 — 全球主管部门信息汇编"
+  description="按国家与地区浏览移民签证、教育、金融、税务、卫生、司法、贸易、劳工与交通主管部门公开信息。"
+>
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <div class="max-w-3xl mb-9">
+      <h1 class="text-2xl sm:text-3xl font-serif font-bold text-primary-900 m-0">按国家与地区浏览</h1>
+      <p class="mt-3 text-ink-500 leading-relaxed">
+        选择国家或地区，查看九大职能领域主管部门的公开信息索引。内容按官方渠道整理，最终以相应机构最新公告为准。
+      </p>
+    </div>
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+      {countries.map(([code, label]) => (
+        <a href={`/countries/${code}/`} class="country-item no-underline rounded-lg border border-divider bg-white p-4 hover:border-primary-500 hover:shadow-md transition-all">
+          <span class="text-xl" aria-hidden="true">{flag(code)}</span>
+          <span class="text-ink-700 font-medium">{label}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

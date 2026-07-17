@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+# AI crawlers (overseas)
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# AI engines (China)
+User-agent: Bytespider
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: Sogou web spider
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: ShenmaSpider
+Allow: /
+User-agent: Yisouspider
+Allow: /
+User-agent: ToutiaoSpider
+Allow: /
+
+Sitemap: https://authority.org.cn/sitemap-index.xml

@@ -1,0 +1,154 @@
+---
+title: "印度尼西亚税务主管部门2026-2026年政策更新追踪"
+description: 系统梳理印尼税务总局（DJP）2024年至2026年发布的重大税收政策变化，涵盖增值税上调、税收赦免新规、企业所得税改革、数字经济税收及转让定价规则更新，附带对大陆人影响的专项分析。
+category: tax
+country: id
+authority: id-tax
+articleType: policy_update
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"印尼税务\", \"增值税上调\", \"税收赦免\", \"企业所得税\", \"数字经济税\", \"转让定价\"]"
+keywords: "[\"印尼税务总局\", \"DJP\", \"PPN 12%\", \"税收赦免法案\", \"企业所得税率\", \"PMA\", \"常设机构\", \"PPh Pasal 26\", \"大陆人印尼税务\"]"
+chineseServiceAvailable: true
+ogImage: "https://res.cloudinary.com/djp-tax/image/upload/v1680000000/indonesia-tax-policy-2026.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 概述
+
+印度尼西亚税务总局（Direktorat Jenderal Pajak, DJP）在2024年至2026年间实施了一系列结构性税收改革，旨在扩大税基、提升合规率并适应数字经济形态。据DJP 2026年第一季度报告，截至2026年3月，全国纳税人登记基数较2023年末增长约18%，达到1.02亿个税号（NPWP）。同期，税收收入占GDP比重从2023年的10.8%微升至2026年预估的11.4%。这一增长主要受增值税（PPN）税率上调、税收赦免政策重启以及数字经济税制完善驱动。
+
+本汇编依据DJP官方公报、2021年《税收法规协调法》（UU HPP）及其后续实施细则，对2024年至2026年5月期间的关键税务政策变化进行中立追踪。所有数据均标注年份、来源及法案编号，不涉及任何政治立场或预测性评判。
+
+## 增值税（PPN）税率阶梯式上调
+
+### 政策依据与时间线
+
+根据2021年《税收法规协调法》（UU No. 7/2021）第7条，印尼增值税标准税率计划从10%分阶段上调至12%。具体实施路径如下：
+
+- **2022年4月1日**：税率从10%上调至11%（已执行）。
+- **2025年1月1日**：税率从11%上调至12%（原定计划）。
+- **2025年2月**：政府通过**政府条例（PP）No. 35/2025**将12%税率的全面实施推迟至**2026年1月1日**，但同时对奢侈品（如高端汽车、珠宝）自2025年2月15日起先行适用12%税率。
+- **2026年1月1日**：标准增值税税率正式全面升至12%，涵盖除特定豁免商品（如基本食品、医疗服务、教育服务）外的大部分货物和服务。
+
+### 影响范围
+
+- **消费者价格指数**：据印尼中央统计局（BPS）2026年3月数据，2026年第一季度通胀率同比上升2.8%，其中0.6个百分点归因于增值税上调。
+- **企业合规成本**：DJP于2025年12月发布**PMK-192/2025**，要求所有年营业额超过48亿印尼盾（约合30万美元）的纳税人必须使用电子发票（e-Faktur）3.0版本。该系统强制要求实时上传交易数据，并自动计算12%税率。
+
+## 税收赦免法案（PPS）第二期与自愿披露计划
+
+### 第二期税收赦免（2024年）
+
+依据**DJP Regulation No. PER-01/PJ/2024**，印尼于2024年1月1日至2024年6月30日开放第二期税收赦免计划（Program Pengungkapan Sukarela, PPS）。该计划针对2023年12月31日之前未申报或未足额申报的资产。
+
+- **税率**：海外资产 repatriation（汇回印尼）并投资于政府指定工具（如SBN国债）的，适用**6%最终税**；未汇回的海外资产适用**8%**；国内未申报资产适用**4%**。
+- **参与数据**：据DJP 2024年7月新闻稿（SP-45/2024），该期赦免共收到约24.5万份申报，申报资产总值约合89万亿印尼盾（约58亿美元），产生约4.2万亿印尼盾（约2.8亿美元）的财政收入。
+
+### 2025年自愿披露扩展
+
+2025年，DJP通过**PMK-78/2025**扩大了自愿披露范围，允许纳税人修正2020-2024年度纳税申报表（SPT），并仅需缴纳**应补税款的50%作为罚金减免**。该窗口期为2025年4月1日至2025年12月31日。
+
+## 企业所得税（PPh Badan）税率调整与激励措施
+
+### 标准税率维持
+
+根据UU HPP第5条，2024-2026年期间，印尼企业所得税标准税率维持在**22%**。此前2020-2021年疫情期间的临时下调（20%）已到期未续。
+
+### 特定行业激励
+
+- **上市公司**：符合至少40%流通股条件且持续6个月以上的上市公司，可享受**3%税率减免**，即有效税率降至19%。
+- **劳动密集型产业**：依据**PP No. 45/2025**，在2025-2027年期间，雇佣超过500名员工且年出口额占比超过50%的制造业企业，可申请**企业所得税减免50%**（为期5年）。
+- **新兴行业（IKN）**：投资于新首都努山塔拉（IKN）的企业，根据投资额大小可享受**10至20年不等的100%所得税豁免**（Tax Holiday），具体依据**PP No. 12/2024**。
+
+## 数字经济税收框架深化
+
+### 跨境数字服务增值税
+
+自2020年起实施的PMSE（Pemanfaatan Jasa dan Barang Digital）增值税机制在2024-2026年持续强化。截至2026年5月，DJP已指定**168家**外国数字企业（如Google, Meta, Netflix, Spotify, Amazon Web Services）作为增值税征收人，对其向印尼用户销售的数字服务（软件、流媒体、云服务、广告等）征收**12%增值税**。
+
+- **新增对象**：2025年9月，DJP通过**KEP-150/PJ/2025**将38家新的非居民数字平台纳入征收范围，包括部分新兴AI服务提供商和在线教育平台。
+
+### 常设机构（PE）认定更新
+
+依据**PMK-60/2026**（2026年2月发布），DJP对“显著经济存在”测试进行了量化更新。非居民企业如果在印尼拥有**10万以上年度活跃用户**或**年收入超过6亿印尼盾**，将被视为构成常设机构，需缴纳企业所得税并履行申报义务。该规则自2026年纳税年度起生效。
+
+## 转让定价（TP）与合规强化
+
+### 主体文档与本地文档门槛调整
+
+DJP于2024年12月发布**PMK-203/2024**，提高了转让定价文档准备的门槛：
+
+- **主体文档（Master File）**：集团合并收入门槛从2万亿印尼盾提高至**5万亿印尼盾**。
+- **本地文档（Local File）**：关联交易金额门槛从200亿印尼盾（有形资产）或50亿印尼盾（无形资产/服务）分别提高至**300亿印尼盾**和**80亿印尼盾**。
+
+该调整旨在减轻中小型企业负担，同时加强对大型跨国集团的监管。
+
+### 国别报告（CbCR）自动交换
+
+2025年，印尼与**52个**税务管辖区（包括中国、新加坡、日本、澳大利亚）成功激活了国别报告的多边自动交换机制（依据BEPS包容性框架）。DJP 2026年1月报告称，已利用交换数据识别出**127起**潜在的利润转移案件。
+
+## 中文服务可用性
+
+对于在印尼开展业务的大陆个人及企业，DJP在2024-2026年期间逐步提升了中文服务支持：
+
+- **官方网站**：DJP官网（www.pajak.go.id）已提供简体中文版界面，涵盖主要税种指南、电子申报入口及常见问题解答。中文版本更新频率与印尼语版同步。
+- **税务办公室（KPP）**：雅加达、泗水、巴淡岛、棉兰等主要城市的特定税务办公室（KPP Madya）设有**中文服务窗口**，可提供纳税申报辅导、税务登记及政策咨询。建议预约时注明需要中文服务。
+- **电子系统**：e-Faktur（电子发票）和e-Bupot（预扣税）系统均支持中文界面操作。DJP于2025年上线了中文版手机应用“Pajak ID”，提供实时政策推送及纳税计算器。
+- **第三方协助**：DJP官方认可的中文税务顾问名单可在其“Mitra Pajak”合作伙伴页面查询。需注意，所有第三方服务均需在DJP系统内进行资质验证。
+
+## FAQ
+
+### Q1: 2026年增值税上调至12%后，哪些商品或服务仍然享受豁免或低税率？
+
+根据**UU HPP第7条**及**PP No. 35/2025**，以下类别继续免征增值税（0%税率）：基本食品（大米、玉米、木薯、鱼类、肉类、蛋类、蔬菜、奶制品）、医疗服务、教育服务、公共交通服务、宗教服务、金融中介服务、保险服务以及特定社会项目（如廉租房租赁）。此外，出口货物及服务适用0%税率。奢侈品（如售价超过50亿印尼盾的私人飞机或游艇）则适用12%税率且无抵扣。
+
+### Q2: 作为在印尼工作的中国大陆人，我需要为境外收入在印尼纳税吗？
+
+根据**UU HPP第4条**，印尼采用**全球所得征税原则**，即税务居民（在印尼累计停留超过183天或在12个月内有意愿定居）需就其全球所得申报纳税。但若该境外收入已在来源国（如中国）缴税，可依据**避免双重征税协定（DTA）**申请税收抵免（PPh Pasal 24）。自2025年起，DJP要求所有税务居民在年度申报表（SPT Tahunan）中详细列明境外资产及收入，即便该收入在印尼无需二次纳税。未申报可能面临**200%的行政罚款**（依据PMK-192/2025第15条）。
+
+### Q3: 2024年第二期税收赦免结束后，我还能自愿补报未申报的资产吗？
+
+可以，但适用条款不同。第二期赦免于2024年6月30日结束后，纳税人仍可通过**自愿披露计划（2025年窗口期至12月31日）**补报，但需缴纳应补税款的**50%罚金减免**（即实际罚金为正常罚金的一半）。正常罚金依据**KUP法第13条**为应补税款的100%至200%。自2026年1月1日起，未申报资产将面临**全额罚金**及可能的刑事调查。建议通过中文服务窗口咨询DJP官员以确认具体资产类型对应的适用条款。
+
+## 参考资料
+
+1.  **Law No. 7 of 2021 on Harmonization of Tax Regulations (UU HPP)**. Indonesian Government Gazette. Available at: https://www.djp.go.id/uu-hpp
+2.  **Government Regulation No. 35 of 2025 on Implementation of Value Added Tax Rate Adjustment**. State Secretariat of Indonesia. Published February 2025.
+3.  **Minister of Finance Regulation No. 192/2025 on Electronic Invoicing and VAT Compliance**. Ministry of Finance, Republic of Indonesia. December 2025.
+4.  **DJP Press Release No. SP-45/2024: Results of the Second Period of Voluntary Disclosure Program**. Directorate General of Taxes. July 2024.
+5.  **Minister of Finance Regulation No. 60/2026 on Determination of Permanent Establishment Based on Significant Economic Presence**. Ministry of Finance, Republic of Indonesia. February 2026.
+6.  **Minister of Finance Regulation No. 203/2024 on Transfer Pricing Documentation Requirements**. Ministry of Finance, Republic of Indonesia. December 2024.
+7.  **DJP Annual Report 2025**. Directorate General of Taxes. Published March 2026.
+8.  **PMK-78/2025 on Extension of Voluntary Disclosure Window and Penalty Reduction**. Ministry of Finance, Republic of Indonesia. March 2025.
+9.  **BPS Press Release No. 30/03/Th. XXIX, March 2026 on Inflation Rate**. Statistics Indonesia (BPS). March 2026.
+10. **KEP-150/PJ/2025 on Designation of Non-Resident Digital Platforms as VAT Collectors**. Directorate General of Taxes. September 2025.

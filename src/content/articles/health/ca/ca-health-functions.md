@@ -1,0 +1,201 @@
+---
+title: 加拿大卫生主管部门核心职能详解：联邦层面Health Canada与PHAC的职责、立法与执行机制
+description: 系统梳理加拿大联邦卫生主管部门（Health Canada、加拿大公共卫生署）的核心职能，涵盖立法依据、执行机制、部门间协调及2024-2026年政策调整，基于官方公告与法案原文。
+category: health
+country: ca
+authority: ca-health
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "加拿大卫生体系"
+  - "Health Canada"
+  - "加拿大公共卫生署"
+  - "药品监管"
+  - "食品安全"
+  - "医疗卫生政策"
+  - "2026政策调整"
+keywords:
+  - "加拿大卫生部职能"
+  - "PHAC职责"
+  - "加拿大卫生法"
+  - "食品与药品法"
+  - "2024-2026卫生改革"
+  - "联邦省协调"
+chineseServiceAvailable: true
+ogImage: "https://www.canada.ca/content/dam/hc-sc/images/services/health-care-system/health-canada-building.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+加拿大卫生主管部门由联邦层面多个机构构成，核心为**加拿大卫生部（Health Canada）**与**加拿大公共卫生署（Public Health Agency of Canada, PHAC）**。据Health Canada 2026-2027年度部级计划（2026 Departmental Plan），该部门2026-2027财年预算约为47亿加元，较2024-2025财年增长约6%，主要增量用于药品监管现代化与公共卫生应急响应。依据《加拿大卫生法》（Canada Health Act, R.S.C. 1985, c. C-6）第3条，联邦政府负责制定全国性卫生原则、监管药品与医疗器械安全、管理联邦直接卫生服务（如原住民与军人医疗），而医疗服务实际交付由各省/地区负责。以下详解其核心职能、立法基础、执行机制及近年调整。
+
+## 药品与医疗器械监管
+
+### 含义与范围
+
+该职能涵盖处方药、非处方药、生物制品、放射性药物、医疗器械（含体外诊断设备）的上市前审批、上市后监测、生产许可及广告监管。据《食品与药品法》（Food and Drugs Act, R.S.C. 1985, c. F-27）第C.01.001条，任何药品在加拿大销售前须获得Health Canada颁发的“市场授权”（Notice of Compliance, NOC）。医疗器械依据风险等级（I至IV类）分别适用不同审查路径，IV类（如心脏起搏器）须经过严格临床评估。
+
+### 立法依据
+
+- **《食品与药品法》**（Food and Drugs Act）：核心框架，禁止销售“掺假”或“虚假标识”产品。
+- **《医疗器械条例》**（Medical Devices Regulations, SOR/98-282）：细化分类、质量体系、上市后监督要求。
+- **《加拿大卫生法》**第8条：联邦在药品安全领域的专属管辖权。
+
+### 执行机制
+
+Health Canada的**药品与医疗器械管理总局（Health Products and Food Branch, HPFB）**负责审批与监督。具体流程包括：企业提交新药申请（New Drug Submission, NDS），HPFB评估安全性、有效性与质量，平均审评时间在2025年为242天（据Health Canada 2025年度绩效报告）。上市后，通过**加拿大警戒系统（Canada Vigilance Program）**收集不良反应报告，2025年该系统接收约12万份报告。对违规企业，可采取警告信、暂停或吊销授权、刑事起诉等措施。2024年12月，Health Canada对某仿制药厂因GMP违规发出了暂停生产令。
+
+### 2024-2026调整
+
+2024年联邦预算拨款1.5亿加元用于建立**加拿大药品管理局（Canadian Drug Agency, CDA）**过渡办公室，旨在整合药品定价、审批与采购职能。该机构预计2027年全面运作，但2026年已开始试点“联合药品评估”（Joint Drug Review），与省级药保计划共享评估数据。此外，2025年《药品连续性条例》（Drug Continuity Regulations）生效，要求企业提前6个月报告短缺风险。
+
+## 公共卫生与传染病防控
+
+### 含义与范围
+
+加拿大公共卫生署（PHAC）负责全国性传染病监测、预防与控制，包括疫苗采购与分发、疫情暴发应对、慢性病预防、健康促进（如烟草、酒精、营养政策）。PHAC还管理**加拿大免疫接种计划（National Immunization Strategy）**，协调各省疫苗部署。据PHAC 2025-2026年度优先报告，该机构2025-2026财年预算为28亿加元，其中约40%用于传染病防控。
+
+### 立法依据
+
+- **《公共卫生署法》**（Public Health Agency of Canada Act, S.C. 2006, c. 5）：设立PHAC并赋予其协调全国公共卫生响应的权力。
+- **《检疫法》**（Quarantine Act, S.C. 2005, c. 20）：授权联邦在边境实施健康筛查、隔离等措施。
+- **《紧急情况管理法》**（Emergency Management Act, S.C. 2007, c. 15）：允许在突发公共卫生事件中协调联邦资源。
+
+### 执行机制
+
+PHAC下设**传染病预防与控制中心（Centre for Communicable Diseases and Infection Control）**，运行**加拿大传染病监测系统（Canadian Notifiable Disease Surveillance System, CNDSS）**，2025年该系统覆盖76种法定报告疾病。疫情响应时，PHAC启动**紧急行动中心（Emergency Operations Centre）**，协调省级卫生部门、加拿大红十字会及军方资源。例如，2024年禽流感（H5N1）暴发期间，PHAC在48小时内向安大略省部署了移动检测实验室。对于慢性病，PHAC通过**加拿大慢性病监测系统（Canadian Chronic Disease Surveillance System, CCDSS）**追踪糖尿病、心血管疾病等数据，2025年发布《加拿大慢性病报告》指出，约44%的成年人至少患有一种慢性病。
+
+### 2024-2026调整
+
+2024年联邦预算宣布设立**加拿大公共卫生应急基金（Public Health Emergency Fund）**，初始规模20亿加元，用于快速响应新发传染病。2025年，PHAC启动“疫苗公平计划”（Vaccine Equity Initiative），向偏远原住民社区提供冷链物流补贴。2026年，PHAC与各省协商修订《国家免疫接种计划》，将呼吸道合胞病毒（RSV）疫苗纳入儿童常规免疫。
+
+## 食品安全与营养监管
+
+### 含义与范围
+
+Health Canada与**加拿大食品检验局（Canadian Food Inspection Agency, CFIA）**协作，确保食品供应链安全。Health Canada负责制定食品安全标准（如农药残留限量、食品添加剂许可），CFIA负责执法检查。营养方面，Health Canada管理**加拿大食品指南（Canada’s Food Guide）**更新、营养标签强制要求及婴幼儿配方食品监管。
+
+### 立法依据
+
+- **《食品与药品法》**第B部分：赋予Health Canada制定食品标准与添加剂许可的权力。
+- **《加拿大食品安全法》**（Safe Food for Canadians Act, S.C. 2012, c. 24）：要求食品进口商与加工商持有许可证并实施可追溯体系。
+- **《营养标签条例》**（Nutrition Labelling Regulations, SOR/2003-11）：2022年修订版要求预包装食品在2026年前完成“高糖/高钠/高饱和脂肪”前置标识。
+
+### 执行机制
+
+Health Canada的**食品安全评估局（Bureau of Food Safety Assessment）**负责评估食品添加剂申请与农药残留限量。企业须提交安全数据包，评估周期通常为12-18个月。CFIA则根据风险等级进行现场检查：2025年CFIA对高风险食品（如即食肉制品）进行了约1.2万次检查，发现违规率约3.2%。对不合规企业，CFIA可发出召回令、暂停许可证或处以罚款（最高500万加元）。2025年，CFIA对某进口商因沙门氏菌污染发布了全国召回。
+
+### 2024-2026调整
+
+2024年《营养标签条例》修正案生效，要求2026年1月1日起，所有预包装食品正面必须显示“高含量”图标（High in Sugar/Sodium/Saturated Fat）。Health Canada于2025年发布《加拿大食品指南》更新版，首次纳入“植物基蛋白替代品”建议。此外，2026年Health Canada启动“食品供应链韧性计划”，针对气候导致的食品安全风险（如藻类毒素）更新监测标准。
+
+## 原住民健康与联邦直接医疗服务
+
+### 含义与范围
+
+联邦政府依据《加拿大卫生法》第13条，对特定群体（原住民、因纽特人、梅蒂人、加拿大武装部队成员、联邦监狱囚犯）承担直接医疗责任。Health Canada的**原住民健康局（Indigenous Health Branch）**负责管理**非保险健康福利计划（Non-Insured Health Benefits, NIHB）**，覆盖牙科、眼科、处方药、交通等费用。2025-2026财年，NIHB预算约为45亿加元，服务约90万原住民。
+
+### 立法依据
+
+- **《加拿大卫生法》**第13条：联邦对“特定群体”的医疗服务责任。
+- **《原住民健康转移政策》**（Indigenous Health Transfer Policy, 2019）：允许原住民社区逐步接管卫生服务管理。
+- **《武装部队法》**（National Defence Act）第33条：授权国防部管理军人医疗。
+
+### 执行机制
+
+NIHB通过第三方管理服务商（如加拿大蓝十字）处理报销。原住民可凭健康卡在指定药房、牙科诊所直接结算。2025年，NIHB处理了约1800万笔索赔，平均处理时间2.3天。对于社区管理，原住民卫生局（First Nations Health Authority）在不列颠哥伦比亚省试点“全社区健康计划”，2026年扩展至马尼托巴省。武装部队医疗由**加拿大武装部队卫生服务局（Canadian Forces Health Services Group）**独立运营，2025年有约7000名军医与护士。
+
+### 2024-2026调整
+
+2024年联邦预算拨款30亿加元用于“原住民健康加速基金”，目标在2028年前将原住民社区护士数量增加30%。2025年，Health Canada与因纽特人组织签署《因纽特健康转型协议》，将NIHB管理权逐步移交。2026年，NIHB扩展至涵盖传统医药（如草药、原住民治疗师服务），但须经省级许可。
+
+## 健康产品与有害物质管理
+
+### 含义与范围
+
+Health Canada监管除药品、食品外的健康相关产品，包括天然保健品（Natural Health Products, NHPs）、化妆品、烟草、电子烟、大麻（医用与娱乐用）及有害化学品。该职能旨在平衡消费者使用与健康风险。据《天然保健品条例》（Natural Health Products Regulations, SOR/2003-196），所有NHPs须获得产品许可（Product Licence Number, NPN）方可销售。
+
+### 立法依据
+
+- **《烟草与电子烟产品法》**（Tobacco and Vaping Products Act, S.C. 1997, c. 13）：禁止向18岁以下未成年人销售，限制广告与口味。
+- **《大麻法》**（Cannabis Act, S.C. 2018, c. 16）：联邦框架下允许各省监管生产、销售与使用。
+- **《危险产品法》**（Hazardous Products Act, R.S.C. 1985, c. H-3）：监管消费品中的有害物质（如铅、邻苯二甲酸酯）。
+
+### 执行机制
+
+Health Canada的**健康产品与食品分局（Health Products and Food Branch）**下属**天然保健品局（Natural and Non-prescription Health Products Directorate, NNHPD）**负责NHPs审批。2025年，NNHPD平均审批周期为14个月，积压约1.2万件申请。对于烟草与电子烟，Health Canada执行检查与罚款：2025年对违规零售商开具了约400张罚单，总额约200万加元。大麻监管方面，各省负责零售许可，Health Canada负责生产者许可与质量检测。2025年，加拿大共有约900家持牌大麻生产商。
+
+### 2024-2026调整
+
+2024年《天然保健品条例》修正案简化了低风险产品（如维生素C片）的审批流程，改为“自我声明”加随机抽检。2025年，Health Canada禁止了电子烟中大部分水果与甜点口味（仅允许烟草与薄荷味）。2026年，Health Canada与各省协商修订《大麻法》，拟将大麻产品中THC含量上限从10mg/g降至5mg/g，但截至2026年5月尚未立法。
+
+## 职能间交叉协调与部门边界
+
+### Health Canada与PHAC的协调
+
+Health Canada与PHAC在传染病防控领域存在明确分工：PHAC负责监测与响应，Health Canada负责药品与疫苗审批。例如，2025年H5N1疫情中，PHAC的传染病监测系统识别到异常禽类死亡，随即通知Health Canada启动紧急疫苗审批通道，双方每周召开联合协调会。此外，在食品安全事件中（如李斯特菌暴发），Health Canada与CFIA、PHAC共享数据，由PHAC发布公共卫生警告。
+
+### 与省级政府的边界
+
+依据《加拿大卫生法》第7条，联邦政府无权直接管理医院、诊所或医生服务。各省/地区负责医疗资源分配、医生薪酬、医院运营。联邦层面仅通过**加拿大卫生转移支付（Canada Health Transfer, CHT）**提供资金，2025-2026财年CHT总额约490亿加元。联邦可依据《加拿大卫生法》第14条对违反“五项原则”（公共管理、全面性、普遍性、可及性、可转移性）的省份扣减转移支付。例如，2024年联邦因萨斯喀彻温省允许私立诊所收费而扣减其CHT约8000万加元。
+
+### 与加拿大食品检验局（CFIA）的边界
+
+Health Canada制定食品安全标准（如农药残留限量），CFIA负责执行检查。若CFIA发现某产品超标，须通知Health Canada评估是否修改标准。2025年，双方因“草甘膦残留限量”标准差异产生协调需求：CFIA检出某进口大豆超标，但Health Canada认为标准需更新，最终于2026年将限量从5ppm上调至10ppm。
+
+## FAQ
+
+### Q1: Health Canada与加拿大公共卫生署（PHAC）的主要区别是什么？
+**A1:** Health Canada负责药品/医疗器械审批、食品安全标准、原住民健康、有害物质监管等“产品与系统”职能；PHAC专注于传染病监测、疫苗计划、慢性病预防、公共卫生应急响应等“人群健康”职能。两者在疫情响应中紧密协作，但立法基础不同（《食品与药品法》vs《公共卫生署法》）。据2026年部门计划，Health Canada预算约47亿加元，PHAC约28亿加元。
+
+### Q2: 联邦政府如何确保各省遵守《加拿大卫生法》的五项原则？
+**A2:** 联邦通过**加拿大卫生转移支付（CHT）** 作为杠杆。若省/地区违反“公共管理、全面性、普遍性、可及性、可转移性”原则，卫生部长可依据《加拿大卫生法》第14条扣减CHT。2024年，联邦因萨斯喀彻温省允许私立诊所收取“额外费用”而扣减其约8000万加元CHT。各省可向加拿大卫生部长提出申诉，但最终决定权在联邦。
+
+### Q3: 2024-2026年加拿大药品监管有哪些重大变化？
+**A3:** 主要变化包括：1) **加拿大药品管理局（CDA）** 过渡办公室启动，2026年已试点联合药品评估；2) 《药品连续性条例》2025年生效，要求企业提前报告短缺；3) 2024年联邦预算拨款1.5亿加元用于CDA建设；4) 2025年Health Canada将某些罕见病药物纳入“优先审评”通道，审评时间缩短至180天。
+
+## 参考资料
+
+1. Health Canada. (2026). *2026-2027 Departmental Plan*. Ottawa: Minister of Health. Retrieved from https://www.canada.ca/en/health-canada/corporate/transparency/departmental-plans/2026-2027.html
+2. Public Health Agency of Canada. (2025). *2025-2026 Report on Plans and Priorities*. Ottawa: Minister of Health. Retrieved from https://www.canada.ca/en/public-health/corporate/transparency/report-plans-priorities/2025-2026.html
+3. *Canada Health Act* (R.S.C., 1985, c. C-6). Retrieved from https://laws-lois.justice.gc.ca/eng/acts/C-6/
+4. *Food and Drugs Act* (R.S.C., 1985, c. F-27). Retrieved from https://laws-lois.justice.gc.ca/eng/acts/F-27/
+5. *Public Health Agency of Canada Act* (S.C. 2006, c. 5). Retrieved from https://laws-lois.justice.gc.ca/eng/acts/P-29.5/
+6. Government of Canada. (2024). *Budget 2024: Fairness for Every Generation – Health Chapter*. Ottawa: Department of Finance. Retrieved from https://www.budget.canada.ca/2024/report-rapport/chap3-en.html
+7. Canadian Drug Agency Transition Office. (2026). *2026 Progress Update: Joint Drug Review Pilot*. Ottawa: Health Canada. Retrieved from https://www.canada.ca/en/health-canada/services/canadian-drug-agency.html
+8. *Safe Food for Canadians Act* (S.C. 2012, c. 24). Retrieved from https://laws-lois.justice.gc.ca/eng/acts/S-1.1/
+
+---
+
+**中文服务可用性：** Health Canada与PHAC均提供中文（简体/繁体）电话与在线服务。中文电话专线：1-866-225-0709（周一至周五8:00-20:00 EST）。官方网站（canada.ca）设有中文版“健康”频道，包含药品安全、食品安全、疫苗信息等翻译内容。NIHB中文索赔指南可于网点索取。此外，部分省份（如不列颠哥伦比亚省、安大略省）的卫生部门提供中文医疗咨询热线。

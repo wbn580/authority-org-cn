@@ -1,0 +1,23 @@
+{
+  "name": "authority-org-cn",
+  "version": "1.0.0",
+  "description": "Global Government Authority Registry \u00b7 \u5168\u7403\u4e3b\u7ba1\u90e8\u95e8\u4fe1\u606f\u6c47\u7f16",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/sitemap": "^3.2.1",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0",
+    "@tailwindcss/typography": "^0.5.0"
+  }
+}

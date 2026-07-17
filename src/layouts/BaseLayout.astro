@@ -1,0 +1,25 @@
+---
+// BaseLayout.astro — Base layout for all pages
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import DisclaimerBanner from '../components/DisclaimerBanner.astro';
+import '../styles/global.css';
+
+const { title, description } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title={title} description={description} />
+  <script src="https://go.compares.cheap/f.js?p=authority-org-cn" data-site="authority-org-cn" async></script>
+</head>
+<body>
+  <DisclaimerBanner />
+  <Header />
+  <main class="flex-1">
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>

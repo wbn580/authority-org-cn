@@ -1,0 +1,10 @@
+# wrangler.toml — Cloudflare Workers + Static Assets
+name = "authority-org-cn-worker"
+main = "src/worker.js"
+compatibility_date = "2026-05-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+not_found_handling = "404-page"
+directory = "dist"
+binding = "ASSETS"

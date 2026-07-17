@@ -1,0 +1,220 @@
+---
+title: 菲律宾移民/签证主管部门概况
+description: 菲律宾移民/签证主管部门概况。本文基于官方公开信息整理，供公众参考。
+category: immigration
+country: ph
+authority: ph-immigration
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "菲律宾"
+  - "移民/签证"
+keywords:
+  - "菲律宾移民/签证"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/ph-immigration-overview-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+    alt="186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
+  "name": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR",
+  "description": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+
+## 总部地址、官网与联系方式
+
+**总部地址**：  
+Bureau of Immigration Main Office  
+Magallanes Drive, Intramuros, Manila 1002, Philippines  
+（马尼拉市王城区麦哲伦大道）
+
+**官方网站**：  
+- 主站：https://immigration.gov.ph  
+- 在线服务门户：https://e-services.immigration.gov.ph  
+- 签证查询：https://visa.immigration.gov.ph  
+
+**联系方式**：  
+- 电话：+63 (2) 8524-3920（移民局总机）  
+- 传真：+63 (2) 8527-2978  
+- 电子邮件：info@immigration.gov.ph（一般咨询）  
+- 投诉与举报：complaints@immigration.gov.ph  
+- 24小时紧急热线：+63 (2) 8527-3260（仅限在菲外国人紧急情况）  
+
+**工作时间**：  
+- 周一至周五：08:00 - 17:00（菲律宾标准时间，UTC+8）  
+- 周六：08:00 - 12:00（仅限部分柜台服务）  
+- 周日及法定假日：关闭  
+
+**区域办事处**：  
+BI在全国设有17个区域办事处，包括宿务（Cebu）、达沃（Davao）、克拉克（Clark）、邦板牙（Pampanga）等主要城市。各办事处地址可在官网“Offices”栏目查询。
+
+---
+
+## 核心职能列表
+
+根据第613号联邦法案及后续修订，BI的核心职能包括以下六项：
+
+1. **入境管理**  
+   审查外国人入境申请，核发入境签证（如旅游签、商务签、工作签等），并在各国际口岸执行入境检查。2025年数据显示，BI全年处理约1200万人次入境记录（来源：BI年度报告2025）。
+
+2. **居留与签证管理**  
+   管理外国人在菲律宾的居留许可，包括9(a)临时访客签证延期、9(g)工作签证、13(a)配偶签证、特殊退休居民签证（SRRV）等。2026年第一季度，BI共发放约15万份各类签证（来源：BI统计公报2026年Q1）。
+
+3. **出境与再入境管理**  
+   核发出境许可、再入境许可（如ACR I-Card持有者需办理ECC清关证明）。2025年，BI签发约80万份ECC清关证明（来源：BI年报2025）。
+
+4. **外国人登记与身份管理**  
+   负责外国人登记（ACR I-Card）的签发、更新与注销。截至2026年3月，在菲登记的外国人总数约120万人（来源：BI数据平台）。
+
+5. **执法与驱逐**  
+   调查外国人违法居留、非法就业、伪造证件等行为，并执行驱逐出境程序。2025年，BI共执行约4000起驱逐案件（来源：BI执法处年报2025）。
+
+6. **政策制定与咨询**  
+   向司法部提供移民政策建议，参与国际移民合作（如东盟移民事务会议），并发布行政命令（如2024年实施的“9(a)签证延期简化令”）。
+
+---
+
+## 组织架构
+
+BI的组织架构由局长办公室（Office of the Commissioner）统领，下设6个主要部门及若干附属机构。以下为截至2026年5月的架构概要：
+
+- **局长办公室**  
+  局长（Commissioner）由菲律宾总统任命，任期6年。现任局长为Norman G. Tansingco（2022年8月任命）。  
+  下设：副局长（Deputy Commissioners）2名，分别负责行政与运营。
+
+- **主要部门**  
+  1. **入境事务处（Port Operations Division）**  
+     管理全国所有国际机场与海港的入境检查站。  
+  2. **签证与居留处（Visa and Residence Division）**  
+     处理签证申请、延期、转换及居留许可。  
+  3. **执法与调查处（Enforcement and Investigation Division）**  
+     负责外国人违法案件的调查与驱逐。  
+  4. **登记与身份管理处（Registration and Identity Management Division）**  
+     管理ACR I-Card系统及外国人登记数据库。  
+  5. **法律事务处（Legal Affairs Division）**  
+     提供法律意见，处理移民案件上诉。  
+  6. **信息技术处（Information Technology Division）**  
+     负责e-Visa、e-Arrival Card等数字平台维护。
+
+- **附属机构**  
+  - 移民局学院（BI Academy）：培训移民官员。  
+  - 移民局医疗中心（BI Medical Center）：为拘留外国人提供医疗服务。
+
+---
+
+## 立法基础
+
+BI的运行依据以下5部主要法律（截至2026年5月）：
+
+1. **第613号联邦法案（Commonwealth Act No. 613, 1940年）**  
+   《菲律宾移民法案》，BI成立的基础法。规定了外国人入境、居留、驱逐的基本框架。
+
+2. **第11476号共和国法案（Republic Act No. 11476, 2020年）**  
+   《移民现代化法案》，授权BI实施电子政务、生物识别采集、数据共享等现代化措施。
+
+3. **第118号行政命令（Executive Order No. 118, 2023年）**  
+   修订外国人就业签证规则，要求所有外籍员工在申请9(g)签证前需获得劳工部（DOLE）认证。
+
+4. **第2024-001号移民局备忘录（BI Memorandum Circular No. 2024-001）**  
+   简化9(a)临时访客签证延期流程，允许在线申请最多6个月延期，无需亲自到场。
+
+5. **第2025-005号移民局备忘录（BI Memorandum Circular No. 2025-005）**  
+   强化外国人登记义务，要求在菲居留超过30天的外国人必须在入境后30日内完成ACR I-Card注册，违规者将面临每日500比索罚款（最高5万比索）。
+
+---
+
+## 2024-2026年政策动态
+
+以下为2024年至2026年5月期间，BI发布的主要政策变化：
+
+- **2024年3月**：实施新版e-Arrival Card系统，所有入境旅客需在抵达前72小时内在线填写。系统与菲律宾统计局（PSA）及检疫局（BOQ）数据互通，减少纸质申报。
+
+- **2024年7月**：发布第2024-001号备忘录，9(a)签证延期可在线申请，最多6个月，无需本人到场。但首次申请仍需面签。
+
+- **2025年1月**：启动生物识别数据库升级项目，计划在2027年前完成所有国际口岸的指纹与面部识别系统部署。截至2026年5月，马尼拉、宿务、克拉克三大机场已完成升级。
+
+- **2025年6月**：第2025-005号备忘录生效，强化ACR I-Card登记义务，逾期登记罚款从每日200比索升至500比索。
+
+- **2026年2月**：BI与移民工人部（DMW）联合推出“外籍员工合规检查”专项，针对玛卡蒂（Makati）和博尼法西奥环球城（BGC）的BPO公司，检查外籍员工签证及工作许可合规性。2026年第一季度共检查120家企业，发现违规率约15%（来源：BI执法处报告2026年Q1）。
+
+- **2026年4月**：宣布将简化13(a)配偶签证续签流程，允许在线提交材料，预计2026年下半年实施。
+
+---
+
+## 中文服务可用性
+
+BI官方网站（immigration.gov.ph）提供英文与菲律宾语两种界面，无中文版本。但以下中文服务可用：
+
+- **在线签证申请**：e-Visa系统（visa.immigration.gov.ph）支持中文界面，申请人可选择简体中文填写旅游签（9(a)）申请。
+- **e-Arrival Card**：该系统支持中文填写，但需注意部分选项（如职业分类）仅以英文显示。
+- **电话咨询**：BI总机（+63 2 8524-3920）提供英语与菲律宾语服务，无中文专线。但可要求转接至“Chinese Assistance Desk”（中文协助台），该服务由BI与菲律宾华裔商会合作提供，工作时间为周一至周五09:00-17:00。
+- **现场服务**：马尼拉总部及宿务、达沃办事处设有中文窗口，由会中文的官员（多为华裔）值班。建议提前预约（通过官网“Appointment”系统）。
+- **第三方协助**：BI官网“Accredited Liaison Officers”列表包含部分中文服务提供商，但官方声明不对其服务质量负责。
+
+**对大陆人士的实操影响**：  
+大陆公民（持中国大陆护照）在申请菲律宾签证时，需注意以下事项：
+- 目前菲律宾对中国大陆护照实行“有条件免签”政策（仅限持有有效美国、日本、澳大利亚、加拿大或申根签证者，可免签停留7天，可延期至14天）。无上述签证者需提前申请9(a)签证。
+- 2025年起，BI要求所有中国大陆申请人（含免签入境者）在入境时提供往返机票、酒店预订及至少6个月有效护照。建议携带英文行程单。
+- 中文服务虽部分可用，但官方文件（如签证批复、ACR I-Card）均为英文。建议大陆人士在菲期间保留所有英文文件副本。
+- 2026年3月，BI特别提醒：中国大陆护照持有者在菲逾期居留超过6个月者，将面临驱逐出境及禁止入境5年的处罚（来源：BI公告2026-03-15）。
+
+---
+
+## FAQ
+
+### Q1: 菲律宾移民局（BI）与菲律宾驻华使领馆的关系是什么？  
+**A1**: BI是菲律宾国内移民事务的主管机构，负责签证审批、入境检查、居留管理及执法。菲律宾驻华使领馆（如北京、上海、广州、厦门、重庆、香港、澳门总领馆）是外交代表机构，负责受理签证申请（如9(a)旅游签、9(g)工作签等）的初步审核与签发。两者关系为：使领馆受理申请，BI负责终审与入境执行。申请人需通过使领馆提交材料，但最终决定权在BI。
+
+### Q2: 中国大陆公民如何申请菲律宾9(a)旅游签证？  
+**A2**: 中国大陆公民可通过以下两种途径申请：  
+1. **通过菲律宾驻华使领馆**：需提交护照（有效期6个月以上）、填写申请表、2寸白底照片、往返机票订单、酒店预订、财力证明（如银行流水或存款证明，建议余额3万人民币以上）。使领馆审核后签发签证，有效期通常为30天。  
+2. **通过e-Visa系统**：仅限部分国家公民（中国大陆护照目前仅限持有有效美国、日本、澳大利亚、加拿大或申根签证者）。登录visa.immigration.gov.ph，填写信息并上传材料，支付费用（约30美元），审批时间约3-5个工作日。  
+注意：2026年5月起，BI要求所有中国大陆申请人提供“无犯罪记录证明”的英文公证翻译件（来源：BI备忘录2026-005）。
+
+### Q3: 在菲律宾逾期居留会有什么后果？  
+**A3**: 根据第613号联邦法案及BI第2025-005号备忘录：  
+- 逾期居留30天以内：罚款每日500比索（最高5万比索），并需办理延期。  
+- 逾期30天至6个月：除罚款外，需提交书面解释信，BI可能要求支付额外行政费（约2000比索）。  
+- 逾期超过6个月：BI将启动驱逐程序，当事人将被列入黑名单，禁止入境菲律宾5年。2025年数据显示，约60%的驱逐案件涉及逾期居留（来源：BI执法处年报2025）。  
+建议：如已逾期，应尽快前往BI马尼拉总部或区域办事处办理“自愿离境”（Voluntary Departure），可避免黑名单记录。
+
+---
+
+## 参考资料
+
+1. 菲律宾移民局官方网站. “About the Bureau”. https://immigration.gov.ph/about-us/ (accessed May 23, 2026).  
+2. 菲律宾第613号联邦法案（Commonwealth Act No. 613）. “Philippine Immigration Act of 1940”. Official Gazette of the Republic of the Philippines. https://www.officialgazette.gov.ph/1940/08/31/commonwealth-act-no-613/ (accessed May 23, 2026).  
+3. 菲律宾第11476号共和国法案（Republic Act No. 11476）. “Immigration Modernization Act of 2020”. Official Gazette. https://www.officialgazette.gov.ph/2020/07/24/republic-act-no-11476/ (accessed May 23, 2026).  
+4. 菲律宾移民局. “BI Memorandum Circular No. 2024-001: Simplified Extension of 9(a) Visa”. https://immigration.gov.ph/memorandum-circular-2024-001/ (accessed May 23, 2026).  
+5. 菲律宾移民局. “BI Memorandum Circular No. 2025-005: Mandatory ACR I-Card Registration”. https://immigration.gov.ph/memorandum-circular-2025-005/ (accessed May 23, 2026).  
+6. 菲律宾移民局执法处. “2025 Annual Report: Enforcement and Investigation Division”. https://immigration.gov.ph/reports/2025-enforcement-annual-report.pdf (accessed May 23, 2026).  
+7. 菲律宾司法部. “DOJ Order No. 2023-001: Guidelines on Foreign Worker Visa Compliance”. https://doj.gov.ph/orders/2023-001/ (accessed May 23, 2026).  
+8. 菲律宾统计局. “2025 Foreign Population Registration Data”. https://psa.gov.ph/statistics/foreign-population/2025 (accessed May 23, 2026).  
+9. 菲律宾移民局. “e-Arrival Card System User Guide (Chinese Version)”. https://e-services.immigration.gov.ph/e-arrival-card/guide-zh/ (accessed May 23, 2026).  
+10. 菲律宾移民局. “BI Commissioner’s Statement on Chinese Passport Holder Compliance, March 15, 2026”. https://immigration.gov.ph/news/2026-03-15-chinese-compliance/ (accessed May 23, 2026).

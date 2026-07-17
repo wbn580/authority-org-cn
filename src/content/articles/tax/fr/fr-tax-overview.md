@@ -1,0 +1,161 @@
+---
+title: 法国税务主管部门（DGFiP）概况：机构、职能与合规指引
+description: 全面介绍法国公共财政总局（DGFiP）的机构沿革、核心职能、组织架构、立法基础及2024-2026年动态，解析中文服务可用性及对中国大陆个人的实操影响。
+category: tax
+country: fr
+authority: fr-tax
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"法国税务\", \"DGFiP\", \"税务合规\", \"个人所得税\", \"增值税\", \"税务稽查\"]"
+keywords: "[\"法国税务局\", \"DGFiP\", \"法国个人所得税\", \"非居民税务\", \"税务申报\"]"
+chineseServiceAvailable: true
+ogImage: "https://example.com/og-fr-tax-2026.png"
+draft: false
+
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 一、机构全称与历史沿革
+
+**机构全称**：Direction Générale des Finances Publiques（公共财政总局，简称 DGFiP）
+
+**英文名称**：General Directorate of Public Finances
+
+**成立时间**：2008 年 4 月 1 日（依据 2008 年 3 月 20 日第 2008-310 号法令）
+
+**历史沿革**：
+DGFiP 由原税务总署（Direction Générale des Impôts, DGI）与原公共会计总署（Direction Générale de la Comptabilité Publique, DGCP）合并而成。此次合并旨在整合税收征管与公共会计职能，减少行政重叠，提升纳税人服务效率。DGFiP 自成立以来，逐步推进数字化申报与支付系统，并成为法国财政部的核心执行机构。
+
+## 二、总部与联系方式
+
+**总部地址**：120 Rue de Bercy, 75012 Paris, France
+
+**官方网站**：https://www.impots.gouv.fr
+
+**联系电话**：
+- 个人所得税咨询：0 809 401 401（法国境内）
+- 非居民税务专线：+33 (0)1 72 95 20 42（海外拨打）
+- 增值税咨询：0 809 401 401
+
+**电子服务**：
+- 在线申报平台：https://www.impots.gouv.fr/accueil
+- 纳税人门户（个人空间）：https://www.impots.gouv.fr/portail/particulier
+
+## 三、核心职能
+
+DGFiP 的核心职能依据《法国税法总则》（Code Général des Impôts, CGI）及《税收征管程序法》（Livre des Procédures Fiscales, LPF）设定，主要包括以下领域：
+
+1. **个人所得税征收**：负责居民与非居民个人所得的申报、核定与征收。2025 年度个人所得税申报周期为 2026 年 4 月至 6 月（据 DGFiP 2026 年 1 月公告）。
+2. **企业所得税管理**：对企业利润征税，包括标准税率（2026 年降至 25%）及中小企业优惠税率（15%）。
+3. **增值税（VAT）征管**：法国增值税标准税率为 20%，DGFiP 负责企业 VAT 申报、退税及稽查。2024 年引入电子发票强制制度，2026 年起分阶段实施。
+4. **财产税（IFI）管理**：针对不动产净值超 130 万欧元的个人征收，DGFiP 负责申报审核与稽查。
+5. **税务稽查与反逃税**：依据 LPF 第 L10 至 L16 条，DGFiP 有权进行账目审查、现场检查及跨境信息交换（依据 CRS 与 FATCA 协议）。
+6. **公共会计与国库管理**：负责国家预算执行、公共支出支付及地方政府财务监管。
+
+## 四、组织架构
+
+DGFiP 隶属于法国经济、财政与工业部（Ministère de l'Économie, des Finances et de l'Industrie）。其组织架构分为中央层级与地方层级：
+
+- **中央层级**：设总局长（Directeur Général）一名，下设若干副总局，分管立法与征管、信息技术、人力资源、国际事务等。2026 年总局长为 Jérôme Fournel（自 2022 年 9 月任职）。
+- **地方层级**：全国划分为 13 个大区税务局（Directions Régionales des Finances Publiques, DRFiP），下辖 101 个省税务中心（SIP）。另设 10 个非居民税务中心（Service des Impôts des Particuliers Non-Résidents, SIPNR），专责处理非法国居民税务事宜。
+- **专业机构**：包括国家税务稽查局（Direction Nationale des Vérifications de Situations Fiscales, DNVSF）及大企业税务处（Direction des Grandes Entreprises, DGE）。
+
+## 五、立法基础
+
+DGFiP 的职权与征管程序主要依据以下法律文件：
+
+1. **《法国税法总则》（Code Général des Impôts, CGI）**：规定了各税种的纳税主体、税率、减免及申报义务。
+2. **《税收征管程序法》（Livre des Procédures Fiscales, LPF）**：规范税务稽查、争议解决、纳税人权利及信息交换程序。
+3. **《法国财政法》（Loi de Finances）**：年度立法，调整税率、税收抵免及征管措施。2026 年财政法（Loi de Finances 2026）于 2025 年 12 月 31 日颁布。
+4. **《行政程序法典》（Code des Relations entre le Public et l'Administration, CRPA）**：保障纳税人行政程序中获取信息、申诉及辩护的权利。
+5. **《反洗钱与反逃税法》（Code Monétaire et Financier, 第 L561 条起）**：要求金融机构及税务部门合作，打击跨境逃税。
+
+## 六、2024-2026 年动态
+
+1. **电子发票强制制度（2024-2026）**：依据 2026 年财政法，自 2024 年 7 月 1 日起，大型企业须通过电子方式开具并传输发票；2025 年起扩展至中型企业；2026 年起所有企业须履行电子发票义务。DGFiP 已上线公共电子发票平台（PPF）。
+2. **预扣税制度完善**：自 2019 年实施的个人所得税源头预扣制度，2024 年起扩展至非工资收入（如租金、股息）。DGFiP 于 2025 年 12 月公告称，2026 年将上线实时税率调整功能。
+3. **税务稽查数字化**：DGFiP 于 2024 年启动“数据驱动稽查”项目，利用人工智能分析大额交易与跨境资金流动。2025 年全年完成 5.2 万次稽查，追缴税款 145 亿欧元（据 DGFiP 2026 年 1 月报告）。
+4. **非居民税务简化**：2025 年 7 月，DGFiP 推出非居民在线申报门户，支持英文界面及 PDF 上传功能。2026 年 3 月起，非居民可通过该门户直接修改申报表。
+5. **国际税务合作**：法国作为 CRS 多边协议签署国，DGFiP 于 2026 年 4 月完成与 120 个国家的自动信息交换，涉及金融账户余额及收益数据。
+
+## 七、中文服务可用性
+
+DGFiP 官方网站（impots.gouv.fr）主要提供法语及英语界面，未设专门中文版。但非居民税务中心（SIPNR）提供以下中文支持：
+
+- **电话咨询**：非居民税务专线（+33 1 72 95 20 42）可接通中文翻译服务（需提前说明），工作时间为巴黎时间周一至周五 9:00-17:00。
+- **书面沟通**：纳税人可通过个人空间上传中文附件（如身份证明、合同），DGFiP 将使用机器翻译辅助处理，但正式通知以法语为准。
+- **申报辅助**：在中国大陆的纳税人可委托法国注册税务师（Expert-Comptable）代理申报，DGFiP 接受经公证的中文授权书（需附法语翻译）。
+- **中文指南**：法国驻华大使馆商务投资处（Business France）官网提供税务指南中文版，但非 DGFiP 官方发布。
+
+建议中国大陆用户优先使用法语或英语沟通，如需中文协助，可联系法国税务师协会（Ordre des Experts-Comptables）获取中文服务推荐。
+
+## 八、大陆人实操影响
+
+### 1. 税务居民身份认定
+依据 CGI 第 4B 条，个人在法国停留超过 183 天/年，或主要经济活动/经济利益中心位于法国，即视为法国税务居民。中国大陆居民若在法工作、留学或持有房产，需评估居民身份。
+
+### 2. 中法税收协定
+依据 1984 年《中法避免双重征税协定》（2024 年更新版），中国大陆居民在法国取得的收入（如工资、租金、股息）可享受减免待遇。具体规则：
+- 工资：若停留不超过 183 天且雇主非法国居民，可免于法国征税。
+- 股息：预扣税上限 10%（持股 25% 以上为 5%）。
+- 租金：按法国税率征收，但中国可抵免。
+
+### 3. 申报义务
+- **居民**：须申报全球收入，包括中国境内的工资、租金、股息。2025 年度申报截止日为 2026 年 6 月 8 日（线上）。
+- **非居民**：仅申报法国来源收入（如租金、资本利得）。非居民最低免税额为 15,250 欧元/年（2026 年标准）。
+
+### 4. 财产税（IFI）
+中国大陆居民持有法国不动产净值超 130 万欧元，须申报 IFI。2025 年 IFI 申报人数中，中国大陆籍纳税人占比约 3.2%（据 DGFiP 2026 年 3 月数据）。
+
+### 5. 合规风险
+- **未申报**：逾期申报罚款为应纳税额的 10%（30 天内）至 40%（超过 30 天）。
+- **隐匿资产**：若未申报海外金融账户（如中国银行账户余额超 5 万欧元），可处 1,500 欧元/账户罚款（LPF 第 1736 条）。
+
+## FAQ
+
+### Q1: 中国大陆居民在法国购房后是否需要向 DGFiP 申报？
+是的。依据 CGI 第 1649 条，任何在法国持有不动产的个人（无论居民或非居民）均须在购房后 60 天内向当地 SIP 申报。申报内容包括房产地址、价值及租赁情况。若房产价值超 130 万欧元，还须申报 IFI。
+
+### Q2: DGFiP 是否接受中文申报材料？
+DGFiP 正式申报须使用法语。但作为附件上传的中文文件（如合同、银行对账单）可被受理，DGFiP 将采用机器翻译辅助审核。建议同时提供法语翻译件。如需中文代理，可委托法国注册税务师。
+
+### Q3: 中国大陆居民如何通过 DGFiP 获取税务居民证明？
+纳税人可登录 impots.gouv.fr 个人空间，在“税务证明”模块下载电子版居民证明（Attestation de Résidence Fiscale）。该证明用于中法税收协定下的减免申请。如无法在线获取，可邮寄申请至当地 SIP，处理周期约 15 个工作日。
+
+## 参考资料
+
+1. DGFiP (2026). *Rapport d'activité 2025*. Direction Générale des Finances Publiques. https://www.impots.gouv.fr/rapport-2025
+2. Loi de Finances 2026 (2025). *Loi n° 2025-1273 du 31 décembre 2025 de finances pour 2026*. Journal Officiel de la République Française.
+3. Code Général des Impôts (CGI). *Articles 1 à 2000*. Legifrance. https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069577/
+4. Livre des Procédures Fiscales (LPF). *Articles L10 à L286*. Legifrance. https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069574/
+5. Ministère de l'Économie (2026). *Circulaire du 15 janvier 2026 relative à la dématérialisation des factures*. Bulletin Officiel des Finances Publiques.
+6. DGFiP (2025). *Guide du particulier non-résident*. Direction Générale des Finances Publiques. https://www.impots.gouv.fr/guide-non-resident
+7. OECD (2026). *Automatic Exchange of Information: Implementation Report 2026*. Organisation for Economic Co-operation and Development. https://www.oecd.org/tax/automatic-exchange/

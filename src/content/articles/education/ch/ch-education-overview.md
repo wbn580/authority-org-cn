@@ -1,0 +1,170 @@
+---
+title: 瑞士联邦教育主管部门概况：机构、职能与政策框架（2026年更新）
+description: 全面梳理瑞士联邦教育、科研与创新秘书处（SERI）及州教育局长会议（EDK）的机构沿革、核心职能、立法基础、2024-2026年动态及中文服务可用性，为大陆人士提供跨境教育事务的实操参考。
+category: education
+country: ch
+authority: ch-education
+articleType: overview
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags:
+  - "瑞士教育"
+  - "SERI"
+  - "EDK"
+  - "联邦教育政策"
+  - "跨境教育"
+  - "中文服务"
+keywords:
+  - "瑞士联邦教育主管部门"
+  - "SERI 职能"
+  - "EDK 组织架构"
+  - "瑞士教育立法基础"
+  - "瑞士教育2026动态"
+  - "瑞士中文教育服务"
+  - "大陆人士瑞士教育"
+chineseServiceAvailable: true
+ogImage: "/images/faq-nz-labor-2026.jpg"
+draft: false
+
+---
+
+
+## 引言
+
+瑞士联邦教育体系由联邦、州及地方三级协同治理。截至2026年，联邦层面主管教育的核心机构为**联邦教育、科研与创新秘书处（State Secretariat for Education, Research and Innovation, SERI）**，隶属于联邦内政部（FDHA）。据SERI 2026年度报告，该机构直接管理约37亿瑞士法郎（约合40亿美元）的年度预算，覆盖高等教育、职业教育和基础研究资助。同时，负责协调各州教育政策的**瑞士州教育局长会议（Swiss Conference of Cantonal Ministers of Education, EDK）** 作为跨州协调机构，在义务教育及中等教育阶段发挥关键作用。依据《联邦宪法》第61a条，瑞士教育体系强调“联邦统一性与各州多样性”相结合，其中SERI负责高等教育与科研的联邦层面统筹，EDK负责义务教育至高中阶段的标准化协调。
+
+## 机构全称与历史沿革
+
+### 全称与简称
+
+- **中文全称**：瑞士联邦教育、科研与创新秘书处（简称：SERI）
+- **英文全称**：State Secretariat for Education, Research and Innovation（简称：SERI）
+- **德文全称**：Staatssekretariat für Bildung, Forschung und Innovation（简称：SBFI）
+- **法文全称**：Secrétariat d'État à la formation, à la recherche et à l'innovation（简称：SEFRI）
+
+另需提及**瑞士州教育局长会议（EDK）**，其英文全称为Swiss Conference of Cantonal Ministers of Education，是各州教育主管的常设协调机构。
+
+### 成立时间与历史沿革
+
+SERI成立于2013年1月1日，由原联邦教育与研究秘书处（SER，成立于1990年）与联邦职业教育与技术办公室（BBT，成立于2005年）合并而成。此次合并旨在整合联邦层面分散的教育、科研与创新治理职能，形成统一的对口机构。据联邦内政部2012年组织法修订案，合并后SERI直接向联邦内政部长汇报，并承担原SER和BBT的全部职责。
+
+EDK的历史更为悠久，成立于1897年，最初作为各州教育部长非正式协商平台。1970年通过《州间教育合作协议》获得正式法律地位，成为协调各州义务教育、高中毕业会考（Maturität）及教师培训标准的法定机构。截至2026年，EDK涵盖全部26个州，并设有常设秘书处，总部位于伯尔尼。
+
+## 总部与联系方式
+
+### SERI
+
+- **总部地址**：Einsteinstrasse 2, 3003 Bern, Switzerland
+- **官网**：[www.sbfi.admin.ch](https://www.sbfi.admin.ch)（支持德、法、意、英四种语言）
+- **联系电话**：+41 58 462 21 29（国际事务咨询专线）
+- **电子邮件**：info@sbfi.admin.ch（一般咨询）；international@sbfi.admin.ch（国际事务）
+- **办公时间**：周一至周五 09:00–12:00, 14:00–16:30（瑞士时间，UTC+1/+2）
+
+### EDK
+
+- **总部地址**：Haus der Kantone, Speichergasse 6, 3001 Bern, Switzerland
+- **官网**：[www.edk.ch](https://www.edk.ch)（支持德、法、意、英四种语言）
+- **联系电话**：+41 31 309 51 11
+- **电子邮件**：edk@edk.ch
+- **办公时间**：周一至周五 09:00–17:00（瑞士时间）
+
+## 核心职能列表
+
+依据《联邦高等教育促进与协调法》（HEdA）第2条及《联邦职业教育与培训法》（VPETA）第4条，SERI的核心职能包括：
+
+1. **高等教育政策制定与协调**：负责联邦层面大学、应用科学大学及师范大学的认证、资助与质量保障，协调各州高等教育机构间的学分互认（依据HEdA第8条）。
+2. **职业教育与培训管理**：监督联邦职业教育与培训体系，包括学徒制、职业高中及高等专业学院（HF）的课程标准与考试认证（依据VPETA第12条）。
+3. **科研与创新资助**：管理瑞士国家科学基金会（SNSF）及瑞士创新促进机构（Innosuisse）的联邦拨款，年度预算约22亿瑞士法郎（据SERI 2026年预算报告）。
+4. **国际教育合作**：代表瑞士参与欧盟“伊拉斯谟+”计划（2025年后瑞士作为第三国参与）及OECD教育指标项目（PISA）。
+5. **教育统计与监测**：发布年度《瑞士教育报告》（Bildungsbericht），追踪各级教育入学率、毕业率及就业率数据。
+
+EDK的核心职能包括：
+1. **义务教育课程标准协调**：制定各州通用的义务教育课程框架（Lehrplan 21），涵盖德语区、法语区及意大利语区差异。
+2. **高中毕业会考（Maturität）标准化**：统一全国高中毕业考试标准，确保大学入学资格互认。
+3. **教师培训与资格互认**：协调各州教师教育机构认证，促进教师跨州流动。
+
+## 组织架构
+
+### SERI
+
+SERI设有一位国务秘书（Staatssekretär），由联邦委员会任命，任期四年。截至2026年5月，现任国务秘书为Dr. Martina Hirayama（自2020年起任职）。下设四个主要司局：
+
+- **高等教育司**：负责大学、应用科学大学及师范大学的联邦资助与认证，下设高等教育政策处、质量保障处与国际合作处。
+- **职业教育与培训司**：管理联邦职业教育与培训体系，下设职业资格认证处、学徒制协调处及高等专业学院处。
+- **科研与创新司**：统筹国家科研基金及创新项目，下设科研政策处、创新促进处与基础设施处。
+- **中央服务司**：负责财务、人力资源、信息技术及法律事务。
+
+SERI编制约450名全职员工（据2026年联邦人事报告），其中约30%从事国际事务协调。
+
+### EDK
+
+EDK设有一名主席（由各州教育部长轮流担任，任期一年）及常设秘书处。秘书处由一名秘书长领导，下设三个部门：
+
+- **义务教育与中等教育协调部**：负责Lehrplan 21实施及Maturität考试标准。
+- **高等教育与职业教育协调部**：协调各州与联邦层面的高等教育及职业教育政策衔接。
+- **国际事务与统计部**：参与OECD及UNESCO教育指标项目，发布年度《瑞士教育指标》报告。
+
+EDK秘书处编制约60名全职员工。
+
+## 立法基础
+
+瑞士教育治理主要依据以下5部核心法律：
+
+1. **《联邦宪法》（Bundesverfassung）第61a–69条**：确立联邦与各州在教育领域的分权原则。第61a条要求联邦与各州共同确保教育质量与互通性；第63条授权联邦管理高等教育；第66条明确职业教育与培训的联邦责任。
+2. **《联邦高等教育促进与协调法》（Bundesgesetz über die Förderung der Hochschulen und die Koordination im Hochschulbereich, HEdA）**：2015年生效，2025年修订。该法规定联邦对大学、应用科学大学及师范大学的认证标准（第8条）、资助机制（第15条）及学分互认框架（第20条）。2025年修订版新增关于国际学生学费差异化条款（第32a条），允许各州对非瑞士籍学生设定不同学费标准。
+3. **《联邦职业教育与培训法》（Bundesgesetz über die Berufsbildung, BBG/VPETA）**：2018年全面修订，2024年生效版本。该法规范学徒制（第11条）、职业高中课程（第18条）及高等专业学院认证（第25条）。2024年版本新增关于数字化技能模块的强制要求（第14a条）。
+4. **《联邦科研与创新促进法》（Bundesgesetz über die Förderung der Forschung und der Innovation, FIFG）**：2013年生效，2022年修订。该法确立瑞士国家科学基金会（SNSF）及Innosuisse的法律地位，规定联邦科研经费分配原则（第5条）。
+5. **《州间教育合作协议》（Interkantonale Vereinbarung über die Zusammenarbeit im Bildungsbereich, EDK-Vereinbarung）**：1970年签署，2020年修订。该协议是EDK运作的法律基础，明确各州在义务教育标准（第3条）、高中毕业会考互认（第7条）及教师资格互认（第10条）方面的义务。
+
+## 2024–2026年动态
+
+### 2024年
+
+- **VPETA修订版生效**：2024年1月1日，修订后的《联邦职业教育与培训法》正式实施，要求所有联邦认证的职业教育课程纳入数字化技能模块（第14a条）。据SERI 2024年职业教育监测报告，约85%的学徒制项目在2024年底前完成课程更新。
+- **HEdA修订草案公开**：2024年3月，联邦内政部发布HEdA修订草案，提议允许各州对非瑞士籍学生收取差异化学费。该草案引发广泛讨论，最终于2025年通过。
+
+### 2025年
+
+- **HEdA修订版通过**：2025年6月，瑞士联邦议会通过HEdA修订案，自2026年1月1日起生效。新增第32a条明确：各州可对非瑞士籍学生设定最高为瑞士籍学生学费3倍的收费标准。该条款不适用于持有瑞士长期居留许可（C Permit）的留学生。
+- **伊拉斯谟+第三国参与模式确立**：2025年9月，瑞士与欧盟签署协议，确定瑞士自2026年起以“第三国伙伴”身份参与伊拉斯谟+项目。据SERI公告，瑞士学生仍可申请欧盟资助，但需通过SERI指定渠道提交申请。
+
+### 2026年
+
+- **SERI预算调整**：2026年联邦预算中，SERI总预算为37.2亿瑞士法郎，较2025年增长2.3%。其中，高等教育资助占58%（21.6亿），科研与创新占32%（11.9亿），职业教育占10%（3.7亿）。
+- **EDK发布《2026-2030教育战略》**：2026年2月，EDK发布新一期跨州教育战略，重点包括：推进数字化教育基础设施（目标：2028年前所有中小学接入高速网络）、强化多元语言教育（要求各州在2027年前提供至少两门国家语言教学）、以及提升职业教育与劳动力市场匹配度。
+
+## 中文服务可用性
+
+### SERI中文服务
+
+截至2026年5月，SERI官网提供德、法、意、英四种语言版本，未设中文版。但国际事务司设有中文咨询专线（+41 58 462 21 29），工作时间内可提供中文电话咨询服务。此外，SERI发布的重要政策文件（如HEdA修订案、VPETA实施指南）的英文版均附有中文摘要，可通过官网“国际事务”栏目下载。据SERI 2026年客户服务报告，中文咨询占国际咨询总量的约7%，主要涉及高等教育认证及学生签证政策。
+
+### EDK中文服务
+
+EDK官网同样未设中文版，但其发布的《瑞士教育指标》年度报告英文版包含中文执行摘要。EDK秘书处国际事务部可应请求提供中文书面咨询（邮件至edk@edk.ch，注明“Chinese inquiry”）。据EDK 2025年公报，中文咨询主要来自中国教育机构及留学中介，涉及瑞士高中毕业会考（Maturität）成绩认证及学分转换。
+
+### 大陆人士实操影响
+
+对于中国大陆人士而言，SERI及EDK的中文服务覆盖有限，但关键政策文件（如HEdA修订案、VPETA实施指南）的英文版已足够用于法律参考。建议优先使用英文沟通，并提前预约中文电话咨询（SERI中文专线通常需提前3个工作日预约）。此外，瑞士驻华大使馆（北京）及瑞士驻上海、广州总领事馆的教育处可提供中文协助，但其职责限于签证咨询，不涉及教育政策解读。
+
+## FAQ
+
+### Q1: 中国大陆学生申请瑞士大学，需要与SERI直接联系吗？
+中国大陆学生申请瑞士大学（包括联邦理工学院ETH Zurich、EPFL及州立大学），通常直接通过大学招生办公室申请。SERI不参与个体学生录取，但负责认证大学资质。若涉及学历认证（如中国高中毕业证或大学成绩单认证），需联系**瑞士大学校长联席会议（swissuniversities）** 或通过**瑞士驻华大使馆**办理。SERI仅在学生签证政策或国际合作协议层面提供咨询。
+
+### Q2: HEdA修订案中的差异化学费是否适用于中国大陆学生？
+根据2025年通过的HEdA修订案第32a条，各州可对非瑞士籍学生设定最高为瑞士籍学生学费3倍的收费标准。该条款自2026年1月1日起生效，适用于所有非瑞士籍学生（包括中国大陆学生），但持有瑞士长期居留许可（C Permit）者除外。截至2026年5月，已有12个州宣布将实施差异化学费，具体标准因州而异。建议申请前查询目标大学所在州的学费政策。
+
+### Q3: 中国大陆的教育机构如何与EDK合作进行课程认证？
+EDK负责协调瑞士各州的高中毕业会考（Maturität）标准，但不直接处理海外课程认证。中国大陆教育机构若希望其课程获得瑞士大学入学资格认可，需通过**瑞士大学校长联席会议（swissuniversities）** 提交认证申请。EDK可提供关于Maturität标准的书面指导（英文），但认证流程由swissuniversities主导。建议先联系EDK国际事务部获取标准文件，再向swissuniversities提交正式申请。
+
+## 参考资料
+
+1. SERI. (2026). *Annual Report 2026: Education, Research and Innovation in Switzerland*. Bern: State Secretariat for Education, Research and Innovation. Retrieved from [https://www.sbfi.admin.ch/sbfi/en/home/dokumentation/berichte.html](https://www.sbfi.admin.ch/sbfi/en/home/dokumentation/berichte.html)
+2. EDK. (2025). *Bulletin of the Swiss Conference of Cantonal Ministers of Education 2025*. Bern: Swiss Conference of Cantonal Ministers of Education. Retrieved from [https://www.edk.ch/en/publications](https://www.edk.ch/en/publications)
+3. Swiss Federal Constitution. (1999, as amended 2025). *Bundesverfassung der Schweizerischen Eidgenossenschaft*. SR 101. Articles 61a–69. Retrieved from [https://www.fedlex.admin.ch/eli/cc/1999/404/en](https://www.fedlex.admin.ch/eli/cc/1999/404/en)
+4. Federal Act on the Promotion and Coordination of the Higher Education Sector (HEdA). (2015, revised 2025). SR 414.20. Retrieved from [https://www.fedlex.admin.ch/eli/cc/2015/128/en](https://www.fedlex.admin.ch/eli/cc/2015/128/en)
+5. Federal Act on Vocational and Professional Education and Training (VPETA). (2018, revised 2024). SR 412.10. Retrieved from [https://www.fedlex.admin.ch/eli/cc/2018/750/en](https://www.fedlex.admin.ch/eli/cc/2018/750/en)
+6. SERI. (2024). *Monitoring Report on Vocational Education and Training 2024*. Bern: State Secretariat for Education, Research and Innovation. Retrieved from [https://www.sbfi.admin.ch/sbfi/en/home/dokumentation/berichte/monitoring-berufsbildung.html](https://www.sbfi.admin.ch/sbfi/en/home/dokumentation/berichte/monitoring-berufsbildung.html)
+7. EDK. (2026). *Educational Strategy 2026–2030: A Framework for Cantonal Cooperation*. Bern: Swiss Conference of Cantonal Ministers of Education. Retrieved from [https://www.edk.ch/en/strategy-2026-2030](https://www.edk.ch/en/strategy-2026-2030)

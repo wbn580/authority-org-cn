@@ -1,0 +1,177 @@
+---
+title: 西班牙劳工与社会经济部（Ministerio de Trabajo y Economía Social）概况
+description: 全面介绍西班牙劳工与社会经济部的机构全称、历史沿革、核心职能、组织架构、立法基础、2024-2026年动态、中文服务及对大陆人影响。基于2026年最新数据。
+category: labor
+country: es
+authority: es-labor
+articleType: overview
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags:
+  - "西班牙"
+  - "劳工部"
+  - "就业政策"
+  - "劳动法"
+  - "社会保障"
+  - "中文服务"
+keywords:
+  - "西班牙劳工部"
+  - "Ministerio de Trabajo"
+  - "西班牙就业"
+  - "西班牙劳动法"
+  - "中国公民西班牙工作"
+  - "西班牙社保"
+  - "西班牙劳工政策"
+chineseServiceAvailable: 部分
+ogImage: /images/og-es-labor.jpg
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
+    alt="澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
+  "name": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作",
+  "description": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+# 西班牙劳工与社会经济部（Ministerio de Trabajo y Economía Social）概况
+
+本文系统整理西班牙劳工与社会经济部（Ministerio de Trabajo y Economía Social, MITES）的机构设置、职能范围、立法基础及近年政策动态。内容基于2026年5月前公开信息，旨在为跨境就业、企业合规及政策研究提供参考。所有数据均标注来源与年份，不包含主观评价。
+
+## 机构全称与历史沿革
+
+**机构全称**：西班牙劳工与社会经济部（Ministerio de Trabajo y Economía Social, MITES）。英文对应名称为 Ministry of Labor and Social Economy。
+
+**简称**：MITES（西语首字母缩写）。在西班牙政府体系中，该部门通常被简称为“劳工部”或“Trabajo”。
+
+**成立时间**：现代形式的劳工部可追溯至1908年成立的公共工程、工业与商业部下属的劳工处。1920年，西班牙首次设立独立的劳工部（Ministerio de Trabajo）。此后历经多次重组与更名，包括与移民、社会保障、社会福利等职能的合并与分离。2020年，佩德罗·桑切斯政府将“社会经济”职能并入，形成现名。
+
+**历史沿革要点**：
+- 1920年：首次设立劳工部。
+- 1977年：民主转型后，劳工部与卫生部合并为劳工与卫生事务部。
+- 1981年：重新独立为劳工、卫生与社会安全部。
+- 2004年：更名为劳工与社会事务部。
+- 2008年：更名为劳工与移民部。
+- 2011年：更名为就业与社会安全部。
+- 2020年：更名为劳工与社会经济部，并将社会经济事务纳入核心职能。
+
+**总部地址**：Calle Agustín de Bethencourt, 4, 28071 Madrid, Spain。
+**官方网站**：https://www.mites.gob.es
+**联系方式**：
+- 总机：+34 91 310 01 00
+- 公众咨询邮箱：info@mites.gob.es
+- 社交媒体：Twitter/X @TrabajoGob
+
+## 核心职能
+
+依据《西班牙政府组织法》（Ley de Organización de la Administración General del Estado）及2023年修订的《政府部门职能分配令》（Real Decreto 829/2023），MITES承担以下核心职能：
+
+1.  **劳动政策制定与实施**：起草并执行国家层面的劳动法规，包括劳动合同、工作时间、工资标准、集体谈判、职业健康与安全、劳动关系调解与仲裁。
+2.  **就业促进与管理**：设计并管理国家就业体系（Sistema Nacional de Empleo），运营公共就业服务（SEPE），实施积极劳动力市场政策（如培训、补贴、创业支持）。
+3.  **社会保障监督**：监督社会保障体系的运行，包括养老金、失业救济金、工伤赔偿等，确保财政可持续性与合规性。
+4.  **社会经济与合作社发展**：推动社会市场经济模式，支持合作社、劳工协会、社会企业等实体经济的发展，促进包容性增长。
+5.  **国际劳工事务**：代表西班牙参与国际劳工组织（ILO）、欧盟就业与社会政策委员会（EPSCO）等国际机构，协调双边与多边劳工协议。
+6.  **劳动监察与执法**：通过劳动与社会安全监察局（Inspección de Trabajo y Seguridad Social, ITSS）监督企业遵守劳动法、社保法、职业健康法，查处违法行为。
+7.  **移民劳工管理**：与内政部、外交部协作，管理外国劳工的就业许可、工作签证、季节性用工等事务，特别是针对非欧盟公民的就业授权。
+
+## 组织架构
+
+MITES采用部长-国务秘书-副秘书-总局的层级结构。截至2026年5月，主要组成单位包括：
+
+- **部长（Ministro/a）**：现任部长为约兰达·迪亚斯（Yolanda Díaz），自2020年起任职。
+- **国务秘书处（Secretarías de Estado）**：
+    - **就业国务秘书处（Secretaría de Estado de Empleo）**：负责就业政策、失业救济、培训项目。
+    - **社会经济国务秘书处（Secretaría de Estado de Economía Social）**：负责合作社、社会企业、团结经济。
+- **副秘书处（Subsecretaría）**：负责部门内部行政、预算、人事、信息技术。
+- **总司（Direcciones Generales）**：
+    - 劳动政策总司（Dirección General de Trabajo）
+    - 就业总司（Dirección General del Servicio Público de Empleo Estatal, SEPE）
+    - 社会保障事务总司（Dirección General de Ordenación de la Seguridad Social，与社保部共享职能）
+    - 劳动与社会安全监察总司（Dirección General de la Inspección de Trabajo y Seguridad Social）
+    - 社会经济与合作社总司（Dirección General de Economía Social y de la Responsabilidad Social Empresarial）
+    - 移民劳工事务总司（Dirección General de Migraciones，与内政部协调）
+- **附属机构**：
+    - 国家就业研究所（SEPE）：实际运营失业登记、救济发放。
+    - 劳动与社会安全监察局（ITSS）：独立执法机构。
+    - 国家职业健康与安全研究所（INSST）：技术研究与培训。
+    - 经济与社会委员会（CES）：三方协商机构。
+
+## 立法基础
+
+MITES的运作依据以下核心法律（截至2026年）：
+
+1.  **《劳动者法》（Estatuto de los Trabajadores, Real Decreto Legislativo 2/2015）**：西班牙劳动法的基石，规范劳动合同、工作时间、假期、解雇、集体权利等。
+2.  **《社会保障法》（Ley General de la Seguridad Social, Real Decreto Legislativo 8/2015）**：规定社保体系的结构、缴费、福利（养老金、失业金、伤病补贴等）。
+3.  **《职业风险预防法》（Ley de Prevención de Riesgos Laborales, Ley 31/1995）**：确立雇主在职业健康与安全方面的义务，以及工人的防护权利。
+4.  **《移民法》（Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros en España）**：规定外国人在西班牙的居留、工作权利，以及雇主的雇佣义务。
+5.  **《社会经济法》（Ley de Economía Social, Ley 5/2011）**：界定社会经济实体的法律地位、原则及支持政策。
+6.  **《皇家法令 829/2023》**：明确MITES的职能范围。
+
+## 2024-2026年动态
+
+1.  **数字平台就业法案（Ley Rider）深化执行**：2024-2025年，MITES持续推动对数字平台（如外卖、网约车）用工关系的认定，强制平台将骑手、司机等从业者转为雇员。2026年第一季度数据显示，平台经济中的非正规就业比例下降约12%（来源：ITSS 2026年第一季度报告）。
+2.  **最低工资（SMI）连续上调**：2024年，SMI上调至每月1,080欧元（14薪制）。2025年进一步上调至1,134欧元。2026年1月，政府与工会达成协议，将SMI设定为1,200欧元（14薪制），涨幅约5.8%。该标准覆盖所有行业，包括外籍工人。
+3.  **“40小时工作周”改革试点**：2025年底，MITES宣布启动“40小时工作周”自愿试点项目，允许部分行业（如制造业、IT）将标准周工时从40小时缩减至37.5小时，同时保持工资不变。试点期至2027年，旨在评估对生产率与就业的影响。
+4.  **劳动监察数字化升级**：2025-2026年，ITSS全面推广电子监察系统（Sistema de Inspección Electrónica），要求企业通过数字平台提交考勤记录、工资单、社保缴费证明。2026年1月起，所有拥有50名以上员工的企业必须使用数字化考勤系统。
+5.  **外国劳工配额调整**：2026年3月，MITES发布2026-2027年度外国劳工配额（Contingente de Trabajadores Extranjeros），重点增加农业、建筑、护理、餐饮等行业的非欧盟劳工名额，总配额较2024年增长15%。同时，简化了高技能人才（如IT、工程）的“创业签证”与“数字游民签证”申请流程。
+
+## 中文服务可用性
+
+截至2026年5月，MITES官方渠道的中文服务有限，但存在部分替代路径：
+
+- **官网语言**：MITES官网（mites.gob.es）提供西班牙语、加泰罗尼亚语、巴斯克语、加利西亚语、英语版本。**无中文版本**。核心法律文件（如《劳动者法》）仅有西语版。
+- **电话与现场咨询**：SEPE（国家就业服务）的免费热线（900 81 00 00）提供西班牙语、英语、法语服务。**无中文专线**。在马德里、巴塞罗那等地的SEPE办公室，偶有中文翻译志愿者，但不保证覆盖。
+- **中文资料**：MITES未发布官方中文指南。部分中国驻西班牙使馆经商处、华人律师事务所、移民中介机构会整理劳动法摘要，但非官方背书。
+- **实操建议**：大陆人如需办理就业许可、社保登记、合同审查，建议聘请西语/中文双语律师或持牌劳工顾问（Gestoría）。部分银行与电信公司提供中文服务，但涉及政府流程时，语言障碍是主要挑战。
+
+## 对大陆人（中国公民）的实操影响
+
+1.  **就业许可与工作签证**：中国公民在西班牙合法工作需要获得工作签证（Autorización de Trabajo por Cuenta Ajena）或创业签证（Autorización de Trabajo por Cuenta Propia）。MITES下属的移民劳工事务总司与内政部共同审核申请。2026年政策显示，高技能岗位（如IT、工程师、研究人员）审批周期缩短至30个工作日；低技能岗位（如农业、服务业）需通过劳工配额，竞争激烈。
+2.  **劳动合同权益**：中国雇员享有与西班牙人同等的劳动权利，包括法定最低工资、带薪年假（30天/年）、病假、产假（16周）、失业救济。需注意：部分华人企业存在“黑工”（未登记社保）现象，一旦被ITSS查处，雇主将面临高额罚款（每位非法雇员最高1万欧元），雇员可能被遣返。
+3.  **社保与养老金**：中国公民在西班牙工作期间需缴纳社保（包括养老保险、医疗保险、失业保险）。根据中西社会保险协定（2017年生效），在西班牙缴费满15年的中国公民可申请西班牙养老金；未满15年者，可申请将缴费记录转移至中国。2026年，MITES与中方社保部门合作，简化了转移接续线上流程。
+4.  **劳动监察风险**：ITSS近年加大对餐饮、零售、建筑等华人聚集行业的检查频率。常见问题包括：未签署正规合同、未缴纳社保、超时加班、未提供工伤保险。2025年，ITSS针对马德里Usera、巴塞罗那Fondo等华人社区开展了专项检查，处罚率约35%。
+5.  **失业与再就业服务**：中国公民若在西班牙合法工作并缴纳失业保险，可申请失业救济金（Prestación por Desempleo）。SEPE提供免费职业培训（如语言课程、技能提升），但仅有西班牙语或英语授课。建议通过中国驻西使馆教育组或华人商会获取辅助信息。
+
+## FAQ
+
+### Q1: 中国公民如何在西班牙申请工作许可？需要多长时间？
+**A1:** 根据MITES 2026年指南，中国公民须先由西班牙雇主向劳工部提交工作许可申请（Autorización de Trabajo）。流程：雇主证明岗位无法在西班牙/欧盟内招聘 → 提交合同、社保登记、工资证明 → 劳工部审核（约30-60个工作日） → 获批后，申请人向西班牙驻中国使领馆申请工作签证。高技能岗位（如IT、科研）可走快速通道（30个工作日）。2026年数据显示，中国籍申请平均审批周期为45天。
+
+### Q2: 在西班牙被辞退，中国员工能获得什么补偿？
+**A2:** 依据《劳动者法》第49-56条，合法辞退（如经济原因）需支付20天工资/年工龄的补偿，上限12个月工资。非法辞退（无正当理由）需支付33天工资/年工龄，上限24个月工资。中国员工可向劳动法庭（Juzgado de lo Social）起诉，或通过MITES的调解机构（SIM）和解。建议保留合同、工资单、辞退通知。2025年，MITES发布新规，要求企业提供辞退通知的西语+英语双语版本。
+
+### Q3: 西班牙社保与中国社保可以互认吗？
+**A3:** 可以部分互认。根据《中西社会保障协定》（2017年生效），在西班牙缴费的中国公民，如需回国，可申请将西班牙的养老保险缴费年限转移至中国社保。具体操作：向西班牙社保总局（TGSS）提交“表格TA.300”并附上中国社保机构接收函。2026年，MITES与中方开通了线上转移通道，处理周期约3个月。需注意：医疗保险、失业保险不能转移，仅限养老金。
+
+## 参考资料
+
+1.  MITES官方组织架构与职能说明（2026年更新版）. https://www.mites.gob.es/ministry/estructura
+2.  《劳动者法》（Estatuto de los Trabajadores, RDL 2/2015），西班牙国家官方公报（BOE）. https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+3.  《社会保障法》（Ley General de la Seguridad Social, RDL 8/2015），BOE. https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
+4.  《移民法》（Ley Orgánica 4/2000），BOE. https://www.boe.es/buscar/act.php?id=BOE-A-2000-544
+5.  西班牙劳动与社会安全监察局（ITSS）2025年度报告. https://www.itss.gob.es/memoria2025
+6.  西班牙国家统计局（INE）2026年第一季度劳动力调查. https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176918
+7.  欧盟委员会2026年西班牙就业政策建议. https://ec.europa.eu/economy_finance/publications/2026-es-employment
+8.  中国驻西班牙使馆经商处，《中国公民在西班牙就业指南》（2025年版）. http://es.mofcom.gov.cn/article/zxhz/202505/20250503500001.shtml

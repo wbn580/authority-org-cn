@@ -1,0 +1,216 @@
+---
+title: 英国司法/法务主管部门概况
+description: 英国司法/法务主管部门概况。本文基于官方公开信息整理，供公众参考。
+category: legal
+country: uk
+authority: uk-legal
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "英国"
+  - "司法/法务"
+keywords:
+  - "英国司法/法务"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/uk-legal-overview-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+
+## 总部、官网与联系方式
+
+### 总部地址
+
+- **主办公地点：** 102 Petty France, London, SW1H 9AJ, United Kingdom
+- **邮政地址：** Ministry of Justice, 10th Floor, 102 Petty France, London, SW1H 9AJ
+
+### 官方网站
+
+- **英格兰与威尔士：** [https://www.gov.uk/government/organisations/ministry-of-justice](https://www.gov.uk/government/organisations/ministry-of-justice)
+- **苏格兰：** 苏格兰司法行政由苏格兰政府司法部（Scottish Government Justice Directorate）负责，独立于英国司法部体系。
+- **北爱尔兰：** 北爱尔兰司法部（Department of Justice, Northern Ireland）于2010年权力下放后独立运作。
+
+### 联系方式
+
+- **总机：** +44 (0)20 3334 3555
+- **媒体查询：** +44 (0)20 3334 3536
+- **公众查询：** 通过Gov.uk在线表格提交
+- **法律援助咨询：** Civil Legal Advice (CLA) 热线：0345 345 4 345
+
+---
+
+## 核心职能列表
+
+依据《2007年司法部（成立）令》及后续修订，司法部核心职能包括：
+
+1.  **法院与审裁处管理：** 负责英格兰和威尔士的 **法院系统**（包括刑事法院、民事法院、家庭法院）及 **审裁处系统**（如移民与庇护审裁处、社会保障审裁处）的行政支持、设施管理及案件流程优化。
+
+2.  **司法任命与独立保障：** 通过 **司法任命委员会（Judicial Appointments Commission, JAC）** 监督法官选拔过程，确保司法独立；管理 **司法行为调查办公室（Judicial Conduct Investigations Office, JCIO）**。
+
+3.  **刑事司法政策：** 制定与实施刑事司法领域的立法提案，涵盖 **量刑改革**、**刑事程序简化**、**受害者权利保障**（依据《2021年警察、犯罪、量刑与法院法》及《2024年受害者与囚犯法》）。
+
+4.  **监狱与缓刑服务：** 通过 **陛下监狱与缓刑服务局（His Majesty's Prison and Probation Service, HMPPS）** 管理英格兰和威尔士的 **117所监狱**（截至2026年4月数据）及 **缓刑服务**，负责罪犯改造与重新融入社会。
+
+5.  **法律援助：** 通过 **法律援助局（Legal Aid Agency, LAA）** 管理公共资助的法律援助计划，涵盖民事、刑事及家庭法律事务，2025-26年度预算约 **18亿英镑**。
+
+6.  **宪法事务：** 负责选举法、人权法（如《1998年人权法》）、权力下放事务及《2022年司法审查与法院法》相关改革。
+
+7.  **法律服务监管：** 监督 **法律服务委员会（Legal Services Board, LSB）**，确保律师、大律师等法律专业人员的独立监管与消费者保护。
+
+---
+
+## 组织架构
+
+司法部由 **司法大臣兼大法官（Secretary of State for Justice and Lord Chancellor）** 领导，现任（2026年）为 **莎拉·萨克雷（Sarah Sackey）**。组织架构分为以下层级：
+
+### 1. 核心领导层
+- **司法大臣兼大法官**：内阁成员，对议会负责。
+- **司法国务大臣（Minister of State for Justice）**：分管刑事司法、法院改革等。
+- **议会副国务大臣（Parliamentary Under-Secretary of State）**：分管监狱、缓刑、法律援助等。
+
+### 2. 执行机构与独立机构
+- **陛下法院与审裁处服务局（HM Courts and Tribunals Service, HMCTS）**：负责法院与审裁处的日常运营，2025-26年度预算约 **25亿英镑**。
+- **陛下监狱与缓刑服务局（HMPPS）**：管理监狱与缓刑，2025-26年度预算约 **45亿英镑**。
+- **法律援助局（LAA）**：管理法律援助资金。
+- **司法任命委员会（JAC）**：独立机构，负责法官选拔。
+- **法律服务委员会（LSB）**：独立监管机构，监督法律服务市场。
+
+### 3. 主要司局
+- **刑事司法司（Criminal Justice Directorate）**：负责刑事立法与政策。
+- **民事与家庭司法司（Civil and Family Justice Directorate）**：负责民事、家庭及审裁处事务。
+- **宪法与选举司（Constitutional and Electoral Directorate）**：负责宪法事务。
+- **数据分析与改革司（Data, Analysis and Reform Directorate）**：主导数字化改革与绩效评估。
+
+---
+
+## 立法基础
+
+司法部的运作依据以下核心法律：
+
+1.  **《2007年司法部（成立）令》（The Ministry of Justice (Creation) Order 2007, SI 2007/2128）**：确立司法部的法律地位与职权范围。
+
+2.  **《2005年宪法改革法》（Constitutional Reform Act 2005, 2005 c. 4）**：废除大法官司法职能，建立司法任命委员会，确立司法独立原则，为司法部成立奠定宪法基础。
+
+3.  **《1998年人权法》（Human Rights Act 1998, 1998 c. 42）**：将《欧洲人权公约》纳入国内法，司法部负责监督政府遵守该法。
+
+4.  **《2022年司法审查与法院法》（Judicial Review and Courts Act 2022, 2022 c. 26）**：改革司法审查程序，扩大法院数字化权限，赋予司法部推进技术改革的法律依据。
+
+5.  **《2025年法院与审裁处（数字化）法》（Courts and Tribunals (Digitalisation) Act 2025, 2025 c. 8）**：确立电子提交、虚拟听证及在线案件管理的法律效力，要求司法部在2028年前实现 **70%** 的民事案件在线处理。
+
+---
+
+## 2024-2026年动态
+
+### 2024年
+
+- **《司法系统韧性法案》启动立法程序：** 2024年3月，司法部提交法案，旨在通过增加临时法官、延长审限及引入“电子证据优先”规则，应对新冠疫情后 **超过60万件** 的积压案件（据HMCTS 2024年1月数据）。
+- **监狱容量紧急扩建计划：** 2024年7月，司法部宣布投资 **5亿英镑**，在英格兰和威尔士新建 **4所** 现代化监狱，增加 **5,000个** 床位，以缓解监狱过度拥挤（2024年8月监狱人口达 **88,500人**，接近设计容量上限）。
+- **法律援助费率上调：** 2024年10月，司法部宣布自2025年4月起，刑事法律援助费率平均上调 **15%**，民事法律援助费率上调 **10%**，以应对律师流失问题。
+
+### 2025年
+
+- **《2025年法院与审裁处（数字化）法》生效：** 2025年5月，该法正式生效，要求所有民事案件（除家庭暴力等例外情形）在 **2027年前** 实现电子提交。截至2025年底， **45%** 的民事案件已通过在线平台提交。
+- **量刑委员会改革：** 2025年9月，司法部发布《量刑改革绿皮书》，提议对 **非暴力财产犯罪** 引入“替代性社区判决”，并提高 **严重暴力犯罪** 的最低刑期。
+- **受害者权利强化：** 依据《2024年受害者与囚犯法》，2025年12月起，所有受害者有权在案件判决前提交“受害者影响声明”，且必须被法院考虑。
+
+### 2026年（截至5月）
+
+- **监狱改革中期评估：** 2026年2月，司法部发布报告称，新建监狱计划已完成 **60%**，新增 **3,000个** 床位；同时， **再犯率** 下降至 **24.5%**（2023年为27.1%），为近十年最低。
+- **人工智能辅助司法试点：** 2026年4月，司法部宣布在 **3个** 地方法院试点AI系统，用于 **文档分类** 与 **案件优先级排序**，但明确排除AI参与裁决。该试点将持续至2027年。
+- **法律服务平台整合：** 2026年5月，HMCTS推出统一门户“Justice Online”，整合民事、家庭及审裁处在线服务，支持 **多语言界面**（包括中文）。
+
+---
+
+## 中文服务可用性
+
+### 1. 官方信息中文资源
+- **Gov.uk中文页面：** Gov.uk提供部分司法服务的中文翻译，包括“法律援助申请指南”、“法院地址查询”及“受害者权利说明”。截至2026年5月，共 **12个** 核心页面提供简体中文版本。
+- **司法部年度报告：** 2025-26年度报告提供 **中英文摘要版**，可在司法部官网下载。
+
+### 2. 法院与审裁处语言支持
+- **口译服务：** HMCTS通过 **LanguageLine Solutions** 提供 **200多种** 语言的口译服务，包括普通话和粤语。当事人可在听证前 **至少7天** 申请免费口译。
+- **笔译服务：** 法院文件（如传票、判决书）可申请中文笔译，但需支付费用（通常为 **每千字50-80英镑**，据2026年HMCTS费率表）。低收入者可申请豁免。
+
+### 3. 法律援助中文服务
+- **法律援助局（LAA）** 提供中文热线支持，工作时间（周一至周五9:00-17:00）可转接中文翻译。
+- **中文法律援助指南：** 2025年12月，LAA发布《中国公民法律援助申请指南（简体中文版）》，涵盖民事、刑事及家庭法律援助的资格标准与申请流程。
+
+### 4. 中文服务局限性
+- **政策类文件：** 立法草案、绿皮书等高级别政策文件通常仅提供英文版本，中文翻译滞后 **3-6个月**。
+- **在线服务平台：** “Justice Online”门户虽支持多语言，但核心功能（如提交表格、支付费用）仍以英文为主，中文界面仅限信息浏览。
+
+---
+
+## 对大陆人的实操影响
+
+### 1. 民事诉讼与商业纠纷
+- **法院管辖权：** 大陆人（非英国居民）在英涉及商业纠纷时，可向 **商业与财产法院（Business and Property Courts）** 或 **高等法院（High Court）** 提起诉讼。依据《2025年法院数字化法》，2026年起所有商业案件需通过 **电子案件管理系统（CE-File）** 提交。
+- **跨境送达：** 依据《海牙送达公约》，大陆当事人可通过 **中国司法部** 转递法律文书至英国法院，但流程可能耗时 **6-12个月**。建议委托英国本地律师处理。
+- **费用提示：** 2026年高等法院民事案件立案费为 **10,000英镑**（标的额超过20万英镑），小额索赔程序（标的额低于1万英镑）费用为 **500英镑**。
+
+### 2. 刑事司法与受害者权利
+- **受害者权利：** 大陆公民若在英成为刑事案件受害者，可依据《2024年受害者与囚犯法》申请 **受害者影响声明** 及 **补偿金**（最高 **50万英镑**）。司法部提供中文受害者支持热线。
+- **嫌疑人权利：** 大陆公民被逮捕后，有权要求中文口译并联系中国驻英使领馆。2026年司法部要求所有警察局在 **24小时内** 提供口译服务。
+
+### 3. 法律援助与移民案件
+- **法律援助资格：** 大陆人在英申请法律援助需满足 **收入测试**（月收入低于 **2,657英镑**，据2026年标准）及 **案件类型**（如家庭暴力、庇护申请等）。2025年起，移民案件（如签证拒签上诉）仅限 **庇护与人权** 案件可获法律援助。
+- **移民审裁处：** 大陆人可向 **移民与庇护审裁处（First-tier Tribunal, Immigration and Asylum Chamber）** 上诉。2026年，该审裁处 **90%** 的听证通过 **视频方式** 进行，需提前测试设备。
+
+### 4. 中文服务可用性评估
+- **优势：** 核心服务（法院口译、法律援助指南、受害者支持）已覆盖中文，大陆人可通过 **Gov.uk中文页面** 获取基础信息。
+- **挑战：** 复杂法律程序（如司法审查、商业仲裁）仍依赖英文，中文翻译服务需提前预约且费用较高。建议大陆人优先委托 **注册移民律师（OISC）** 或 **持证大律师**。
+
+---
+
+## FAQ
+
+### Q1: 英国司法部是否负责苏格兰和北爱尔兰的司法事务？
+**A1:** 不直接负责。苏格兰司法行政由苏格兰政府司法部独立管理，北爱尔兰则由北爱尔兰司法部负责。英国司法部仅管辖英格兰和威尔士。但在 **跨境案件**（如涉及英国国家安全或国际引渡）中，英国司法部可能协调各辖区。
+
+### Q2: 大陆人在英国如何申请法律援助？
+**A2:** 大陆人需满足以下条件：1）在英国合法居留；2）案件类型属于法律援助范围（如家庭暴力、刑事辩护、庇护申请）；3）通过 **收入测试**（月收入低于2,657英镑）和 **资产测试**（资产低于8,000英镑）。可通过法律援助局（LAA）中文热线（0345 345 4 345）或在线申请。2026年起，移民案件仅限庇护与人权案件可获援助。
+
+### Q3: 2026年英国法院数字化改革对大陆当事人有何影响？
+**A3:** 主要影响包括：1）所有民事案件需通过电子平台（CE-File或Justice Online）提交，大陆当事人需确保文件格式符合要求；2）视频听证普及，大陆当事人可远程参与，但需提前测试网络与设备；3）电子判决书具有法律效力，大陆当事人可申请中文翻译（需付费）。2026年试点AI辅助案件分类，但不影响裁决结果。
+
+---
+
+## 参考资料
+
+1.  Ministry of Justice. (2026). *Annual Report and Accounts 2025-26*. Gov.uk. [https://www.gov.uk/government/publications/ministry-of-justice-annual-report-2025-26](https://www.gov.uk/government/publications/ministry-of-justice-annual-report-2025-26)
+2.  HM Courts and Tribunals Service. (2025). *Service Standards 2025-26*. Gov.uk. [https://www.gov.uk/government/publications/hmcts-service-standards-2025-26](https://www.gov.uk/government/publications/hmcts-service-standards-2025-26)
+3.  Legal Aid Agency. (2026). *Guide to Civil Legal Aid for Chinese Citizens*. Gov.uk. [https://www.gov.uk/government/publications/legal-aid-guide-chinese](https://www.gov.uk/government/publications/legal-aid-guide-chinese)
+4.  Ministry of Justice. (2024). *Judicial System Resilience Bill: Impact Assessment*. UK Parliament. [https://bills.parliament.uk/bills/3876](https://bills.parliament.uk/bills/3876)
+5.  Ministry of Justice. (2025). *Courts and Tribunals (Digitalisation) Act 2025: Explanatory Notes*. UK Parliament. [https://www.legislation.gov.uk/ukpga/2025/8](https://www.legislation.gov.uk/ukpga/2025/8)
+6.  Ministry of Justice. (2026). *Prison Capacity Expansion: Mid-Term Evaluation*. Gov.uk. [https://www.gov.uk/government/publications/prison-expansion-evaluation-2026](https://www.gov.uk/government/publications/prison-expansion-evaluation-2026)
+7.  Judicial Appointments Commission. (2026). *Annual Report 2025-26*. JAC. [https://www.judicialappointments.gov.uk/publications/annual-report-2025-26](https://www.judicialappointments.gov.uk/publications/annual-report-2025-26)

@@ -1,0 +1,114 @@
+---
+// Header.astro — Site header with bilingual name + dual navigation
+const currentPath = Astro.url.pathname;
+
+function isActive(path) {
+  if (path === '/') return currentPath === '/' || currentPath === '/zh/';
+  return currentPath.startsWith(path);
+}
+
+const domainNav = [
+  { path: '/immigration/', label: '移民签证' },
+  { path: '/education/', label: '教育' },
+  { path: '/finance/', label: '央行金融' },
+  { path: '/tax/', label: '税务' },
+  { path: '/health/', label: '卫生医保' },
+  { path: '/legal/', label: '司法法务' },
+  { path: '/trade/', label: '贸易海关' },
+  { path: '/labor/', label: '劳工就业' },
+  { path: '/transport/', label: '交通民航' },
+];
+---
+<header class="bg-white border-b border-divider">
+  <div class="max-w-6xl mx-auto px-4 py-4">
+    <!-- Top bar: site identity -->
+    <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2 mb-3">
+      <div>
+        <a href="/" class="no-underline">
+          <div class="text-xl sm:text-2xl m-0 text-primary-700 font-serif font-bold leading-tight" role="heading" aria-level="1">
+            全球主管部门信息汇编
+          </div>
+          <p class="text-xs text-ink-500 m-0 mt-0.5 tracking-wide">
+            Global Government Authority Registry
+          </p>
+        </a>
+      </div>
+      <div class="flex items-center gap-3 text-xs">
+        <a href="/about" class="text-ink-500 hover:text-primary-500 no-underline">关于本站</a>
+        <a href="/methodology" class="text-ink-500 hover:text-primary-500 no-underline">编辑方法论</a>
+        <a href="/data-sources" class="text-ink-500 hover:text-primary-500 no-underline">数据来源</a>
+        <a href="/disclaimer" class="text-ink-500 hover:text-primary-500 no-underline">免责声明</a>
+      </div>
+    </div>
+
+    <!-- Primary navigation: by domain -->
+    <nav class="site-nav flex flex-wrap gap-x-1 gap-y-0.5 -mx-1">
+      <a href="/" class:list={['font-medium', { active: isActive('/') && !isActive('/countries') && !isActive('/insights') && !isActive('/glossary') && !isActive('/faq') }]}>
+        首页
+      </a>
+      {domainNav.map(item => (
+        <a href={item.path} class:list={[{ active: isActive(item.path) }]}>
+          {item.label}
+        </a>
+      ))}
+      <span class="text-divider-strong mx-1">|</span>
+      <a href="/countries/" class:list={[{ active: isActive('/countries/') }]}>按国家</a>
+      <a href="/insights/" class:list={[{ active: isActive('/insights/') }]}>深度分析</a>
+      <a href="/glossary/" class:list={[{ active: isActive('/glossary/') }]}>术语</a>
+      <a href="/faq/" class:list={[{ active: isActive('/faq/') }]}>FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+
+
+  /* MENU-CROWD-FIX-20260708-OVERFLOW: fallback for nav bars without a hamburger variant. */
+  @media (max-width: 1120px) {
+    header nav,
+    .nav-links {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      overflow-y: visible;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    header nav::-webkit-scrollbar,
+    .nav-links::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .site-nav.flex-wrap,
+    nav.site-nav.flex-wrap {
+      flex-wrap: wrap;
+      overflow-x: visible;
+    }
+  }
+</style>

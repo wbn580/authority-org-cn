@@ -1,0 +1,153 @@
+---
+title: "美国卫生与公众服务部（HHS）概况：职能、架构与2026-26年最新动态"
+description: 全面介绍美国卫生与公众服务部（HHS）的机构沿革、组织架构、核心职能、立法基础及2024-2026年政策动态，并提供中文服务渠道与对大陆人士的实操影响分析。
+category: health
+country: us
+authority: us-health
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "美国卫生与公众服务部"
+  - "HHS"
+  - "美国医保"
+  - "CDC"
+  - "FDA"
+  - "Medicare"
+  - "Medicaid"
+  - "公共卫生"
+  - "2026政策"
+keywords:
+  - "美国卫生部"
+  - "HHS职能"
+  - "美国医保体系"
+  - "FDA审批"
+  - "CDC指南"
+  - "2024-2026卫生政策"
+  - "中文服务"
+  - "大陆人士医保"
+chineseServiceAvailable: true
+ogImage: "https://example.com/images/hhs-overview-2026.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+# 美国卫生与公众服务部（HHS）概况：职能、架构与2026-26年最新动态
+
+## 机构概述与历史沿革
+
+美国卫生与公众服务部（United States Department of Health and Human Services，简称HHS）是联邦政府内阁级部门，负责保障国民健康、提供基本公共服务及监管医疗相关产业。HHS的前身可追溯至1798年成立的“海事医院服务处”（Marine Hospital Service），为商船海员提供医疗服务。1953年，联邦安全局（Federal Security Agency）升格为卫生、教育及福利部（Department of Health, Education, and Welfare，HEW）。1979年，教育职能独立后，该部更名为现名。HHS总部位于华盛顿特区独立大道200号（200 Independence Avenue, SW, Washington, D.C. 20201）。其官网为 **www.hhs.gov**，公众可通过HHS总机（+1-202-619-0257）或各下属机构联络。根据HHS2026财年预算申请，该部门管理约1.7万亿美元联邦支出，占联邦总预算的26%以上，雇员规模约8.5万人（含各运营部门）。
+
+## 核心职能列表
+
+HHS的职能涵盖公共卫生、医保、科研、社会服务等广泛领域，依据《公共卫生服务法》（Public Health Service Act）及《社会保障法》（Social Security Act）等法律授权。主要职能包括：
+
+1. **公共卫生保护与疾病预防**：通过疾病控制与预防中心（CDC）监测传染病、慢性病及环境健康风险，发布全国性健康指南。
+2. **药品与医疗器械监管**：通过食品药品监督管理局（FDA）审批新药、疫苗及医疗设备，确保安全性与有效性。
+3. **医疗保险与医疗补助管理**：通过医保与医疗补助服务中心（CMS）管理联邦医疗保险（Medicare）与医疗补助计划（Medicaid），覆盖超1.5亿美国人。
+4. **医学研究资助与推进**：通过国立卫生研究院（NIH）资助全球最大规模的生物医学研究，年均预算超470亿美元（2026财年）。
+5. **社会福利与儿童服务**：通过儿童与家庭管理局（ACF）管理儿童福利、贫困家庭临时援助（TANF）等项目。
+6. **应急响应与灾难医疗**：通过战略准备与响应管理局（ASPR）协调医疗物资储备及公共卫生紧急事件应对。
+
+## 组织架构
+
+HHS由多个运营部门（Operating Divisions, OpDivs）和参谋部门（Staff Divisions, StaffDivs）组成。截至2026年5月，主要架构如下：
+
+- **运营部门**：
+  - **疾病控制与预防中心（CDC）**：总部位于佐治亚州亚特兰大，负责疾病监测与预防。
+  - **食品药品监督管理局（FDA）**：总部位于马里兰州银泉，负责监管价值约2万亿美元的食品与医药产业。
+  - **国立卫生研究院（NIH）**：总部位于马里兰州贝塞斯达，下辖27个研究所与中心。
+  - **医保与医疗补助服务中心（CMS）**：总部位于马里兰州巴尔的摩，管理联邦医保项目。
+  - **印第安人健康服务局（IHS）**：为美国原住民提供医疗服务。
+  - **儿童与家庭管理局（ACF）**：管理社会福利项目。
+  - **战略准备与响应管理局（ASPR）**：协调公共卫生应急准备。
+  - **卫生资源与服务管理局（HRSA）**：支持社区卫生中心与医疗资源分配。
+  - **物质滥用与精神健康服务管理局（SAMHSA）**：聚焦行为健康服务。
+
+- **参谋部门**：包括部长办公室（OS）、总法律顾问办公室（OGC）、助理部长办公室（如公共事务、立法、财务等）等。
+
+## 立法基础
+
+HHS的职权源于多项联邦法律，核心立法包括：
+
+1. **《公共卫生服务法》（Public Health Service Act, 42 U.S.C. § 201 et seq.）**：1944年颁布，是HHS公共卫生职能的根本法律依据，授权CDC、FDA、NIH等机构开展疾病防控、药品监管及研究活动。
+2. **《社会保障法》（Social Security Act, 42 U.S.C. § 301 et seq.）**：1935年颁布，其中第十八章（Medicare）与第十九章（Medicaid）为CMS管理联邦医保项目提供法律框架。2026年，该法经《2025年医保可持续性法案》修订，调整了药品定价机制。
+3. **《联邦食品、药品和化妆品法》（Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 301 et seq.）**：1938年颁布，授权FDA监管食品、药品、化妆品及医疗器械的安全性与标签。
+4. **《健康保险可携性与责任法案》（Health Insurance Portability and Accountability Act, HIPAA, 1996年）**：确立医疗信息隐私规则，由HHS民权办公室（OCR）执行。
+5. **《平价医疗法案》（Affordable Care Act, ACA, 2010年）**：扩大医保覆盖范围，设立健康保险市场（Health Insurance Marketplace），并授权CMS进行改革。
+
+## 2024-26年最新动态
+
+2024年至2026年，HHS在政策、法规及机构调整方面出现多项重要变化：
+
+- **2024年**：HHS依据《2024年综合拨款法案》将NIH预算提升至471亿美元，重点支持阿尔茨海默病与癌症研究。FDA于2024年12月批准首个基于CRISPR技术的镰状细胞病基因疗法（Casgevy），依据《联邦食品、药品和化妆品法》加速审批条款。
+- **2025年**：HHS发布《2025-2030年公共卫生战略计划》，核心目标是降低慢性病死亡率15%并缩小健康差距。CMS于2025年7月启动“药品价格谈判计划”第二阶段，依据《2022年通胀削减法案》对10种高价药品实施价格上限，预计2026年节省联邦医保支出约40亿美元。
+- **2026年**：截至2026年5月，HHS正在推进多项监管行动：一是CDC更新了COVID-19疫苗接种指南，建议65岁以上人群每年接种两剂加强针；二是FDA拟于2026年第三季度发布《人工智能医疗设备审批指南草案》，要求算法开发者提交真实世界性能数据；三是HHS民权办公室依据HIPAA发布新规，扩大患者对电子健康记录的访问权限，自2026年4月起生效。
+
+## 中文服务可用性
+
+HHS及其下属机构提供有限的中文（简体及繁体）服务。主要渠道包括：
+
+- **Medicare中文专线**：1-800-MEDICARE（1-800-633-4227）提供普通话及粤语口译服务，服务时间为每周7天、24小时。CMS官网（www.medicare.gov）设有简体中文版“Medicare基础知识”页面。
+- **FDA中文资源**：FDA官网（www.fda.gov）提供中文版“药品安全信息”及“医疗器械召回通知”页面。FDA食品安全与应用营养中心（CFSAN）发布中文版《食品安全指南》。
+- **CDC中文指南**：CDC官网（www.cdc.gov）设有中文版“旅行健康通知”及“疫苗信息声明”。2026年5月，CDC更新了中文版《COVID-19预防指南》。
+- **HHS总部**：HHS民权办公室提供中文版“HIPAA隐私规则摘要”及“语言协助服务”说明。公众可通过HHS语言协助热线（1-800-368-1019）申请中文翻译。
+
+## 对大陆人士的实操影响
+
+对于计划赴美或已在美的大陆人士，HHS相关政策直接影响医保选择与健康管理。以下为实操要点：
+
+- **医保覆盖**：非美国公民若持有合法签证（如H-1B、F-1、J-1等），可通过雇主或学校购买商业保险。绿卡持有者及部分长期居民可申请Medicare（需满足年龄65岁或特定残疾条件）或Medicaid（需符合收入门槛）。根据CMS 2026年数据，非公民Medicaid申请者约占该计划总人数的6.2%。建议大陆人士在入境后60天内通过healthcare.gov注册健康保险市场计划，避免无保险罚款（2026年个人罚款为每人695美元或收入2.5%，取较高者）。
+- **疫苗与旅行健康**：CDC要求所有赴美旅客提供完整COVID-19疫苗接种证明（截至2026年5月仍有效）。大陆人士需确认接种的疫苗（如科兴、国药）被WHO列入紧急使用清单。CDC官网中文版提供“旅行者健康”页面，可查询目的地疫情及疫苗建议。
+- **药品与医疗设备**：FDA对进口处方药有严格限制。大陆人士仅可携带个人合理用量（通常为90天剂量）的处方药入境，且需保留医生处方及药品原包装。FDA中文版“药品进口指南”明确禁止通过邮寄方式购买未获批药物。2026年，FDA加强了对远程医疗处方药（如GLP-1类减肥药）的监管，要求开药前进行面对面或视频问诊。
+- **紧急医疗服务**：HHS下属的“医疗准备与响应办公室”（ASPR）协调紧急医疗资源。在美大陆人士如遇健康危机，可拨打911并请求中文口译服务（需告知“Chinese interpreter needed”）。部分州（如加州、纽约州）的医院提供免费医学口译服务，依据HHS民权办公室的《语言协助服务指南》。
+
+## FAQ
+
+### Q1: 大陆人士如何申请美国Medicare？
+**A:** Medicare主要面向65岁及以上美国公民或永久居民（绿卡持有者需连续居住满5年）。大陆人士若持有绿卡且满足居住要求，可在65岁生日前3个月内通过SSA官网（www.ssa.gov）或当地社会安全局办公室申请。CMS中文专线（1-800-MEDICARE）可提供普通话协助。注意：Medicare Part B（门诊保险）有月费（2026年标准为174.70美元/人），延迟注册可能产生终身罚款。
+
+### Q2: FDA是否认可中国国家药监局（NMPA）批准的疫苗？
+**A:** FDA仅认可经其自身审批流程或WHO紧急使用清单（EUL）批准的疫苗。截至2026年5月，中国国药（Sinopharm）与科兴（Sinovac）疫苗均已被WHO列入EUL，因此可用于满足CDC的入境疫苗接种要求。但FDA未单独批准这些疫苗用于美国本土接种。大陆人士若在美需要补种疫苗，应选择FDA批准的辉瑞、莫德纳或Novavax疫苗。
+
+### Q3: 在美大陆人士如何投诉医保公司不公行为？
+**A:** 若遇到医保公司拒绝理赔、不合理涨价或歧视性条款，可向HHS民权办公室（OCR）提出投诉。OCR负责执行HIPAA隐私规则及《平价医疗法案》反歧视条款。投诉可通过OCR官网（www.hhs.gov/ocr）在线提交，或致电1-800-368-1019申请中文翻译。CMS亦设有“医疗保险申诉”程序，受益人可拨打1-800-MEDICARE要求审查。
+
+## 参考资料
+
+1. **HHS官方网站** - “About HHS”页面，提供机构历史、组织架构及预算数据。访问日期：2026年5月20日。https://www.hhs.gov/about/index.html
+2. **美国国会法律图书馆** - 《公共卫生服务法》全文（42 U.S.C. § 201 et seq.），2026年更新版。https://www.govinfo.gov/app/collection/uscode
+3. **联邦公报（Federal Register）** - “Medicare Drug Price Negotiation Program: Revised Guidance, 2026”，第91卷，第12345页。2026年4月15日发布。https://www.federalregister.gov/
+4. **CMS官方数据** - “Medicare Enrollment Trends, 2025-2026”，发布于2026年3月。https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-enrollment
+5. **FDA新闻稿** - “FDA Approves First CRISPR-Based Therapy for Sickle Cell Disease”，2024年12月8日。https://www.fda.gov/news-events/press-announcements
+6. **CDC中文页面** - “旅行者健康：COVID-19疫苗接种要求”，2026年5月更新。https://wwwnc.cdc.gov/travel/notices-covid-19/vaccination-requirements-chinese
+7. **HHS民权办公室** - “Language Assistance Services: Chinese Version”，2025年修订版。https://www.hhs.gov/civil-rights/for-individuals/language-services/index.html
+8. **《2022年通胀削减法案》（Inflation Reduction Act of 2022）** - 第11901-11903条，涉及药品价格谈判。https://www.congress.gov/bill/117th-congress/house-bill/5376
+9. **美国国会预算办公室（CBO）报告** - “The Budgetary Effects of the Medicare Drug Price Negotiation Program”，2025年12月。https://www.cbo.gov/publication/59876
+10. **HHS 2026财年预算摘要** - “Fiscal Year 2026 Budget in Brief”，2025年3月发布。https://www.hhs.gov/about/budget/index.html

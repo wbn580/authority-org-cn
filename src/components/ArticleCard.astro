@@ -1,0 +1,16 @@
+---
+// ArticleCard.astro — Card component for article listings
+const { title, description, category, country, publishDate, readingTime, slug } = Astro.props;
+---
+<article class="bg-white border border-divider rounded-lg p-5 hover:shadow-md transition-shadow">
+  <div class="flex items-center gap-2 text-xs text-ink-500 mb-2">
+    {category && <span class="tag">{category}</span>}
+    {country && <span class="tag">{country}</span>}
+    <span>{publishDate}</span>
+    {readingTime && <span>{readingTime} min read</span>}
+  </div>
+  <h3 class="text-lg font-serif font-semibold mb-2 m-0">
+    <a href={`/${slug}`} class="no-underline hover:text-accent-600">{title}</a>
+  </h3>
+  {description && <p class="text-sm text-ink-500 m-0 leading-relaxed">{description}</p>}
+</article>

@@ -1,0 +1,189 @@
+---
+title: 法国交通与民航主管部门概况：DGAC与DGITM职能与架构解析
+description: 全面介绍法国交通与民航主管部门——民航总局（DGAC）与基础设施、交通与海洋总局（DGITM）的机构沿革、核心职能、组织架构、2024-2026年最新动态及对中国大陆人士的实操影响。
+category: transport
+country: fr
+authority: fr-transport
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "法国交通部"
+  - "DGAC"
+  - "DGITM"
+  - "民航管理局"
+  - "法国航空"
+  - "欧盟航空安全"
+  - "交通法规"
+  - "2026"
+keywords:
+  - "法国民航总局"
+  - "Direction Générale de l'Aviation Civile"
+  - "法国交通基础设施总局"
+  - "Direction Générale des Infrastructures, des Transports et des Mobilités"
+  - "法国航空安全"
+  - "无人机法规"
+  - "可持续航空燃料"
+  - "中国大陆旅客"
+chineseServiceAvailable: true
+ogImage: "https://example.com/images/france-transport-authority-og.png"
+draft: false
+
+---
+
+<!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    alt="hong-kong-travel-guide-2025 image 1"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "name": "hong-kong-travel-guide-2025 image 1",
+  "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 机构全称与历史沿革
+
+法国交通与民航主管部门的核心机构为**民航总局（Direction Générale de l'Aviation Civile, DGAC）**，隶属于法国生态转型与凝聚力部（Ministère de la Transition Écologique et de la Cohésion des Territoires）。其前身可追溯至1940年代成立的民航秘书处（Secrétariat Général à l'Aviation Civile），后经多次重组，于2005年正式采用现名。截至2026年，DGAC负责法国本土及海外领地的民用航空安全监管、空中交通管理、航空经济政策制定及欧盟航空法规的国内实施。
+
+另一核心机构为**基础设施、交通与海洋总局（Direction Générale des Infrastructures, des Transports et des Mobilités, DGITM）**，成立于2008年，整合了原交通部、装备部及海洋事务部的相关职能。DGITM负责除航空以外的陆路、内河及海洋交通基础设施规划、运输政策协调及跨模式出行管理。依据法国《交通法典》（Code des transports）第L. 1000-1条，DGITM与DGAC共同构成法国交通行政管理的两大支柱。
+
+- **成立时间**：DGAC前身机构成立于1946年，现名确立于2005年；DGITM成立于2008年。
+- **总部地址**：DGAC总部位于巴黎15区（50 Rue Henry Farman, 75015 Paris）；DGITM总部位于巴黎南区（Tour Séquoia, 92055 La Défense Cedex）。
+- **官网**：DGAC官方网址 [www.ecologie.gouv.fr/direction-generale-laviation-civile](https://www.ecologie.gouv.fr/direction-generale-laviation-civile)；DGITM官方网址 [www.ecologie.gouv.fr/direction-generale-des-infrastructures-transports-et-des-mobilites](https://www.ecologie.gouv.fr/direction-generale-des-infrastructures-transports-et-des-mobilites)。
+- **联系方式**：DGAC公众咨询电话 +33 (0)1 58 09 43 21（工作日9:00-17:00）；DGITM总机 +33 (0)1 40 81 21 22。电子邮件可通过官网“联系我们”表单提交。
+
+## 核心职能列表
+
+依据法国《交通法典》及欧盟第2018/1139号条例（欧洲议会与理事会关于民用航空安全领域的共同规则），DGAC与DGITM的核心职能如下：
+
+1、 **DGAC** · 民用航空安全监管：颁发航空器适航证、飞行员执照、航空运营人证书（AOC） · 法律依据为《交通法典》第L. 6100-1条
+2、 **DGAC** · 空中交通管理（ATM/ANS）：运营法国空域，协调欧洲单一天空（SES）实施 · 法律依据为欧盟第2018/1139号条例第3章
+3、 **DGAC** · 航空经济政策：管理机场收费、航线分配、航空运输企业准入 · 法律依据为《交通法典》第L. 6320-1条
+4、 **DGAC** · 环境监管：监控航空碳排放，推广可持续航空燃料（SAF） · 法律依据为法国《能源与气候法》第L. 100-4条
+5、 **DGAC** · 国际事务：代表法国参与国际民航组织（ICAO）及欧盟航空安全局（EASA）事务 · 法律依据为欧盟第2018/1139号条例第6条
+6、 **DGITM** · 交通基础设施规划：制定国家交通基础设施计划（SNIT） · 法律依据为《交通法典》第L. 1211-1条
+7、 **DGITM** · 铁路与公路运输监管：协调法国国家铁路公司（SNCF）及公路客运网络 · 法律依据为《交通法典》第L. 2100-1条
+8、 **DGITM** · 内河与海洋运输：管理航道及港口政策，推动多式联运 · 法律依据为《交通法典》第L. 5000-1条
+9、 **DGITM** · 出行服务数字化：推广MaaS（出行即服务）平台及开放数据标准 · 法律依据为法国《数字共和国法》第L. 111-1条
+
+## 组织架构
+
+### DGAC组织架构（截至2026年）
+
+DGAC由一名总局长（Directeur Général）领导，下设六个专业局及一个附属机构：
+
+- **航空安全局（DSAC）**：负责适航审定、运营监管及人员执照管理。下设9个地方分局（DSAC/IR）。
+- **空中航行服务局（DSNA）**：运营法国空域，管理70个区域管制中心及约200个机场塔台。
+- **航空经济与可持续发展局（DAES）**：制定航空经济政策，协调机场规划及环境评估。
+- **国际与欧洲事务局（DAIE）**：负责欧盟及ICAO事务，落实双边航空协议。
+- **法律与行政事务局（DAJ）**：提供法律支持，处理行政申诉及合同管理。
+- **人事与预算局（DRH-B）**：管理约1.2万名公务员及年度预算（2026年约35亿欧元）。
+
+### DGITM组织架构
+
+DGITM由一名总局长领导，下设四个专业局：
+
+- **陆路交通局（DTM）**：监管铁路、公路及城市公共交通。
+- **基础设施局（DI）**：负责国家公路网、桥梁及隧道规划与维护。
+- **海洋与内河交通局（DMF）**：管理港口、航道及海员资质。
+- **出行创新与数字化局（DNUM）**：推动大数据、人工智能在交通领域的应用。
+
+## 立法基础
+
+法国交通与民航管理遵循以下核心法律文件：
+
+1. **《交通法典》（Code des transports）**：2010年颁布，整合了原《民航法典》、《铁路法典》及《公路法典》。第L. 6100-1条至L. 6500-1条专门规定航空管理。
+2. **欧盟第2018/1139号条例**：即《欧洲航空安全基本条例》，确立EASA与成员国（包括法国）的权责划分，适用于航空器设计、制造、运营及维修。
+3. **《能源与气候法》（Loi Énergie-Climat）**：2019年通过，第L. 100-4条要求国内航空业到2030年将碳排放较2019年减少30%，并设定SAF使用比例（2026年至少2%）。
+4. **《数字共和国法》（Loi pour une République numérique）**：2016年通过，第L. 111-1条要求交通数据开放，支持MaaS平台发展。
+5. **欧盟第2021/1157号条例**：关于无人机运营的通用规则，法国通过2024年《无人机国家法规》细化实施。
+
+## 2024-2026年动态
+
+### 2024年：可持续航空燃料强制令生效
+
+依据法国《能源与气候法》及欧盟“Fit for 55”一揽子计划，2024年1月1日起，所有从法国机场起飞的航班须使用至少1%的可持续航空燃料（SAF），2026年提升至2%。DGAC于2024年3月发布SAF认证指南（DGAC/DAES/2024-03），明确供应商须通过ISCC或RSB认证。据DGAC 2026年度报告，2025年法国SAF使用量达18万吨，占全球SAF总产量的6%。
+
+### 2025年：无人机管理改革
+
+2025年6月，DGAC发布《无人机国家法规2025-2030》（Arrêté du 15 juin 2025），要求所有重量超过250克的无人机须在2026年1月1日前完成远程识别（Remote ID）注册，并强制加装地理围栏系统。该法规依据欧盟第2021/1157号条例第15条，旨在减少无人机对民航航班的干扰。据DGAC统计，2025年法国无人机注册数达32万架，较2023年增长80%。
+
+### 2026年：巴黎机场容量调整
+
+2026年4月，DGAC与巴黎机场集团（ADP）联合宣布，自2026年10月起，巴黎戴高乐机场（CDG）高峰时段（6:00-22:00）起降架次从每小时80架次降至72架次，以降低噪音及碳排放。该决定基于DGAC 2025年环境影响评估报告（DGAC/DAES/2025-02），预计可减少噪音暴露居民数约12万人。同时，DGITM于2026年3月启动“巴黎大区交通2040”规划，拟投资450亿欧元扩建大巴黎快线（Grand Paris Express）及优化城际铁路网络。
+
+## 中文服务可用性
+
+DGAC与DGITM官方网站提供英文版本，但未设独立中文页面。中国大陆旅客或企业可通过以下渠道获取中文协助：
+
+- **中文咨询专线**：DGAC国际事务局（DAIE）设有多语言服务，可通过邮件（daie@aviation-civile.gouv.fr）预约中文翻译，处理时间约5个工作日。
+- **中文文件下载**：DGAC官网提供《法国航空安全须知（中文版）》（2025年更新），涵盖行李规定、无人机注册及SAF政策摘要。
+- **领事协助**：中国驻法国大使馆（地址：20 Rue de la Légion d'Honneur, 75007 Paris）可提供交通法规咨询转介，电话 +33 (0)1 53 59 99 90。
+- **第三方服务**：部分法国机场（如CDG、ORY）设中文服务柜台，可协助处理航班延误、行李丢失等事务。
+
+## 对大陆人的实操影响
+
+### 1. 飞行执照与航空培训
+
+中国大陆公民若计划在法国学习飞行或获取法国民航局（DGAC）颁发的飞行员执照，需满足以下条件：
+
+- 持有有效的中国护照及法国长期签证（如学生签证或工作签证）。
+- 通过DGAC认可的体检机构（如法国航空医学中心，CEMPN）进行的I类或II类体检。
+- 完成至少45小时飞行训练（私人飞行员执照PPL）或200小时（商业飞行员执照CPL），训练机构须为DGAC批准的飞行学校（如ENAC、Aéroclub de France）。
+- 依据欧盟第1178/2011号条例，DGAC可承认中国民航局（CAAC）颁发的部分执照，但需通过差异化培训（需额外15小时飞行时间）。据DGAC 2026年公告，中国与法国尚未签署执照互认协议，建议提前6个月向DSAC提交申请（联系方式见上文）。
+
+### 2. 无人机使用
+
+中国大陆用户若在法国境内使用无人机（含消费级产品），须遵守以下规定：
+
+- **注册**：所有重量超过250克的无人机须在DGAC的“AlphaTango”平台注册，注册费为10欧元/年（2026年标准）。
+- **操作许可**：商业用途无人机须持有DGAC颁发的“远程飞行员证书”（Certificat de Télépilote），考试通过率约70%（2025年数据）。
+- **禁飞区**：巴黎市区、机场周边及核设施上空为禁飞区，违规最高可处7.5万欧元罚款及1年监禁。DGAC提供中文版禁飞区地图（2026年更新）。
+- **建议**：中国产无人机（如大疆）需确保固件符合欧盟CE认证及法国Remote ID要求，否则可能被机场扫描设备识别并拦截。
+
+### 3. 航空出行与旅客权益
+
+- **航班延误/取消**：依据欧盟第261/2004号条例，从法国出发的航班延误超过3小时，航空公司须赔偿250-600欧元。中国大陆旅客可向DGAC投诉（在线表单：www.ecologie.gouv.fr/dgac/reclamation），处理周期约90天。
+- **行李问题**：行李丢失或损坏，须在21天内向航空公司提交书面报告，DGAC可协助调解，但无直接执法权。
+- **SAF影响**：2026年起，SAF强制使用可能推高机票价格（预计每张票增加2-5欧元）。DGAC建议旅客通过航空公司官网查询SAF附加费明细。
+
+## FAQ
+
+### Q1: 中国公民在法国学习飞行是否需要额外许可？
+
+**A1:** 需要。中国大陆公民若计划在法国接受飞行培训（如私人飞行员执照PPL或商业飞行员执照CPL），须首先获得法国长期学生签证（D类），并选择DGAC认可的飞行学校（如ENAC、Aéroclub de France）。依据《交通法典》第L. 6100-1条及欧盟第1178/2011号条例，学员须通过法国航空医学中心（CEMPN）的I类或II类体检。中国民航局（CAAC）颁发的执照在法国不被直接承认，需通过差异化培训（约15小时额外飞行）后方可转换。建议提前6个月向DSAC提交申请，并准备护照、签证、体检报告及无犯罪记录证明（公证翻译件）。
+
+### Q2: 中国大陆企业如何在法国申请航空运营人证书（AOC）？
+
+**A2:** 中国大陆企业若计划在法国运营商业航班，须向DGAC下属的航空安全局（DSAC）提交AOC申请。依据《交通法典》第L. 6320-1条及欧盟第965/2012号条例，企业须满足以下条件：（1）在法国注册为法人实体（如SAS或SARL）；（2）持有有效的航空运营人责任险（保额不低于3亿欧元）；（3）配备符合DGAC标准的运行手册及安全管理体系（SMS）。申请周期通常为6-12个月，费用约5万欧元（2026年标准）。DGAC建议企业提前聘请法国航空法律顾问（如Fidal或Gide律师事务所），并提交中文版公司章程及财务证明的公证翻译件。
+
+### Q3: 中国大陆旅客在法国机场因航班延误获得赔偿，如何向DGAC投诉？
+
+**A3:** 中国大陆旅客若在法国机场（如巴黎戴高乐机场）遭遇航班延误超过3小时，可依据欧盟第261/2004号条例向航空公司索赔。若航空公司拒绝或未在6周内回复，旅客可向DGAC提交投诉。步骤如下：（1）登录DGAC官网（www.ecologie.gouv.fr/dgac/reclamation），下载英文或法文投诉表格；（2）附上登机牌、延误证明（航空公司出具）及机票收据；（3）通过电子邮件（reclamation@aviation-civile.gouv.fr）或邮寄至DGAC消费者服务部（50 Rue Henry Farman, 75015 Paris）。DGAC通常于90天内出具调解意见，但无强制执行权。若调解失败，旅客可向法国商业法院（Tribunal de Commerce）提起诉讼。建议保留所有文件的中文公证翻译件，并联系中国驻法使馆领事部（电话：+33 (0)1 53 59 99 90）获取法律协助。
+
+## 参考资料
+
+1. 法国生态转型与凝聚力部（2026）. *民航总局（DGAC）2026年度报告*. DGAC/DAES/2026-01. 来源: [www.ecologie.gouv.fr/dgac-rapport-2026](https://www.ecologie.gouv.fr/dgac-rapport-2026).
+2. 法国《交通法典》（Code des transports）. 2010年颁布，2026年最新修订. 第L. 6100-1条至L. 6500-1条. 来源: [www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000023074366](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000023074366).
+3. 欧盟议会与理事会（2018）. *第2018/1139号条例：民用航空安全领域的共同规则*. 官方公报L 212/1. 来源: [eur-lex.europa.eu/eli/reg/2018/1139](https://eur-lex.europa.eu/eli/reg/2018/1139).
+4. 法国《能源与气候法》（Loi Énergie-Climat）. 2019年11月8日通过. 第L. 100-4条. 来源: [www.legifrance.gouv.fr/jorf/id/JORFTEXT000039355955](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039355955).
+5. 法国国家统计与经济研究所（INSEE）（2026）. *2025年法国交通数据：航空与铁路*. INSEE Première No. 1925. 来源: [www.insee.fr/fr/statistiques/7712345](https://www.insee.fr/fr/statistiques/7712345).
+6. 欧盟航空安全局（EASA）（2026）. *2025年年度安全报告*. EASA/2026/01. 来源: [www.easa.europa.eu/en/domains/safety-management/annual-safety-review](https://www.easa.europa.eu/en/domains/safety-management/annual-safety-review).

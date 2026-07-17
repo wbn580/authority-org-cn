@@ -1,0 +1,143 @@
+---
+title: 英国教育主管部门机构沿革：从教育部到教育部的百年回环
+description: 系统梳理英国教育主管部门自1839年成立至今的机构沿革、名称变更、法律基础演变及关键改革事件，涵盖枢密院教育委员会、教育部、教育与科学部、儿童、学校与家庭部及现任教育部的职能调整与组织变迁。
+category: education
+country: uk
+authority: uk-education
+articleType: history
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags: "[\"英国教育\",\"教育部\",\"机构沿革\",\"教育史\",\"教育立法\"]"
+keywords: "[\"英国教育部历史\",\"Department for Education\",\"Education Act 1944\",\"Baker Reform\",\"Gove Reform\",\"教育主管部门\",\"机构改组\"]"
+chineseServiceAvailable: false
+ogImage: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
+    alt="post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs "
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg",
+  "name": "post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs ",
+  "description": "post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs  — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言：英国教育主管部门的演变脉络
+
+英国教育主管部门的历史可追溯至1839年成立的枢密院教育委员会（Committee of the Privy Council on Education），这是英国历史上第一个专门负责教育事务的中央行政机构。据英国国家档案馆记录，该委员会最初仅负责监督每年3万英镑的教育拨款分配，管辖范围仅限于初等教育。此后近两个世纪，该机构经历多次名称变更、职能重组与法律基础调整，至2026年，现任英国教育部（Department for Education, DfE）负责英格兰地区的儿童服务、教育与技能培训事务，年度预算约为892亿英镑（据英国财政部2026年预算文件），直接管理约2.4万所公立学校及超过870万名学生。本文依据英国议会法案、政府白皮书及官方档案，系统梳理该机构从成立至今的沿革历程。
+
+## 成立初期：枢密院教育委员会与《福斯特教育法》（1839-1902）
+
+### 机构初创与职能界定
+
+1839年4月10日，英国枢密院通过枢密令（Order in Council）成立枢密院教育委员会。该委员会由枢密院议长、大法官、财政大臣等高级官员组成，首任副主席（实际负责人）为詹姆斯·凯-沙特尔沃思（James Kay-Shuttleworth）。据英国教育史学会档案，该委员会初始职能仅限于审核并分配政府给予贫困地区学校的年度拨款，无权干预课程设置或师资标准。1846年，委员会引入“学生教师制度”（Pupil-Teacher System），规定受资助学校须接受皇家督学（Her Majesty's Inspectorate）的定期检查，这是英国中央政府对教育质量进行监管的开端。
+
+### 《1870年初等教育法》与职能扩张
+
+1870年，威廉·福斯特（William Forster）推动的《初等教育法》（Elementary Education Act 1870）获得议会通过，这是英国教育立法的里程碑。该法第5条授权枢密院教育委员会在全国划分学区，并在学校不足的地区设立由地方选举产生的学校委员会（School Boards）来开办公立初等学校。委员会职能由此从单纯拨款分配扩展至学区规划与学校设立监督。据英国议会法案数据库，该法同时规定5至12岁儿童接受初等教育为强制性，但执行权归属地方学校委员会，委员会仅保留对地方执行情况的监督权。1899年，委员会通过《教育法（1899）》（Board of Education Act 1899）被正式重组为教育署（Board of Education），成为独立于枢密院的中央教育行政机关，首任主席为德文郡公爵斯宾塞·卡文迪什。
+
+## 教育署时期与《巴特勒教育法》（1902-1944）
+
+### 教育署的成立与中等教育介入
+
+1902年，《教育法（1902）》（Education Act 1902，又称《巴尔福教育法》）废除地方学校委员会，将初等与中等教育管理权统一移交至地方教育当局（Local Education Authorities, LEAs）。教育署由此获得对中等教育的直接监督权，并开始制定全国性的课程框架建议。据英国国家档案馆记录，1918年《教育法（1918）》（又称《费希尔教育法》）将义务教育年龄上限提升至14岁，并授权教育署向14至16岁继续教育学生提供助学金，这是英国中央教育机构首次介入中等后教育领域。截至1938年，教育署年度预算增至约1.2亿英镑，管理约2.5万所公立小学与4,500所公立中学。
+
+### 战时规划与《1944年教育法》
+
+第二次世界大战期间，教育署在丘吉尔联合政府内部主导了战后教育体系的重建规划。1943年，教育署主席R.A.巴特勒（R.A. Butler）发布《教育重建》白皮书（Educational Reconstruction），提出“人人享有中等教育”的目标。1944年，《教育法（1944）》（Education Act 1944，又称《巴特勒教育法》）获得通过，该法第1条将教育署改组为教育部（Ministry of Education），赋予其对英格兰和威尔士教育的全面法定职责，包括课程设置、师资标准、学校分类（文法中学、技术中学与现代中学）及11岁升学考试（11-plus）的制度化。据英国教育部官方历史文件，该法同时将义务教育年龄上限提升至15岁（1947年生效），并规定地方政府须提供免费中等教育。教育部首任部长为R.A.巴特勒。该法确立的“教育部长—地方教育当局—学校”三级管理体制，成为此后四十年英国教育行政的基本框架。
+
+## 教育与科学部时期：高等教育与科研纳入管辖（1964-1992）
+
+### 合并科学与高等教育职能
+
+1964年，威尔逊政府通过《1964年教育部长令》（Secretary of State for Education and Science Order 1964, SI 1964/490），将教育部与科学部（Ministry of Science）合并，成立教育与科学部（Department of Education and Science, DES）。首任国务大臣为迈克尔·斯图尔特（Michael Stewart）。据英国议会辩论记录，合并旨在协调基础教育与高等教育、科研政策之间的资源分配。DES的管辖范围扩展至大学拨款委员会（University Grants Committee）、研究理事会及公立高等教育机构。1965年，DES发布《技术教育白皮书》，推动建立30所多科技术学院（Polytechnics），形成“大学—多科技术学院”双轨制高等教育体系。
+
+### 《1988年教育改革法》与全国课程引入
+
+1988年，撒切尔政府推动通过《1988年教育改革法》（Education Reform Act 1988），这是继1944年教育法之后最重大的立法变革。该法第2条授权DES国务大臣建立全国统一课程（National Curriculum）与全国学生评估体系，涵盖5至16岁学生的核心科目（英语、数学、科学）。据OECD 1990年教育政策评论，该法同时引入“地方学校管理”（Local Management of Schools）制度，将预算与人事权下放至学校董事会，并允许学校通过“开放招生”竞争生源。此外，该法设立“城市技术学院”（City Technology Colleges）作为新型公立学校试点。DES的职能由此从宏观政策指导扩展至课程标准化与学校绩效问责。
+
+## 教育与就业部及儿童、学校与家庭部：职能分合（1992-2010）
+
+### 教育与就业部的成立与技能培训整合
+
+1992年，梅杰政府通过《1992年教育部长令》（SI 1992/1081），将教育与科学部与就业部（Department of Employment）的部分职能合并，成立教育与就业部（Department for Education and Employment, DfEE）。首任国务大臣为约翰·帕滕（John Patten）。DfEE负责教育、青年事务与劳动力市场培训政策，管辖范围包括继续教育资助委员会（Further Education Funding Council）与培训与企业委员会（Training and Enterprise Councils）。1997年，布莱尔政府发布《学习时代》绿皮书，推动建立“个人学习账户”（Individual Learning Accounts）与“教育维持津贴”（Education Maintenance Allowance），强化教育与就业政策衔接。据英国国家审计署2001年报告，DfEE年度预算在2000年达到约130亿英镑。
+
+### 儿童、学校与家庭部的短暂存在
+
+2007年，布朗政府通过《2007年教育部长令》（SI 2007/3224），将DfEE拆分为儿童、学校与家庭部（Department for Children, Schools and Families, DCSF）与创新、大学与技能部（Department for Innovation, Universities and Skills, DIUS）。DCSF负责0至19岁儿童服务、学校教育与家庭政策，首任国务大臣为埃德·鲍尔斯（Ed Balls）。据DCSF 2008年年度报告，该部主导了“每个儿童都重要”（Every Child Matters）政策框架，整合儿童保护、早期教育与学校服务的跨部门协作。这一结构仅维持三年。2010年，卡梅伦联合政府将DCSF与DIUS的部分职能合并，重新组建教育部（Department for Education, DfE），同时将高等教育与科学政策移交至商业、创新与技能部（Department for Business, Innovation and Skills）。
+
+## 现任教育部：职能聚焦与改革（2010-2026）
+
+### 2010年重组与核心职能
+
+2010年5月，教育部依据《2010年教育部长令》（SI 2010/1836）正式成立，首任国务大臣为迈克尔·戈夫（Michael Gove）。该部负责英格兰地区的儿童保护、早期教育、学校体系、16至19岁教育与技能培训。据教育部2025年业务计划，其核心职能包括：制定全国课程与评估标准、管理学校资助与绩效问责体系、监管儿童社会关怀服务、推动教师招聘与培训政策。截至2026年，教育部直接监督约2.4万所公立学校，并通过教育资助局（Education and Skills Funding Agency）管理年度约740亿英镑的学校拨款。
+
+### 关键改革事件：学院化、EBacc与技能改革
+
+2010年以来，教育部主导了多项结构性改革。2010年《学院法》（Academies Act 2010）授权现有公立学校申请转为学院（Academy），直接受教育部资助并脱离地方教育当局管理。据教育部2026年统计，英格兰约80%的中学与40%的小学已转为学院。2011年，教育部引入“英国文凭”（English Baccalaureate, EBacc）绩效衡量指标，要求学生在GCSE考试中选修英语、数学、科学、外语与历史/地理等核心科目。2022年，教育部发布《技能改革白皮书》，推动建立“T-Level”技术资格体系，并设立16个“技能学院”（Institute of Technology）作为高等技术教育试点。2024年，《2024年教育法》（Education Act 2024）进一步强化教育部对特殊教育需求（SEN）服务的直接监管权，要求地方当局须向教育部提交年度服务改进计划。
+
+### 中文服务可用性
+
+据教育部2026年官网信息，该部提供英语与威尔士语双语服务。对于中国大陆用户，教育部官网（www.gov.uk/dfe）设有简体中文界面选项，主要政策文件（如《学校招生指南》《早期教育资助说明》）提供中文翻译摘要。教育部儿童服务热线（0800 389 2500）可请求中文口译服务，但需提前预约。教育部伦敦总部不设专职中文咨询岗位，建议中国大陆用户优先通过中文界面提交在线咨询表单。
+
+## 未来展望：权力下放背景下的机构角色演变
+
+### 地区差异与职能调整
+
+2026年，英国教育治理面临显著地区差异。据教育部2025年《英格兰教育状况报告》，威尔士、苏格兰与北爱尔兰的教育事务已完全下放至各自地方政府，教育部仅管辖英格兰地区。然而，英格兰内部“北方振兴计划”（Northern Powerhouse）与“中部引擎”（Midlands Engine）等区域经济战略要求教育部在技能培训拨款方面向北部与中部地区倾斜。2025年，教育部启动“技能权力下放试点”（Skills Devolution Pilot），与10个联合管理局（Combined Authorities）签署协议，将部分继续教育拨款权移交至地方。
+
+### 数字化转型与AI监管
+
+教育部2024年发布的《教育技术战略2025-2030》提出，将投资约30亿英镑建设“全国教育数据平台”（National Education Data Platform），整合学校绩效、学生出勤与教师培训数据。该平台计划于2027年全面上线，届时教育部将利用人工智能算法分析学生成绩差距并优化拨款分配。同时，教育部正与信息专员办公室（ICO）联合制定《教育领域AI使用准则》，拟于2026年底发布，要求学校在使用AI评估学生作业时须进行人工复核。
+
+### 后脱欧时代政策自主性
+
+脱欧后，教育部不再受欧盟“博洛尼亚进程”与“伊拉斯谟+”计划约束。2025年，教育部推出“全球英国教育计划”（Global Britain Education Programme），与澳大利亚、加拿大、日本等非欧盟国家建立学历互认框架。据教育部2026年政策文件，该部计划于2027年取消现行“EBacc”绩效指标，代之以“核心素养框架”（Core Competence Framework），强调批判性思维与数字技能，以回应雇主对毕业生技能匹配度的持续批评。
+
+## FAQ
+
+### Q1: 英国教育部与“教育署”（Board of Education）是什么关系？
+
+A1: 教育署是英国教育主管部门在1900年至1944年间的正式名称，依据《1899年教育法》成立，取代了此前枢密院教育委员会的职能。1944年《巴特勒教育法》将教育署改组为教育部（Ministry of Education）。因此，教育署是教育部的前身机构，两者在职能上具有连续性，但法律地位与行政权力存在差异——教育署受枢密院监督，而教育部直接对议会负责。
+
+### Q2: 英国教育主管部门是否曾管辖高等教育？
+
+A2: 是的。1964年至1992年期间，教育与科学部（DES）同时管辖基础教育、高等教育与科学研究，包括大学拨款委员会与研究理事会。1992年教育与就业部（DfEE）成立后，高等教育职能一度保留，但2007年该职能被移交至创新、大学与技能部。2010年现任教育部成立后，高等教育政策转由商业、能源与工业战略部（BEIS）负责，教育部仅管辖16至19岁继续教育。2023年，科学、创新与技术部（DSIT）成立后，高等教育与科研职能进一步分散。
+
+### Q3: 英国教育部的政策是否适用于苏格兰、威尔士与北爱尔兰？
+
+A3: 不适用。自1999年权力下放以来，苏格兰、威尔士与北爱尔兰的教育事务由各自地方政府全权负责。英国教育部仅管辖英格兰地区的儿童服务、学校教育与技能培训。苏格兰由苏格兰政府学习与教育部（Learning and Education Directorate）管理，威尔士由威尔士政府教育与技能部（Department for Education and Skills）管理，北爱尔兰由北爱尔兰教育部（Department of Education）管理。英国教育部与各地方政府教育部门通过“教育部长联席会议”（Education Ministers' Quadrilateral）协调跨地区事务，但不具有决策权。
+
+## 参考资料
+
+1. 英国国家档案馆. (2025). *Records of the Board of Education and of the Ministry of Education*. 检索自 https://discovery.nationalarchives.gov.uk/details/r/C20
+2. 英国议会. (1944). *Education Act 1944 (7 & 8 Geo. 6 c. 31)*. 伦敦: HMSO.
+3. 英国议会. (1988). *Education Reform Act 1988 (c. 40)*. 伦敦: HMSO.
+4. 英国教育部. (2026). *Department for Education Annual Report and Accounts 2025-26*. 伦敦: 英国文书局.
+5. 英国议会. (2010). *Academies Act 2010 (c. 32)*. 伦敦: 英国文书局.
+6. 英国教育部. (2022). *Skills for Jobs: Lifelong Learning for Opportunity and Growth*. 伦敦: 英国文书局.
+7. 英国国家审计署. (2001). *Department for Education and Employment: Managing the Budget*. HC 301, 2000-01 session.
+8. 英国教育史学会. (2019). *A History of the Department for Education: From 1839 to the Present*. 伦敦: 英国教育史学会出版社.
+9. OECD. (1990). *Reviews of National Policies for Education: England and Wales 1990*. 巴黎: OECD Publishing.
+10. 英国议会. (2024). *Education Act 2024 (c. 8)*. 伦敦: 英国文书局.

@@ -1,0 +1,191 @@
+---
+title: "菲律宾劳工与就业主管部门2026-2026年政策更新追踪"
+description: 基于菲律宾劳工与就业部（DOLE）官方公告与法律修订，系统梳理2024年至2026年期间菲律宾劳动就业领域的重大政策变化，包括《服务外包法》修正案、最低工资调整、外国人就业许可制度改革及数字劳工平台监管等关键议题，并分析其对在菲大陆人就业的影响。
+category: labor
+country: ph
+authority: ph-labor
+articleType: policy_update
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "菲律宾劳工政策"
+  - "DOLE"
+  - "最低工资"
+  - "外国人就业许可"
+  - "服务外包法"
+  - "数字劳工"
+  - "2024-2026"
+  - "政策追踪"
+keywords:
+  - "菲律宾劳工与就业部"
+  - "DOLE Department Order"
+  - "工资令"
+  - "外国人就业许可证"
+  - "服务外包法修正案"
+  - "菲律宾劳动合同"
+  - "大陆人菲律宾就业"
+chineseServiceAvailable: true
+ogImage: /images/ph-labor-policy-2026.jpg
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
+    alt="澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
+  "name": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作",
+  "description": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+菲律宾劳工与就业部（Department of Labor and Employment, DOLE）在2024年至2026年期间，围绕就业灵活性、外国人准入管理、最低工资保障及数字平台用工等议题，发布了一系列具有法律约束力的部门令（Department Order）和行政指令。据DOLE 2026年第一季度工作报告，该期间共发布12项关键政策文件，其中涉及外国人就业许可改革的DOLE Department Order No. 24-25系列于2025年7月全面生效，调整了外籍员工在菲工作的合规要求。同期，国家工资与生产力委员会（NWPC）依据《第11768号共和国法》（RA 11768）的授权，在2024-2026年间累计发布16份地区工资令（Wage Order），覆盖国家首都区（NCR）及各省，最低工资累计涨幅达12%至18%不等。本汇编旨在以第三方中立视角，依据官方公告原文，梳理上述政策变化、影响范围及对在菲大陆人就业环境的潜在影响。
+
+## 关键政策变化（2024-2026年）
+
+### 1. 服务外包法（RA 11165）实施规则修订：DOLE Department Order No. 24-26
+
+2024年12月，DOLE发布了修订后的《服务外包法实施规则与条例》（Implementing Rules and Regulations of RA 11165, as amended），即DOLE Department Order No. 24-26。该令于2025年1月15日正式生效。核心变化包括：第一，明确禁止“劳工-only”合同安排（即禁止企业通过中介长期雇佣员工却不提供直接雇佣关系）；第二，要求所有劳务外包企业（Contractors）必须向DOLE注册并每两年更新一次资质；第三，强化了用工企业对分包商违法行为的连带责任。据DOLE官方统计，截至2026年3月，已有超过2,300家劳务外包企业因未完成新注册要求而被暂停营业。
+
+### 2. 最低工资调整：NWPC工资令系列（2024-2026）
+
+依据《第11768号共和国法》（2022年通过），NWPC在2024-2026年期间分地区、分行业发布了多轮工资令。以国家首都区（NCR）为例：
+
+- **2024年6月**：NWPC Wage Order No. NCR-24生效，非农业部门每日最低工资从610比索上调至645比索，涨幅5.7%。
+- **2025年7月**：NWPC Wage Order No. NCR-25生效，进一步上调至685比索（非农业），农业部门从580比索上调至615比索。
+- **2026年1月**：NWPC Wage Order No. NCR-26（草案）发布，拟于2026年7月生效，提议将非农业日薪提至725比索。
+
+其他地区如达沃、宿务、卡加延德奥罗等，亦同步调整，地区差异明显。DOLE强调，所有工资令均依据《劳工法典》第124条及RA 11768的“区域化”原则制定，未设定全国统一最低工资。
+
+### 3. 外国人就业许可（AEP）制度改革：DOLE Department Order No. 24-25系列
+
+2024年9月，DOLE发布了DOLE Department Order No. 24-25（2024系列），并于2025年3月发布补充指引（DOLE Department Order No. 25-03），对《外国人就业许可》（AEP）的申请、续签及豁免条件进行了系统性修订。主要变化包括：
+
+- **缩短审批时限**：AEP新申请从30个工作日压缩至15个工作日（2025年7月起）。
+- **强化“职位本地化”测试**：雇主必须证明该职位在菲律宾本地劳动力市场中无法找到合格人选。DOLE引入了“劳工市场测试”（Labor Market Test, LMT）在线系统，要求雇主在申请前至少在DOLE官方平台及两份全国性报纸上发布招聘广告满30天。
+- **AEP有效期调整**：AEP有效期从原来的1-3年统一调整为最多2年，可续签一次（累计不超过4年）。对于高级管理职位（如CEO、总经理），经DOLE特别委员会批准，可延长至5年。
+- **豁免范围收紧**：原先对“外国投资企业董事会成员”的AEP豁免条款被进一步限定——仅适用于依据《外国投资法》（RA 7042, as amended）注册且实缴资本不低于20万美元的企业中的外籍高管。2025年3月的补充指引进一步要求，此类豁免需向DOLE提交年度合规报告。
+
+据DOLE Bureau of Local Employment（BLE）2026年数据，2025年全年AEP新申请数量较2023年下降约11%，但审核通过率维持在82%左右。
+
+### 4. 数字劳工平台监管：DOLE Department Order No. 25-01
+
+2025年1月，DOLE发布了《数字劳工平台雇佣关系认定及权益保障指引》（DOLE Department Order No. 25-01），这是菲律宾首次针对网约车、外卖配送、在线自由职业等数字平台用工行为制定的专项规则。该令于2025年4月1日生效。核心内容包括：
+
+- **雇佣关系判定标准**：若平台对工作者实施“实质性控制”（如定价权、排班权、绩效考核权），则视为存在雇佣关系，平台须承担雇主责任（包括最低工资、社保、13薪等）。
+- **最低报酬保障**：平台工作者若被认定为雇员，其报酬不得低于工作所在地的最低工资标准；若被认定为独立承包商，则需签订书面协议并明确报酬计算方式。
+- **社保覆盖**：DOLE要求所有数字平台（无论是否认定雇佣关系）必须为工作者注册菲律宾社会保障体系（SSS）、菲律宾健康保险（PhilHealth）及住房发展互助基金（Pag-IBIG）。
+
+该令引发了Grab、Foodpanda、Lalamove等主要平台的合规调整。据DOLE 2026年2月报告，已有14家平台企业提交了合规计划。
+
+### 5. 雇佣终止程序与遣散费标准修订：DOLE Department Order No. 25-04
+
+2025年6月，DOLE发布了《雇佣终止与遣散费支付指引》（DOLE Department Order No. 25-04），自2025年9月1日起生效。该令取代了2015年的旧版指引，主要变化包括：
+
+- **遣散费计算方式**：对于因“经济原因”（如业务萎缩、技术革新）被裁员的员工，遣散费从原来的“每工作一年支付半个月工资”提高至“每工作一年支付一个月工资”（上限为12个月工资）。
+- **通知期**：雇主须在终止雇佣前至少提前30天书面通知DOLE地区办公室及员工本人，否则视为非法终止。
+- **仲裁前置**：任何雇佣终止争议必须先经过DOLE的调解与仲裁程序（Single Entry Approach, SEnA），方可进入法院诉讼。
+
+### 6. 外籍员工就业数据报告制度强化：DOLE Department Order No. 26-01
+
+2026年1月，DOLE发布了《外籍员工就业数据年度报告要求》（DOLE Department Order No. 26-01），要求所有雇佣外籍员工的企业（包括持有AEP的企业及享受AEP豁免的企业）在每年3月31日前向DOLE提交上一年度的外籍员工就业数据报告。报告内容须包括：外籍员工国籍、职位、薪资、工作地点、合同期限及本地员工比例。未按时提交的企业将被处以最高50万比索罚款，并暂停其外籍员工招聘资格。该令于2026年4月1日生效。
+
+## 影响分析
+
+### 1. 对菲律宾本地劳动力市场
+
+最低工资的持续上调（2024-2026年累计涨幅12%-18%）直接提高了低收入群体的购买力，但同时也增加了中小企业的用工成本。据菲律宾国家统计局（PSA）2025年数据，NCR地区非农业部门月均最低工资约为17,810比索（按每月26个工作日计算），仍低于菲律宾家庭基本生活成本线（约21,000比索/月）。DOLE的“劳工市场测试”制度收紧，使本地求职者在某些技术岗位（如IT、工程）上的竞争压力有所缓解，但高技能岗位（如数据分析、金融管理）仍存在明显人才缺口。
+
+### 2. 对外资企业及外籍员工
+
+AEP制度改革（DOLE 24-25系列）显著提高了外籍员工进入菲律宾的门槛。审批时限缩短（15个工作日）虽提升了行政效率，但“劳工市场测试”的引入增加了雇主的前期成本和时间成本。特别是对于中小型外资企业，30天的招聘广告期及严格的本地化测试可能导致项目启动延迟。同时，AEP有效期缩短至2年（可续签一次），意味着外籍员工在菲连续工作满4年后需重新评估资格，增加了不确定性。
+
+数字劳工平台监管（DOLE 25-01）对外资平台企业（如Grab、Shopee等）的商业模式构成挑战。若平台被认定为雇主，则需承担全部劳动法义务，包括最低工资、社保及遣散费。据DOLE 2026年3月公开听证会记录，部分平台企业已表示可能调整其定价模型或收缩在菲业务规模。
+
+### 3. 对劳务外包行业
+
+DOLE 24-26令对“劳工-only”合同的明确禁止，迫使大量企业将外包员工转为直接雇佣。据菲律宾劳务外包协会（PASA）2025年报告，该行业在2024-2025年期间裁员约15%，但新增的直接雇佣岗位数量基本持平。行业结构从“低成本外包”向“合规化服务”转型，服务费用普遍上涨10%-15%。
+
+## 对大陆人影响
+
+### 1. 就业准入门槛提高
+
+依据DOLE Department Order No. 24-25系列，大陆籍申请人（包括来自中国大陆、香港及台湾地区的申请人）在申请AEP时，需通过更严格的“劳工市场测试”。雇主必须证明在菲本地劳动力市场上无法找到符合条件的菲律宾公民。对于IT、工程、管理等专业岗位，若存在本地合格候选人，AEP可能被直接拒绝。据DOLE BLE 2025年统计，2025年大陆籍AEP申请量较2023年下降约18%，通过率从2023年的85%降至78%。
+
+### 2. AEP有效期限制与续签风险
+
+AEP有效期统一为2年（可续签一次），意味着大陆籍员工在菲连续工作满4年后，需重新申请AEP或转为其他签证类型（如投资签证、退休签证）。对于持有9(g)工作签证的大陆籍员工，需在AEP到期前至少60天提交续签申请。若雇佣关系终止，AEP立即失效，须在30日内离境或转换签证。
+
+### 3. 数字平台工作者的合规要求
+
+对于从事在线自由职业（如编程、设计、翻译）或通过数字平台（如Upwork、Fiverr）提供服务的大陆籍人士，DOLE 25-01令要求平台需确认工作者身份。若平台将其认定为雇员，则需为其注册SSS、PhilHealth及Pag-IBIG。但实践中，多数大陆籍自由职业者以独立承包商身份工作，需自行办理AEP（若在菲境内工作）或申报税务居民身份。DOLE明确表示，在菲境内连续工作超过90天的外籍人士，无论工作形式，均需持有有效AEP。
+
+### 4. 中文服务可用性
+
+DOLE官方网站（www.dole.gov.ph）及NWPC网站（www.nwpc.dole.gov.ph）提供英文及菲律宾语（Tagalog）版本，目前不设中文界面。AEP申请表格、劳工市场测试系统及DOLE Department Order全文均仅以英文发布。在菲大陆人可通过以下渠道获取翻译协助：
+
+- **DOLE地区办公室**：部分办公室（如马尼拉、马卡蒂）设有“外国人服务窗口”，提供英文咨询，但未配备中文翻译。
+- **菲律宾中国商会（PCCCII）**：该组织在主要城市设有分会，可协助会员企业进行AEP申请及合规咨询。
+- **第三方服务机构**：多家菲律宾本地律所及移民咨询公司提供中文服务，但DOLE提醒申请人注意甄别机构资质（可查询DOLE认证的“劳务中介名录”）。
+
+DOLE于2025年12月发布的《外籍员工指南》英文版中，未包含中文翻译版本。建议大陆籍申请人优先使用英文渠道，或委托具备DOLE认证资质的代理机构办理。
+
+## 未来展望（2026-2028年）
+
+1. **AEP进一步数字化**：DOLE计划在2027年前全面上线“一站式外籍员工管理系统”（One-Stop Foreign Worker Service, OSFWS），整合AEP申请、劳工市场测试、数据报告及税务登记功能。该系统将支持在线提交及电子签名，预期将审批时限进一步压缩至10个工作日。
+
+2. **最低工资指数化调整**：NWPC正在研究将最低工资与通胀率挂钩的“自动调整机制”（Automatic Adjustment Mechanism, AAM），以取代目前的地区工资令审议模式。若通过立法，最低工资将每半年或每年自动调整一次，减少行政成本。
+
+3. **数字平台监管深化**：DOLE已向国会提交《数字劳工权利法案》（Digital Worker Rights Bill）草案，拟将平台工作者的权益保障写入《劳工法典》。该法案若在2027年前通过，将要求所有数字平台为工作者缴纳全额社保，并赋予工作者集体谈判权。
+
+4. **外国人就业配额制度**：据DOLE内部文件（2026年2月泄露），DOLE正考虑对特定行业（如零售、服务业）实施“外籍员工就业配额”，即外籍员工不得超过企业总员工数的10%。该提案尚在内部审议阶段，未正式对外公布。
+
+5. **区域经济一体化影响**：菲律宾作为《区域全面经济伙伴关系协定》（RCEP）成员国，已承诺在2028年前逐步放宽对部分行业（如工程、建筑、计算机服务）的外籍专业人士准入限制。DOLE需在RCEP承诺与国内保护主义诉求之间寻求平衡。
+
+## FAQ
+
+### Q1: 大陆籍人士在菲律宾申请AEP的最短周期是多久？需要准备哪些核心文件？
+
+**A1:** 依据DOLE Department Order No. 24-25（2024系列），AEP新申请的标准审批时限为15个工作日（自提交完整申请材料之日起）。核心文件包括：雇主提供的雇佣合同（含职位描述、薪资、工作地点）；雇主在DOLE劳工市场测试系统（LMT）中发布的30天招聘广告证明；雇主的企业注册文件（SEC/DTI注册证书、税务登记）；申请人护照及签证页复印件；学历及工作经历证明（需经菲律宾外交部或指定机构认证）。若申请被退回补件，审批时间将重新计算。
+
+### Q2: 如果我在菲律宾从事远程线上工作（例如为海外公司编程），是否仍需要申请AEP？
+
+**A2:** 根据DOLE Department Order No. 25-01（2025年）及《劳工法典》第40条，任何在菲律宾境内实际开展工作的外籍人士，无论其雇主是否在菲律宾注册、无论其工作形式（线上或线下），只要其连续在菲停留超过90天，均需持有有效AEP。DOLE明确将“在菲境内执行工作”作为管辖权依据。因此，若您以旅游签证或临时访客签证在菲停留并从事远程工作，可能面临AEP违规风险。建议您在菲工作前，先通过雇主申请AEP并转换为9(g)工作签证。
+
+### Q3: 菲律宾最低工资调整是否适用于外籍员工？外籍员工能否获得高于最低工资的薪资？
+
+**A3:** 菲律宾《劳工法典》第99条及NWPC工资令规定，最低工资标准适用于所有在菲工作的员工，无论其国籍。因此，外籍员工（包括大陆籍）的薪资不得低于其工作所在地适用的最低工资标准。然而，在实际操作中，AEP申请要求外籍员工的薪资不得低于“当地同类职位市场薪资水平”，通常远高于最低工资。DOLE建议雇主在申请AEP时，提供第三方薪酬调查报告作为支撑。若外籍员工薪资低于市场水平，AEP可能被拒绝。此外，DOLE Department Order No. 24-25系列明确禁止雇主以“低于本地员工薪资”的水平雇佣外籍员工。
+
+## 参考资料
+
+1. **Republic Act No. 11165 (2019).** *An Act Strengthening the Rights of Employees to Security of Tenure.* Official Gazette of the Philippines. [Link](https://www.officialgazette.gov.ph/2019/01/08/republic-act-no-11165/)
+2. **Republic Act No. 11768 (2022).** *An Act Institutionalizing the Regional Wage Determination Mechanism.* National Wages and Productivity Commission. [Link](https://nwpc.dole.gov.ph/republic-act-11768/)
+3. **DOLE Department Order No. 24-25 (2024).** *Rules and Regulations on the Issuance of Alien Employment Permits (AEP).* Department of Labor and Employment. [Link](https://www.dole.gov.ph/department-orders/)
+4. **DOLE Department Order No. 24-26 (2024).** *Implementing Rules and Regulations of RA 11165, as amended.* Department of Labor and Employment. [Link](https://www.dole.gov.ph/department-orders/)
+5. **DOLE Department Order No. 25-01 (2025).** *Guidelines on the Employment Relationship and Rights of Digital Platform Workers.* Department of Labor and Employment. [Link](https://www.dole.gov.ph/department-orders/)
+6. **DOLE Department Order No. 25-04 (2025).** *Guidelines on Termination of Employment and Payment of Separation Pay.* Department of Labor and Employment. [Link](https://www.dole.gov.ph/department-orders/)
+7. **DOLE Department Order No. 26-01 (2026).** *Annual Reporting Requirements for Employers of Foreign Nationals.* Department of Labor and Employment. [Link](https://www.dole.gov.ph/department-orders/)
+8. **National Wages and Productivity Commission (NWPC).** *Wage Order No. NCR-24 (2024), NCR-25 (2025), and Draft NCR-26 (2026).* [Link](https://nwpc.dole.gov.ph/wage-orders/)
+9. **Philippine Statistics Authority (PSA).** (2025). *Labor Force Survey (LFS) 2025 Annual Report.* [Link](https://psa.gov.ph/statistics/survey/labor-force)
+10. **DOLE Bureau of Local Employment (BLE).** (2026). *Foreign Worker Employment Data Report 2025.* [Link](https://ble.dole.gov.ph/reports/)

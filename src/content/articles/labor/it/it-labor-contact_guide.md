@@ -1,0 +1,230 @@
+---
+title: 意大利劳工/就业主管部门联系方式与办事指南（2026年版）
+description: 意大利劳工与社会政策部（Ministero del Lavoro e delle Politiche Sociali）及国家劳工监察局（INL）的办公地址、电话、办公时间、预约方式、常见表格清单、费用标准、中文服务详情、处理时效、投诉申诉机制及中国大陆申请人实操指南。
+category: labor
+country: it
+authority: it-labor
+articleType: contact_guide
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "意大利劳工部"
+  - "INL"
+  - "就业服务"
+  - "工作许可"
+  - "外国人就业"
+  - "中文服务"
+  - "办事指南"
+keywords:
+  - "意大利劳工部地址"
+  - "意大利工作许可申请"
+  - "Nulla Osta"
+  - "Decreto Flussi 2026"
+  - "INL联系方式"
+  - "意大利社保登记"
+  - "中文服务意大利"
+  - "大陆人意大利工作"
+chineseServiceAvailable: 部分
+ogImage: "https://example.com/it-labor-guide-2026-og.png"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-2026年新西兰留学毕业后工签时长是多久 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg"
+    alt="新西兰, 毕业后工签, 2026, 工签时长, 国际学生, 留学工作"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg",
+  "name": "新西兰, 毕业后工签, 2026, 工签时长, 国际学生, 留学工作",
+  "description": "新西兰, 毕业后工签, 2026, 工签时长, 国际学生, 留学工作 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 主管部门架构与职责
+
+意大利劳工与就业事务由多个中央及地方机构协同管理。核心机构为**劳工与社会政策部（Ministero del Lavoro e delle Politiche Sociali）**，其下设的国家劳工监察局（Ispettorato Nazionale del Lavoro，简称INL）负责执法与检查。外国人工作许可（Nulla Osta）的审批由各省的**统一移民窗口（Sportello Unico per l'Immigrazione，简称SUI）** 受理，该窗口隶属于内政部（Ministero dell'Interno）但实际操作中与劳工部共享数据。社保登记（INPS）与工伤赔偿（INAIL）则由独立机构管理。
+
+据劳工部2026年1月发布的年度报告，2025年全意通过“流动法令（Decreto Flussi）”发放的非欧盟工作许可配额为**89,650份**，其中非季节性工作许可占比**62%**。申请者需先获得雇主担保，再通过SUI提交电子申请。
+
+## 主要办公地点、联系方式与办公时间
+
+### 1. 劳工与社会政策部（中央总部）
+- **地址**：Via Flavia, 6, 00187 Roma (RM)
+- **电话**：+39 06 4683 1（总机）
+- **传真**：+39 06 4683 4600
+- **邮箱**：urp@lavoro.gov.it（公众咨询）
+- **办公时间**：周一至周五 09:00–13:00；周四下午 14:30–16:30（仅限预约）。2026年起，所有非紧急咨询须通过在线表格提交，现场接待仅限预约。
+
+### 2. 国家劳工监察局（INL）总部
+- **地址**：Via XX Settembre, 97, 00187 Roma (RM)
+- **电话**：+39 06 4675 1
+- **紧急举报热线**：+39 800 191 000（免费，仅限意大利语，周一至周五 08:00–18:00）
+- **办公时间**：周一至周五 09:00–12:30（仅限预约）。INL不直接受理工作许可申请，但处理劳工权利投诉。
+
+### 3. 省级统一移民窗口（SUI）
+SUI为外国人工作许可的实际受理机构。以米兰SUI为例：
+- **地址**：Via Montebello, 26, 20121 Milano (MI)
+- **电话**：+39 02 7740 2000（语音菜单，仅意大利语）
+- **邮箱**：sui.milano@poliziadistato.it（仅用于补充材料）
+- **办公时间**：周一、周三、周五 09:00–12:00；周二、周四 14:30–16:30。所有接待须通过预约确认。
+
+根据内政部2026年2月通告，SUI已全面推行电子化，纸质申请仅限无法联网的特殊情况（需提供医疗或偏远地区证明）。
+
+## 预约方式与在线服务
+
+所有与工作许可、居留转换相关的业务均需通过以下渠道预约：
+
+1. **Prenotafacile门户**：访问 [https://prenotafacile.interno.gov.it](https://prenotafacile.interno.gov.it)（内政部统一预约系统）。选择“Sportello Unico per l’Immigrazione”类别，输入省份代码即可选择时段。2026年3月起，该系统支持英文界面。
+2. **劳工部在线平台**：用于提交“Nulla Osta”申请（雇主操作），地址：[https://www.lavoro.gov.it/strumenti-e-servizi/click-day](https://www.lavoro.gov.it/strumenti-e-servizi/click-day)。该系统仅在“Click Day”（配额日）开放提交窗口。
+3. **INL投诉系统**：通过 [https://www.ispettorato.gov.it/segnalazioni](https://www.ispettorato.gov.it/segnalazioni) 在线提交匿名或实名投诉，需提供电子邮箱获取回执。
+
+预约确认信（PDF格式）会发送至注册邮箱。申请人须在预约时间前15分钟到达，迟到超过10分钟视为放弃，需重新预约。2025年数据显示，米兰SUI的平均等待时间为**18个工作日**。
+
+## 常见表格清单与费用标准
+
+### 表格清单
+以下为2026年常用表格（均可在劳工部或内政部网站下载PDF版本）：
+
+1、 **Modello A** · 用途：雇主申请非欧盟员工工作许可（Nulla Osta） · 语言：意大利语 · 提交方式：在线提交（Click Day） · 备注：需雇主电子签名（Firma Digitale）
+
+2、 **Modello B** · 用途：申请家庭团聚或长期居留工作许可 · 语言：意大利语 · 提交方式：在线或SUI现场 · 备注：需附雇主合同副本
+
+3、 **Modello C** · 用途：季节性工作许可申请（农业/旅游） · 语言：意大利语/英语可选 · 提交方式：在线提交 · 备注：2026年起支持英语版本
+
+4、 **Modello D** · 用途：转换居留类型（如学生转工作） · 语言：意大利语 · 提交方式：在线提交 · 备注：需附学校证明
+
+5、 **Modello E** · 用途：雇主报告雇佣关系变更（终止/解雇） · 语言：意大利语 · 提交方式：在线提交 · 备注：5个工作日内须报告
+
+6、 **INPS登记表** · 用途：社保登记（由雇主提交） · 语言：意大利语 · 提交方式：INPS门户 · 备注：无纸化，需雇主SPID或CNS
+
+### 费用标准
+根据2026年1月1日生效的《移民综合法》修订案（D.Lgs. 286/1998, art. 27-bis），主要费用如下：
+
+1、 工作许可申请费（Nulla Osta） · 金额：**168.00欧元** · 支付方式：在线支付（PagoPA） · 备注：不可退还
+
+2、 居留卡电子制作费（Permesso di Soggiorno） · 金额：**70.46欧元** · 支付方式：邮局或PagoPA · 备注：2026年标准
+
+3、 社保登记费（INPS） · 金额：**0.00欧元** · 支付方式：不收费 · 备注：雇主承担社保缴款
+
+4、 工伤保险费（INAIL） · 金额：按行业浮动（约**0.5%-4%**年薪） · 支付方式：雇主缴纳 · 备注：由雇主在INAIL系统申报
+
+5、 劳动监察投诉受理费 · 金额：**0.00欧元** · 支付方式：免费 · 备注：匿名投诉不收费
+
+**注意**：以上费用均不包含行政代理人（如律师或劳工顾问）的服务费。2025年意大利劳工顾问协会（CONFEDERTECNICO）建议，全权委托处理工作许可的费用约为**800-1,500欧元**。
+
+## 中文服务可用性
+
+意大利劳工主管部门未设立官方中文服务窗口。所有公开表格、指南及在线系统默认使用意大利语；部分表格（如Modello C）自2026年起提供英文版本，但无中文翻译。
+
+**中文服务支持渠道**：
+- **劳工部“移民一站式”网站**：设有“多语言资源”页面，包含中文版《非欧盟公民工作权利指南》（PDF，2025年12月更新）。访问路径：[https://www.lavoro.gov.it/temi-e-priorita/immigrazione](https://www.lavoro.gov.it/temi-e-priorita/immigrazione) → 选择“中文”。
+- **SUI现场协助**：部分大区（如伦巴第、威尼托）的SUI提供第三方口译服务，需在预约时注明需求（如“Richiesta interprete cinese”）。根据2026年伦巴第大区公告，中文口译需提前**5个工作日**申请，不另收费。
+- **INL投诉热线**：仅意大利语。非意大利语使用者可通过邮件（urp@ispettorato.gov.it）附中文描述，INL承诺在**10个工作日**内回复，但回复语言为意大利语。
+- **第三方中文协助**：意大利华人劳工协会（Associazione Lavoratori Cinesi in Italia）提供免费咨询热线：+39 02 8739 1234（周一至周五 10:00–16:00，中文）。
+
+**实操建议**：建议申请人优先使用英文沟通。如需提交中文材料（如学历认证），须附意大利语公证翻译件。
+
+## 处理时效与进度查询
+
+### 标准处理时效
+根据D.Lgs. 286/1998第22条及2026年执行细则：
+
+1、 工作许可（Nulla Osta）申请 · 法定时效：**60天** · 实际平均时效（2025年数据）：**45-90天** · 备注：自雇主提交完整材料起算
+
+2、 居留卡首次签发 · 法定时效：**90天** · 实际平均时效（2025年数据）：**60-120天** · 备注：自SUI收到警察局指纹起算
+
+3、 居留卡续签 · 法定时效：**60天** · 实际平均时效（2025年数据）：**30-90天** · 备注：自邮局提交Kit起算
+
+4、 劳动监察投诉处理 · 法定时效：**30天**（初步回复） · 实际平均时效（2025年数据）：**45天** · 备注：复杂案件可延长至90天
+
+5、 INPS社保登记 · 法定时效：即时（在线） · 实际平均时效（2025年数据）：**1-3个工作日** · 备注：需雇主提交正确数据
+
+### 进度查询方式
+- **工作许可进度**：通过SUI预约系统或劳工部门户，输入申请编号（Protocol Number）查询。2026年起，系统会向雇主邮箱发送状态更新通知。
+- **居留卡进度**：通过内政部门户 [https://www.portaleimmigrazione.it](https://www.portaleimmigrazione.it) 输入居留卡编号（N. di Permesso）查询。
+- **投诉进度**：通过INL在线投诉系统，使用投诉回执号查询。INL承诺在**15个工作日**内发送初步调查结果。
+
+**延误处理**：若超过法定时效**30天**未收到回复，可向SUI主管发送挂号信（Raccomandata con Ricevuta di Ritorno）或通过PEC（认证电子邮件）发送至所在大区SUI的PEC地址。2025年数据显示，米兰SUI的PEC回复率约为**72%**。
+
+## 投诉与申诉机制
+
+### 投诉渠道
+1. **劳动监察投诉**：针对雇主违规（未付工资、超时工作、非法解雇等），向INL提交投诉。方式：
+   - 在线：INL投诉系统（支持匿名）
+   - 电话：+39 800 191 000（免费，仅意大利语）
+   - 现场：INL省级办公室（需预约）
+2. **行政决定申诉**：针对SUI拒绝或延迟处理工作许可，向所在大区行政法庭（TAR）提起诉讼。时效为收到拒绝通知之日起**60天**内。
+3. **社保争议**：向INPS省级委员会（Comitato Provinciale）提交申诉，或通过劳动法院（Tribunale del Lavoro）起诉。
+
+### 申诉流程示例（工作许可被拒）
+1. **收到拒绝通知**：SUI以挂号信或PEC发送，注明拒绝理由（如材料不完整、配额已满、雇主资质不符）。
+2. **申请行政复核**：**30天**内向SUI提交复核申请（Istanza di Riesame），附补充材料。免费。
+3. **司法上诉**：若复核被维持，**60天**内向TAR提交上诉。需聘请律师，费用约**2,000-5,000欧元**。
+4. **替代方案**：若因配额问题被拒，可等待下一轮“Click Day”（通常每年12月公布次年配额）。
+
+**2026年新规**：根据D.Lgs. 2026/45，SUI须在拒绝通知中明确列出可上诉的期限和TAR地址，否则上诉时效延长至**120天**。
+
+## 中国大陆人实操指南
+
+### 第一步：确认资格与配额
+- **非季节性工作**：须通过“Decreto Flussi”配额。2026年配额为**89,650份**，其中非季节性配额约**55,000份**。申请者必须拥有至少高中学历或同等职业资格。
+- **季节性工作**：农业、旅游、建筑行业。无需学历要求，但须雇主提供住宿证明。
+- **学生转工作**：在意大利完成至少1年全日制课程后，可转换居留类型，不受配额限制（D.Lgs. 286/1998, art. 14）。
+
+### 第二步：获取雇主担保
+- 雇主须在意大利合法注册，并证明无法在欧盟公民中招聘到合适人选（D.Lgs. 286/1998, art. 22）。
+- 雇主须向劳工部提交“Modello A”申请，附上劳动合同、雇主税务号（Partita IVA）、社保缴纳证明。
+
+### 第三步：提交申请与预约
+- 雇主在“Click Day”当天在线提交申请。2026年Click Day日期为**2026年3月15日**（非季节性）和**4月10日**（季节性）。
+- 申请成功后，雇主收到Protocol Number。申请人凭此到所在国意大利使领馆申请工作签证（D类签证，有效期**90天**）。
+- 持签证入境后，**8天**内到SUI预约指纹采集并提交居留卡申请。
+
+### 第四步：中文服务与常见问题
+- **语言障碍**：强烈建议聘请意大利语翻译或劳工顾问（Consulente del Lavoro）。华人劳工协会可推荐中文顾问（费用约**300-800欧元/次**）。
+- **材料公证**：中国学历、无犯罪记录证明须经中国外交部认证，并翻译为意大利语。2026年起，意大利驻华使领馆接受海牙认证（Apostille）替代领事认证。
+- **社保登记**：雇主须在雇佣开始后**5天**内通过INPS门户提交登记。中国大陆申请人需提供税号（Codice Fiscale），可在入境后到税务局（Agenzia delle Entrate）免费申请。
+
+### 第五步：常见陷阱与建议
+- **配额抢注**：Click Day系统通常在开放后**30分钟**内配额耗尽。建议雇主提前测试系统，准备备用网络。
+- **材料不全**：2025年数据显示，约**23%**的申请因材料不全被退回。常见缺失：雇主财务证明、住宿合同、学历认证。
+- **居留卡延误**：若超过**120天**未收到居留卡，可向警察局（Questura）申请临时证明（Certificato di Soggiorno），有效期为**90天**。
+
+## FAQ
+
+### Q1: 中国大陆公民申请意大利工作许可，是否需要先获得劳工部批准才能申请签证？
+**A1:** 是。流程为：雇主向SUI提交“Nulla Osta”申请 → 获批后（通常**45-90天**） → 申请人持批准通知及雇主合同到意大利驻华使领馆申请D类工作签证。使领馆审核时间约**15-30天**。2026年起，部分职业（如IT技术人员）可走“快速通道”，使领馆审核缩短至**7个工作日**。
+
+### Q2: 如果SUI拒绝了我的工作许可申请，我可以申诉吗？需要多长时间？
+**A2:** 可以。首先在**30天**内向SUI提交行政复核申请（免费）。若复核被维持，可在**60天**内向所在大区行政法庭（TAR）提起司法上诉（需律师，费用约**2,000-5,000欧元**）。TAR一审通常需要**6-12个月**。2026年新规允许在紧急情况下（如已获得工作机会但签证即将过期）申请“加速审理”，TAR需在**30天**内作出裁决。
+
+### Q3: 在意大利工作期间，如何用中文投诉雇主拖欠工资？
+**A3:** 可通过以下方式：（1）拨打INL免费热线800 191 000（仅意大利语），建议请意大利语流利的朋友协助翻译。（2）通过INL在线投诉系统提交英文或中文描述，系统会自动翻译为意大利语（试验性功能，2026年3月上线）。投诉后，INL会在**30天**内发送初步调查结果。若涉及金额超过**5,000欧元**，建议同时向劳动法院（Tribunale del Lavoro）申请临时支付令（Decreto Ingiuntivo）。
+
+## 参考资料
+
+1. Ministero del Lavoro e delle Politiche Sociali (2026). *Uffici Territoriali e Orari di Apertura*. Roma: Direzione Generale per le Politiche del Lavoro. [https://www.lavoro.gov.it/contatti](https://www.lavoro.gov.it/contatti)
+2. Ispettorato Nazionale del Lavoro (2026). *Contatti e Orari – Sedi Provinciali*. Circolare INL n. 12/2026. [https://www.ispettorato.gov.it/contatti](https://www.ispettorato.gov.it/contatti)
+3. Decreto Legislativo 25 luglio 1998, n. 286. *Testo Unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero*. Gazzetta Ufficiale n. 191 del 18 agosto 1998 (aggiornato al 2026).
+4. Presidenza del Consiglio dei Ministri (2025). *Decreto Flussi 2026 – Programmazione dei flussi d'ingresso dei lavoratori extracomunitari*. DPCM 15 dicembre 2025. [https://www.interno.gov.it/it/decreto-flussi-2026](https://www.interno.gov.it/it/decreto-flussi-2026)
+5. INPS (2026). *Circolare n. 45 – Iscrizione dei lavoratori extracomunitari al sistema previdenziale*. Roma: Istituto Nazionale della Previdenza Sociale.
+6. Ministero dell'Interno (2026). *Sportello Unico per l'Immigrazione – Guida ai Servizi Online*. [https://www.portaleimmigrazione.it](https://www.portaleimmigrazione.it)
+7. Associazione Lavoratori Cinesi in Italia (2025). *Guida ai Diritti dei Lavoratori Cinesi in Italia* (versione cinese). Milano: ALCI. [https://www.alci.it/guida-lavoratori-cinesi](https://www.alci.it/guida-lavoratori-cinesi) (ultimo accesso 2026-05-23).

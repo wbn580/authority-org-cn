@@ -1,0 +1,63 @@
+---
+// ArticleLayout.astro — Layout for individual articles
+import BaseLayout from './BaseLayout.astro';
+import ArticleDisclaimer from '../components/ArticleDisclaimer.astro';
+
+const { frontmatter } = Astro.props;
+
+const _SITE_NAME = '全球主管部门信息汇编';
+const _d = (frontmatter) as any;
+const _canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url).toString();
+const _siteUrl = (Astro.site ? Astro.site.toString() : Astro.url.origin).replace(/\/$/, "");
+const _pub = String(_d.pubDatetime || _d.publishDate || _d.date || "");
+const _articleSchema: Record<string, any> = {
+  "@context": "https://schema.org", "@type": "BlogPosting",
+  headline: _d.title, name: _d.title, description: _d.description || "",
+  mainEntityOfPage: { "@type": "WebPage", "@id": _canonical },
+  author: [{ "@type": "Organization", name: _d.author || _SITE_NAME }],
+  publisher: { "@type": "Organization", name: _SITE_NAME, url: _siteUrl, logo: { "@type": "ImageObject", url: _siteUrl + "/favicon.svg" } },
+};
+if (_d.ogImage) _articleSchema.image = _d.ogImage;
+if (_pub) { _articleSchema.datePublished = _pub; _articleSchema.dateModified = String(_d.modDatetime || _pub); }
+if (Array.isArray(_d.tags) && _d.tags.length) { _articleSchema.keywords = _d.tags.join(", "); _articleSchema.articleSection = _d.tags[0]; }
+const _websiteSchema = { "@context": "https://schema.org", "@type": "WebSite", name: _SITE_NAME, url: _siteUrl };
+const title = frontmatter.title;
+const description = frontmatter.description;
+---
+<BaseLayout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(_articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(_websiteSchema)} />
+  <article class="max-w-article mx-auto px-4 py-10">
+    <!-- Article header -->
+    <header class="mb-8">
+      <div class="flex flex-wrap items-center gap-2 mb-3 text-xs">
+        {frontmatter.country && <span class="tag">{frontmatter.country?.toUpperCase()}</span>}
+        {frontmatter.category && <span class="tag">{frontmatter.category}</span>}
+        {frontmatter.articleType && <span class="tag">{frontmatter.articleType}</span>}
+      </div>
+      <h1 class="text-2xl sm:text-3xl font-serif font-bold text-primary-900 m-0 leading-tight">
+        {title}
+      </h1>
+      {description && (
+        <p class="text-base text-ink-500 mt-3 leading-relaxed">{description}</p>
+      )}
+      <div class="article-meta flex flex-wrap gap-3 mt-4 pt-4 border-t border-divider">
+        <span>整理日期：{frontmatter.publishDate?.split('T')[0] || frontmatter.lastVerified}</span>
+        <span>最后核对：{frontmatter.lastVerified}</span>
+        {frontmatter.readingTime && <span>阅读时间：{frontmatter.readingTime} 分钟</span>}
+        {frontmatter.chineseServiceAvailable && <span class="text-green-700">✓ 中文服务可用</span>}
+      </div>
+    </header>
+
+    <!-- Article body -->
+    <div class="prose max-w-none">
+      <slot />
+    </div>
+
+    <!-- Per-article disclaimer -->
+    <ArticleDisclaimer 
+      dataSources={frontmatter.dataSources || []} 
+      publishDate={frontmatter.lastVerified}
+    />
+  </article>
+</BaseLayout>

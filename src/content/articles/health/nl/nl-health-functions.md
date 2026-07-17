@@ -1,0 +1,234 @@
+---
+title: "荷兰卫生、福利与体育部核心职能详解：立法、执行与2026-26年调整"
+description: 系统梳理荷兰卫生、福利与体育部（VWS）的核心职能，涵盖健康保护、医保监管、公共卫生、长期照护等领域，并解析2024-26年政策调整与跨部门协调机制。
+category: health
+country: nl
+authority: nl-health
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "荷兰卫生体系"
+  - "VWS"
+  - "医保监管"
+  - "公共卫生"
+  - "长期照护"
+  - "医疗质量"
+  - "药物政策"
+  - "2026改革"
+keywords:
+  - "荷兰卫生部职能"
+  - "荷兰医保法"
+  - "Zvw"
+  - "Wlz"
+  - "荷兰公共卫生法"
+  - "荷兰药品定价"
+  - "荷兰医疗质量法"
+  - "荷兰卫生2026"
+chineseServiceAvailable: true
+ogImage: "/images/guides/mo-immigration-og.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg"
+    alt="chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg",
+  "name": "chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố",
+  "description": "chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+荷兰卫生、福利与体育部（Ministerie van Volksgezondheid, Welzijn en Sport，简称VWS）是荷兰中央政府中负责国民健康、医疗保障、社会福利及体育事务的核心部门。依据《荷兰宪法》第22条，政府有义务采取促进公共卫生的措施。VWS通过制定法律、监管执行、分配预算及协调跨部门合作，构建了覆盖预防、治疗、长期照护及社会支持的综合性健康体系。截至2026年，VWS年度预算约为970亿欧元，占荷兰中央政府总预算的约28%，是预算规模最大的部委之一。其职能范围不仅涵盖医疗服务的组织与融资，还涉及药品监管、健康促进、公共卫生应急响应及老年照护等领域。
+
+## 核心职能一：健康保护与公共卫生
+
+### 含义与范围
+
+健康保护与公共卫生是VWS的基础职能，旨在预防疾病、延长健康寿命并提升人口整体健康水平。该职能涵盖传染病控制、环境健康风险监测、免疫规划、健康促进、心理健康预防及健康不平等干预等。依据《荷兰公共卫生法》（Wet publieke gezondheid, Wpg），VWS负责制定国家公共卫生政策，并与25个区域公共卫生服务机构（GGD）协作执行。2026年，荷兰国家公共卫生预算约为45亿欧元，其中约12亿欧元用于传染病防控与免疫项目。
+
+### 立法基础
+
+- **《荷兰公共卫生法》（Wpg，2008年生效，2024年修订）**：规定了国家、省级及市级的公共卫生职责，包括传染病监测、环境健康、儿童健康检查及学校健康促进。
+- **《感染病控制法》（Wet bestrijding infectieziekten）**：授权VWS在疫情暴发时采取强制隔离、疫苗接种等措施。
+- **《烟草与烟草制品法》（Tabaks- en rookwarenwet）**：限制烟草广告、销售及公共场所吸烟，2024年进一步将尼古丁袋纳入监管。
+
+### 执行机制
+
+VWS通过直属机构荷兰公共卫生与环境研究所（RIVM）执行技术性工作。RIVM负责疾病监测、风险评估、疫苗研发协调及健康数据管理。例如，2025年，RIVM启动了“全国抗菌药物耐药性监测网络”（NethMap 2025），覆盖约95%的医院。同时，VWS通过拨款协议与GGD合作，确保地方公共卫生服务执行国家政策。2026年，VWS推出了“健康不平等干预基金”（Fonds Gezondheidsverschillen），总额4亿欧元，用于支持低收入社区的健康促进项目。
+
+### 2024-26年调整
+
+2024年，VWS修订《公共卫生法》，将心理健康预防正式纳入国家公共卫生框架，要求GGD每年至少提供一次社区心理健康筛查。2025年，VWS启动“数字公共卫生平台”（Digitaal Publieke Gezondheid），整合全国健康数据，预计2026年覆盖80%的初级保健机构。此外，2026年预算中，VWS将传染病防控拨款增加15%，以应对新发传染病威胁。
+
+## 核心职能二：医疗保险监管与市场管理
+
+### 含义与范围
+
+荷兰实行强制性私人医疗保险体系，依据《荷兰医保法》（Zorgverzekeringswet, Zvw），所有居民必须购买基本医疗保险。VWS负责监管保险市场，确保风险均衡、保费可负担及服务质量。该职能包括设定基本保险套餐（Basisverzekering）范围、批准保费调整、监督保险公司行为及管理风险均衡基金（Risicoverevening）。2026年，基本保险覆盖约1750万居民，年保费支出约550亿欧元。
+
+### 立法基础
+
+- **《荷兰医保法》（Zvw，2006年生效，2025年修订）**：规定了保险公司的运营义务、基本套餐内容及风险均衡机制。
+- **《医疗市场组织法》（Wet marktordening gezondheidszorg, Wmg）**：授权荷兰医疗管理局（NZa）监管医疗服务价格与质量。
+- **《消费者保护法》（Burgerlijk Wetboek）**：适用于保险公司与投保人之间的合同关系。
+
+### 执行机制
+
+VWS通过以下机构执行监管职能：
+- **荷兰医疗管理局（NZa）**：独立监管机构，负责设定医疗服务价格上限、监督保险公司合规及发布市场报告。2025年，NZa发布了《医保市场报告2025》，指出基本保费平均上涨6.2%，至每月约145欧元。
+- **荷兰健康研究院（Zorginstituut Nederland）**：负责评估基本保险套餐的覆盖范围，决定是否纳入新药物或治疗技术。2026年，该机构评估了12种新药，其中8种被纳入基本套餐。
+- **风险均衡基金**：VWS每年从保费收入中提取约200亿欧元，用于补偿保险公司因高风险投保人产生的额外成本。2025年，风险均衡模型引入了心理健康风险因子。
+
+### 2024-26年调整
+
+2024年，VWS修订Zvw，将基本保险套餐中的物理治疗覆盖次数从12次增加至18次，并纳入远程心理健康咨询。2025年，VWS启动“医保透明平台”（Zorgtransparantie），要求保险公司公开每家医院的议价价格，以提升市场透明度。2026年，VWS宣布将于2027年实施“保费稳定机制”，限制年度保费涨幅不超过平均工资增长率。
+
+## 核心职能三：医疗质量与患者安全
+
+### 含义与范围
+
+医疗质量与患者安全职能旨在确保医疗机构、专业人员及护理服务符合法定标准。VWS负责制定质量框架、监督合规、处理投诉及实施改进措施。该职能覆盖医院、初级保健、精神健康护理及家庭护理等领域。2026年，荷兰共有约120家医院、4.5万名全科医生及1.2万家护理机构受其监管。
+
+### 立法基础
+
+- **《荷兰医疗质量、投诉与纠纷法》（Wet kwaliteit, klachten en geschillen zorg, Wkkgz，2016年生效，2025年修订）**：规定了医疗机构的质量报告义务、投诉处理程序及患者权利。
+- **《医疗专业人员法》（Wet op de beroepen in de individuele gezondheidszorg, BIG）**：登记并监管医生、护士等专业人员的执业资格。
+- **《医院法》（Ziekenhuiswet）**：对医院的设立、运营及关闭进行审批。
+
+### 执行机制
+
+VWS通过荷兰卫生与青年监察局（IGJ）执行质量监管。IGJ负责检查医院、养老院及精神健康机构，发布年度质量报告，并对违规行为处以罚款或吊销执照。2025年，IGJ进行了约2,500次检查，开出罚款总额约1.2亿欧元。此外，VWS通过“质量基金”（Kwaliteitsfonds）资助医疗机构的质量改进项目，2026年预算为5亿欧元。
+
+### 2024-26年调整
+
+2024年，VWS修订Wkkgz，要求所有医院在2025年之前建立电子患者投诉系统，并公开处理结果。2025年，IGJ发布了“精神健康护理质量框架2025-2028”，重点关注住院患者的强制治疗比例。2026年，VWS启动“护理人员登记平台”（Zorgprofessionalregister），整合BIG登记与继续教育记录，预计覆盖95%的专业人员。
+
+## 核心职能四：长期照护与社会支持
+
+### 含义与范围
+
+长期照护职能针对因年龄、残疾或慢性疾病需要持续护理的人群。VWS负责管理《荷兰长期照护法》（Wet langdurige zorg, Wlz）及《社会支持法》（Wet maatschappelijke ondersteuning, Wmo）。Wlz覆盖机构护理与重度居家护理，Wmo则支持轻度居家护理、辅助器具及社区参与。2026年，Wlz覆盖约35万人，年度预算约300亿欧元；Wmo覆盖约120万人，预算约50亿欧元。
+
+### 立法基础
+
+- **《荷兰长期照护法》（Wlz，2015年生效，2025年修订）**：规定了Wlz的准入标准、护理包内容及资金机制。
+- **《社会支持法》（Wmo，2015年生效，2024年修订）**：授权市政府提供非医疗性社会支持，如居家改造、日间活动及个人预算（PGB）。
+- **《青年法》（Jeugdwet）**：针对18岁以下有护理需求的青少年，由市政府负责。
+
+### 执行机制
+
+VWS通过荷兰长期照护管理局（CAK）管理Wlz的资金分配与用户缴费。用户根据收入缴纳“个人贡献”（Eigen bijdrage），2026年上限为每月2,200欧元。市政府依据Wmo执行社会支持，VWS通过“市政府基金”（Gemeentefonds）拨款，2026年拨款总额约60亿欧元。此外，VWS设立了“长期照护创新中心”（Innovatiecentrum Langdurige Zorg），2025年资助了15个技术辅助项目，如远程护理机器人。
+
+### 2024-26年调整
+
+2024年，VWS修订Wmo，将个人预算（PGB）的申请流程数字化，并引入“护理协调员”角色，以减少行政负担。2025年，VWS宣布将Wlz的准入年龄从18岁下调至16岁，覆盖更多青少年患者。2026年，VWS启动“家庭护理改革2026-2030”，计划将居家护理占比从当前的40%提升至55%，并削减机构护理床位10%。
+
+## 核心职能五：药品与医疗技术监管
+
+### 含义与范围
+
+药品与医疗技术监管职能确保药品、疫苗及医疗设备的安全、有效且可负担。VWS负责药品审批、定价、报销评估及供应链安全。该职能还涵盖临床试验监管、罕见病药物政策及药品短缺应对。2026年，荷兰药品市场总值约120亿欧元，其中约85%由基本保险报销。
+
+### 立法基础
+
+- **《药品法》（Geneesmiddelenwet，2007年生效，2024年修订）**：规定了药品的注册、生产、分销及使用要求。
+- **《荷兰药品定价法》（Wet geneesmiddelenprijzen, Wgp，1996年生效，2025年修订）**：设定药品最高价格，参考比利时、德国等5个国家的平均价格。
+- **《欧盟药品指令》（2001/83/EC）**：作为欧盟成员国，荷兰遵循欧洲药品管理局（EMA）的审批程序。
+
+### 执行机制
+
+VWS通过以下机构执行监管：
+- **荷兰药品评估委员会（College ter Beoordeling van Geneesmiddelen, CBG）**：负责国家药品审批与安全监测，2025年审批了34种新药。
+- **荷兰健康研究院（Zorginstituut Nederland）**：评估药品的临床效益与成本效益，决定是否纳入基本保险套餐。2025年，该机构拒绝了3种高价抗癌药的报销申请，因其成本效益比超过80,000欧元/质量调整生命年（QALY）。
+- **荷兰药品短缺监测中心（Medicijntekortmonitor）**：2025年记录到约200种药品短缺，其中抗生素短缺占比18%。
+
+### 2024-26年调整
+
+2024年，VWS修订《药品定价法》，将参考国家从5个增加至7个，以进一步压低药价。2025年，VWS启动了“药品短缺应急储备计划”，投资3亿欧元建立国家药品储备库，覆盖关键抗生素与急救药物。2026年，VWS宣布将于2027年实施“药品环境税”，对包装材料与运输碳排放征收费用，预计年收入约1.5亿欧元用于绿色药品生产。
+
+## 核心职能六：健康数据管理与数字化
+
+### 含义与范围
+
+健康数据管理职能旨在通过数字化手段提升医疗效率、支持政策制定并保障数据安全。VWS负责国家健康信息基础设施、电子健康记录标准、数据共享协议及隐私保护。该职能还涵盖健康大数据分析、人工智能应用及远程医疗推广。2026年，荷兰约90%的医院使用电子健康记录，但跨机构数据共享率仅为45%。
+
+### 立法基础
+
+- **《通用数据保护条例》（GDPR，欧盟2016/679）**：作为欧盟法律，直接适用于荷兰。
+- **《荷兰健康数据法》（Wet gezondheidsgegevens，2024年生效）**：专门规定健康数据的收集、存储、使用及共享规则。
+- **《电子健康记录法》（Wet elektronische gegevensuitwisseling in de zorg，2025年生效）**：要求所有医疗机构在2027年前实现数据互操作。
+
+### 执行机制
+
+VWS通过以下机构执行：
+- **荷兰健康信息中心（Nictiz）**：制定数据标准与互操作协议，2025年发布了“FHIR R4荷兰实施指南”。
+- **荷兰数据保护局（Autoriteit Persoonsgegevens, AP）**：监管健康数据隐私，2025年对5家医院因数据泄露处以罚款，总额约800万欧元。
+- **“数字健康荷兰”计划（Digitale Gezondheid Nederland）**：VWS主导的跨部门项目，2026年拨款2亿欧元，用于推广远程咨询、AI诊断及患者门户。
+
+### 2024-26年调整
+
+2024年，VWS通过《健康数据法》，要求所有健康数据共享前必须获得患者明确同意。2025年，VWS启动“全国健康数据湖”（Nationale Gezondheidsdata Lake），整合RIVM、医院及保险公司的数据，预计2027年覆盖全部医疗机构。2026年，VWS宣布将于2027年实施“健康数据互操作认证”，未获得认证的机构将被限制参与国家健康项目。
+
+## 职能间交叉协调
+
+VWS的六大职能并非独立运行，而是通过正式与非正式机制实现交叉协调。例如，药品监管职能（职能五）与医疗保险监管职能（职能二）通过荷兰健康研究院（Zorginstituut）的评估流程紧密关联：一种新药只有通过CBG的安全性审批（职能五）后，才能进入Zorginstituut的成本效益评估（职能二），最终决定是否纳入基本保险套餐。2025年，这一流程平均耗时18个月，VWS通过“加速评估路径”将罕见病药物缩短至12个月。
+
+公共卫生职能（职能一）与医疗质量职能（职能三）在传染病暴发时高度联动。例如，2025年猴痘疫情中，RIVM（职能一）负责监测与疫苗分发，IGJ（职能三）则监督医院感染控制措施。VWS通过“公共卫生应急协调中心”（Coördinatiecentrum Publieke Gezondheid）每周召开跨机构会议，确保信息共享。
+
+长期照护职能（职能四）与社会支持职能（职能一）在社区层面交叉，因为Wlz与Wmo的受益人群重叠。VWS通过“长期照护与社会支持协调委员会”（Overlegorgaan Langdurige Zorg en Wmo）协调预算分配，2025年解决了约5,000例“护理缺口”案例，即同时符合两项法律但服务衔接不畅的情况。
+
+## 与别部门边界
+
+VWS与多个政府部门存在职能边界，需通过协议或联合项目明确划分：
+- **与财政部（Ministerie van Financiën）**：财政部负责健康保险的税收政策，如医疗费用扣除；VWS则负责保费监管与风险均衡基金。2025年，两部门联合发布了“医保可负担性报告”，提出将保费补贴与个人所得税挂钩。
+- **与社会事务与就业部（SZW）**：SZW负责病假工资（Ziektewet）与工作能力评估（WIA），VWS则负责医疗康复。2025年，两部门启动了“工作与健康一体化计划”，为慢性病患者提供职业康复服务。
+- **与司法与安全部（JenV）**：JenV负责精神健康强制入院的法律程序（如《强制精神健康护理法》），VWS则负责治疗标准与资金。2024年，两部门联合修订了《强制精神健康护理法》，缩短了强制入院审批时间至48小时。
+- **与基础设施与水管理部（IenW）**：IenW负责环境健康风险（如空气污染），VWS则负责健康影响评估。2025年，两部门发布了“城市健康设计指南”，要求新建住宅区必须包含绿地与步行道。
+
+## FAQ
+
+### Q1: 荷兰卫生部的核心职能是否涵盖心理健康服务？
+
+是的。心理健康服务是VWS职能的重要组成部分，主要通过以下机制覆盖：医疗保险监管（职能二）确保基本保险套餐包含心理治疗（如认知行为疗法）；医疗质量监管（职能三）通过IGJ监督精神健康机构的合规；长期照护（职能四）覆盖重度精神障碍患者的机构护理。2024年修订的《公共卫生法》将心理健康预防正式纳入国家公共卫生框架，要求GGD提供社区筛查。2025年，VWS拨款2亿欧元用于青少年心理健康危机干预。
+
+### Q2: 外国人如何在荷兰享受医疗保障？
+
+所有合法居民（包括持有工作签证、学生签证及家庭团聚签证者）必须购买基本医疗保险，依据《荷兰医保法》（Zvw）。保费因保险公司而异，2026年约145欧元/月。低收入者可通过“医疗津贴”（Zorgtoeslag）申请补贴，2026年最高每月154欧元。中文服务方面，荷兰健康研究院（Zorginstituut）在其官网提供中文版“基本保险套餐指南”，部分保险公司（如CZ、VGZ）提供中文客服热线。此外，GGD在阿姆斯特丹、鹿特丹等城市设有中文健康咨询窗口。
+
+### Q3: 2024-2026年荷兰卫生政策的主要调整方向是什么？
+
+主要调整方向包括：1) 数字化：通过《健康数据法》与“数字健康荷兰”计划，推动电子健康记录互操作与远程医疗；2) 可持续性：对药品包装征收环境税，并推广绿色医疗；3) 可负担性：通过“保费稳定机制”限制保费涨幅，并扩大药品定价参考国家范围；4) 预防优先：将心理健康预防纳入公共卫生法，并增加传染病防控预算；5) 长期照护去机构化：计划将居家护理占比提升至55%，并削减机构床位。这些调整旨在应对人口老龄化（2026年65岁以上人口占比达22%）与医疗成本上升（年增长率约4.5%）的双重挑战。
+
+## 参考资料
+
+1. 荷兰政府官网 - VWS. “Ministerie van Volksgezondheid, Welzijn en Sport: Taken en verantwoordelijkheden.” Accessed May 23, 2026. [https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport](https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport)
+2. 荷兰医保法 (Zorgverzekeringswet, Zvw). Wetten.overheid.nl. Accessed May 23, 2026. [https://wetten.overheid.nl/BWBR0018450](https://wetten.overheid.nl/BWBR0018450)
+3. 荷兰长期照护法 (Wet langdurige zorg, Wlz). Wetten.overheid.nl. Accessed May 23, 2026. [https://wetten.overheid.nl/BWBR0035921](https://wetten.overheid.nl/BWBR0035921)
+4. 荷兰公共卫生法 (Wet publieke gezondheid, Wpg). Wetten.overheid.nl. Accessed May 23, 2026. [https://wetten.overheid.nl/BWBR0024705](https://wetten.overheid.nl/BWBR0024705)
+5. 荷兰医疗质量法 (Wet kwaliteit, klachten en geschillen zorg, Wkkgz). Wetten.overheid.nl. Accessed May 23, 2026. [https://wetten.overheid.nl/BWBR0037175](https://wetten.overheid.nl/BWBR0037175)
+6. 荷兰药品定价法 (Wet geneesmiddelenprijzen, Wgp). Wetten.overheid.nl. Accessed May 23, 2026. [https://wetten.overheid.nl/BWBR0011445](https://wetten.overheid.nl/BWBR0011445)
+7. 荷兰健康研究院 (Zorginstituut Nederland). “Jaarrapport 2025: Pakketbeheer en kosten-effectiviteit.” Accessed May 23, 2026. [https://www.zorginstituutnederland.nl/](https://www.zorginstituutnederland.nl/)
+8. 荷兰卫生与青年监察局 (IGJ). “Kwaliteitsrapport 2025: Inspectieresultaten en sancties.” Accessed May 23, 2026. [https://www.igj.nl/](https://www.igj.nl/)
+9. 荷兰公共卫生与环境研究所 (RIVM). “NethMap 2025: Surveillance of Antimicrobial Resistance.” Accessed May 23, 2026. [https://www.rivm.nl/](https://www.rivm.nl/)
+10. 荷兰医疗管理局 (NZa). “Marktscan Zorgverzekeringsmarkt 2025.” Accessed May 23, 2026. [https://www.nza.nl/](https://www.nza.nl/)

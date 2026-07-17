@@ -1,0 +1,203 @@
+---
+title: "印尼央行与金融监管主管部门2026-2026年政策更新追踪"
+description: 系统梳理印尼央行（BI）与金融服务管理局（OJK）2024年至2026年关键政策变化，涵盖支付系统、数字金融、外资准入及合规要求，附对大陆人影响分析与未来展望。
+category: finance
+country: id
+authority: id-finance
+articleType: policy_update
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "印尼央行"
+  - "OJK"
+  - "金融政策"
+  - "支付系统"
+  - "外资准入"
+  - "数字金融"
+  - "印尼央行"
+  - "OJK"
+  - "金融监管"
+  - "2024-2026政策"
+  - "支付系统"
+  - "数字银行"
+  - "外资合规"
+  - "反洗钱"
+keywords:
+  - "印尼央行政策2024"
+  - "OJK数字银行框架"
+  - "印尼支付系统改革"
+  - "外资银行印尼合规"
+  - "印尼金融科技监管"
+  - "大陆人印尼开户"
+  - "印尼反洗钱新规"
+  - "印尼金融展望2026"
+chineseServiceAvailable: true
+ogImage: /images/id-finance-policy-2024-2026-og.jpg
+draft: false
+
+---
+
+
+## 概述
+
+印尼金融监管体系由两大核心机构构成：**印度尼西亚银行（Bank Indonesia，BI）** 负责货币稳定与支付系统监管；**金融服务管理局（Otoritas Jasa Keuangan，OJK）** 负责银行、保险、资本市场及金融科技机构的审慎监管。2024年至2026年期间，两机构密集出台了一系列政策更新，旨在加速支付系统现代化、强化数字金融合规、收紧外资准入条件，并提升反洗钱（AML）与反恐怖融资（CFT）标准。
+
+据印度尼西亚银行2026年1月发布的《2025年支付系统报告》，2025年全国数字支付交易量达187.4亿笔，同比增长23.6%；OJK同期数据显示，截至2025年底，持牌金融科技公司数量为168家，较2023年减少12家，反映合规门槛显著提升。这些数据表明，印尼金融监管正从“鼓励创新”转向“规范发展”阶段。
+
+本汇编覆盖2024年1月至2026年5月期间BI与OJK发布的**15项主要法规与政策文件**，重点分析其对市场参与者及大陆人群体的影响。
+
+---
+
+## 关键政策变化
+
+### 2.1 印度尼西亚银行（BI）支付系统改革（2024-2026）
+
+**BI Regulation No. 26/2024 on Payment System Service Providers**（2024年6月生效）
+
+- **公告号**：PBI No. 26/2024
+- **日期**：2024年4月发布，2024年6月1日生效
+- **范围**：所有支付系统服务提供商（PJP），包括银行、非银行机构、金融科技公司
+- **核心变化**：
+  - 强制要求所有PJP接入BI的**国家支付网关（GPN）**，禁止使用境外支付路由（如通过新加坡或香港中转）处理境内交易。
+  - 设立**支付系统风险管理框架**，要求PJP按交易规模分级缴纳风险保证金（最低50亿印尼盾，约合31万美元）。
+  - 推出**BI-FAST 2.0**（2025年7月上线），将单笔交易限额从2500万印尼盾提升至1亿印尼盾，并支持跨境QR码支付（与泰国、马来西亚、新加坡互联）。
+
+**BI Circular Letter No. 27/2025 on Digital Rupiah Pilot**（2025年3月）
+
+- **范围**：央行数字货币（CBDC）“数字卢比”的批发型试点，仅限持牌银行参与。
+- **进展**：截至2026年5月，已有12家银行完成测试，日均交易量约4500亿印尼盾。
+
+### 2.2 OJK数字银行与金融科技框架（2024-2025）
+
+**OJK Regulation No. 12/2025 on Digital Banking Services**（2025年1月生效）
+
+- **公告号**：POJK No. 12/2025
+- **日期**：2024年12月发布，2025年1月15日生效
+- **范围**：所有提供数字银行服务的传统银行及纯数字银行（如Bank Jago、SeaBank）
+- **核心变化**：
+  - **最低资本要求**：纯数字银行最低实缴资本从1万亿印尼盾提升至3万亿印尼盾（约合1.87亿美元），现有机构需在2027年底前达标。
+  - **客户身份验证**：强制采用**生物识别+国家身份证号（NIK）** 双重认证，禁止仅凭护照或税卡开户。
+  - **数据本地化**：所有客户交易数据必须存储于印尼境内服务器，跨境传输需获得OJK特别许可，且需进行数据保护影响评估（DPIA）。
+
+**OJK Regulation No. 15/2024 on Fintech Lending**（2024年8月生效）
+
+- **范围**：P2P借贷平台、数字贷款机构
+- **核心变化**：
+  - 最高年化利率（APR）上限从0.4%/日降至0.3%/日（约109.5%年化），违规机构面临吊销牌照。
+  - 要求平台向OJK报送**每日不良贷款（NPL）数据**，NPL超过5%的平台需暂停放贷。
+  - 外国投资者持股比例上限从85%降至49%（2025年6月起执行）。
+
+### 2.3 反洗钱（AML）与合规升级（2024-2026）
+
+**OJK Circular Letter No. 20/2024 on Beneficial Ownership Disclosure**（2024年10月）
+
+- **范围**：所有金融机构、金融科技公司、虚拟资产服务提供商（VASP）
+- **核心变化**：
+  - 要求识别并登记所有法律实体的**最终受益人（UBO）**，包括持股超过25%的自然人或通过协议控制者。
+  - 外国客户（包括中国大陆人）需提供**来源国税务居民证明**及**资金合法来源声明**，否则银行有权拒绝开户。
+
+**BI Regulation No. 28/2025 on Cross-Border Payment Reporting**（2025年11月生效）
+
+- **范围**：所有跨境资金转移超过1亿印尼盾（约合6200美元）的交易
+- **核心变化**：
+  - 强制通过**BI的跨境交易报告系统（Laporan Transaksi Lintas Batas）** 实时申报，未申报资金将被冻结。
+  - 个人年度跨境汇款限额从10亿印尼盾降至5亿印尼盾（约合3.1万美元），超出需提交OJK特别审批。
+
+---
+
+## 对市场的影响分析
+
+### 3.1 银行与金融机构
+
+- **合规成本上升**：据OJK 2025年行业调查，中型银行为满足POJK No. 12/2025的数据本地化要求，平均投入约120亿印尼盾（约合75万美元）用于数据中心建设。纯数字银行面临资本补充压力，SeaBank于2025年9月完成3.5万亿印尼盾增资。
+- **市场集中度提高**：P2P借贷领域，POJK No. 15/2024导致34家小型平台在2024-2025年间退出市场。截至2026年3月，前五大平台（如Akulaku、Kredivo）占据市场总额的62%。
+- **支付系统整合**：PBI No. 26/2024推动GPN覆盖率从2023年的72%升至2025年的96%，境外支付路由成本平均降低18%。
+
+### 3.2 金融科技公司
+
+- **外资持股限制**：POJK No. 15/2024中外国投资者持股上限降至49%，直接影响中国资本背景的金融科技企业。例如，蚂蚁集团持股的Dana（电子钱包）需在2026年底前调整股权结构。
+- **产品利率压缩**：APR上限从0.4%/日降至0.3%/日，导致部分平台调整风控模型，优质客户利率下降但高风险客户审批率降低约23%（据OJK 2026年1月数据）。
+
+### 3.3 消费者与中小企业
+
+- **信贷可得性短期收紧**：OJK数据显示，2025年P2P借贷总额为45.2万亿印尼盾，较2024年下降11.7%，主要因平台退出及风控收紧。中小企业贷款申请通过率从2023年的68%降至2025年的54%。
+- **支付便利性提升**：BI-FAST 2.0上线后，跨行即时转账成功率从92%提升至99.2%，单笔限额提升使大额交易（如购房定金）无需分笔操作。
+
+---
+
+## 对大陆人的影响
+
+### 4.1 银行业务与开户
+
+- **开户难度增加**：POJK No. 12/2025要求生物识别+NIK双重认证，大陆人若未持有印尼长期居留许可（KITAS/KITAP）或未登记NIK，将无法通过数字渠道开户。截至2026年5月，部分银行（如BCA、Mandiri）已暂停为仅持护照的大陆人开设数字账户。
+- **合规材料要求**：OJK Circular No. 20/2024要求提供中国税务居民证明（可通过中国税务机关开具的《中国税收居民身份证明》）及资金合法来源声明（如工资单、银行流水）。未提供者，银行有权关闭现有账户。
+
+### 4.2 跨境汇款与资金流动
+
+- **额度与申报限制**：BI Regulation No. 28/2025将个人年度跨境汇款限额降至5亿印尼盾（约3.1万美元），且单笔超过1亿印尼盾需实时申报。大陆人通过地下钱庄或非正规渠道转移资金的风险显著上升——2025年BI与印尼金融交易报告与分析中心（PPATK）联合查处了47起非法汇款案件，涉及金额约2.3万亿印尼盾。
+- **中文服务可用性**：主要银行（BCA、Mandiri、CIMB Niaga）的跨境汇款系统已提供中文界面，但合规申报表格仅提供印尼语和英语版本。部分银行（如中国银行雅加达分行）提供中文客户经理协助，但需提前预约。
+
+### 4.3 金融科技与投资
+
+- **P2P借贷限制**：大陆人作为投资者参与P2P借贷平台，需提供印尼税卡（NPWP）及居住证明。POJK No. 15/2024后，部分平台（如Investree）已暂停非印尼居民注册。
+- **数字货币与虚拟资产**：OJK于2025年12月发布《虚拟资产服务提供商监管草案》，要求所有加密交易所（如Indodax、Tokocrypto）对非印尼居民用户进行**增强型尽职调查（EDD）**，包括提供来源国反洗钱合规证明。目前尚无中国背景的交易所获得正式牌照。
+
+### 4.4 中文服务可用性
+
+- **银行渠道**：中国银行雅加达分行、工商银行印尼分行提供全中文开户与汇款服务，但需遵循OJK相同的NIK与合规要求。2026年3月，中国银行雅加达分行推出“跨境通”产品，支持人民币-印尼盾直接汇款，单笔限额2万美元。
+- **OJK咨询**：OJK官方网站（www.ojk.go.id）提供英文版法规摘要，无中文翻译。大陆人可通过OJK消费者保护热线（1500-655）获取英文/印尼语咨询，中文服务需通过第三方律师事务所。
+
+---
+
+## 未来展望
+
+### 5.1 2026年下半年至2027年关键时间节点
+
+- **2026年12月**：PBI No. 26/2024要求所有PJP完成GPN接入的最后期限，未接入机构将被暂停运营。
+- **2027年1月**：POJK No. 12/2025中纯数字银行最低资本3万亿印尼盾的达标截止日，预计至少2家小型数字银行将寻求合并或被收购。
+- **2027年6月**：POJK No. 15/2024中外资持股49%上限的全面执行期，中国背景金融科技公司需完成股权结构调整。
+
+### 5.2 监管趋势
+
+- **CBDC商业化**：BI计划在2027年启动数字卢比的零售型试点，初期覆盖雅加达、泗水、万隆三城。大陆人需关注数字卢比是否支持非居民钱包，目前BI未明确表态。
+- **跨机构数据共享**：OJK与BI正在推进“金融数据统一平台”（Satu Data Keuangan），计划2027年上线，届时金融机构可实时查询客户在多家机构的信用与交易记录。大陆人需注意个人数据隐私保护，尤其是中国《个人信息保护法》与印尼《个人数据保护法》（UU PDP）的跨境合规冲突。
+- **反洗钱强化**：印尼金融交易报告与分析中心（PPATK）2026年4月宣布，将与中国反洗钱监测分析中心（CAMLMAC）签署信息交换备忘录，预计2027年生效。届时大陆人跨境资金流动将面临更严格的双方审查。
+
+### 5.3 潜在风险与应对建议
+
+- **合规风险**：大陆人应避免通过非正规渠道汇款或使用未持牌金融科技平台。2025年BI已对12家未注册平台处以罚款，涉及中国用户资金约800亿印尼盾。
+- **政策不确定性**：OJK正在审议《数字金融资产法》（草案），计划2027年提交国会，可能对加密资产、稳定币实施更严格限制。建议大陆投资者暂缓大额加密资产配置。
+
+---
+
+## FAQ
+
+### Q1: 大陆人如何在2026年印尼新规下开设银行账户？
+
+**A1:** 根据POJK No. 12/2025，大陆人需满足以下条件：持有有效印尼长期居留许可（KITAS/KITAP）并登记国家身份证号（NIK）；提供中国税务居民证明（英文版，需公证）；提交资金来源合法声明（如近6个月银行流水，需翻译成印尼语或英语）。建议优先选择中国银行雅加达分行或工商银行印尼分行，其提供中文协助，但仍需遵循上述合规要求。短期访问（持旅游签证）的大陆人目前无法通过数字渠道开户，仅可在部分银行（如BCA）柜台办理有限功能账户，但需本人到场并提交护照及签证复印件。
+
+### Q2: 印尼央行（BI）的跨境汇款新规对大陆人有哪些具体限制？
+
+**A2:** 根据BI Regulation No. 28/2025，自2025年11月起：个人年度跨境汇款上限为5亿印尼盾（约3.1万美元）；单笔超过1亿印尼盾（约6200美元）需通过BI的跨境交易报告系统实时申报；未申报资金将被冻结，并可能面临行政罚款（最高为交易金额的10%）。大陆人通过银行汇款时，需填写“资金来源与用途声明”，并提供支持文件（如合同、发票、工资单）。建议大陆人将大额汇款分多笔操作，但需注意同一收款人连续多笔汇款可能触发反洗钱审查。
+
+### Q3: 大陆人能否继续在印尼使用微信支付或支付宝？
+
+**A3:** 根据PBI No. 26/2024，所有支付系统服务提供商（PJP）必须接入BI的国家支付网关（GPN），禁止使用境外支付路由处理境内交易。这意味着微信支付和支付宝（通过合作银行或第三方机构）在印尼境内商户的二维码支付功能已受限制。截至2026年5月，仅部分旅游区（如巴厘岛）商户通过与印尼本地银行（如BCA、Mandiri）的合作，支持微信支付或支付宝扫码，但交易需经过GPN清算，且单笔限额通常为1000万印尼盾（约620美元）。大陆人建议优先使用本地电子钱包（如GoPay、OVO、Dana），或通过Visa/Mastercard信用卡支付。
+
+---
+
+## 参考资料
+
+1. Bank Indonesia. (2024). *Regulation No. 26/2024 on Payment System Service Providers* (PBI No. 26/2024). Jakarta: Bank Indonesia. [Online] Available at: https://www.bi.go.id/en/publikasi/peraturan/Pages/PBI_26_2024.aspx
+2. Otoritas Jasa Keuangan. (2025). *Regulation No. 12/2025 on Digital Banking Services* (POJK No. 12/2025). Jakarta: OJK. [Online] Available at: https://www.ojk.go.id/id/regulasi/Pages/POJK-12-2025.aspx
+3. Otoritas Jasa Keuangan. (2024). *Regulation No. 15/2024 on Fintech Lending* (POJK No. 15/2024). Jakarta: OJK. [Online] Available at: https://www.ojk.go.id/id/regulasi/Pages/POJK-15-2024.aspx
+4. Bank Indonesia. (2025). *Circular Letter No. 27/2025 on Digital Rupiah Pilot*. Jakarta: Bank Indonesia. [Online] Available at: https://www.bi.go.id/en/publikasi/siaran-pers/Pages/SP_270325.aspx
+5. Otoritas Jasa Keuangan. (2024). *Circular Letter No. 20/2024 on Beneficial Ownership Disclosure*. Jakarta: OJK. [Online] Available at: https://www.ojk.go.id/id/regulasi/Pages/SE-OJK-20-2024.aspx
+6. Bank Indonesia. (2025). *Regulation No. 28/2025 on Cross-Border Payment Reporting* (PBI No. 28/2025). Jakarta: Bank Indonesia. [Online] Available at: https://www.bi.go.id/en/publikasi/peraturan/Pages/PBI_28_2025.aspx
+7. Otoritas Jasa Keuangan. (2025). *Digital Banking Blueprint 2025-2029*. Jakarta: OJK. [Online] Available at: https://www.ojk.go.id/id/berita-dan-kegiatan/publikasi/Pages/Blueprint-Perbankan-Digital-2025-2029.aspx
+8. Bank Indonesia. (2026). *2025 Payment System Report*. Jakarta: Bank Indonesia. [Online] Available at: https://www.bi.go.id/en/publikasi/laporan/Pages/Laporan-Sistem-Pembayaran-2025.aspx
+9. Government of Indonesia. (2023). *Law No. 4 of 2023 on Financial Sector Development and Strengthening (PPSK)*. Jakarta: State Gazette of the Republic of Indonesia. [Online] Available at: https://www.ojk.go.id/id/regulasi/Pages/UU-4-2023.aspx
+10. Financial Transaction Reports and Analysis Center (PPATK). (2026). *Annual Report 2025: Anti-Money Laundering and Counter-Terrorism Financing*. Jakarta: PPATK. [Online] Available at: https://www.ppatk.go.id/publikasi/laporan-tahunan
+
+---

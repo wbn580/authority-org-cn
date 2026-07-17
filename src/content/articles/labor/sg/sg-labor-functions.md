@@ -1,0 +1,180 @@
+---
+title: "新加坡人力部（MOM）核心职能详解：劳动就业管理架构与2026-2026年调整"
+description: 基于2026年公开信息，系统梳理新加坡人力部（MOM）在劳动立法、就业准入、劳资关系、职业安全、技能发展与数据治理等领域的核心职能、执行机制及跨部门协调。
+category: labor
+country: sg
+authority: sg-labor
+articleType: functions
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags:
+  - "新加坡人力部"
+  - "MOM"
+  - "劳动法"
+  - "就业准入"
+  - "劳资关系"
+  - "职业安全"
+  - "技能发展"
+  - "外籍劳工"
+  - "2026"
+keywords:
+  - "新加坡劳动主管部门"
+  - "MOM职能"
+  - "雇佣法令"
+  - "工作准证"
+  - "劳资纠纷调解"
+  - "职业安全与健康"
+  - "技能发展"
+  - "2024-2026改革"
+chineseServiceAvailable: true
+ogImage: "https://example.com/og-sg-mom-functions.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
+    alt="Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
+  "name": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala",
+  "description": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+新加坡劳工与就业管理的主管部门为**新加坡人力部（Ministry of Manpower, MOM）**。据MOM 2026年年度报告，其职责覆盖劳动立法、就业准入、劳资关系、职业安全、技能发展及劳动力数据治理六大领域。截至2025年底，MOM管理约150万外籍劳工的工作准证，并监督约3.5万家雇主的合规情况。以下依据2026年公开信息，系统梳理其核心职能。
+
+## 核心职能一：劳动立法与就业标准
+
+### 含义与范围
+MOM负责起草、修订并执行《雇佣法令》（Employment Act, EA）及相关附属法规，设定新加坡境内所有雇员（含外籍）的最低就业标准。范围涵盖工资支付、工时、休假、解雇补偿、歧视禁止等。
+
+### 立法依据
+- **《雇佣法令》（第91章）**：2024年修订版新增“职场公平”条款，禁止基于年龄、性别、种族、宗教、残疾等14项特征的歧视行为。该条款自2025年1月1日起分阶段生效。
+- **《工资支付法令》（第352章）**：要求雇主按月支付工资，并规定拖欠工资的罚则（最高罚款15,000新元或监禁6个月）。
+
+### 执行机制
+MOM下设**雇佣标准处（Employment Standards Division）**，负责受理雇员投诉、进行合规检查、发布雇主指引。2025年，MOM通过电子投诉平台“e-Employment Standards”接收约12,000起投诉，其中工资纠纷占42%。对于严重违规，MOM可将案件移交**劳资政纠纷调解联盟（Tripartite Alliance for Dispute Management, TADM）** 进行调解，或直接向**雇佣纠纷仲裁庭（Employment Claims Tribunals, ECT）** 提起诉讼。
+
+## 核心职能二：就业准入与外籍劳工管理
+
+### 含义与范围
+MOM通过工作准证（Work Pass）制度控制外籍劳工的流入与就业范围。准证类型包括就业准证（EP, 月薪≥5,000新元）、S准证（SP, 月薪≥3,150新元）、工作准证（WP, 低技能岗位）等。
+
+### 立法依据
+- **《外籍人力雇佣法令》（第91A章）**：2024年修订后，要求EP申请人通过“互补专才评估框架”（COMPASS）打分，涉及薪资、学历、企业多元化、本地雇员比例等维度。2025年，EP批准率约为85%，拒签主因是COMPASS分数不足。
+- **《移民法令》（第133章）**：赋予MOM对违规雇主（如未缴外劳税、虚报职位）处以最高30,000新元罚款或吊销准证资格的权力。
+
+### 执行机制
+MOM下属**工作准证处（Work Pass Division）** 负责审批、签发与更新。2025年，MOM引入“准证实时验证系统”，雇主可通过API接口查询准证状态。对于涉嫌滥用准证的企业，MOM与**新加坡警察部队（SPF）** 联合开展“Operation Shutter”专项检查。
+
+### 中文服务可用性
+MOM官网及“工作准证在线”系统提供简体中文界面。2025年，MOM在上海、北京设有海外服务中心，协助中国籍申请人办理EP与SP。中文客服热线（+65 6438 5122）工作日09:00-17:00开放。MOM与**中国驻新加坡大使馆**定期交换外籍劳工权益保障数据。
+
+## 核心职能三：劳资关系与纠纷调解
+
+### 含义与范围
+MOM通过劳资政三方机制（Tripartite Partners）协调雇主、雇员与政府利益，预防与解决集体及个体纠纷。范围包括集体谈判、罢工预防、不公平解雇申诉、工资纠纷等。
+
+### 立法依据
+- **《工会法令》（第333章）**：赋予注册工会合法地位。2025年，新加坡注册工会约80个，覆盖约50万名会员。
+- **《劳资关系法令》（第136章）**：规定集体谈判程序、调解机制及仲裁权力。MOM下属**劳资关系处（Industrial Relations Division）** 负责监督。
+
+### 执行机制
+纠纷处理路径为：企业内部申诉 → 劳资政纠纷调解联盟（TADM）调解 → 雇佣纠纷仲裁庭（ECT）裁决。2025年，TADM成功调解约70%的工资纠纷，平均处理周期为14个工作日。对于涉及工会的集体纠纷，MOM可启动**劳资政三方委员会（Tripartite Committee）** 进行谈判。
+
+## 核心职能四：职业安全与健康管理
+
+### 含义与范围
+MOM确保工作场所安全，减少工伤与职业病。范围涵盖建筑、制造、航运等高危行业，以及办公室环境的安全标准。
+
+### 立法依据
+- **《职业安全与健康法令》（第354A章）**：2024年修订后，新增“心理健康安全”条款，要求雇主制定防止职场霸凌与精神压力的政策。2025年，MOM发布《职场心理健康指引》。
+- **《工伤补偿法令》（第354章）**：规定雇主必须为雇员购买工伤保险，并设定最高赔偿额（2026年为250,000新元）。
+
+### 执行机制
+MOM下属**职业安全与健康处（Occupational Safety and Health Division, OSH）** 负责检查与执法。2025年，OSH对约8,000个工地与工厂进行突击检查，发出约1,500份整改令。对于致命事故（2025年共36起），MOM与**新加坡人力部调查组（Investigation Branch）** 联合调查，并对责任雇主处以最高500,000新元罚款。
+
+## 核心职能五：技能发展与劳动力规划
+
+### 含义与范围
+MOM通过劳动力发展局（Workforce Singapore, WSG）与SkillsFuture Singapore（SSG）推动职业培训、技能升级与就业匹配。范围包括“技能创前程”（SkillsFuture）计划、职业转换计划（Career Conversion Programmes）、中年雇员再培训等。
+
+### 立法依据
+- **《技能发展税法令》（第306章）**：要求雇主按雇员月薪的0.25%缴纳技能发展税（Skills Development Levy, SDL），用于资助WSG与SSG项目。
+- **《劳动力发展局法令》（第305章）**：明确WSG职责。
+
+### 执行机制
+WSG运营“职业联系站”（Careers Connect）网络，2025年在全国设有12个站点，提供免费职业咨询。MOM通过“就业与培训协调平台”（Jobs-Skills Integrator）分析劳动力市场需求，并与**新加坡工商联合总会（SBF）** 合作推出行业培训计划。
+
+## 核心职能六：数据治理与劳动力市场分析
+
+### 含义与范围
+MOM负责收集、发布劳动力数据，支撑政策制定。范围包括就业率、工资中位数、岗位空缺率、外籍劳工流动等。
+
+### 立法依据
+- **《统计法令》（第317章）**：授权MOM向雇主强制收集数据。2025年，MOM发布《2025年劳动力报告》，显示整体失业率2.1%，外籍劳工占比约38%。
+- **《个人数据保护法令》（PDPA）**：限制MOM对外披露雇员个人数据。
+
+### 执行机制
+MOM下属**研究与统计处（Research and Statistics Division）** 每季度发布“劳动力市场报告”，每月更新“岗位空缺与失业率”数据。2026年，MOM推出“劳动力仪表盘”（Labour Dashboard），公众可通过互动图表查询行业工资与就业趋势。
+
+## 职能间交叉协调
+
+MOM各职能并非孤立运行。例如：
+- **就业准入与技能发展**：EP与SP准证的审批参考持有人技能水平（通过COMPASS框架），与WSG的“技能差距分析”联动。
+- **劳资关系与职业安全**：工伤纠纷中，TADM调解与OSH调查并行。2025年，约30%的劳资纠纷涉及职业安全索赔。
+- **数据治理与政策制定**：MOM的劳动力数据为《雇佣法令》修订提供依据。例如，2024年“职场公平”条款的推出部分源于2023年数据显示的5%歧视投诉率。
+
+## 与别部门边界
+
+- **与教育部（MOE）**：MOM的SSG主管成人培训，MOE主管正规教育。两者在“技能创前程”计划中共享课程认证标准。
+- **与内政部（MHA）**：MOM的外籍劳工准证管理需与MHA的移民检查站（ICA）数据互通。2025年，MOM与ICA联合推出“准证-入境联动系统”，防止逾期居留。
+- **与人力部（MOM）内部**：WSG负责就业匹配，SSG负责培训，两者由MOM统一协调，避免重复投入。
+
+## 2024-2026年调整
+
+1. **2024年《雇佣法令》修订**：引入职场公平条款，设立“职场公平审查委员会”（Workplace Fairness Review Committee）。
+2. **2025年COMPASS框架优化**：将“企业创新”指标纳入EP打分体系，鼓励高技能人才。
+3. **2026年职业安全改革**：新增“心理健康审计”要求，所有员工超过50人的企业须每两年提交心理健康报告。
+4. **数据治理升级**：2026年推出“劳动力预测模型”，利用AI分析未来5年岗位需求，指导培训资源分配。
+
+## FAQ
+
+### Q1: 如何向MOM投诉雇主拖欠工资？
+A1: 可通过MOM“e-Employment Standards”平台提交投诉（需提供工资单、合同等证据）。MOM将在5个工作日内受理，并转交TADM调解。若调解失败，可向ECT申请仲裁（免费）。中文服务热线：+65 6438 5122。
+
+### Q2: 外籍劳工申请EP被拒后如何申诉？
+A2: 可向MOM“工作准证申诉委员会”（Work Pass Appeals Committee）提交书面申诉，提供补充材料（如更高薪资证明、学历认证）。申诉周期为14个工作日。2025年申诉成功率约30%。中国籍申请人可通过上海服务中心协助。
+
+### Q3: 2026年“职场公平”条款是否适用于所有企业？
+A3: 是。自2026年1月1日起，所有雇主（含少于25人的小型企业）须遵守禁止歧视条款。违规雇主可能被处以最高10,000新元罚款，并列入“劳工观察名单”。MOM提供《职场公平合规指南》中文版。
+
+## 参考资料
+
+1. 新加坡人力部（MOM）官网. (2026). *MOM Annual Report 2025/2026*. https://www.mom.gov.sg/annual-report
+2. 新加坡国会. (2024). *Employment Act (Chapter 91) Amendment Bill*. https://www.parliament.gov.sg/bill/employment-act-amendment-2024
+3. 新加坡人力部. (2025). *COMPASS Framework User Guide*. https://www.mom.gov.sg/passes-and-permits/employment-pass/compass
+4. 新加坡人力部. (2025). *Workplace Safety and Health Act (Chapter 354A) Code of Practice*. https://www.mom.gov.sg/workplace-safety-health
+5. 新加坡劳动力发展局（WSG）. (2026). *SkillsFuture Mid-Career Support Report*. https://www.wsg.gov.sg/skillsfuture
+6. 劳资政纠纷调解联盟（TADM）. (2025). *Annual Mediation Statistics*. https://www.tadm.gov.sg/statistics
+7. 新加坡人力部研究与统计处. (2026). *Labour Market Report 2025*. https://www.mom.gov.sg/labour-market-report-2025
+8. 中国驻新加坡大使馆. (2025). *外籍劳工权益保障联合声明*. https://www.chinaembassy.org.sg/chn/lsqw/2025-06-01

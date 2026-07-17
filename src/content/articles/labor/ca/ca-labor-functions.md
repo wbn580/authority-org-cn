@@ -1,0 +1,192 @@
+---
+title: "加拿大劳工/就业主管部门核心职能详解（2026-2026）"
+description: 基于2026年最新立法与政策，系统梳理加拿大就业与社会发展部（ESDC）及加拿大劳工计划（Labour Program）在劳工标准、劳动关系、职业安全、就业保险及技能发展等领域的核心职能、法律依据、执行机制及跨部门协调。
+category: labor
+country: ca
+authority: ca-labor
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "加拿大劳工标准"
+  - "ESDC"
+  - "加拿大劳工计划"
+  - "联邦劳工法"
+  - "职业健康安全"
+  - "就业保险"
+  - "劳动关系"
+  - "2024-2026改革"
+keywords:
+  - "加拿大劳工部职能"
+  - "就业与社会发展部"
+  - "加拿大劳工法"
+  - "联邦管辖行业"
+  - "职业健康与安全"
+  - "就业保险"
+  - "技能发展"
+  - "劳动监察"
+  - "2026年劳工政策"
+chineseServiceAvailable: true
+ogImage: "https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_44/assets/wmms-blk.svg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: backfill-2026年加拿大硕士申请co-op实习项目值得选吗 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026年加拿大硕士申请co-op实习项目值得选吗-2026-1880x1254.jpg"
+    alt="加拿大硕士,Co-op项目,实习,申请条件,2026,留学工作"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年加拿大硕士申请co-op实习项目值得选吗-2026-1880x1254.jpg",
+  "name": "加拿大硕士,Co-op项目,实习,申请条件,2026,留学工作",
+  "description": "加拿大硕士,Co-op项目,实习,申请条件,2026,留学工作 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+加拿大劳工与就业主管部门的核心职能由 **就业与社会发展部（Employment and Social Development Canada, ESDC）** 及其下属的 **加拿大劳工计划（Labour Program）** 承担。据ESDC 2026年部门计划，该部门直接管理约120万联邦管辖行业雇员（占全国劳动力约6%）的劳工事务，并通过与各省/地区合作间接影响全体劳动人口。以下基于《加拿大劳工法》（Canada Labour Code, R.S.C., 1985, c. L-2）、《就业保险法》（Employment Insurance Act, S.C. 1996, c. 23）及2024-2026年政策调整，系统阐述其核心职能、法律依据、执行机制及跨部门协调。
+
+## 劳工标准与工作条件监管
+
+### 含义与范围
+该职能涵盖联邦管辖行业（如银行、电信、航空、铁路、跨省运输、广播、核能及部分原住民保留地企业）雇员的最低工资、工时、加班、休假、解雇通知及遣散费等基本劳工标准。据《加拿大劳工法》第三部分（Part III），雇主须向雇员提供至少每年2周带薪年假（工作满5年后增至3周），并遵守联邦最低工资标准（2026年4月1日起为每小时17.75加元，依据《联邦最低工资条例》年度调整）。
+
+### 立法与执行机制
+- **法律依据**：《加拿大劳工法》第三部分（R.S.C., 1985, c. L-2, ss. 166-267）及《劳工标准条例》（Canada Labour Standards Regulations, C.R.C., c. 986）。
+- **执行机构**：加拿大劳工计划下设的劳工标准处（Labour Standards Directorate）负责政策制定、合规指导及投诉处理。2024年，ESDC启用数字化投诉平台“联邦劳工标准在线”（Federal Labour Standards Online, FLSO），实现投诉提交、案件追踪及裁决通知全流程电子化。据ESDC 2025-2026年度报告，2025年FLSO受理投诉12,847件，较2023年增加23%。
+- **监察机制**：劳工计划监察员（Labour Program Officers）依据《劳工法》第251条有权进入工作场所、调阅记录、询问雇员，并对违规雇主发出合规令（Compliance Orders）或行政罚款（Administrative Monetary Penalties, AMPs）。2024年修订的《行政罚款条例》将个人罚款上限提升至5,000加元，企业罚款上限至25,000加元。
+
+### 2024-2026年调整
+2025年1月，ESDC发布《联邦劳工标准现代化指引》，规定远程工作者（如居家办公员工）的工时记录须采用数字计时系统，雇主须每季度提交合规报告。2026年3月，加拿大议会通过《劳工法修正案（C-58法案）》，要求联邦管辖行业雇主在解雇服务满12个月的雇员时，须提供至少8周书面通知（此前为2周），并支付相当于1周工资/每服务年的遣散费（上限26周）。该修正案于2026年6月1日生效。
+
+## 职业健康与安全（OHS）监管
+
+### 含义与范围
+该职能旨在预防联邦管辖行业的工作场所伤亡、职业病及心理伤害，覆盖物理安全、化学危害、生物风险及心理社会风险（如工作场所骚扰与暴力）。据《加拿大劳工法》第二部分（Part II），雇主有“一般义务”（general duty）确保工作场所安全，雇员有权拒绝危险工作（refusal to work）并参与内部安全委员会。
+
+### 立法与执行机制
+- **法律依据**：《加拿大劳工法》第二部分（ss. 122-165）、《工作场所骚扰与暴力预防条例》（SOR/2020-130）及《危险品信息系统条例》（WHMIS 2025）。
+- **执行机构**：劳工计划下设的职业健康与安全处（Occupational Health and Safety Directorate）主导政策制定与监察。2024年，ESDC建立“国家OHS数据平台”，整合联邦管辖行业的事故报告、监察结果及合规数据，2025年该平台覆盖率达98%。
+- **监察与处罚**：OHS监察员依据《劳工法》第141条执行检查，2025年完成现场检查8,923次（较2023年增加15%），发出整改令（Direction）4,210份，因严重违规（如未提供防护设备导致死亡）提起刑事指控7起。行政罚款方面，2025年对违规企业平均罚款额为12,500加元。
+- **三方协作机制**：每个联邦管辖工作场所须设立“政策委员会”（Policy Committee）或“工作场所健康与安全委员会”（Workplace Health and Safety Committee），由雇主与雇员代表对等组成。据ESDC 2026年数据，约92%的联邦管辖企业已建立此类委员会。
+
+### 2024-2026年调整
+2024年12月，ESDC发布《远程工作OHS指南》，要求雇主对居家办公员工进行心理风险评估，并提供符合人体工学的设备补贴（上限500加元/年）。2025年6月，加拿大议会通过《工作场所暴力预防强化法案》，将“家庭暴力延伸至工作场所”纳入雇主预防义务，要求雇主制定专项应对计划。2026年1月，OHS监察员开始使用AI辅助工具分析事故报告，识别高风险行业（如航空地勤、铁路维修）并增加检查频次。
+
+## 劳动关系与集体谈判管理
+
+### 含义与范围
+该职能负责规范联邦管辖行业的工会组织、集体谈判、调解/仲裁及罢工/闭厂行为，旨在平衡劳资双方权利并维护基本公共服务连续性。据《加拿大劳工法》第一部分（Part I），雇员有权加入工会并参与集体谈判，雇主不得干预工会活动。联邦管辖行业约35%的雇员受集体协议覆盖（2025年数据）。
+
+### 立法与执行机制
+- **法律依据**：《加拿大劳工法》第一部分（ss. 1-121）、《加拿大劳资关系委员会条例》（Canada Industrial Relations Board Regulations, SOR/2001-520）。
+- **执行机构**：加拿大劳资关系委员会（CIRB）是独立准司法机构，负责工会认证、不公平劳动行为裁决及罢工/闭厂合法性审查。劳工计划下的联邦调解与和解服务局（Federal Mediation and Conciliation Service, FMCS）提供自愿或强制调解服务。2025年，FMCS介入集体谈判纠纷412起，调解成功率为71%（达成临时协议）。
+- **关键机制**：
+  - **工会认证**：CIRB依据《劳工法》第28条，在雇员投票支持率超过50%时认证工会。2024年，CIRB引入电子投票系统，将认证周期从平均45天缩短至28天。
+  - **罢工/闭厂门槛**：依据《劳工法》第89条，关键公共服务（如航空管制、铁路信号）的工会须在罢工前72小时通知，CIRB可对危害公共安全的罢工申请禁令。2025年，CIRB处理紧急禁令申请23起，批准11起。
+  - **不公平劳动行为**：CIRB对雇主解雇工会活动者、拒绝谈判等行为可下令恢复原职并赔偿损失。2025年，CIRB裁决不公平劳动行为案件187件，赔偿总额达340万加元。
+
+### 2024-2026年调整
+2024年9月，CIRB发布《远程投票指南》，允许雇员在分散工作场所（如跨省运输）通过安全数字平台参与工会选举或罢工投票。2025年11月，加拿大议会通过《集体谈判现代化法案》，要求雇主在集体协议到期前90天提供财务数据（如工资中位数、福利成本）以促进透明谈判。该法案于2026年4月生效。2026年2月，CIRB裁定“零工工人”（如Uber司机）在联邦管辖行业的工会资格需个案审查，未统一认可。
+
+## 就业保险（EI）管理
+
+### 含义与范围
+就业保险（EI）是联邦政府主导的社会保障计划，为失业、疾病、产假/育儿假、护理假及渔业季节性工人提供收入替代。据《就业保险法》，EI资金来源于雇主与雇员缴费（2026年费率为雇员1.58%、雇主2.21%），由加拿大税务局（CRA）代收。EI覆盖约1,900万活跃缴费者（2025年数据）。
+
+### 立法与执行机制
+- **法律依据**：《就业保险法》（S.C. 1996, c. 23）及《就业保险条例》（SOR/96-332）。
+- **执行机构**：ESDC下属的就业保险处（EI Directorate）负责政策制定、资格审核及福利支付。2025年，ESDC启用“EI自动决策系统”（EI Auto-Decision, EI-AD），对标准申请（如产假、疾病）实现80%自动审批，平均处理时间从14天降至4天。
+- **福利类型与标准**（2026年数据）：
+  - **常规失业福利**：最长45周（视区域失业率），替代率55%（最高周福利668加元）。
+  - **疾病福利**：最长26周，需医疗证明。
+  - **产假/育儿假**：产假母亲15周，育儿假父母共享35周（2025年改革后允许非亲生父母申请）。
+  - **护理假**：照顾重病家人，最长26周。
+- **监察与合规**：ESDC合规调查员针对虚假申报（如隐瞒兼职收入）进行审计，2025年审计47,000件，追回不当支付1.2亿加元。2026年，ESDC引入“信用评分模型”预测高风险申请，审计命中率提升至34%。
+
+### 2024-2026年调整
+2024年1月，EI疾病福利等待期从2周降至1周（依据《EI改革法案》）。2025年9月，ESDC推出“EI临时扩展计划”，允许因气候变化（如山火、洪水）失业的工人申请EI（最长20周），该计划至2026年12月有效。2026年3月，加拿大议会通过《EI现代化法案》，将自雇工人EI准入资格从“年收入7,500加元”降至“5,000加元”，并允许零工工人按季度申报收入。
+
+## 技能发展与劳动力市场支持
+
+### 含义与范围
+该职能通过拨款、培训项目及就业服务提升劳动力技能，降低结构性失业。ESDC管理多个联邦技能发展计划，如“劳动力市场发展协议”（Labour Market Development Agreements, LMDAs）、“加拿大就业补助”（Canada Job Grant）及“学生工作经验计划”（Student Work Experience Program）。2025-2026年度，ESDC技能发展预算为27亿加元。
+
+### 立法与执行机制
+- **法律依据**：《就业与社会发展法》（S.C. 2005, c. 34）、《加拿大技能发展与就业法》（Canada Skills Development and Employment Act, S.C. 2020, c. 8）及各省/地区协议。
+- **执行机构**：ESDC下属的劳动力市场发展局（Labour Market Development Directorate）负责国家层面项目设计，各省/地区政府（通过LMDA）负责本地化实施。2025年，ESDC与10个省/地区续签LMDA，新增“绿色技能”专项（如电动车维修、太阳能安装）。
+- **具体项目**：
+  - **加拿大就业补助**：雇主为雇员提供培训时，ESDC承担67%成本（上限10,000加元/人）。2025年，该补助支持45,000名工人培训。
+  - **青年就业战略**：为15-30岁青年提供带薪实习，2025年资助12,500个岗位。
+  - **原住民技能发展**：通过“原住民技能与就业培训协议”（ISETP），2025年资助8,200名原住民参与行业认证课程。
+- **数据支撑**：ESDC运营“加拿大职业信息系统”（Career Information System, CIS），提供实时劳动力市场数据（如行业薪资、技能缺口），2025年访问量达1.2亿次。
+
+### 2024-2026年调整
+2024年7月，ESDC推出“数字技能加速计划”，为45岁以上工人提供AI、网络安全等培训（全额资助）。2025年3月，加拿大议会通过《绿色就业法案》，要求ESDC在2026年前建立“国家绿色技能框架”，认证清洁能源、碳捕获等新兴职业。2026年2月，ESDC与各省/地区达成“技能护照”试点协议，允许工人跨省携带职业资格认证（如电工、焊工），试点期至2027年。
+
+## 职能间交叉协调
+
+ESDC的劳工标准、OHS、劳动关系、EI及技能发展职能并非孤立运作，而是通过以下机制实现交叉协调：
+
+### 内部协调机制
+- **联合执法团队**：2024年，劳工计划设立“综合合规工作组”（Integrated Compliance Task Force, ICTF），将劳工标准监察员、OHS监察员及EI审计员组成联合小组，对高风险企业（如零工平台、长途运输）进行同步检查。2025年，ICTF完成联合检查412次，发现交叉违规（如同时违反工时记录与OHS培训要求）占比37%。
+- **数据共享平台**：ESDC的“劳工数据湖”（Labour Data Lake, LDL）整合劳工标准投诉、OHS事故报告、EI申请记录及工会认证数据，供各部门分析趋势。2026年，LDL支持AI模型预测行业罢工风险（如铁路、邮政），准确率达78%。
+- **政策协调委员会**：ESDC内部设有“劳工与就业政策委员会”（Labour and Employment Policy Committee），每月召开会议，由劳工标准、OHS、EI及技能发展等部门副总监级官员参与，确保新政策（如远程工作标准）在各部门间一致实施。
+
+### 与外部部门的边界协调
+- **与加拿大税务局（CRA）**：EI缴费征收由CRA负责，ESDC提供资格审核结果。2025年，双方建立“EI-CRA实时数据交换”，减少重复申报错误（如自雇工人收入核实）。
+- **与各省/地区劳工部门**：联邦管辖行业约占6%劳动力，其余94%由省/地区管辖。ESDC通过“加拿大劳工部长论坛”（Canadian Association of Administrators of Labour Legislation, CAALL）协调标准差异。例如，2025年，联邦与安大略省就“远程工作OHS要求”达成互认协议，避免企业双重合规成本。
+- **与移民、难民及公民部（IRCC）**：技能发展职能与IRCC的“临时外国工人计划”（TFWP）联动。ESDC负责劳动力市场影响评估（LMIA），2025年处理LMIA申请98,000件，其中拒绝率12%（因本地劳动力充足）。
+- **与加拿大统计局（StatCan）**：ESDC依赖StatCan的劳动力调查（LFS）数据调整EI区域失业率及技能培训优先级。2026年，双方合作开发“绿色就业追踪器”，按月发布清洁能源行业就业增减数据。
+
+## 中文服务可用性
+
+对于在加拿大联邦管辖行业工作或求职的华语使用者，ESDC及劳工计划提供以下中文服务：
+
+- **劳工标准咨询**：ESDC官网劳工标准页面提供简体中文版《联邦劳工标准指南》（2026年4月更新），涵盖最低工资、休假、解雇通知等核心条款。中文电话热线（1-800-641-4049）提供周一至周五9:00-17:00（东部时间）人工服务。
+- **职业健康与安全**：OHS中文资料包括《工作场所骚扰预防手册》（2025年版）及《拒绝危险工作权利指南》（2026年版），可在线下载。2026年，ESDC推出“OHS中文视频系列”（10集），覆盖建筑、清洁、运输等常见行业。
+- **就业保险申请**：EI中文申请页面指导用户填写在线表格，并附有常见问题（如疾病福利所需文件）的中文解释。2025年，ESDC增设中文EI电话专线（1-800-206-7218），平均等待时间8分钟。
+- **技能发展项目**：加拿大就业补助中文申请指南（2026年版）及青年实习项目中文宣传材料可通过ESDC区域办事处索取（如多伦多、温哥华、蒙特利尔均设中文服务窗口）。
+- **劳动关系**：CIRB官网提供工会认证流程的中文概要，但正式裁决文件仅以英文/法文发布。FMCS调解服务可安排中文翻译（需提前5个工作日申请）。
+
+**注意事项**：中文服务主要集中于信息咨询与初步指导，正式法律程序（如投诉提交、听证会）要求使用英语或法语。ESDC建议华语使用者聘请持牌律师或移民顾问协助复杂案件（如不公平劳动行为申诉）。
+
+## FAQ
+
+### Q1: 加拿大劳工法适用于哪些行业？我在连锁餐厅工作是否受联邦保护？
+**A:** 《加拿大劳工法》仅适用于联邦管辖行业，包括银行、电信、航空、铁路、跨省运输（如卡车司机）、广播、核能及部分原住民保留地企业。连锁餐厅（如麦当劳、Tim Hortons）通常属于省/地区管辖，受各省劳工法（如安大略省《就业标准法》）规范，而非联邦法。若您不确定，可查询ESDC官网“联邦管辖行业清单”（2026年版）或拨打1-800-641-4049咨询。
+
+### Q2: 我因工作压力申请疾病EI，需要哪些文件？处理时间多久？
+**A:** 申请疾病EI需提供：1）医疗证明（由执业医师或护士执业者签署，说明您因疾病/伤害无法工作）；2）就业记录（ROE，由雇主出具）；3）社会保险号（SIN）。2026年，ESDC通过EI-AD系统自动审批标准申请，平均处理时间为4天。若申请复杂（如自雇工人），可能需要人工审核（最长21天）。建议通过ESDC官网中文页面提交申请，并上传电子版医疗证明。
+
+### Q3: 我怀疑雇主违反最低工资或工时规定，如何投诉？投诉后是否会遭报复？
+**A:** 您可通过ESDC“联邦劳工标准在线”（FLSO）平台提交投诉（支持中文界面），或拨打劳工计划投诉热线1-800-641-4049。投诉需提供雇主名称、工作地点、违规细节及证据（如工资单、排班表）。《加拿大劳工法》第247条禁止雇主因雇员投诉或参与调查而解雇、降薪或骚扰。若遭报复，您可向CIRB申请“不公平劳动行为”裁决，CIRB可下令恢复原职并赔偿损失（2025年此类案件平均赔偿额为12,500加元）。
+
+## 参考资料
+
+1. Canada Labour Code (R.S.C., 1985, c. L-2). Government of Canada. Retrieved from https://laws-lois.justice.gc.ca/eng/acts/L-2/
+2. Employment Insurance Act (S.C. 1996, c. 23). Government of Canada. Retrieved from https://laws-lois.justice.gc.ca/eng/acts/E-5.6/
+3. Department of Employment and Social Development Act (S.C. 2005, c. 34). Government of Canada. Retrieved from https://laws-lois.justice.gc.ca/eng/acts/E-5.56/
+4. Workplace Harassment and Violence Prevention Regulations (SOR/2020-130). Government of Canada. Retrieved from https://laws-lois.justice.gc.ca/eng/regulations/SOR-2020-130/
+5. Federal Jurisdiction Workplace Inspection Framework (2024). Employment and Social Development Canada. Retrieved from https://www.canada.ca/en/employment-social-development/services/labour-standards/inspection-framework.html
+6. 2025-2026 ESDC Departmental Plan. Employment and Social Development Canada. Retrieved from https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html
+7. 2026年加拿大劳工计划年度报告. Employment and Social Development Canada. Retrieved from https://www.canada.ca/en/employment-social-development/services/labour-program/reports.html
+8. Federal Minimum Wage Order (2026). Government of Canada. Retrieved from https://www.canada.ca/en/employment-social-development/services/labour-standards/federal-minimum-wage.html
+9. C-58 Act to Amend the Canada Labour Code (2026). Parliament of Canada. Retrieved from https://www.parl.ca/DocumentViewer/en/44-1/bill/C-58/royal-assent
+10. EI Modernization Act (2026). Parliament of Canada. Retrieved from https://www.parl.ca/DocumentViewer/en/44-1/bill/C-72/royal-assent

@@ -1,0 +1,101 @@
+---
+// index.astro — Home page
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const domains = [
+  { path: '/immigration/', label: '移民 / 签证', desc: '各国移民局、签证中心、边境管理机构官方信息', count: '9+' },
+  { path: '/education/', label: '教育', desc: '各国教育部、学历认证机构、留学监管机构', count: '26' },
+  { path: '/finance/', label: '央行 / 金融监管', desc: '各国央行、证监会、银监会、金融监管机构', count: '26' },
+  { path: '/tax/', label: '税务', desc: '各国国税部门、跨境税务条约信息', count: '26' },
+  { path: '/health/', label: '卫生 / 医保', desc: '各国卫生部、医保系统、医师监管机构', count: '26' },
+  { path: '/legal/', label: '司法 / 法务', desc: '各国司法部、律师监管、仲裁机构', count: '26' },
+  { path: '/trade/', label: '贸易 / 海关', desc: '各国海关、贸易部、跨境电商监管', count: '26' },
+  { path: '/labor/', label: '劳工 / 就业', desc: '各国劳工部、就业服务、工资监管机构', count: '26' },
+  { path: '/transport/', label: '交通 / 民航', desc: '各国民航局、交通部、跨境物流监管', count: '26' },
+];
+
+const featuredCountries = ['au', 'uk', 'us', 'ca', 'nz', 'sg', 'hk', 'jp', 'my', 'kr', 'de', 'fr'];
+const countryLabels = {
+  au: '澳大利亚', uk: '英国', us: '美国', ca: '加拿大', nz: '新西兰',
+  sg: '新加坡', hk: '香港', jp: '日本', my: '马来西亚', kr: '韩国',
+  de: '德国', fr: '法国'
+};
+---
+<BaseLayout title="全球主管部门信息汇编 — 独立运营的各国政府机构公开信息平台" description="独立运营的各国政府部门、主管机构、监管机构公开信息汇编平台。涵盖移民签证、教育、央行金融、税务、卫生医保、司法法务、贸易海关、劳工就业、交通民航九大职能领域。">
+  
+  <!-- Hero: editorial style, no marketing CTA -->
+  <section class="bg-primary-900 text-paper-50 px-4 py-16">
+    <div class="max-w-3xl mx-auto text-center">
+      <h1 class="text-2xl sm:text-3xl font-serif font-bold m-0 mb-4 text-white">
+        全球主管部门信息汇编
+      </h1>
+      <p class="text-base sm:text-lg text-paper-100 leading-loose m-0">
+        独立运营的公开信息汇编平台。收录各国政府部门、主管机构、监管机构的官方公开信息，涵盖移民签证、教育、央行金融、税务、卫生、司法、贸易、劳工、交通九大职能领域。
+      </p>
+      <p class="text-sm text-paper-100/60 mt-4 m-0">
+        数据来源：各机构官方网站 · 官方公告 · 年度报告 · 议会档案 · 政府开放数据库
+      </p>
+    </div>
+  </section>
+
+  <!-- Domain cards -->
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <h2 class="text-xl font-serif font-semibold text-primary-700 mb-6">按职能领域浏览</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {domains.map(d => (
+        <a href={d.path} class="no-underline bg-white border border-divider rounded-lg p-5 hover:border-primary-500 hover:shadow-md transition-all">
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="text-base font-serif font-semibold text-primary-700 m-0">{d.label}</h3>
+            <span class="text-xs bg-primary-50 text-primary-500 px-2 py-0.5 rounded-full">{d.count}</span>
+          </div>
+          <p class="text-sm text-ink-500 m-0 leading-relaxed">{d.desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Country index -->
+  <section class="bg-paper-100 px-4 py-12">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-xl font-serif font-semibold text-primary-700 mb-6">按国家 / 地区浏览</h2>
+      <div class="country-grid">
+        {featuredCountries.map(code => (
+          <a href={`/countries/${code}`} class="country-item no-underline">
+            <span class="text-lg">{code === 'hk' ? '🇭🇰' : code === 'eu' ? '🇪🇺' : String.fromCodePoint(...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65))}</span>
+            <span class="text-ink-700">{countryLabels[code] || code.toUpperCase()}</span>
+          </a>
+        ))}
+      </div>
+      <p class="text-xs text-ink-500 mt-4 m-0">
+        共收录 26 个国家 / 地区的主管部门信息。更多国家持续添加中。
+      </p>
+      <form action="/countries/" method="get" class="mt-4">
+        <button type="submit" class="text-sm text-primary-500 bg-white border border-divider rounded-md px-4 py-2 hover:border-primary-500">
+          浏览全部国家与地区 →
+        </button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Quick links -->
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+      <div class="text-center">
+        <h3 class="font-serif font-semibold text-primary-700 mb-2">深度分析</h3>
+        <p class="text-sm text-ink-500 m-0 mb-3">跨国对比、政策深度分析、行业趋势</p>
+        <a href="/insights/" class="text-sm text-accent-600 no-underline font-medium">浏览分析 →</a>
+      </div>
+      <div class="text-center">
+        <h3 class="font-serif font-semibold text-primary-700 mb-2">术语词汇表</h3>
+        <p class="text-sm text-ink-500 m-0 mb-3">主管部门相关术语解释与跨境对照</p>
+        <a href="/glossary/" class="text-sm text-accent-600 no-underline font-medium">查看词汇表 →</a>
+      </div>
+      <div class="text-center">
+        <h3 class="font-serif font-semibold text-primary-700 mb-2">常见问题</h3>
+        <p class="text-sm text-ink-500 m-0 mb-3">各国主管部门联系方式、中文服务等高频问题</p>
+        <a href="/faq/" class="text-sm text-accent-600 no-underline font-medium">查看 FAQ →</a>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

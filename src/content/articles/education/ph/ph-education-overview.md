@@ -1,0 +1,224 @@
+---
+title: 菲律宾教育主管部门概况：DepEd、CHED与TESDA的职能与运作
+description: 基于2026年公开数据，系统梳理菲律宾教育三大主管部门——教育部（DepEd）、高等教育委员会（CHED）及技术教育与技能发展局（TESDA）的机构沿革、核心职能、立法基础与最新动态，并提供对大陆人士的实操影响分析。
+category: education
+country: ph
+authority: ph-education
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "菲律宾教育"
+  - "DepEd"
+  - "CHED"
+  - "TESDA"
+  - "教育主管部门"
+  - "基础教育"
+  - "高等教育"
+  - "技术教育"
+keywords:
+  - "菲律宾教育部"
+  - "高等教育委员会"
+  - "技术教育与技能发展局"
+  - "K-12课程"
+  - "外国学生许可"
+  - "特别学生签证"
+  - "大陆人留学菲律宾"
+chineseServiceAvailable: true
+ogImage: /images/ph-education-overview-2026.jpg
+draft: false
+
+---
+
+
+## 引言
+
+菲律宾的教育行政体系呈现“三权分立”特征，由三个核心国家机构分别负责基础教育、高等教育与技术教育及技能发展。据菲律宾教育部（DepEd）2026年公告，该国基础教育阶段（K-12）共有在校学生约2,810万人，公立学校教师约87.5万人；高等教育委员会（CHED）2025年统计显示，全国共有2,396所高等教育机构（HEIs）。技术教育与技能发展局（TESDA）则管理超过4,500个注册技术项目。上述机构依据《共和国法案第9155号》《共和国法案第7722号》及《共和国法案第7796号》分别行使法定职权。
+
+## 机构全称、简称、成立与历史沿革
+
+**1. 教育部（Department of Education, DepEd）**
+
+- 全称：菲律宾教育部（Department of Education）
+- 简称：DepEd
+- 成立时间：1901年（作为公共教育部），1982年《教育法》确立现行框架
+- 历史沿革：1901年依据《第74号法案》设立公共教育部（Bureau of Education）；1947年更名为教育部（Department of Education）；2001年《共和国法案第9155号》（基础教育治理法）将其职权明确为“基础教育治理”，并确立其作为国家基础教育主管机构的地位。2013年《共和国法案第10533号》（强化基础教育法）推动K-12课程改革，将基础教育年限从10年延长至13年（含幼儿园）。
+
+**2. 高等教育委员会（Commission on Higher Education, CHED）**
+
+- 全称：高等教育委员会（Commission on Higher Education）
+- 简称：CHED
+- 成立时间：1994年
+- 历史沿革：1994年《共和国法案第7722号》（高等教育法）将高等教育管理职能从原教育部剥离，设立CHED作为独立机构。CHED负责监管所有高等教育机构（HEIs），包括大学、学院及职业培训学校的高等教育项目。2008年《共和国法案第9500号》（菲律宾大学宪章）进一步强化CHED对国家顶尖大学的监督角色。
+
+**3. 技术教育与技能发展局（Technical Education and Skills Development Authority, TESDA）**
+
+- 全称：技术教育与技能发展局（Technical Education and Skills Development Authority）
+- 简称：TESDA
+- 成立时间：1994年
+- 历史沿革：1994年《共和国法案第7796号》（TESDA法）合并了原国家人力与青年委员会、国家技术教育及技能发展局等机构，设立TESDA。该局负责技术教育与技能发展（TVET）项目的标准制定、课程认证与质量保障。TESDA通过其认证的“技术教育与技能发展局认证项目”（TESDA-Registered Programs）颁发国家技能证书（National Certificates, NC）。
+
+## 总部、官网与联系方式
+
+**1. DepEd**
+
+- 总部：DepEd Complex, Meralco Avenue, Pasig City, Metro Manila, Philippines
+- 官网：https://www.deped.gov.ph
+- 联系方式：电话 +63 (02) 8636-1663 或 +63 (02) 8636-6540；电子邮件可通过官网“Contact Us”表格提交
+- 主要公开渠道：Facebook (@DepEdPhilippines) 及官方新闻发布平台
+
+**2. CHED**
+
+- 总部：CHED Building, 4th Floor, 108 Meralco Avenue, Pasig City, Metro Manila, Philippines
+- 官网：https://ched.gov.ph
+- 联系方式：电话 +63 (02) 8636-0912；电子邮件 ched.gov.ph/contact-us
+- 主要公开渠道：Facebook (@CHEDOfficialPH) 及官方新闻发布平台
+
+**3. TESDA**
+
+- 总部：TESDA Complex, East Service Road, South Superhighway, Taguig City, Metro Manila, Philippines
+- 官网：https://tesda.gov.ph
+- 联系方式：电话 +63 (02) 8888-8888；电子邮件可通过官网“Contact Us”表格提交
+- 主要公开渠道：Facebook (@TESDAOfficialPH) 及官方新闻发布平台
+
+## 核心职能列表
+
+**DepEd（教育部）**
+
+- 制定、实施与监督基础教育（K-12）课程与标准
+- 管理全国公立中小学，监管私立中小学
+- 负责教师招聘、培训与职业发展（含教师资格认定）
+- 推动替代学习系统（ALS），服务失学儿童与成人
+- 协调学校基础设施建设与教材采购
+- 执行国家教育评估（如国家成就测试，NAT）
+
+**CHED（高等教育委员会）**
+
+- 制定高等教育政策、标准与长期发展规划（如高等教育发展路线图）
+- 审批与认证高等教育机构（HEIs）的设立与课程开设
+- 监督高等教育质量保障体系（含院校认证与课程认证）
+- 管理奖学金项目（如CHED Scholarship Program）
+- 协调外国学生在菲律宾高等教育机构的学习许可与签证事务
+- 推动高等教育国际化与区域合作
+
+**TESDA（技术教育与技能发展局）**
+
+- 制定技术教育与技能发展（TVET）国家标准与课程框架
+- 认证TVET项目与培训机构
+- 实施技能评估与认证（颁发国家技能证书，NC）
+- 管理学徒制与实习项目
+- 开展劳动力市场信息收集与预测
+- 推动终身学习与技能升级
+
+## 组织架构
+
+**DepEd（教育部）**
+
+DepEd由教育部长（Secretary of Education）领导，下设副部长（Undersecretaries）与助理部长（Assistant Secretaries）分管不同领域。组织架构包括：
+
+- 课程与教学部（Bureau of Curriculum and Instruction, BCI）
+- 学习资源部（Bureau of Learning Resources, BLR）
+- 教师教育与发展部（Bureau of Teacher Education and Development, BTED）
+- 学校基础设施部（Bureau of School Infrastructure, BSI）
+- 行政与财务部（Administrative and Financial Services）
+- 区域办公室（Regional Offices, 共17个）及学校分区办公室（Schools Division Offices, SDOs）
+
+**CHED（高等教育委员会）**
+
+CHED由主席（Chairperson）领导，下设四名专员（Commissioners），全体委员会为最高决策机构。组织架构包括：
+
+- 政策规划与研究办公室（Office of Policy, Planning and Research）
+- 质量保障办公室（Office of Quality Assurance, OQA）
+- 国际事务办公室（Office of International Affairs, OIA）
+- 高等教育机构监管办公室（Office of Higher Education Institutions Regulation）
+- 区域办公室（Regional Offices, 共17个）
+
+**TESDA（技术教育与技能发展局）**
+
+TESDA由局长（Director General）领导，下设副局长与各办公室。组织架构包括：
+
+- 认证与标准办公室（Office of Accreditation and Standards, OAS）
+- 课程开发办公室（Office of Curriculum Development, OCD）
+- 技能评估与认证办公室（Office of Skills Assessment and Certification, OSAC）
+- 学徒制与实习办公室（Office of Apprenticeship and Internship, OAI）
+- 区域办公室（Regional Offices, 共17个）
+
+## 立法基础
+
+以下5部法律构成菲律宾教育行政体系的核心立法依据：
+
+1. **《共和国法案第9155号》（2001年基础教育治理法）**：确立DepEd为全国基础教育主管机构，明确其治理权限与职责，并规定基础教育治理的权力下放原则。
+
+2. **《共和国法案第7722号》（1994年高等教育法）**：设立CHED，赋予其监管高等教育机构、制定高等教育政策与标准的法定权力。
+
+3. **《共和国法案第7796号》（1994年TESDA法）**：设立TESDA，明确其负责技术教育与技能发展的规划、标准制定与认证职能。
+
+4. **《共和国法案第10533号》（2013年强化基础教育法）**：推动K-12课程改革，将基础教育年限延长至13年（幼儿园至12年级），并规定课程标准与实施框架。
+
+5. **《共和国法案第9500号》（2008年菲律宾大学宪章）**：确认菲律宾大学（UP）作为国家大学的地位，并明确CHED对UP及其他公立高等教育的监管角色。
+
+## 2024-2026年动态
+
+**DepEd**
+
+- 2024年：DepEd发布第001号命令（DepEd Order No. 001, s. 2024），正式实施“MATATAG”课程改革，旨在提升基础教育质量并应对学习损失（learning loss）问题。据DepEd 2025年报告，该课程已覆盖全国约45%的公立学校。
+- 2025年：DepEd启动“国家学习恢复计划”（National Learning Recovery Program, NLRP），投入约150亿比索用于教师培训与教学资源补充。
+- 2026年：DepEd宣布扩大替代学习系统（ALS）覆盖范围，目标在2027年前服务超过200万名失学儿童与成人。
+
+**CHED**
+
+- 2024年：CHED发布第33号备忘录（CHED Memorandum Order No. 33, s. 2023），修订外国学生入学指南，简化许可流程并加强质量保障要求。
+- 2025年：CHED与菲律宾移民局（BI）联合推出“特别学生签证”（Special Student Visa, SSV）电子申请系统，旨在缩短审批时间。据CHED 2026年第一季度数据，该系统上线后签证平均处理时间从45天缩减至20个工作日。
+- 2026年：CHED宣布启动“高等教育国际化路线图2026-2030”，重点推动与东盟及东亚国家的学历互认与联合研究项目。
+
+**TESDA**
+
+- 2024年：TESDA发布第2024-01号行政命令，更新国家技能认证框架，新增人工智能与数字技能相关认证项目。
+- 2025年：TESDA与菲律宾劳工部（DOLE）合作推出“技能提升与就业衔接计划”（Skills Up and Job Link Program），目标在2026年底前培训100万名劳动者。
+- 2026年：TESDA宣布与DepEd合作，在高中阶段试点“技术-职业轨道”（Tech-Voc Track）课程，允许学生在11-12年级同时获得国家技能证书。
+
+## 中文服务可用性
+
+据菲律宾三大教育主管部门2026年公开信息，其官方渠道目前不提供中文语言版本。DepEd、CHED及TESDA的官方网站、公告与文件均以英语及菲律宾语（他加禄语）为主。以下为具体说明：
+
+- **DepEd**：官网无中文界面，但设有“翻译”功能（基于第三方插件，非官方翻译）。关键政策文件（如课程指南）部分提供英语摘要。
+- **CHED**：官网无中文界面。外国学生事务办公室（Office of Foreign Student Affairs）可提供英语咨询，未设专职中文工作人员。
+- **TESDA**：官网无中文界面。部分技能认证指南提供英语版本，未设中文服务。
+
+大陆人士如需咨询或办理相关事务，建议通过英语沟通，或委托具备资质的本地教育机构协助。部分菲律宾私立大学（如德拉萨大学、雅典耀大学）设有中文招生办公室，可作为辅助渠道。根据菲律宾移民局2025年公告，外国学生签证申请材料（如CHED许可证明）需提供经公证的英语翻译件。
+
+## 大陆人实操影响
+
+大陆人士在菲律宾从事教育相关活动（如留学、合作办学、教师交流等）需关注以下实操事项：
+
+- **留学申请**：大陆学生须先获得CHED颁发的“外国学生学习许可”（Student Study Permit, SSP），再申请菲律宾移民局的“特别学生签证”（SSV）。据CHED 2026年指南，SSP申请需提供学历公证书（含中英文翻译）、护照复印件及录取通知书。处理周期约为20-30个工作日。
+- **学历认证**：大陆学历需经中国教育部留学服务中心（CSCSE）认证后方可在菲律宾使用。菲律宾学历若需在中国使用，亦需经CSCSE认证。据中菲两国2009年签署的《学历学位互认协议》，部分公立大学学历可直接互认。
+- **教师交流**：大陆教师若需在菲律宾公立学校任教，须通过DepEd的教师资格认定程序，并持有菲律宾教师资格证（Professional Regulation Commission, PRC认证）。私立学校通常要求更灵活。
+- **合作办学**：中菲合作办学项目须向CHED提交审批申请，并符合《CHED关于外国教育机构的指南》（CHED Memorandum Order No. 5, s. 2015）。据CHED 2025年数据，目前已有12个中菲合作办学项目获得正式批准。
+
+## FAQ
+
+### Q1: 大陆学生如何申请菲律宾高校的入学许可？
+
+大陆学生申请菲律宾高校需按以下步骤操作：第一步，向目标高校提交申请并获得录取通知书（Letter of Acceptance）。第二步，向CHED区域办公室提交“外国学生学习许可”（SSP）申请，需提供学历公证书（中英文）、护照复印件、录取通知书及体检报告。第三步，获得SSP后，向菲律宾移民局申请“特别学生签证”（SSV）。据CHED 2026年公告，SSP申请费为1,000菲律宾比索（约合人民币130元），处理周期为20-30个工作日。建议预留至少2个月时间完成全部手续。
+
+### Q2: 菲律宾基础教育（K-12）课程是否适用于外国学生？
+
+菲律宾的K-12课程由DepEd统一规定，适用于所有在菲就读公立或私立学校的外国学生。据DepEd 2025年指南，外国学生可申请入读公立学校，但需提供原籍国学历证明（经认证的翻译件）及在菲合法居留证明。私立学校通常设有国际课程（如IB、AP或A-Level），但需经CHED或DepEd认证。大陆学生若计划在菲就读高中后回国升学，需注意中国教育部对菲律宾高中学历的认证要求——目前仅认可部分私立国际学校颁发的课程证书。
+
+### Q3: 菲律宾技术教育与技能发展局（TESDA）颁发的国家技能证书（NC）是否被中国认可？
+
+截至2026年，中国尚未与菲律宾签署技能证书互认协议。TESDA颁发的国家技能证书（NC）在中国境内通常不被直接认可，但可作为职业能力证明文件使用。据TESDA 2025年公告，NC证书在东盟部分国家（如新加坡、马来西亚）已被认可。大陆人士若需在菲就业或参加学徒制项目，TESDA证书是必备条件；若计划回国发展，建议同步获取中国相关职业资格证书。据中国人力资源和社会保障部2025年信息，境外技能证书需通过“境外职业资格认可清单”程序进行认证。
+
+## 参考资料
+
+1. Republic of the Philippines. (2001). *Republic Act No. 9155: Governance of Basic Education Act of 2001*. Official Gazette. https://www.officialgazette.gov.ph/2001/08/20/republic-act-no-9155/
+2. Republic of the Philippines. (1994). *Republic Act No. 7722: Higher Education Act of 1994*. Official Gazette. https://www.officialgazette.gov.ph/1994/05/18/republic-act-no-7722/
+3. Republic of the Philippines. (1994). *Republic Act No. 7796: TESDA Act of 1994*. Official Gazette. https://www.officialgazette.gov.ph/1994/08/25/republic-act-no-7796/
+4. Republic of the Philippines. (2013). *Republic Act No. 10533: Enhanced Basic Education Act of 2013*. Official Gazette. https://www.officialgazette.gov.ph/2013/05/15/republic-act-no-10533/
+5. Commission on Higher Education. (2023). *CHED Memorandum Order No. 33, Series of 2023: Revised Guidelines for Foreign Students in Higher Education Institutions*. https://ched.gov.ph/2023-ched-memorandum-order-no-33/
+6. Department of Education. (2024). *DepEd Order No. 001, Series of 2024: Implementation of the MATATAG Curriculum*. https://www.deped.gov.ph/2024/01/15/deped-order-no-001-s-2024/
+7. Technical Education and Skills Development Authority. (2024). *TESDA Administrative Order No. 2024-01: Updated National Skills Certification Framework*. https://tesda.gov.ph/ao-2024-01
+8. Philippine Statistics Authority. (2025). *Education Statistics: School Year 2024-2025*. https://psa.gov.ph/education-statistics
+9. Bureau of Immigration, Republic of the Philippines. (2025). *Guidelines for Special Student Visa Application*. https://immigration.gov.ph/ssv-guidelines-2025

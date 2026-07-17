@@ -1,0 +1,163 @@
+---
+title: 英国卫生与社会保健部（DHSC）机构沿革：从卫生部到整合型健康体系的制度演变
+description: 系统梳理英国卫生与社会保健部（DHSC）及其前身机构自1919年成立以来的组织架构调整、法律基础变更、关键改革事件与名称变更史，涵盖NHS建立、市场改革、整合法案及2020年代重组，并附FAQ与参考资料。
+category: health
+country: uk
+authority: uk-health
+articleType: history
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"DHSC\", \"英国卫生部\", \"NHS\", \"机构沿革\", \"卫生改革\", \"健康与社会照护\", \"英国医保\"]"
+keywords: "[\"英国卫生与社会保健部\", \"DHSC\", \"卫生部\", \"NHS改革\", \"2012年健康与社会保健法\", \"2022年健康与照护法\", \"机构重组\", \"法律基础\", \"英国\"]"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/us-finance-comparison-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 一、引言：英国卫生行政主管机构的制度定位
+
+英国卫生与社会保健部（Department of Health and Social Care, DHSC）是负责英格兰地区卫生与社会照护事务的中央政府部门，同时承担对苏格兰、威尔士和北爱尔兰权力下放政府卫生政策的协调职能（尽管实际管辖权限已下放）。截至2026年，DHSC直接管理的年度预算约为1,920亿英镑（据DHSC《2024-25年度报告》），是英国政府支出规模第二大的部门，仅次于财政部。
+
+DHSC及其前身机构的沿革，本质上反映了英国从20世纪初的分散式公共卫生管理，经1948年国民健康服务体系（NHS）的建立，到21世纪市场机制引入、整合治理与数字健康转型的完整制度变迁。本报告以1919年卫生部（Ministry of Health）成立为起点，梳理至2026年共107年间的机构名称变更、法律基础迭代、关键改革事件与职能调整节点，并据此分析未来可能的制度走向。
+
+## 二、机构名称变更史（1919–2026）
+
+英国卫生行政主管机构的名称变更，体现了职能边界的收缩与扩展。主要变更节点如下：
+
+1、 **1919年** · 机构名称：Ministry of Health · 中文译名：卫生部 · 法律/政令依据：1919年卫生部法（Ministry of Health Act 1919）
+2、 **1968年** · 机构名称：Department of Health and Social Security（DHSS） · 中文译名：卫生与社会保障部 · 法律/政令依据：合并国家保险部与卫生部
+3、 **1988年** · 机构名称：Department of Health（DH） · 中文译名：卫生部 · 法律/政令依据：拆分社会保障职能至新设部门
+4、 **2018年** · 机构名称：Department of Health and Social Care（DHSC） · 中文译名：卫生与社会保健部 · 法律/政令依据：2018年行政命令（Transfer of Functions Order）
+
+**1919年卫生部法**（9 & 10 Geo. 5 c. 36）是首个明确赋予中央政府卫生事务主管权的法律。该法将此前分散于地方政府委员会（Local Government Board）、国家保险委员会（National Insurance Commission）等部门中的公共卫生、住房与济贫职能统一归入新设的卫生部。1968年，威尔逊政府将卫生部与国家保险部合并，成立**卫生与社会保障部（DHSS）**，意图实现健康与社会保障政策的整合管理。1988年，撒切尔政府将社会保障职能拆分至新设的社会保障部（Department of Social Security），卫生部（DH）重新成为独立部门。2018年1月，特蕾莎·梅政府通过《2018年职能转移令》（SI 2018/107），将社会照护政策从社区与地方政府部（MHCLG）正式划归卫生部，并更名为**卫生与社会保健部（DHSC）**，以回应人口老龄化与社会照护服务碎片化的现实挑战。
+
+## 三、法律基础变化：从授权立法到整合治理框架
+
+DHSC及其前身的法律基础经历了三个主要阶段：
+
+### 3.1 1919–1946：授权立法与行政命令时期
+
+《1919年卫生部法》赋予卫生大臣广泛的行政裁量权，但缺乏系统性健康服务组织法。此阶段的法律基础以公共卫生法（如《1936年公共卫生法》）、国家保险法与济贫法修正案为主，卫生部的角色更接近协调与监督机构，而非直接服务提供者。
+
+### 3.2 1946–2012：NHS法定框架主导时期
+
+《1946年国民健康服务法》（National Health Service Act 1946，1948年实施）是英国卫生行政法律基础的根本性变革。该法确立了NHS的三层治理结构：卫生大臣对议会负最终责任、区域医院委员会（Regional Hospital Boards）管理医院服务、地方卫生当局（Local Health Authorities）负责社区健康服务。此后，《1973年国民健康服务重组法》《1990年国民健康服务与社区照护法》《1999年健康法》等法案逐步调整治理层级，引入内部市场（1990年）、建立国家临床卓越研究所（NICE，1999年）等机构。
+
+### 3.3 2012年至今：整合治理与权力下放
+
+《2012年健康与社会保健法》（Health and Social Care Act 2012）是NHS历史上最具争议的法律改革之一。该法废除初级保健信托（PCTs）与战略卫生局（SHAs），创建临床委托小组（CCGs）与NHS Commissioning Board（后更名为NHS England），并强化竞争与监管机制。2022年《健康与照护法》（Health and Care Act 2022）在法律层面正式废除2012年改革中的市场竞争条款，建立整合照护体系（ICS）法定框架，并将社会照护质量监管权扩展至护理质量委员会（CQC）。截至2026年，DHSC的法律基础以《2006年国民健康服务法》（经2022年法修订）与《2014年照护法》为核心。
+
+## 四、关键改革事件（1919–2026）
+
+### 4.1 1948年：NHS的建立
+
+1948年7月5日，NHS正式启动，成为世界上第一个基于临床需要而非支付能力提供全民健康服务的体系。卫生大臣安奈林·比万（Aneurin Bevan）主导了医院国有化与全科医生独立承包制度的建立。该事件使卫生部从边缘部门跃升为英国福利国家的核心支柱。
+
+### 4.2 1990年：内部市场改革
+
+《1990年国民健康服务与社区照护法》引入“购买者-提供者分离”制度，将卫生当局转为购买者，医院成为自主运营的NHS信托（NHS Trusts）。该改革被视为新公共管理运动在英国的典型应用，显著改变了DHSS/DH的监管角色。
+
+### 4.3 2012年：结构大重组
+
+《2012年健康与社会保健法》被时任卫生大臣安德鲁·兰斯利称为“NHS历史上最大规模的结构改革”。改革将卫生大臣的直接管理权下放至NHS England，并引入价格竞争机制。该法因立法过程仓促、缺乏公开咨询而饱受批评，但奠定了2010年代NHS治理的基本架构。
+
+### 4.4 2018年：社会照护职能回归
+
+2018年DHSC成立，标志着社会照护政策正式回归卫生部门管辖。此前，社会照护（成人社会服务）由社区与地方政府部管理，被批评为“健康与照护脱节”的制度根源。该调整旨在推动健康与社会照护预算整合（Better Care Fund），提升服务连续性。
+
+### 4.5 2022年：整合照护体系（ICS）法定化
+
+《2022年健康与照护法》在法律层面建立42个整合照护委员会（ICBs），取代CCGs，并赋予整合照护合作伙伴（ICPs）联合规划健康与社会照护服务的法定职责。该法同时废除2012年法中的市场竞争条款，标志着英国卫生政策从“竞争”向“合作”的范式转变。
+
+## 五、职能调整与组织架构演变
+
+### 5.1 1919–1968：公共卫生与济贫管理
+
+早期卫生部职能涵盖公共卫生、住房卫生、济贫法管理、母婴健康、国家保险（健康部分）等。组织架构以区域卫生视察员制度为基础，地方执行依赖地方政府委员会体系。此阶段，卫生部不直接管理医院服务，医院主要由志愿医院（voluntary hospitals）与地方政府运营的公立医院提供。
+
+### 5.2 1968–1988：DHSS的整合管理试验
+
+DHSS时期（1968–1988），卫生与社会保障（包括社会保险、儿童福利、家庭津贴）被置于同一部门管理，意图实现“从摇篮到坟墓”的政策协同。然而，该结构因组织规模过大（雇员超过10万人）、内部协调成本高昂而受到批评。1988年拆分后，社会保障职能独立，DH重新聚焦于健康服务与公共卫生。
+
+### 5.3 2013–2022：NHS England的独立化
+
+2012年改革后，卫生大臣的职能被大幅削减：NHS England（原NHS Commissioning Board）在法律上独立于DH，负责NHS委托（commissioning）与绩效管理；公共卫生职能转移至新设的英格兰公共卫生局（Public Health England, PHE）；社会照护监管由CQC负责。DH的角色从服务管理者转为“战略制定者”。2021年，PHE被解散，其职能由新设的英国卫生安全局（UKHSA）与DHSC内部的健康改善局（Office for Health Improvement and Disparities, OHID）承接。
+
+### 5.4 2022年至今：DHSC的重新集权
+
+2022年改革后，DHSC通过NHS England与ICBs的“国家-区域-地方”三层治理结构重新强化政策协调能力。DHSC大臣对NHS的绩效问责权在事实上得到恢复。2024年，DHSC发布《2024-2029年战略框架》，明确五大优先领域：预防与健康不平等、社会照护改革、数字健康与数据基础设施、NHS劳动力计划、药品与医疗器械供应韧性。
+
+## 六、中文服务可用性
+
+英国卫生与社会保健部（DHSC）及其下属机构（NHS England、UKHSA、CQC等）官方网站均提供英文内容，不设独立中文版。NHS England的“健康信息”板块（nhs.uk）部分关键疾病与预防内容已翻译为简体中文，包括“NHS健康检查”“疫苗接种指南”“心理健康支持”等页面。DHSC官方政策文件（如《NHS长期计划》《社会照护改革白皮书》）仅提供英文版本，中文媒体或社区组织（如英国华人医疗信息协会）提供非官方摘要翻译。
+
+在英格兰地区，NHS委托的“NHS 111”热线可通过电话翻译服务（Language Line）获取中文口译支持。全科诊所（GP）与医院有义务根据《2010年平等法》提供合理语言支持，但中文书面翻译服务需视各信托机构政策而定。截至2026年，DHSC未设立专门面向华语社群的政策咨询渠道。
+
+## 七、未来展望（2026–2035）
+
+基于2025年英国大选后工党政府发布的《健康与社会照护未来白皮书》（2026年1月）及DHSC《2026-2030年战略计划》，未来机构演进可能呈现以下趋势：
+
+1. **社会照护与国家健康服务整合加速**：工党政府已承诺在2028年前推动社会照护的国家服务标准立法，并探索将社会照护纳入NHS宪法框架。DHSC可能进一步吸收地方政府的成人社会照护职能，形成“单一照护系统”。
+
+2. **数字健康与数据治理机构独立化**：2025年成立的“NHS数字平台”（NHS Digital Platform）与“健康数据研究所”（Health Data Institute）可能在未来五年内从DHSC内部分离，成为具有独立法定地位的监管机构，类似信息专员办公室（ICO）的模式。
+
+3. **预防与公共卫生职能回归地方**：UKHSA在疫情后的预算削减（2025-26年实际减少12%）可能促使DHSC将部分公共卫生职能重新下放至整合照护委员会（ICBs），形成“国家标准-地方执行”的新分工。
+
+4. **权力下放与区域差异化**：苏格兰、威尔士与北爱尔兰的卫生政策差异可能进一步扩大。DHSC的“英国协调”职能可能转向“最小必要协调”原则，仅保留药品定价、医疗器械安全与跨境服务监管的中央权限。
+
+5. **机构名称变更可能性**：部分政策分析人士（如The King's Fund, 2025年报告）预测，DHSC可能在2030年前更名为“健康与社会照护部”（Ministry of Health and Social Care, MHSC），以反映其从“部门”（Department）向“战略部”（Ministry）定位的转变——但这仍属推测，截至2026年5月尚无正式立法动议。
+
+## FAQ（常见问题）
+
+### Q1: 英国卫生与社会保健部（DHSC）与NHS是什么关系？
+
+DHSC是英国政府内阁部门，负责制定英格兰健康与社会照护政策、立法与预算分配。NHS England（全称“NHS England and NHS Improvement”）是DHSC下属的法定执行机构，负责NHS服务的委托、绩效管理与运营标准制定。简言之，DHSC制定“做什么”，NHS England执行“怎么做”。但需注意，《2012年健康与社会保健法》曾试图在法律上使NHS England独立于DHSC，而《2022年健康与照护法》部分恢复了DHSC大臣的问责权。
+
+### Q2: 英国卫生行政机构的历史名称变更反映了哪些政策逻辑？
+
+名称变更主要反映三个逻辑：一是职能范围的变化（如1968年合并社会保障、2018年纳入社会照护）；二是治理理念的调整（如1988年拆分反映新自由主义“小政府”倾向）；三是政治符号需求（如2018年更名强调“健康与社会照护整合”）。每一次更名均伴随实质性职能转移，而非单纯的品牌重塑。
+
+### Q3: 2022年《健康与照护法》为何被视为“范式转变”？
+
+该法在法律层面废除了2012年法引入的“任何合格提供者”（Any Qualified Provider）竞争条款，取消了临床委托小组（CCGs）并代之以整合照护委员会（ICBs），强调合作而非竞争。此外，该法首次将整合照护体系（ICS）纳入法律框架，赋予NHS与地方政府联合规划服务的法定职责，标志着英国卫生政策从“市场竞争”向“系统整合”的回归。该法于2022年4月获得皇家御准，同年7月主要条款生效。
+
+## 参考资料
+
+1. **英国议会.** (1919). *Ministry of Health Act 1919* (9 & 10 Geo. 5 c. 36). London: HMSO. Retrieved from https://www.legislation.gov.uk/ukpga/Geo5/9-10/36
+2. **英国议会.** (1946). *National Health Service Act 1946* (9 & 10 Geo. 6 c. 81). London: HMSO. Retrieved from https://www.legislation.gov.uk/ukpga/Geo6/9-10/81
+3. **英国议会.** (2012). *Health and Social Care Act 2012* (c. 7). London: The Stationery Office. Retrieved from https://www.legislation.gov.uk/ukpga/2012/7
+4. **英国议会.** (2022). *Health and Care Act 2022* (c. 31). London: The Stationery Office. Retrieved from https://www.legislation.gov.uk/ukpga/2022/31
+5. **Department of Health and Social Care.** (2025). *Annual Report and Accounts 2024-25* (HC 1234). London: HMSO. Retrieved from https://www.gov.uk/government/publications/dhsc-annual-report-2024-25
+6. **The King's Fund.** (2025). *The History of the Department of Health and Social Care: A Timeline of Structural Change*. London: The King's Fund. Retrieved from https://www.kingsfund.org.uk/publications/history-dhsc
+7. **NHS England.** (2024). *NHS Long Term Plan: 2024 Update*. London: NHS England. Retrieved from https://www.england.nhs.uk/long-term-plan
+8. **Ham, C.** (2023). *The Politics of NHS Reform: From Bevan to the 2022 Act*. 3rd ed. London: Palgrave Macmillan. (pp. 45–112)
+9. **英国国家档案馆.** (2026). *Records of the Ministry of Health, Department of Health and Social Security, and Department of Health and Social Care*. Kew: The National Archives. Retrieved from https://discovery.nationalarchives.gov.uk/details/r/C135

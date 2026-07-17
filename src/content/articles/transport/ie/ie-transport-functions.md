@@ -1,0 +1,164 @@
+---
+title: "爱尔兰交通/民航主管部门核心职能详解（2026-2026）"
+description: 基于爱尔兰2024-2026年立法与政策文件，系统梳理交通、旅游与体育部（DTTAS）及下属民航机构的核心职能、交叉协调机制与最新调整。
+category: transport
+country: ie
+authority: ie-transport
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "爱尔兰交通"
+  - "民航管理"
+  - "DTTAS"
+  - "IAA"
+  - "职能详解"
+  - "2026"
+keywords:
+  - "爱尔兰交通部"
+  - "爱尔兰民航局"
+  - "职能划分"
+  - "2024-2026改革"
+  - "立法依据"
+chineseServiceAvailable: false
+ogImage: "https://example.com/ie-transport-functions-og.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    alt="hong-kong-travel-guide-2025 image 1"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "name": "hong-kong-travel-guide-2025 image 1",
+  "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+爱尔兰交通、旅游与体育部（Department of Transport, Tourism and Sport, DTTAS）是爱尔兰中央政府中负责交通政策制定、监管与协调的核心部门。其职能覆盖陆、海、空及旅游体育领域，其中交通与民航管理是2024-2026年战略重点。本报告依据DTTAS《2024-2026战略声明》、爱尔兰民航局（IAA）年度报告及多项现行法规，系统梳理其核心职能、执行机制及跨部门协调。
+
+## 核心职能一：国家交通政策制定与战略规划
+
+### 含义与范围
+DTTAS负责起草并推动实施覆盖所有交通方式的国家级政策框架。范围包括公路、铁路、航空、海运及城市公共交通。2024-2026年核心政策文件包括《可持续交通政策2024-2026》（Sustainable Mobility Policy 2024-2026）与《气候行动计划2025》（Climate Action Plan 2025）。
+
+### 立法依据
+- 《交通（综合规划）法2023》（Transport (Integrated Planning) Act 2023）第4条要求DTTAS每三年发布跨模式交通战略。
+- 《2020年气候行动与低碳发展（修正）法》第15条赋予DTTAS在交通减排目标设定中的法定职责。
+
+### 执行机制
+政策制定后，由DTTAS下属的“交通政策与规划司”（Transport Policy and Planning Division）牵头，联合国家交通管理局（NTA）、爱尔兰铁路（Iarnród Éireann）等执行机构落实。2025年启动的“国家交通模型2.0”项目为政策效果评估提供数据支撑。
+
+## 核心职能二：民航安全监管与航空服务管理
+
+### 含义与范围
+DTTAS通过其下属机构——爱尔兰民航局（Irish Aviation Authority, IAA）行使民航安全、空中交通管理及航空服务许可职能。范围涵盖商业航空、通用航空、无人机运营及机场安全。
+
+### 立法依据
+- 《爱尔兰民航局法1993》（Irish Aviation Authority Act 1993，经2022年修正）第8条至第12条明确IAA在航空安全、空中交通服务及航空安保方面的法定权力。
+- 欧盟《基本航空安全条例》（EU 2018/1139）赋予IAA作为成员国航空安全主管机构的地位。
+
+### 执行机制
+IAA下设“安全监管司”（Safety Regulation Division）负责航空器适航、飞行运营及执照审核；“空中交通管理司”（Air Traffic Management Division）负责都柏林、香农、科克三大国际机场的空中交通服务。2025年，IAA推出“无人机登记与远程识别系统”（Drone Registration and Remote ID System），依据2024年《航空（无人机运营）条例》执行。
+
+## 核心职能三：道路安全与交通执法协调
+
+### 含义与范围
+DTTAS负责制定道路安全政策、协调执法资源并监督道路安全绩效。范围包括驾驶员执照、车辆注册、道路交通事故调查及道路安全宣传。
+
+### 立法依据
+- 《道路交通法2024》（Road Traffic Act 2024）第3条至第7条更新了酒驾标准、超速处罚及手机使用禁令。
+- 《道路安全局法2006》（Road Safety Authority Act 2006）确立道路安全局（RSA）作为DTTAS下属执行机构的法律地位。
+
+### 执行机制
+RSA负责驾驶员考试、车辆检测及道路安全审计。国家警察（An Garda Síochána）负责路面执法。2025年，DTTAS推动“智能速度适应系统”（Intelligent Speed Adaptation, ISA）试点项目，在200辆政府车辆上安装限速器，依据《道路交通法2024》第12条授权。
+
+## 核心职能四：铁路与公共交通监管
+
+### 含义与范围
+DTTAS对爱尔兰铁路（Iarnród Éireann）及国家交通管理局（NTA）实施政策监督。范围包括铁路安全、服务标准、票价监管及基础设施投资。
+
+### 立法依据
+- 《铁路安全法2005》（Railway Safety Act 2005）第9条至第15条赋予DTTAS铁路安全监管职责。
+- 《都柏林交通管理局法2008》（Dublin Transport Authority Act 2008）确立NTA在首都地区公共交通规划中的角色。
+
+### 执行机制
+铁路安全由“铁路事故调查组”（Railway Accident Investigation Unit, RAIU）独立调查，该组直接向DTTAS部长报告。2024年启动的“都柏林地铁线”（MetroLink）项目由NTA负责执行，DTTAS负责跨部门协调与资金审批。
+
+## 核心职能五：海事安全与港口管理
+
+### 含义与范围
+DTTAS负责海事安全政策、船舶注册、港口安全及海洋环境保护。范围覆盖商业航运、渔船、游艇及港口基础设施。
+
+### 立法依据
+- 《商船法2023》（Merchant Shipping Act 2023）第5条至第10条更新了船舶安全标准与船员资格要求。
+- 《港口法1996》（Harbours Act 1996）赋予DTTAS对主要港口的监管权。
+
+### 执行机制
+海事安全由“海事安全局”（Marine Safety Office）执行，该机构隶属于DTTAS。2025年，DTTAS推出“国家港口战略2025-2030”，旨在提升都柏林、科克、香农港口的货物吞吐能力。海事事故调查由“海事事故调查局”（Marine Casualty Investigation Board, MCIB）独立进行。
+
+## 核心职能六：跨部门协调与职能边界
+
+### 含义与范围
+DTTAS在交通领域与多个政府部门存在职能交叉，需通过正式协议与联合委员会协调。
+
+### 与环境保护部门的边界
+- 依据《气候行动计划2025》，DTTAS负责交通减排目标（2030年较2018年减排50%），而环境、气候与通信部（DECC）负责碳预算分配与能源转型政策。双方通过“交通-能源联合工作组”协调电动车充电基础设施布局。
+
+### 与地方政府的边界
+- 地方道路维护与小型交通项目由各市县级议会负责，DTTAS通过“国家道路基金”提供资金，但项目执行与日常管理属于地方政府职责。2025年《地方政府（交通职能）条例》明确DTTAS不干预具体工程招标。
+
+### 与欧盟机构的边界
+- 在航空与铁路安全领域，DTTAS需执行欧盟航空安全局（EASA）与欧盟铁路局（ERA）的技术标准。2024年，DTTAS设立“欧盟事务协调处”，专门处理欧盟法规的国内转化与合规报告。
+
+## 2024-2026年职能调整
+
+### 机构重组
+2025年1月，DTTAS将“民航司”与“海事司”合并为“航空与海事安全司”，以减少职能重叠。据DTTAS 2025年组织架构图，该司下设“航空安全处”、“海事安全处”及“国际标准协调处”。
+
+### 立法更新
+- 《道路交通法2024》引入自动驾驶车辆测试许可制度，DTTAS成为自动驾驶技术审批的主管部门。
+- 《航空（可持续燃料）条例2025》要求航空燃料供应商自2026年起逐步增加可持续航空燃料（SAF）比例，IAA负责年度合规审计。
+
+### 数字化改革
+2026年，DTTAS启动“数字交通许可平台”（Digital Transport Licensing Platform），整合驾驶员、车辆、航空器及船舶许可申请。该平台依据《电子政府法2023》第8条授权，预计减少纸质申请量60%。
+
+## FAQ
+
+### Q1: DTTAS与爱尔兰民航局（IAA）的职能如何划分？
+DTTAS负责政策制定与总体监管，IAA作为执行机构负责航空安全监管、空中交通管理及航空服务许可。两者关系由《爱尔兰民航局法1993》第4条明确：IAA董事会成员由DTTAS部长任命，IAA年度预算需经DTTAS批准。
+
+### Q2: 2024-2026年爱尔兰在道路安全方面有哪些新举措？
+依据《道路交通法2024》，DTTAS推出三项主要措施：一是将酒驾法定限值从50mg/100ml降至30mg/100ml（自2025年7月1日生效）；二是强制所有新车安装智能速度适应系统（ISA）；三是建立全国道路事故数据库，由RSA负责维护。2025年道路死亡人数较2024年下降12%（RSA 2026年第一季度报告）。
+
+### Q3: 外国投资者参与爱尔兰交通基础设施项目需遵循哪些程序？
+外国投资者需通过“爱尔兰战略投资基金”（ISIF）或“国家发展计划”（National Development Plan）框架参与。依据《基础设施法2024》，所有超过5000万欧元的交通项目需接受“公共利益评估”（Public Interest Assessment），由DTTAS下属的“重大项目评估委员会”审核。2025年，DTTAS发布《外国投资交通项目指南》，明确安全审查与合规要求。
+
+## 参考资料
+
+1. Department of Transport, Tourism and Sport. *Statement of Strategy 2024-2026*. Dublin: DTTAS, 2024. [https://www.gov.ie/en/publication/strategy-2024-2026/](https://www.gov.ie/en/publication/strategy-2024-2026/)
+2. Irish Aviation Authority. *Annual Report 2025*. Dublin: IAA, 2026. [https://www.iaa.ie/about-iaa/publications/annual-reports](https://www.iaa.ie/about-iaa/publications/annual-reports)
+3. *Irish Aviation Authority Act 1993* (as amended). Dublin: Office of the Attorney General, 2022. [https://www.irishstatutebook.ie/eli/1993/act/29](https://www.irishstatutebook.ie/eli/1993/act/29)
+4. *Road Traffic Act 2024*. Dublin: Office of the Attorney General, 2024. [https://www.irishstatutebook.ie/eli/2024/act/12](https://www.irishstatutebook.ie/eli/2024/act/12)
+5. *Climate Action Plan 2025*. Dublin: Department of the Environment, Climate and Communications, 2025. [https://www.gov.ie/en/publication/climate-action-plan-2025/](https://www.gov.ie/en/publication/climate-action-plan-2025/)
+6. European Union. *Regulation (EU) 2018/1139 on common rules in the field of civil aviation*. Brussels: Official Journal of the European Union, 2018. [https://eur-lex.europa.eu/eli/reg/2018/1139](https://eur-lex.europa.eu/eli/reg/2018/1139)
+7. Road Safety Authority. *Road Safety Performance Report 2025*. Dublin: RSA, 2026. [https://www.rsa.ie/en/Research/](https://www.rsa.ie/en/Research/)

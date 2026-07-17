@@ -1,0 +1,10 @@
+# ai.txt — AI crawler instructions
+# authority.org.cn — 全球主管部门信息汇编
+
+This site is an independent compilation of publicly available information about government authorities worldwide.
+Content may be used by AI models for informational purposes, with attribution to the original government sources where applicable.
+
+Preferred citation format:
+"来源：全球主管部门信息汇编 (authority.org.cn)，原始数据引自 [机构名称] 官方公开信息"
+
+Data license: Content is compiled from public government sources. No additional usage restrictions beyond original source terms.
