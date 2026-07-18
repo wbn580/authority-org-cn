@@ -1,0 +1,190 @@
+---
+title: 印尼央行与金融监管主管部门核心职能详解：架构、立法与执行机制（2024-2026）
+description: 基于2024-2026年最新立法与政策调整，全面解析印度尼西亚中央银行（BI）、金融服务管理局（OJK）及存款保险机构（LPS）的核心职能、法律依据、交叉协调机制及部门边界。
+category: finance
+country: id
+authority: id-finance
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "印尼央行"
+  - "BI"
+  - "OJK"
+  - "LPS"
+  - "金融监管"
+  - "货币政策"
+  - "宏观审慎"
+  - "金融稳定"
+  - "2024年金融法"
+  - "2026年监管调整"
+keywords:
+  - "印度尼西亚中央银行职能"
+  - "金融服务管理局监管范围"
+  - "存款保险机构职责"
+  - "金融体系稳定法案"
+  - "2024年PP 7号政府条例"
+  - "2026年BI-OJK-LPS协调机制"
+  - "印尼金融监管改革"
+  - "宏观审慎政策工具"
+  - "伊斯兰金融监管"
+  - "数字金融监管"
+chineseServiceAvailable: true
+ogImage: "https://example.com/og-images/id-finance-functions-2026.jpg"
+draft: false
+---
+
+
+## 引言
+
+印度尼西亚金融监管体系自2023年《金融部门发展与强化法》（UU No. 4 Tahun 2023 tentang P2SK）颁布后，经历了自1999年央行独立以来最大规模的制度重构。截至2026年5月，该体系由三大核心机构构成：印度尼西亚中央银行（Bank Indonesia, BI）、金融服务管理局（Otoritas Jasa Keuangan, OJK）及存款保险机构（Lembaga Penjamin Simpanan, LPS）。据BI 2026年第一季度报告，截至2026年3月，印尼广义货币供应量（M2）同比增长7.2%，达9,856万亿印尼盾；同期，OJK监管的银行资产总额同比增长8.1%，至12,546万亿印尼盾。上述数据表明，在P2SK法案框架下，各机构职能的重新划分与协调机制已进入实质性运行阶段。
+
+本文旨在依据2024-2026年颁布的《P2SK法案实施细则》（PP No. 7/2024）及各机构最新监管条例，系统阐述BI、OJK与LPS各自的核心职能，分析其法律依据与执行机制，并探讨职能交叉协调机制、部门边界以及2024-2026年期间的调整方向。全文基于第三方中立立场，仅作信息汇编与事实整理。
+
+## 印度尼西亚中央银行（BI）核心职能
+
+BI作为印尼的中央银行，其核心职能依据《印度尼西亚中央银行法》（UU No. 23/1999，经UU No. 4/2023修订）第三条确定为：**维护印尼盾币值稳定**。这一总目标分解为三项具体职能：货币政策制定与执行、支付系统监管与运营、以及宏观审慎政策协调。
+
+### 货币政策职能
+
+**含义与范围**：BI负责制定并实施货币政策，以维持印尼盾对内（物价稳定）与对外（汇率稳定）的购买力。据BI 2026年4月发布的《货币政策报告》，2026年通胀目标区间设定为2.5%±1%。BI通过调整基准利率（BI-Rate）、存款准备金率（GWM）及公开市场操作（OM）实现目标。
+
+**立法依据**：UU No. 23/1999第7-10条；UU No. 4/2023第5条将BI货币政策目标与宏观审慎目标明确分离。
+
+**执行机制**：BI每月召开理事会会议（RDG），决定BI-Rate。2026年1月至5月，BI-Rate维持在5.75%不变。公开市场操作通过发行BI证券（SBI）和回购协议（Repo）进行。据BI 2026年第一季度数据，通过逆回购操作吸收流动性达日均185万亿印尼盾。
+
+### 支付系统监管与运营
+
+**含义与范围**：BI负责确保国家支付系统的安全、高效与可靠性，包括大额支付系统（BI-RTGS）、零售支付系统（BI-FAST）及数字货币（CBDC）试验项目“数字盾”（Garuda Project）。
+
+**立法依据**：UU No. 23/1999第15-20条；UU No. 4/2023第187条授权BI对数字支付系统实施全面监管。
+
+**执行机制**：BI-RTGS系统于2026年1月完成第三次升级，单笔交易处理能力提升至每秒2,000笔。BI-FAST系统截至2026年3月已接入152家银行与非银行支付服务提供商（PJSP）。据BI 2026年2月公告，数字盾试点项目已进入第二阶段，覆盖批发型央行数字货币（wCBDC）场景。
+
+### 宏观审慎政策职能
+
+**含义与范围**：依据UU No. 4/2023第6条，BI承担宏观审慎政策职能，旨在识别并缓解系统性金融风险。该职能与OJK的微观审慎监管形成互补。
+
+**立法依据**：UU No. 4/2023第5-7条；PP No. 7/2024第12条明确BI可设定逆周期资本缓冲（CCyB）和贷款价值比（LTV）等工具。
+
+**执行机制**：BI每季度发布《金融体系稳定性报告》。2026年3月，BI宣布将住房贷款LTV上限从85%调整至90%，以刺激房地产市场。据BI 2026年第一季度数据，CCyB维持于0%，银行系统资本充足率（CAR）达25.6%。
+
+## 金融服务管理局（OJK）核心职能
+
+OJK依据《金融服务管理局法》（UU No. 21/2011，经UU No. 4/2023修订）成立，自2013年起全面接管银行、资本市场与非银行金融行业的监管职能。其核心职能为**对金融服务行业实施整体、综合与系统的监管**。
+
+### 银行监管职能
+
+**含义与范围**：OJK负责对商业银行、伊斯兰银行及农村银行（BPR）的设立、运营、风险管理和清盘进行审批与监督。截至2026年3月，OJK监管的商业银行共108家，其中伊斯兰银行14家。
+
+**立法依据**：UU No. 21/2011第6条；UU No. 4/2023第34条将银行清盘权从BI完全移交至OJK。
+
+**执行机制**：OJK实施基于风险的监管（RBS），每季度对银行进行风险评估。2026年1月，OJK发布POJK No. 1/2026，要求银行在2027年前将核心资本最低限额提升至3万亿印尼盾。据OJK 2026年第一季度公告，已对3家未达标银行实施限制性措施。
+
+### 资本市场监管职能
+
+**含义与范围**：OJK监管证券交易所、上市公司、证券经纪商及投资经理。其职能包括发行证券、信息披露、反市场操纵及投资者保护。
+
+**立法依据**：UU No. 8/1995《资本市场法》经UU No. 4/2023修订，将资本市场衍生品监管权从商品期货交易监管机构（Bappebti）移交至OJK。
+
+**执行机制**：OJK下设资本市场监督局（PM）。2026年2月，OJK发布POJK No. 5/2026，要求所有上市公司在2027年前采用国际财务报告准则（IFRS）标准。截至2026年3月，印尼证券交易所（IDX）上市公司共945家，总市值达10,234万亿印尼盾。
+
+### 非银行金融行业监管
+
+**含义与范围**：涵盖保险、养老基金、金融科技、典当行及风险投资公司。据OJK 2026年4月数据，保险业总资产达1,456万亿印尼盾，金融科技贷款平台共102家。
+
+**立法依据**：UU No. 21/2011第6条；UU No. 4/2023第218条将金融科技监管权从BI移交至OJK。
+
+**执行机制**：OJK设立金融科技监管局（ITSK）。2026年3月，OJK发布POJK No. 8/2026，要求所有金融科技平台在2026年底前完成注册，并满足最低资本2,500亿印尼盾要求。未合规平台将面临关闭。
+
+## 存款保险机构（LPS）核心职能
+
+LPS依据《存款保险机构法》（UU No. 24/2004，经UU No. 4/2023修订）成立，旨在保护存款人利益并维护金融体系稳定。
+
+### 存款保险职能
+
+**含义与范围**：LPS为所有在印尼合法运营的银行（含伊斯兰银行）的存款提供最高20亿印尼盾（约合12.5万美元）的担保。截至2026年3月，LPS覆盖存款总额达7,890万亿印尼盾，占全系统存款的92.3%。
+
+**立法依据**：UU No. 24/2004第4-8条；UU No. 4/2023第275条将担保上限从10亿印尼盾提升至20亿印尼盾。
+
+**执行机制**：LPS向银行收取保费，按风险等级差异化征收。2026年1月，LPS发布2026年保费率表，将高风险银行保费率从0.3%提升至0.5%。据LPS 2026年第一季度报告，累计保险基金规模达245万亿印尼盾。
+
+### 银行处置与清盘职能
+
+**含义与范围**：当银行面临倒闭风险时，LPS负责实施处置方案，包括收购与承接（P&A）、设立过渡银行或直接清盘。该职能在P2SK法案框架下得到强化。
+
+**立法依据**：UU No. 4/2023第290-310条；PP No. 7/2024第45条明确LPS可对被处置银行实施“保释”（bail-in）机制。
+
+**执行机制**：LPS设立银行处置局（DPP）。2026年2月，LPS成功处置一家中型农村银行（BPR），通过P&A方式将其资产与负债转移至另一家银行，未动用公共资金。据LPS 2026年4月公告，目前有5家银行处于“早期干预”状态。
+
+## 职能交叉协调机制
+
+2023年P2SK法案及2024年PP No. 7/2024建立了三大机构间的正式协调框架。
+
+### 金融体系稳定委员会（KSSK）
+
+KSSK成立于2004年，由财政部长（主席）、BI行长、OJK主席及LPS主席组成。据PP No. 7/2024第8条，KSSK每季度召开会议，评估系统性风险。2026年3月会议决定，将2026年系统性风险评级维持于“低-中”水平。
+
+### 宏观-微观审慎协调
+
+BI与OJK之间设立宏观-微观审慎联合工作组（JWM）。据BI-OJK 2025年12月联合备忘录，双方共享银行信贷数据与非银行金融数据。2026年1月，JWM发布首份《宏观-微观审慎协调报告》，指出住房贷款增长过快（同比+12.3%），建议OJK对特定银行实施更严格的LTV要求。
+
+### 危机管理与处置协调
+
+LPS与OJK在银行处置过程中有明确分工：OJK负责判定银行是否“濒临倒闭”，LPS负责执行处置。据LPS-OJK 2026年2月联合条例（POJK-LPS No. 1/2026），处置决策需在48小时内完成。2026年3月，双方完成一次桌面推演，模拟一家系统重要性银行（D-SIB）的处置流程。
+
+## 部门边界与2024-2026年调整
+
+### 与财政部的边界
+
+财政部负责国家预算、债务管理与财政政策。BI独立于财政部，但KSSK框架下双方就国债发行时间表进行协调。据UU No. 4/2023第12条，BI不再直接承销政府债券，改为通过二级市场操作。
+
+### 与金融科技监管的边界
+
+2023年前，支付型金融科技（如电子钱包）由BI监管，贷款型金融科技由OJK监管。UU No. 4/2023第218条将全部金融科技监管权统一至OJK。BI仅保留支付系统基础设施监管权。据OJK 2026年3月公告，已有23家金融科技公司因未合规被暂停运营。
+
+### 伊斯兰金融监管
+
+伊斯兰金融由OJK统一监管，但BI在货币政策操作中需考虑伊斯兰银行流动性管理。据BI 2026年2月发布的PBI No. 26/5/2026，BI-Rate调整对伊斯兰银行适用同样的基准，但通过伊斯兰公开市场操作（SBSI）实施。
+
+## 中文服务可用性
+
+截至2026年5月，BI、OJK及LPS官方网站均提供英文版本，但尚无完整中文版。OJK设有“国际投资者关系”部门，可提供中文咨询。BI在雅加达总部设有“中国业务联络处”，可提供中文服务。LPS的存款保险索赔指南仅有英文与印尼文版本。建议中文使用者通过各机构英文官网或联系“中国业务联络处”获取信息。
+
+## 常见问题（FAQ）
+
+### Q1: 印尼央行（BI）与金融服务管理局（OJK）在银行监管上的具体分工是什么？
+
+BI负责宏观审慎政策，包括系统性风险监测、逆周期资本缓冲设定及贷款价值比（LTV）调整。OJK负责微观审慎监管，包括银行设立审批、日常检查、资本充足率监督及清盘执行。据UU No. 4/2023第5-7条，BI可建议OJK对特定银行采取加强监管措施，但OJK拥有最终执法权。
+
+### Q2: 2024-2026年间，印尼金融监管体系最重要的变化是什么？
+
+最重要的变化是2023年P2SK法案的全面实施，具体包括：金融科技监管权从BI移交至OJK，LPS存款担保上限从10亿印尼盾提升至20亿印尼盾，以及BI与OJK之间宏观-微观审慎协调机制的正式化。据PP No. 7/2024第12条，KSSK的协调职能得到强化，危机处置决策时间缩短至48小时。
+
+### Q3: 外国投资者在印尼金融行业是否受到同等监管？
+
+外国投资者在印尼设立银行、证券公司或保险公司，需通过OJK的“外国投资审查”。据OJK 2026年1月发布的POJK No. 2/2026，外国投资者在银行持股比例上限为99%，但需满足“对等原则”及“国家利益评估”。BI与OJK均设有国际部门处理外资金融机构准入。
+
+## 参考资料
+
+1.  Bank Indonesia. (2026). *Monetary Policy Report - April 2026*. Jakarta: Bank Indonesia.  
+   [https://www.bi.go.id/en/publikasi/laporan/Pages/Laporan-Kebijakan-Moneter-April-2026.aspx](https://www.bi.go.id/en/publikasi/laporan/Pages/Laporan-Kebijakan-Moneter-April-2026.aspx)
+
+2.  Otoritas Jasa Keuangan. (2026). *Peraturan OJK No. 1/2026 tentang Peningkatan Modal Inti Bank Umum*. Jakarta: OJK.  
+   [https://www.ojk.go.id/id/regulasi/Pages/POJK-1-2026.aspx](https://www.ojk.go.id/id/regulasi/Pages/POJK-1-2026.aspx)
+
+3.  Lembaga Penjamin Simpanan. (2026). *Laporan Triwulan I 2026: Stabilitas Sistem Perbankan dan Penjaminan Simpanan*. Jakarta: LPS.  
+   [https://www.lps.go.id/documents/laporan/triwulan/2026/Q1.pdf](https://www.lps.go.id/documents/laporan/triwulan/2026/Q1.pdf)
+
+4.  Pemerintah Republik Indonesia. (2024). *Peraturan Pemerintah No. 7 Tahun 2024 tentang Pelaksanaan Undang-Undang Pengembangan dan Penguatan Sektor Keuangan*. Jakarta: Sekretariat Negara.  
+   [https://peraturan.bpk.go.id/Details/289256/pp-no-7-tahun-2024](https://peraturan.bpk.go.id/Details/289256/pp-no-7-tahun-2024)
+
+5.  Undang-Undang No. 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan (P2SK). *Lembaran Negara Republik Indonesia Tahun 2023 No. 4*. Jakarta: Pemerintah RI.  
+   [https://www.dpr.go.id/dokjdih/document/uu/2023/UU_2023_4.pdf](https://www.dpr.go.id/dokjdih/document/uu/2023/UU_2023_4.pdf)
+
+6.  Bank Indonesia & Otoritas Jasa Keuangan. (2025). *Joint Memorandum on Macro-Micro Prudential Coordination Framework*. Jakarta: BI-OJK.  
+   [https://www.bi.go.id/en/ruang-media/siaran-pers/Pages/SP-25122025.aspx](https://www.bi.go.id/en/ruang-media/siaran-pers/Pages/SP-25122025.aspx)
+
+7.  KSSK. (2026). *Press Release: KSSK Meeting Results - March 2026*. Jakarta: KSSK Secretariat.  
+   [https://www.kemenkeu.go.id/publikasi/berita/kssk-maret-2026](https://www.kemenkeu.go.id/publikasi/berita/kssk-maret-2026)

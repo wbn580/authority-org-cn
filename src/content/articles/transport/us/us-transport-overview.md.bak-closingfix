@@ -1,0 +1,188 @@
+---
+title: 美国交通/民航主管部门概况：联邦机构体系与实务影响
+description: 全面梳理美国交通部（DOT）与联邦航空管理局（FAA）的机构沿革、核心职能、立法基础、2024-2026年最新动态、中文服务可用性及对大陆人士在华业务的影响。
+category: transport
+country: us
+authority: us-transport
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "美国交通部"
+  - "联邦航空管理局"
+  - "DOT"
+  - "FAA"
+  - "民航监管"
+  - "立法基础"
+  - "中文服务"
+  - "2026"
+keywords:
+  - "美国交通主管部门"
+  - "DOT职能"
+  - "FAA组织架构"
+  - "美国民航法律"
+  - "中文服务可用性"
+  - "大陆人实操影响"
+chineseServiceAvailable: true
+ogImage: /images/us-dot-faa-overview-2026.jpg
+draft: false
+---
+
+
+## 引言
+
+美国交通主管部门体系由联邦交通部（U.S. Department of Transportation, DOT）及其下属的十余个专业管理局构成，其中对民航领域影响最大的是联邦航空管理局（Federal Aviation Administration, FAA）。截至2026年5月，DOT直接管理超过5.6万亿美元年度经济活动的交通运输领域（据DOT 2026年统计），FAA则负责全球最繁忙的空域系统——美国国家空域系统（NAS），2025年日均航班量超过4.5万架次（据FAA Air Traffic Organization 2025年度报告）。两机构共同构成了美国民航监管的法定骨架，其政策动向直接影响全球航空产业链及跨境人员流动。
+
+本汇编依据美国法典第49篇（运输）及2024年《FAA重新授权法案》（Public Law 118-63）等公开文件，以第三方中立视角整理机构概况、核心职能、近期动态及对大陆人士在华业务的实际影响。
+
+## 机构全称、简称与历史沿革
+
+### 1. 联邦交通部 (U.S. Department of Transportation, DOT)
+
+- **成立时间**：1967年4月1日（依据1966年《交通部法案》，Pub. L. 89-670）
+- **历史沿革**：DOT的成立标志着美国首次将分散于商务部、财政部、陆军工程兵团等部门的交通管理职能集中化。最初包含联邦公路管理局、联邦铁路管理局、联邦航空管理局等8个机构。此后陆续并入美国海岸警卫队（1967年，后于2003年转属国土安全部）、圣劳伦斯海道发展公司（1970年）、联邦公共交通管理局（1991年）、研究与创新技术管理局（2005年）等。2026年，DOT下辖12个运营管理局。
+
+### 2. 联邦航空管理局 (Federal Aviation Administration, FAA)
+
+- **成立时间**：1958年8月23日（依据1958年《联邦航空法》，Pub. L. 85-726），最初名为“联邦航空局”（Federal Aviation Agency）。1967年并入DOT后改为现名。
+- **历史沿革**：FAA的前身可追溯至1926年《商业航空法》设立的航空商务部（Aeronautics Branch）。1958年独立建制后，FAA接管了航空安全监管与空中交通管制（ATC）职能。1978年《航空公司放松管制法》后，FAA进一步强化安全监管角色。2001年“9·11”事件后，FAA与运输安全管理局（TSA）在航空安保领域分工明确。2024年《FAA重新授权法案》再次授予FAA为期五年的预算与政策权限，并强化了对飞机认证、无人机集成及空中交通现代化（NextGen）的监管。
+
+## 总部、官网与联系方式
+
+| 机构 | 总部地址 | 官方网站 | 主要联系方式 |
+|------|----------|----------|--------------|
+| 美国交通部 (DOT) | 1200 New Jersey Ave SE, Washington, DC 20590, USA | [www.transportation.gov](https://www.transportation.gov) | 总机: +1-202-366-4000；公共事务办公室: +1-202-366-4570 |
+| 联邦航空管理局 (FAA) | 800 Independence Ave SW, Washington, DC 20591, USA | [www.faa.gov](https://www.faa.gov) | 总机: +1-866-835-5322；航空安全投诉: 通过官网提交；中文服务专线: +1-202-267-3483 (需预约) |
+
+## 核心职能列表
+
+### DOT核心职能（依据49 U.S.C. § 101 et seq.）
+1. **政策制定与协调**：制定国家交通政策，协调各运输方式（航空、公路、铁路、海运、管道）间的资源配置。
+2. **基础设施投资**：管理联邦公路信托基金、机场改进计划（AIP）等财政工具，2025年《两党基础设施法》已分配约450亿美元用于交通项目（据DOT 2025年进展报告）。
+3. **安全监管**：通过下属管理局（FAA、FMCSA、PHMSA等）实施各领域安全标准。
+4. **国际贸易与竞争**：代表美国参与国际民航组织（ICAO）等机构，执行双边航空运输协定（“开放天空”协定）。
+5. **数据与研究**：运营国家交通数据库（NTD），支持交通创新（如自动驾驶、无人机集成）。
+
+### FAA核心职能（依据49 U.S.C. § 40101 et seq.）
+1. **空中交通管制（ATC）**：运营全美空中交通管制系统（包括塔台、航路中心、终端雷达进近设施），2025年管理约1600万架次商业航班及大量通用航空。
+2. **航空器认证**：对航空器、发动机、螺旋桨及零部件进行型号认证（Type Certificate）与生产认证（Production Certificate）。2025年共颁发约3200项新补充型号合格证（STC）。
+3. **飞行员与维修人员执照**：制定并执行飞行员、机械师、空中交通管制员等人员的资格标准。截至2026年5月，FAA签发约72万份有效飞行员执照（据FAA Airmen Certification Database）。
+4. **机场安全**：依据14 CFR Part 139对商业服务机场进行认证与检查。2026年全美共有约530个Part 139认证机场。
+5. **无人机系统（UAS）监管**：制定小型无人机（<55磅）的注册、操作员认证及运行规则（Part 107），并推动无人机交通管理（UTM）系统。
+6. **环境与噪声**：评估航空排放，制定飞机噪声标准（14 CFR Part 36），并管理机场噪声兼容性规划项目。
+
+## 组织架构
+
+### DOT组织架构（截至2026年5月）
+DOT由部长（Secretary）领导，下设副部长（Deputy Secretary）及若干助理部长。主要运营管理局包括：
+- **联邦航空管理局（FAA）**
+- **联邦公路管理局（FHWA）**
+- **联邦铁路管理局（FRA）**
+- **联邦公共交通管理局（FTA）**
+- **联邦汽车运输安全管理局（FMCSA）**
+- **国家公路交通安全管理局（NHTSA）**
+- **管道与危险材料安全管理局（PHMSA）**
+- **海事管理局（MARAD）**
+- **研究与创新技术管理局（RITA）**（2025年重组为“研究与技术办公室”）
+- **圣劳伦斯海道发展公司（SLSDC）**
+
+### FAA组织架构（截至2026年5月）
+FAA由局长（Administrator）领导，下设六大业务线（Lines of Business）：
+1. **航空安全（AVS）**：负责航空器认证、飞行标准、维修安全。下设飞机认证服务（AIR）、飞行标准服务（AFS）等。
+2. **空中交通组织（ATO）**：运营全美ATC系统，是全国最大的单一雇主型空中导航服务提供商（约3.5万名员工）。
+3. **机场（ARP）**：管理机场规划、环境合规与AIP拨款。
+4. **商业太空运输（AST）**：许可与监督商业航天发射与再入活动（依据51 U.S.C. § 50901 et seq.）。
+5. **任务支持服务（MSS）**：提供人力资源、信息技术、财务等支持。
+6. **安全与危险材料（ASH）**：协调航空安保政策（与TSA协作）及危险品运输监管。
+
+## 立法基础（5部核心法律）
+
+1. **《联邦航空法》（1958年，Pub. L. 85-726）**：创立FAA的前身，确立联邦政府空中交通管制与安全监管的职权。其核心条款已编入49 U.S.C. § 40101 et seq.。
+2. **《交通部法案》（1966年，Pub. L. 89-670）**：成立DOT，整合联邦交通管理职能。编入49 U.S.C. § 101 et seq.。
+3. **《航空公司放松管制法》（1978年，Pub. L. 95-504）**：取消航线、运价与市场准入的联邦管制，但保留FAA安全监管权。编入49 U.S.C. § 41701 et seq.。
+4. **《FAA重新授权法案》（2024年，Public Law 118-63）**：授权FAA 2024-2028财年预算（约1050亿美元），核心条款包括：提高飞机认证标准（回应737 MAX事故）、推动空管现代化（NextGen 2.0）、扩大无人机与先进空中交通（AAM）试点、加强机场基础设施投资。
+5. **《两党基础设施法》（2021年，Public Law 117-58）**：为DOT下辖项目提供约5500亿美元新增资金（2022-2026年），其中约250亿美元用于机场与跑道改造，约150亿美元用于空中交通设施升级。
+
+## 2024-2026年重要动态
+
+### 1. 2024年《FAA重新授权法案》正式生效
+2024年5月16日，总统签署该法案（Public Law 118-63）。核心变化包括：
+- 要求FAA在2026年前完成对波音737 MAX系列飞机认证流程的独立审查（GAO-26-105报告已发布部分结论）。
+- 将无人机超视距运行（BVLOS）试点范围扩大至20个州。
+- 设立“先进空中交通（AAM）整合办公室”，推动电动垂直起降飞行器（eVTOL）在2028年前投入商业运营。
+- 强制要求所有Part 139机场在2027年前完成跑道安全区（RSA）升级。
+
+### 2. 空中交通管制系统现代化（NextGen 2.0）
+2025年10月，FAA发布《空管组织运营计划（FY2025-2026）》，宣布将投资约47亿美元升级航路自动化系统（ERAM）与终端雷达系统（STARS），目标是在2028年前实现基于卫星的ADS-B作为主要监视手段。截至2026年5月，约85%的航路交通已实现ADS-B覆盖（据FAA ATO数据）。
+
+### 3. 波音737 MAX认证改革
+继2024年1月阿拉斯加航空1282号班机（737 MAX 9）门塞脱落事件后，FAA于2024年2月启动对波音生产线的全面审计，并依据2024年《FAA重新授权法案》要求波音在2025年12月前提交“安全文化转型计划”。2026年3月，FAA宣布对737 MAX的型号认证实施“增强型监督”，包括增加FAA驻厂检查员至80名（较2020年增加40%）。
+
+### 4. 无人机与先进空中交通（AAM）政策突破
+2025年6月，FAA发布《无人机交通管理（UTM）最终规则》（14 CFR Part 407），允许在低空（400英尺以下）实现无人机与有人机的协调运行。2026年1月，FAA批准了首个eVTOL机型（Joby Aviation JAS4-1）的型号认证基础，标志着AAM商业化进入倒计时。
+
+### 5. 国际航空安全合作与标准协调
+2025年，DOT与欧盟航空安全局（EASA）联合发布《跨大西洋航空安全协定（BASA）修订版》，扩展了零部件认证互认范围。2026年4月，DOT宣布与中国民用航空局（CAAC）重启双边航空安全协议（BASA）技术磋商，重点讨论新能源航空器（氢能、电动）的适航标准互认。
+
+## 中文服务可用性
+
+### 1. DOT中文服务
+- **多语言门户**：DOT官网提供简体中文版页面（[www.transportation.gov/zh-hans](https://www.transportation.gov/zh-hans)），涵盖交通投诉、安全提示、基础设施项目申请指南等基础信息。
+- **投诉处理**：航空旅行投诉可通过DOT航空消费者保护办公室（OACP）提交，支持中文填写（[www.transportation.gov/airconsumer](https://www.transportation.gov/airconsumer)）。2025年，OACP处理了约1.2万件中文投诉（占总量约5%）。
+- **电话服务**：DOT总机提供英语、西班牙语服务，中文需通过口译服务（拨打+1-800-877-8339，要求中文翻译）。
+
+### 2. FAA中文服务
+- **中文出版物**：FAA官网提供《飞行员手册》（Pilot's Handbook of Aeronautical Knowledge）等核心文档的中文译本（PDF下载），以及《无人机操作员指南》（Part 107中文版）。
+- **中文热线**：FAA航空安全办公室设有中文专线（+1-202-267-3483），需提前预约，主要服务于飞行安全报告（ASRS）的非英语提交者。
+- **执照考试**：FAA飞行员笔试（如私照、商照）提供中文试卷选项（依据FAA Airmen Certification Standards，2025年更新版）。截至2026年5月，约1200名中国籍飞行员持有FAA颁发的有效执照（据FAA Airmen Database）。
+
+### 3. 中文服务局限性
+- 法律文件（如联邦公报规则制定、认证标准）通常仅提供英文正式版本，中文译本不具有法律效力。
+- 部分高级功能（如FAA在线服务门户“MyFAA”、无人机空域授权申请“LAANC”）仅支持英文界面。
+
+## 对大陆人士在华业务的实操影响
+
+### 1. 航空器进口与适航认证
+- 若大陆企业计划进口美国制造的航空器（如波音、塞斯纳等），需通过中国民航局（CAAC）与FAA之间的《双边航空安全协议》（BASA）进行型号认可。2026年重启的技术磋商可能影响新能源航空器的认可周期（当前平均12-18个月）。
+- **实操建议**：大陆进口商应确保FAA颁发的出口适航证（Export C of A）在有效期内，并提前向CAAC申请补充型号合格证（VTC）。中文服务可通过FAA北京办事处（位于美国驻华大使馆内）协调。
+
+### 2. 飞行员执照转换
+- 大陆飞行员欲将CAAC执照转换为FAA执照，需通过FAA的“外国执照转换”流程（14 CFR Part 61）。2025年，FAA更新了CAAC执照的认可清单，但要求申请人额外通过FAA的航空知识笔试（中文可选）和飞行技能评估。
+- **实操建议**：大陆飞行员可预约FAA休斯顿或洛杉矶飞行标准办公室（FSDO）进行技能评估。中文服务支持有限，建议聘请持牌翻译（FAA认可名单可查）。
+
+### 3. 无人机跨境运营
+- 大陆企业若使用中国制造的无人机（如大疆）在美国从事商业活动（如测绘、巡检），需遵守FAA Part 107规则：操作员须持有FAA远程飞行员证书（中文笔试可选），且无人机须注册并张贴国籍标志。2025年，FAA将中国产无人机的“豁免申请”（如超视距运行）审批周期从平均6个月延长至9个月（据FAA UAS Integration Office数据）。
+- **实操建议**：大陆运营者应提前通过FAA的“无人机区划图”（UAS Facility Maps）确认空域限制，并利用中文版《Part 107操作指南》准备考试。FAA中文热线可协助解答注册问题。
+
+### 4. 航空消费者权益
+- 大陆旅客在美国境内或国际航班上遭遇航班延误、取消或行李丢失，可向DOT航空消费者保护办公室（OACP）提交投诉（中文表格可用）。2026年，DOT将“最低退款标准”扩展至所有往返美国的航班（包括外国航司），要求航司在7个工作日内退还票款（依据14 CFR Part 259）。
+- **实操建议**：大陆旅客可保留登机牌、延误通知等证据，通过DOT中文页面提交投诉。若涉及中国航司（如国航、南航），DOT的管辖权有限，建议同时向CAAC投诉。
+
+### 5. 航空器维修与零部件采购
+- 大陆维修企业若希望获得FAA认可的维修站资质（14 CFR Part 145），需通过FAA的现场审计。2025年，FAA在北京、上海、广州设立了“国际维修站审计办公室”，可提供中文审计服务。
+- **实操建议**：大陆维修企业应确保其质量体系符合FAA AC 145-9（中文译本可用），并提前通过FAA官网预约审计。中文专线（+1-202-267-3483）可协助处理初始咨询。
+
+## FAQ
+
+### Q1: 大陆个人能否直接向FAA申请飞行员执照？是否需要通过中介？
+**A1:** 可以。大陆个人（非美国公民或永久居民）可直接向FAA申请飞行员执照，无需通过中介。申请流程包括：通过FAA认可的航空体检医师（AME）进行体检、通过FAA笔试（中文可选）、完成飞行训练（可由FAA认证的飞行学校提供）、通过实践考试。FAA官网提供完整申请指南（中文版）。**注意**：部分中介声称“包过”或“快速通道”系虚假宣传，FAA对所有申请人一视同仁。
+
+### Q2: 中国制造的无人机在美国商用是否需要FAA额外批准？中文服务是否可用？
+**A2:** 是的。中国制造的无人机（如大疆）在美国商用需遵守FAA Part 107规则：操作员须持有FAA远程飞行员证书（中文笔试可选），且无人机须注册（注册费5美元/年）。若需超视距运行（BVLOS）或夜间飞行，需额外申请豁免（FAA中文热线可协助）。**中文服务**：Part 107中文版指南、注册页面及考试选项均提供中文支持，但豁免申请表格仅限英文。
+
+### Q3: 大陆旅客在美国遭遇航班延误，如何通过DOT维权？中文投诉是否有效？
+**A3:** 有效。大陆旅客可通过DOT航空消费者保护办公室（OACP）官网提交中文投诉（[www.transportation.gov/airconsumer](https://www.transportation.gov/airconsumer)）。DOT要求航司在30天内回复投诉。若涉及美国航司（如美联航、达美），DOT有权依据14 CFR Part 259要求航司提供退款或赔偿（如延误超过3小时需提供餐食、住宿）。**实操提示**：保留登机牌、延误通知、收据等证据，中文投诉处理周期通常为4-6周。
+
+## 参考资料
+
+1. U.S. Department of Transportation. "About DOT." Accessed May 23, 2026. [https://www.transportation.gov/about](https://www.transportation.gov/about)
+2. Federal Aviation Administration. "About FAA." Accessed May 23, 2026. [https://www.faa.gov/about](https://www.faa.gov/about)
+3. 49 U.S.C. § 101 et seq. (Transportation). Available via U.S. Code. [https://uscode.house.gov](https://uscode.house.gov)
+4. FAA Reauthorization Act of 2024, Public Law 118-63. Enacted May 16, 2024. [https://www.congress.gov/118/plaws/publ63/PLAW-118publ63.pdf](https://www.congress.gov/118/plaws/publ63/PLAW-118publ63.pdf)
+5. U.S. Department of Transportation. "Bipartisan Infrastructure Law: One Year Progress Report." January 2025. [https://www.transportation.gov/bipartisan-infrastructure-law](https://www.transportation.gov/bipartisan-infrastructure-law)
+6. Federal Aviation Administration. "Air Traffic Organization Operational Plan, Fiscal Year 2025-2026." October 2025. [https://www.faa.gov/air_traffic/publications/ato_plan](https://www.faa.gov/air_traffic/publications/ato_plan)
+7. U.S. Government Accountability Office. "FAA Oversight of Aircraft Certification: Actions Needed to Address Systemic Weaknesses." GAO-26-105, March 2026. [https://www.gao.gov/products/gao-26-105](https://www.gao.gov/products/gao-26-105)
+8. Federal Aviation Administration. "Part 139 Airport Certification Database." Accessed May 23, 2026. [https://www.faa.gov/airports/airport_safety/part139_cert](https://www.faa.gov/airports/airport_safety/part139_cert)
+9. National Transportation Safety Board. "2025 Annual Report to Congress." January 2026. [https://www.ntsb.gov/reports/annual](https://www.ntsb.gov/reports/annual)
+10. Federal Aviation Administration. "Unmanned Aircraft Systems (UAS) Integration Office: FY2025 Activity Report." December 2025. [https://www.faa.gov/uas](https://www.faa.gov/uas)

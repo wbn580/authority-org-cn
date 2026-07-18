@@ -1,0 +1,44 @@
+---
+// ArticleLayout.astro — Layout for individual articles
+import BaseLayout from './BaseLayout.astro';
+import ArticleDisclaimer from '../components/ArticleDisclaimer.astro';
+
+const { frontmatter } = Astro.props;
+const title = frontmatter.title;
+const description = frontmatter.description;
+---
+<BaseLayout title={title} description={description}>
+  <article class="max-w-article mx-auto px-4 py-10">
+    <!-- Article header -->
+    <header class="mb-8">
+      <div class="flex flex-wrap items-center gap-2 mb-3 text-xs">
+        {frontmatter.country && <span class="tag">{frontmatter.country?.toUpperCase()}</span>}
+        {frontmatter.category && <span class="tag">{frontmatter.category}</span>}
+        {frontmatter.articleType && <span class="tag">{frontmatter.articleType}</span>}
+      </div>
+      <h1 class="text-2xl sm:text-3xl font-serif font-bold text-primary-900 m-0 leading-tight">
+        {title}
+      </h1>
+      {description && (
+        <p class="text-base text-ink-500 mt-3 leading-relaxed">{description}</p>
+      )}
+      <div class="article-meta flex flex-wrap gap-3 mt-4 pt-4 border-t border-divider">
+        <span>整理日期：{frontmatter.publishDate?.split('T')[0] || frontmatter.lastVerified}</span>
+        <span>最后核对：{frontmatter.lastVerified}</span>
+        {frontmatter.readingTime && <span>阅读时间：{frontmatter.readingTime} 分钟</span>}
+        {frontmatter.chineseServiceAvailable && <span class="text-green-700">✓ 中文服务可用</span>}
+      </div>
+    </header>
+
+    <!-- Article body -->
+    <div class="prose max-w-none">
+      <slot />
+    </div>
+
+    <!-- Per-article disclaimer -->
+    <ArticleDisclaimer 
+      dataSources={frontmatter.dataSources || []} 
+      publishDate={frontmatter.lastVerified}
+    />
+  </article>
+</BaseLayout>
