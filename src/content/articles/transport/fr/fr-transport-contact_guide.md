@@ -1,5 +1,6 @@
 ---
 title: '法国交通/民航主管部门联系方式与办事指南（2026年版）'
+description: "法国交通事务由生态转型、生物多样性、森林、海洋与渔业部（Ministère de la Transition écologique, de la Biodiversité, des Forêts, d。"
 pubDatetime: '2026-06-14T04:07:37Z'
 publishDate: '2026-06-14T04:07:37Z'
 modDatetime: '2026-06-14T04:07:37Z'
@@ -7,6 +8,7 @@ slug: 'fr-transport-contact_guide'
 category: 'transport'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/fr-transport-contact_guide-2026-1880x1253.jpg"
+tags: ["transport"]
 ---
 
 # 法国交通/民航主管部门联系方式与办事指南（2026年版）

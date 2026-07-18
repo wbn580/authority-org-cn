@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "法国"
-  - "司法/法务"
+  - "司法-法务"
 keywords:
   - "法国司法/法务"
 chineseServiceAvailable: true

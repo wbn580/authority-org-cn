@@ -1,5 +1,6 @@
 ---
 title: '英国移民与签证主管部门联系方式与办事指南（2026版）'
+description: "英国签证与移民局（UK Visas and Immigration, UKVI）是英国内政部（Home Office）下属的移民事务主管机构，依据《1971年移民法》（Immigration Act 。"
 pubDatetime: '2026-06-14T04:01:48Z'
 publishDate: '2026-06-14T04:01:48Z'
 modDatetime: '2026-06-14T04:01:48Z'
@@ -7,6 +8,7 @@ slug: 'uk-immigration-contact_guide'
 category: 'immigration'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/uk-immigration-contact_guide-2026-1880x1253.jpg"
+tags: ["移民签证"]
 ---
 
 # 英国移民与签证主管部门联系方式与办事指南（2026版）

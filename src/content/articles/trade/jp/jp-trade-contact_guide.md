@@ -1,5 +1,6 @@
 ---
 title: '日本贸易/海关主管部门联系方式与办事指南'
+description: "依据日本财务省关税局2026年4月发布的《通关业务联络先一覧》及经济产业省贸易经济协力局贸易管理课2026年业务公告，日本贸易与海关主管部门的行政架构分为两大系统：财务省关税局（下辖全国各海关）负责关。"
 pubDatetime: '2026-06-14T04:12:05Z'
 publishDate: '2026-06-14T04:12:05Z'
 modDatetime: '2026-06-14T04:12:05Z'
@@ -7,6 +8,7 @@ slug: 'jp-trade-contact_guide'
 category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/jp-trade-contact_guide-2026-1880x1253.jpg"
+tags: ["trade"]
 ---
 
 # 日本贸易/海关主管部门联系方式与办事指南

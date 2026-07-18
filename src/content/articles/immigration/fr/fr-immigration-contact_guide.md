@@ -1,5 +1,6 @@
 ---
 title: '法国移民与签证主管部门联系方式与办事指南（2026版）'
+description: "法国移民与签证事务由多个行政主体协同管理。据法国内政部2026年公告，2025年法国共受理约320万份签证申请，其中长期居留申请约85万份。依据《外国人入境与居留法典》（CESEDA，2025年修订版。"
 pubDatetime: '2026-06-14T04:03:05Z'
 publishDate: '2026-06-14T04:03:05Z'
 modDatetime: '2026-06-14T04:03:05Z'
@@ -7,6 +8,7 @@ slug: 'fr-immigration-contact_guide'
 category: 'immigration'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/fr-immigration-contact_guide-2026-1880x1253.jpg"
+tags: ["移民签证"]
 ---
 
 # 法国移民与签证主管部门联系方式与办事指南（2026版）

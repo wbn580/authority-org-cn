@@ -1,5 +1,6 @@
 ---
 title: '韩国卫生与医保主管部门联系方式与办事指南（2026年版）'
+description: "韩国卫生与医疗保障体系由保健福祉部（Ministry of Health and Welfare, MOHW）统筹监管，国民健康保险公团（National Health Insurance Servi。"
 pubDatetime: '2026-06-14T04:14:20Z'
 publishDate: '2026-06-14T04:14:20Z'
 modDatetime: '2026-06-14T04:14:20Z'
@@ -7,6 +8,7 @@ slug: 'kr-health-contact_guide'
 category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/kr-health-contact_guide-2026-auto.jpg"
+tags: ["医疗健康"]
 ---
 
 # 韩国卫生与医保主管部门联系方式与办事指南（2026年版）

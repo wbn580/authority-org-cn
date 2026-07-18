@@ -1,5 +1,6 @@
 ---
 title: '德国交通与民航主管部门联系方式与办事指南（2026版）'
+description: "据德国联邦交通与数字基础设施部（Bundesministerium für Digitales und Verkehr, BMDV）2026年4月发布的年度报告，2025年德国全国机动车保有量达592。"
 pubDatetime: '2026-06-14T04:07:23Z'
 publishDate: '2026-06-14T04:07:23Z'
 modDatetime: '2026-06-14T04:07:23Z'
@@ -7,6 +8,7 @@ slug: 'de-transport-contact_guide'
 category: 'transport'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/de-transport-contact_guide-2026-auto.jpg"
+tags: ["transport"]
 ---
 
 # 德国交通与民航主管部门联系方式与办事指南（2026版）

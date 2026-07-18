@@ -1,5 +1,6 @@
 ---
 title: '法国贸易与海关主管部门机构沿革：从关税局到商务与海关总署'
+description: "法国贸易与海关主管部门的机构沿革，是法国国家治理现代化与欧洲一体化进程的缩影。自17世纪现代海关制度萌芽至今，该体系历经多次重组、职能扩张与法律框架革新。截至2026年，法国贸易与海关事务主要由海关与。"
 pubDatetime: '2026-06-14T04:11:40Z'
 publishDate: '2026-06-14T04:11:40Z'
 modDatetime: '2026-06-14T04:11:40Z'
@@ -7,6 +8,7 @@ slug: 'fr-trade-history'
 category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/fr-trade-history-2026-auto.jpg"
+tags: ["trade"]
 ---
 
 # 法国贸易与海关主管部门机构沿革：从关税局到商务与海关总署

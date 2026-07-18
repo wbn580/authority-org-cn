@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "西班牙"
-  - "央行/金融"
+  - "央行-金融"
 keywords:
   - "西班牙央行/金融"
 chineseServiceAvailable: true

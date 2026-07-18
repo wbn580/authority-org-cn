@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "中国台湾"
-  - "卫生/医保"
+  - "卫生-医保"
 keywords:
   - "中国台湾卫生/医保"
 chineseServiceAvailable: true

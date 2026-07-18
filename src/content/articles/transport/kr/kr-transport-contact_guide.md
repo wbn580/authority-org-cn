@@ -1,5 +1,6 @@
 ---
 title: '韩国交通/民航主管部门联系方式与办事指南'
+description: "概述 本文依据韩国国土交通部（Ministry of Land, Infrastructure and Transport, MOLIT）2026年行政服务手册、韩国机场公社（Korea Airpor。"
 pubDatetime: '2026-06-14T04:06:43Z'
 publishDate: '2026-06-14T04:06:43Z'
 modDatetime: '2026-06-14T04:06:43Z'
@@ -7,6 +8,7 @@ slug: 'kr-transport-contact_guide'
 category: 'transport'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/kr-transport-contact_guide-2026-1880x1253.jpg"
+tags: ["transport"]
 ---
 
 # 韩国交通/民航主管部门联系方式与办事指南

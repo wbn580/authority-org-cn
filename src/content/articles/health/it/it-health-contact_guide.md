@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "意大利"
-  - "卫生/医保"
+  - "卫生-医保"
 keywords:
   - "意大利卫生/医保"
 chineseServiceAvailable: true

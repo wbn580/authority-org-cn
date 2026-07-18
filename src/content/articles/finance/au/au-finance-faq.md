@@ -1,5 +1,6 @@
 ---
 title: '澳大利亚金融监管主管部门FAQ：央行与金融监管体系'
+description: "澳大利亚金融监管体系由三大核心机构组成，依据《1959年储备银行法》《1998年澳大利亚审慎监管局法》及《2001年公司法》等法律授权运行。截至2026年5月，澳大利亚储备银行（Reserve Ban。"
 pubDatetime: '2026-06-14T04:25:52Z'
 publishDate: '2026-06-14T04:25:52Z'
 modDatetime: '2026-06-14T04:25:52Z'
@@ -7,6 +8,7 @@ slug: 'au-finance-faq'
 category: 'finance'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/au-finance-faq-2026-1880x1253.jpg"
+tags: ["finance"]
 ---
 
 # 澳大利亚金融监管主管部门FAQ：央行与金融监管体系

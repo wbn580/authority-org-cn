@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "以色列"
-  - "贸易/海关"
+  - "贸易-海关"
 keywords:
   - "以色列贸易/海关"
 chineseServiceAvailable: true

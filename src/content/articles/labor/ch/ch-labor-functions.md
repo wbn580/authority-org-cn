@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "瑞士"
-  - "劳工/就业"
+  - "劳工-就业"
 keywords:
   - "瑞士劳工/就业"
 chineseServiceAvailable: true

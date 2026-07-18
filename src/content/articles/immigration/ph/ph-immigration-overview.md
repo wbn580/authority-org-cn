@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "菲律宾"
-  - "移民/签证"
+  - "移民-签证"
 keywords:
   - "菲律宾移民/签证"
 chineseServiceAvailable: true

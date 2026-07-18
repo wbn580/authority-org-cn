@@ -1,5 +1,6 @@
 ---
 title: '澳大利亚联邦及州教育主管部门联系方式与办事指南（2026年版）'
+description: "据澳大利亚教育、技能与就业部（DESE）2026年年度报告，2025年澳大利亚国际教育产业为经济贡献约480亿澳元，注册国际学生总数超过95万人。其中，来自中国大陆的学生占比约27%，为最大生源国。本。"
 pubDatetime: '2026-06-14T04:18:27Z'
 publishDate: '2026-06-14T04:18:27Z'
 modDatetime: '2026-06-14T04:18:27Z'
@@ -7,6 +8,7 @@ slug: 'au-education-contact_guide'
 category: 'education'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
+tags: ["教育部门"]
 ---
 
 # 澳大利亚联邦及州教育主管部门联系方式与办事指南（2026年版）

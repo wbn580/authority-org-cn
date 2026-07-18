@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "澳大利亚"
-  - "卫生/医保"
+  - "卫生-医保"
 keywords:
   - "澳大利亚卫生/医保"
 chineseServiceAvailable: true

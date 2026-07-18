@@ -1,5 +1,6 @@
 ---
 title: '澳大利亚贸易与海关主管部门联系方式与办事指南（2026年更新）'
+description: "据澳大利亚边境执法局（Australian Border Force, ABF）2026年第一季度服务报告，2025-2026财年ABF处理进出口申报逾1200万票，其中电子申报占比达98.7%。另据。"
 pubDatetime: '2026-06-14T04:11:03Z'
 publishDate: '2026-06-14T04:11:03Z'
 modDatetime: '2026-06-14T04:11:03Z'
@@ -7,6 +8,7 @@ slug: 'au-trade-contact_guide'
 category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/au-trade-contact_guide-2026-auto.jpg"
+tags: ["trade"]
 ---
 
 # 澳大利亚贸易与海关主管部门联系方式与办事指南（2026年更新）

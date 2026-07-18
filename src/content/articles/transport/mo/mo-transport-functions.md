@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "中国澳门"
-  - "交通/民航"
+  - "交通-民航"
 keywords:
   - "中国澳门交通/民航"
 chineseServiceAvailable: true

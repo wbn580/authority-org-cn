@@ -1,5 +1,6 @@
 ---
 title: '以色列劳工主管部门联系方式与办事指南（2026年版）'
+description: "以色列劳工、社会事务与社会服务部（Ministry of Labor, Social Affairs and Social Services，简称MOLSA）是以色列负责劳动就业、职业安全、劳动关系。"
 pubDatetime: '2026-06-14T04:34:48Z'
 publishDate: '2026-06-14T04:34:48Z'
 modDatetime: '2026-06-14T04:34:48Z'
@@ -7,6 +8,7 @@ slug: 'il-labor-contact_guide'
 category: 'labor'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/il-labor-contact_guide-2026-1880x1253.jpg"
+tags: ["labor"]
 ---
 
 # 以色列劳工主管部门联系方式与办事指南（2026年版）

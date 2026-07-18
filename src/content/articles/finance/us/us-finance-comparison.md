@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "美国"
-  - "央行/金融"
+  - "央行-金融"
 keywords:
   - "美国央行/金融"
 chineseServiceAvailable: true

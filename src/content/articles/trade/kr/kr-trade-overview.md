@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "韩国"
-  - "贸易/海关"
+  - "贸易-海关"
 keywords:
   - "韩国贸易/海关"
 chineseServiceAvailable: true

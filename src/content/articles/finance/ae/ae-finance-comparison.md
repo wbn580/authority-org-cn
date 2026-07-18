@@ -1,5 +1,6 @@
 ---
 title: '阿联酋央行与金融监管机构跨国对比：职能、效率与制度差异分析'
+description: "阿联酋金融监管体系由阿联酋中央银行（Central Bank of the UAE, CBUAE）与证券和商品管理局（Securities and Commodities Authority, SCA。"
 pubDatetime: '2026-06-14T04:24:17Z'
 publishDate: '2026-06-14T04:24:17Z'
 modDatetime: '2026-06-14T04:24:17Z'
@@ -9,6 +10,7 @@ language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/ae-finance-comparison-2026-auto.jpg"
 hideFromHome: true
 
+tags: ["finance"]
 ---
 
 # 阿联酋央行与金融监管机构跨国对比：职能、效率与制度差异分析

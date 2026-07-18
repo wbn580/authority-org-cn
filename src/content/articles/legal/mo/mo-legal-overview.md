@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "中国澳门"
-  - "司法/法务"
+  - "司法-法务"
 keywords:
   - "中国澳门司法/法务"
 chineseServiceAvailable: true

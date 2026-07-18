@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "瑞士"
-  - "交通/民航"
+  - "交通-民航"
 keywords:
   - "瑞士交通/民航"
 chineseServiceAvailable: true

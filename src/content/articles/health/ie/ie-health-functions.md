@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "爱尔兰"
-  - "卫生/医保"
+  - "卫生-医保"
 keywords:
   - "爱尔兰卫生/医保"
 chineseServiceAvailable: true

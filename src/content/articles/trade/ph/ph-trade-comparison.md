@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "菲律宾"
-  - "贸易/海关"
+  - "贸易-海关"
 keywords:
   - "菲律宾贸易/海关"
 chineseServiceAvailable: true

@@ -1,5 +1,6 @@
 ---
 title: '菲律宾劳工与就业部（DOLE）联系方式与办事指南（2026年版）'
+description: "菲律宾劳工与就业部（Department of Labor and Employment, DOLE）是主管全国劳动就业、海外劳工事务及劳资关系的核心政府机构。据DOLE 2026年行政命令第001号。"
 pubDatetime: '2026-06-14T04:32:45Z'
 publishDate: '2026-06-14T04:32:45Z'
 modDatetime: '2026-06-14T04:32:45Z'
@@ -7,6 +8,7 @@ slug: 'ph-labor-contact_guide'
 category: 'labor'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/ph-labor-contact_guide-2026-auto.jpg"
+tags: ["labor"]
 ---
 
 # 菲律宾劳工与就业部（DOLE）联系方式与办事指南（2026年版）

@@ -1,5 +1,6 @@
 ---
 title: '荷兰公共卫生与医疗监管机构联系方式及办事指南（2026年版）'
+description: "据荷兰卫生、福利及体育部（VWS）2026年年度报告，荷兰全国医疗机构总数约为1,200家，覆盖基础医疗、专科医院及精神卫生服务。荷兰卫生保健管理局（NZa）2026年一季度公报显示，荷兰基本医疗保险。"
 pubDatetime: '2026-06-14T04:14:52Z'
 publishDate: '2026-06-14T04:14:52Z'
 modDatetime: '2026-06-14T04:14:52Z'
@@ -7,6 +8,7 @@ slug: 'nl-health-contact_guide'
 category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/nl-health-contact_guide-2026-1880x1253.jpg"
+tags: ["医疗健康"]
 ---
 
 # 荷兰公共卫生与医疗监管机构联系方式及办事指南（2026年版）

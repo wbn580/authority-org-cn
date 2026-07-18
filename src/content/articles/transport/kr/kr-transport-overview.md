@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "韩国"
-  - "交通/民航"
+  - "交通-民航"
 keywords:
   - "韩国交通/民航"
 chineseServiceAvailable: true

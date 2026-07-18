@@ -1,5 +1,6 @@
 ---
 title: '越南贸易/海关主管部门联系方式与办事指南（2026年版）'
+description: "越南贸易与海关事务由两个主要中央机构管理。越南工贸部依据《贸易法》（2005年第36/2005/QH11号）第5条，负责对外贸易政策制定、进出口许可、原产地规则及贸易救济。越南海关总局依据《海关法》（。"
 pubDatetime: '2026-06-14T04:08:45Z'
 publishDate: '2026-06-14T04:08:45Z'
 modDatetime: '2026-06-14T04:08:45Z'
@@ -7,6 +8,7 @@ slug: 'vn-trade-contact_guide'
 category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/vn-trade-contact_guide-2026-1880x1253.jpg"
+tags: ["trade"]
 ---
 
 # 越南贸易/海关主管部门联系方式与办事指南（2026年版）

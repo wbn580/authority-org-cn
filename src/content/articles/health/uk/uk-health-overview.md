@@ -1,5 +1,6 @@
 ---
 title: '英国卫生与社会保障部（DHSC）及国民医疗服务体系（NHS）主管部门概况'
+description: "英国卫生与医保事务的核心主管部门为卫生与社会保障部（Department of Health and Social Care, DHSC），负责英格兰地区的卫生政策制定、资源分配及监管；而NHS En。"
 pubDatetime: '2026-06-14T04:13:58Z'
 publishDate: '2026-06-14T04:13:58Z'
 modDatetime: '2026-06-14T04:13:58Z'
@@ -7,6 +8,7 @@ slug: 'uk-health-overview'
 category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/uk-health-overview-2026-1880x1253.jpg"
+tags: ["医疗健康"]
 ---
 
 # 英国卫生与社会保障部（DHSC）及国民医疗服务体系（NHS）主管部门概况

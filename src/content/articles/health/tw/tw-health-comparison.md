@@ -1,5 +1,6 @@
 ---
 title: '中国台湾地区卫生主管部门与多国同类机构跨国对比分析（2026年）'
+description: "中国台湾地区卫生福利部（Ministry of Health and Welfare, MOHW）作为主管卫生、社会福利及医保的核心机构，其运作模式在全球范围内具有独特性。据台湾卫生福利部2026年施。"
 pubDatetime: '2026-06-14T04:13:50Z'
 publishDate: '2026-06-14T04:13:50Z'
 modDatetime: '2026-06-14T04:13:50Z'
@@ -9,6 +10,7 @@ language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/tw-health-comparison-2026-1280x876.jpg"
 hideFromHome: true
 
+tags: ["医疗健康"]
 ---
 
 # 中国台湾地区卫生主管部门与多国同类机构跨国对比分析（2026年）

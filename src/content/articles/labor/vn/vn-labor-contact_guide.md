@@ -1,5 +1,6 @@
 ---
 title: '越南劳动荣军社会部联系方式与办事指南（2026版）'
+description: "越南劳动荣军社会部（Ministry of Labour, Invalids and Social Affairs, MOLISA）是负责劳工政策、就业服务、劳动许可及社会保障的核心主管部门。据MOL。"
 pubDatetime: '2026-06-14T04:30:52Z'
 publishDate: '2026-06-14T04:30:52Z'
 modDatetime: '2026-06-14T04:30:52Z'
@@ -7,6 +8,7 @@ slug: 'vn-labor-contact_guide'
 category: 'labor'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/vn-labor-contact_guide-2026-1880x1253.jpg"
+tags: ["labor"]
 ---
 
 # 越南劳动荣军社会部联系方式与办事指南（2026版）

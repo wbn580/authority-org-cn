@@ -1,5 +1,6 @@
 ---
 title: '印度尼西亚司法与法律主管部门联系方式与办事指南（2026版）'
+description: "印度尼西亚司法/法务体系以法律与人权部（Kementerian Hukum dan HAM, Kemenkumham）为核心，负责法律政策制定、法律服务监管、知识产权、移民法律事务及国际司法合作。根据。"
 pubDatetime: '2026-06-14T04:29:35Z'
 publishDate: '2026-06-14T04:29:35Z'
 modDatetime: '2026-06-14T04:29:35Z'
@@ -7,6 +8,7 @@ slug: 'id-legal-contact_guide'
 category: 'legal'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/id-legal-contact_guide-2026-1880x1253.jpg"
+tags: ["legal"]
 ---
 
 印度尼西亚司法/法务体系以法律与人权部（Kementerian Hukum dan HAM, Kemenkumham）为核心，负责法律政策制定、法律服务监管、知识产权、移民法律事务及国际司法合作。根据该部2026年公告第KEP-12/2026号，全国设有34个省级司法办公室及超过200个市县服务点，2025年全年处理法律文件认证、公证、移民法律咨询等事务超过480万件。以下信息基于该部公开文件及2026年5月最新更新。

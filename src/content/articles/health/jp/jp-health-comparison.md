@@ -1,5 +1,6 @@
 ---
 title: '日本卫生主管部门与多国同类机构跨国对比分析'
+description: "卫生主管部门是各国公共卫生政策制定、医疗体系监管与医保基金管理的中枢机构。据日本厚生劳动省2026年度报告，该部门管理约32万亿日元（约合2130亿美元）的年度预算，覆盖1.26亿国民的国民健康保险体。"
 pubDatetime: '2026-06-14T04:15:35Z'
 publishDate: '2026-06-14T04:15:35Z'
 modDatetime: '2026-06-14T04:15:35Z'
@@ -9,6 +10,7 @@ language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/jp-health-comparison-2026-auto.jpg"
 hideFromHome: true
 
+tags: ["医疗健康"]
 ---
 
 # 日本卫生主管部门与多国同类机构跨国对比分析

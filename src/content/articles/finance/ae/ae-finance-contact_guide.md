@@ -1,5 +1,6 @@
 ---
 title: '阿联酋央行及金融监管机构联系方式与办事指南（2026年）'
+description: "阿联酋（AE）金融监管体系以阿联酋中央银行（Central Bank of the UAE, CBUAE）为核心，负责货币稳定、银行监管及支付系统；证券与商品管理局（Securities and Co。"
 pubDatetime: '2026-06-14T04:24:32Z'
 publishDate: '2026-06-14T04:24:32Z'
 modDatetime: '2026-06-14T04:24:32Z'
@@ -7,6 +8,7 @@ slug: 'ae-finance-contact_guide'
 category: 'finance'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/ae-finance-contact_guide-2026-1880x1253.jpg"
+tags: ["finance"]
 ---
 
 # 阿联酋央行及金融监管机构联系方式与办事指南（2026年）

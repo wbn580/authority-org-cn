@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "中国大陆"
-  - "劳工/就业"
+  - "劳工-就业"
 keywords:
   - "中国大陆劳工/就业"
 chineseServiceAvailable: true

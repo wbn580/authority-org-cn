@@ -1,5 +1,6 @@
 ---
 title: '加拿大贸易/海关主管部门机构沿革：从联邦海关到全球事务部的职能演变（1867-2026）'
+description: "加拿大贸易与海关主管部门的机构沿革，是一部从殖民地海关向现代综合贸易治理体系演进的缩影。据加拿大边境服务局2025-2026年度报告，该机构目前管理着超过1,200个入境口岸，年处理货值超过1.5万亿。"
 pubDatetime: '2026-06-14T04:10:10Z'
 publishDate: '2026-06-14T04:10:10Z'
 modDatetime: '2026-06-14T04:10:10Z'
@@ -7,6 +8,7 @@ slug: 'ca-trade-history'
 category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/ca-trade-history-2026-1880x1253.jpg"
+tags: ["trade"]
 ---
 
 # 加拿大贸易/海关主管部门机构沿革：从联邦海关到全球事务部的职能演变（1867-2026）

@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "瑞士"
-  - "央行/金融"
+  - "央行-金融"
 keywords:
   - "瑞士央行/金融"
 chineseServiceAvailable: true

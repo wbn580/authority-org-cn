@@ -10,7 +10,7 @@ lastVerified: 2026-05-23
 readingTime: 15
 tags:
   - "马来西亚"
-  - "交通/民航"
+  - "交通-民航"
 keywords:
   - "马来西亚交通/民航"
 chineseServiceAvailable: true

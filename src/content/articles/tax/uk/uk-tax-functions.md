@@ -1,5 +1,6 @@
 ---
 title: '英国税务主管部门核心职能详解：HMRC职能体系与2026年调整'
+description: "英国税务海关总署（HM Revenue & Customs，HMRC）是英国政府最主要的非部委公共机构，隶属于财政部，负责税收征管、海关监管、福利支付及合规执法等事务。据HMRC 2024-25年度报。"
 pubDatetime: '2026-06-14T04:21:24Z'
 publishDate: '2026-06-14T04:21:24Z'
 modDatetime: '2026-06-14T04:21:24Z'
@@ -7,6 +8,7 @@ slug: 'uk-tax-functions'
 category: 'tax'
 language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/uk-tax-functions-2026-1880x1253.jpg"
+tags: ["税务部门"]
 ---
 
 # 英国税务主管部门核心职能详解：HMRC职能体系与2026-2026年调整

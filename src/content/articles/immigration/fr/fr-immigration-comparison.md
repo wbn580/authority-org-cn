@@ -1,5 +1,6 @@
 ---
 title: '法国移民主管部门职能与效率跨国对比分析'
+description: "移民主管部门的架构与运作方式直接决定签证审批效率、申请人体验及政策执行透明度。据法国移民与融入局（OFII）2025年度报告，2025年法国共处理约320万份签证申请，其中短期申根签证占比约78%，长。"
 pubDatetime: '2026-06-14T04:03:21Z'
 publishDate: '2026-06-14T04:03:21Z'
 modDatetime: '2026-06-14T04:03:21Z'
@@ -9,6 +10,7 @@ language: 'zh-CN'
 ogImage: "https://img.ulec.com.cn/authority/fr-immigration-comparison-2026-1880x1253.jpg"
 hideFromHome: true
 
+tags: ["移民签证"]
 ---
 
 # 法国移民主管部门职能与效率跨国对比分析
