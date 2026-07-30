@@ -1,0 +1,49 @@
+{
+  "site": "authority-org-cn",
+  "domain": "authority.org.cn",
+  "articles": [
+    {
+      "slug": "authority-org-cn-0967",
+      "title": "2026年去澳洲留学前必须确认的几件事",
+      "release_date": "2026-02-15",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "e638297fe2b27c2c039b62febee99aeb1dfe814a2508a2f0b7f2aa2150d841b2"
+    },
+    {
+      "slug": "authority-org-cn-0966",
+      "title": "2026年澳大利亚留学毕业后工签与长期居留路径解析",
+      "release_date": "2026-03-01",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "1f5fc946525cde842d996195eb55602000a5841efa8dc54b3793f71329b3d4f7"
+    },
+    {
+      "slug": "authority-org-cn-0963",
+      "title": "2026年澳大利亚留学一年总费用估算：学费与生活费明细",
+      "release_date": "2026-03-07",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "bc0776197ff864339363721bb3bcdf521099798623ba84bbaef4a0db18bf58d6"
+    },
+    {
+      "slug": "authority-org-cn-0968",
+      "title": "2027年澳洲本科、硕士与博士申请差异全解析",
+      "release_date": "2026-04-30",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "d5ddcab850b7ae369d09282c086805f6e94ec6c9f8a25e8692b9c4d0fdca6c75"
+    },
+    {
+      "slug": "authority-org-cn-0965",
+      "title": "2026-2027 澳大利亚留学申请时间线与关键截止",
+      "release_date": "2026-06-08",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "b10e440006d0744283497dd569eccc7ad196da8cf421d39d14d54e594eb35dd1"
+    },
+    {
+      "slug": "authority-org-cn-0964",
+      "title": "2026年澳洲主要留学城市性价比对比：从房租到生活方式的全景分析",
+      "release_date": "2026-06-18",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "90194967bbb4ebc349e6cd12efca3eb292f78e10e7418c3bd8c4cb63560b29aa"
+    }
+  ],
+  "generated_at": "2026-07-30T13:55:27Z"
+}
