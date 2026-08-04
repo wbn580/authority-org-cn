@@ -38,7 +38,7 @@ draft: false
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # 瑞士联邦税务主管部门核心职能详解：架构、执行与2026-26年调整

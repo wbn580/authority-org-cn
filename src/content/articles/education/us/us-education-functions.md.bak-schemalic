@@ -1,0 +1,241 @@
+---
+title: "美国教育部核心职能详解：法律依据、执行机制与2026-26年调整"
+description: 基于《教育部组织法》及2026年最新数据，系统梳理美国教育部全部核心职能，涵盖含义、范围、立法依据、执行机制、跨部门协调及近期政策调整。
+category: education
+country: us
+authority: us-education
+articleType: functions
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags:
+  - "美国教育部"
+  - "教育政策"
+  - "联邦教育职能"
+  - "高等教育"
+  - "中小学教育"
+  - "民权执法"
+  - "学生资助"
+keywords:
+  - "美国教育部职能"
+  - "ED核心职责"
+  - "联邦教育法"
+  - "2026教育政策"
+  - "教育民权"
+  - "佩尔助学金"
+  - "跨部门协调"
+  - "教育部调整"
+chineseServiceAvailable: true
+ogImage: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+美国教育部（U.S. Department of Education, ED）是联邦政府中负责教育事务的行政机构，依据1979年《教育部组织法》（Department of Education Organization Act, 20 U.S.C. § 3401 et seq.）设立，自1980年5月4日正式运作。根据该法第101条，教育部的设立宗旨是“通过联邦资助、研究协调和民权执法，促进学生学业成就，确保教育机会平等，并提升联邦教育项目的效率与问责”。
+
+截至2026年5月，ED运营着超过100个联邦教育项目，管理约1.6万亿美元的学生贷款组合，并每年向约1000万大学生发放约1200亿美元的联邦学生资助（含佩尔助学金和直接贷款）。据ED 2026财年预算摘要，其年度可支配拨款约为790亿美元，雇员约4,200人（2025年数据），是联邦内阁中规模最小的部门之一。本文依据《教育部组织法》《初等与中等教育法》（ESSA）《高等教育法》（HEA）等核心法案及2024-2026年最新政策文件，系统梳理ED全部核心职能。
+
+## 职能一：联邦学生资助管理
+
+### 含义与范围
+联邦学生资助（Federal Student Aid, FSA）是ED最大且最核心的运营职能，负责管理联邦佩尔助学金（Pell Grants）、直接贷款（Direct Loans）、联邦工作学习项目（Federal Work-Study）及教师教育资助（TEACH Grants）等。据ED 2026年数据，FSA办公室管理着约4300万借款人的1.6万亿美元贷款组合，年度发放额约1200亿美元。
+
+### 立法依据
+- 《高等教育法》第四章（Title IV of the Higher Education Act of 1965, 20 U.S.C. § 1070 et seq.）
+- 《学生贷款改革法案》（Student Loan Reform Act, 1993年纳入HEA）
+- 2022年《学生资助简化法案》（Fostering Undergraduate Talent by Unlocking Resources for Education Act, FUTURE Act）及《FAFSA简化法案》（FAFSA Simplification Act）
+
+### 执行机制
+ED通过其下属的联邦学生资助办公室（Office of Federal Student Aid, FSA）直接运营。FSA是一个绩效型组织（Performance-Based Organization, PBO），享有运营自主权。执行流程包括：每年通过免费联邦学生资助申请表（FAFSA）收集约1800万份申请，计算预期家庭贡献（EFC，2024年后改为学生资助指数SAI），分配资金至约6200所参与院校，并通过贷款服务商（如Nelnet、MOHELA等）管理还款。ED还运营着StudentAid.gov网站及联络中心，提供中文等多语言支持。
+
+### 2024-2026年调整
+- **FAFSA简化实施**：2024-2025申请季全面启用新的FAFSA表格，将问题数从108个压缩至约36个，并引入SAI替代EFC。但据GAO 2025年报告，首年实施出现技术故障和数据传输延迟，导致约300万名学生提交延迟。
+- **还款计划改革**：2023年推出的SAVE计划（Saving on a Valuable Education）在2024-2025年面临多起诉讼，至2026年5月仍处于法院禁令状态。ED于2025年10月宣布暂停新申请，并为受影响借款人提供0%利息宽限期。
+- **贷款服务商整合**：2025年，ED将贷款服务商从9家缩减至5家，并启动新的“下一代服务”采购流程，预计2027年全面上线。
+
+## 职能二：初等与中等教育政策与资助
+
+### 含义与范围
+ED负责监督全国约13,000个公立学区、约98,000所公立中小学及约5,000万学生的联邦资助项目。主要覆盖弱势学生群体（Title I）、特殊教育（IDEA）、英语学习者（Title III）、教师质量（Title II）及学校改善等。该职能约占ED年度预算的40%。
+
+### 立法依据
+- 《初等与中等教育法》（Elementary and Secondary Education Act, ESEA, 20 U.S.C. § 6301 et seq.），经2015年《每个学生成功法案》（Every Student Succeeds Act, ESSA）重新授权
+- 《残疾人教育法案》（Individuals with Disabilities Education Act, IDEA, 20 U.S.C. § 1400 et seq.）
+
+### 执行机制
+ED通过初等与中等教育办公室（Office of Elementary and Secondary Education, OESE）及特殊教育与康复服务办公室（OSERS）执行。资金以公式拨款（Formula Grants）形式分配给各州教育机构（SEAs），再由SEAs根据地方需求分配至学区。ESSA要求各州每三年接受一次联邦监测，评估各州对Title I资金使用合规性。ED还管理着“学校改善拨款”（School Improvement Grants）和“21世纪社区学习中心”等竞争性项目。
+
+### 2024-2026年调整
+- **ESSA问责修订**：2024年，ED发布最终规则，调整各州在ESSA下的问责指标，要求将“长期缺勤率”纳入非学业指标，并要求各州在2025-2026学年之前提交修订后的州计划。
+- **IDEA资金增长**：2026财年预算中，IDEA州拨款增至约160亿美元，较2020年增长约30%，但距联邦承诺的40%资助比例仍有差距。
+- **学校安全与心理健康**：2024年《学校安全与心理健康法案》（School Safety and Mental Health Act）拨款10亿美元，由ED与卫生与公众服务部（HHS）联合管理，用于学校心理健康专业人员招聘。
+
+## 职能三：高等教育政策与认证监督
+
+### 含义与范围
+ED负责监督高等教育机构（约6,000所）的联邦资金资格，管理认证机构（Accrediting Agencies）的认可，并通过《高等教育法》Title II、III、V等条款支持少数族裔服务机构（如HBCUs、HSIs、TCUs）、低收入学生及特定学科（如STEM、外语）。ED还负责执行“90-10规则”（限制营利性院校联邦资金占比）。
+
+### 立法依据
+- 《高等教育法》（HEA of 1965, 20 U.S.C. § 1001 et seq.）
+- 《高等教育机会法案》（Higher Education Opportunity Act of 2008, P.L. 110-315）
+- 《学生资助简化法案》（2022年）
+
+### 执行机制
+ED通过高等教育办公室（Office of Postsecondary Education, OPE）执行。OPE的核心职能包括：
+1. **认证机构认可**：根据HEA第IV章，ED认可约60个认证机构（包括区域性和全国性），这些机构负责对院校进行质量审查。ED每五年对认证机构进行再认可。
+2. **院校资格认定**：确定院校是否符合参与联邦学生资助项目的条件（Title IV eligibility）。
+3. **弱势群体支持**：管理“弱势学生助学项目”（TRIO）和“学生支持服务”（Student Support Services），每年服务约80万学生。
+4. **数据收集**：通过综合高等教育数据系统（IPEDS）收集院校数据，并向公众公开。
+
+### 2024-2026年调整
+- **认证规则改革**：2025年，ED发布最终规则，要求认证机构在评估院校时纳入“学生成果”指标（如毕业率、就业率、贷款偿还率），并缩短对高风险院校的认证周期。
+- **90-10规则修订**：2024年，ED将“90-10规则”中的“10”部分扩展至包括退伍军人教育福利（GI Bill），导致约200所营利性院校面临资金风险。该规则于2025年生效。
+- **HBCU资金增加**：2026财年预算中，HBCU（传统黑人院校）专项拨款增至5亿美元，较2020年翻倍。
+
+## 职能四：民权执法与教育机会平等
+
+### 含义与范围
+ED的民权办公室（Office for Civil Rights, OCR）负责执行联邦民权法律，禁止在接受联邦资助的教育项目中基于种族、肤色、国籍、性别、残疾和年龄的歧视。OCR覆盖从学前到高等教育的所有教育机构，每年处理约19,000起投诉（2025年数据）。
+
+### 立法依据
+- 1964年《民权法案》第六章（Title VI, 42 U.S.C. § 2000d et seq.）
+- 1972年《教育修正案》第九章（Title IX, 20 U.S.C. § 1681 et seq.）
+- 1973年《康复法案》第504节（Section 504 of the Rehabilitation Act, 29 U.S.C. § 794）
+- 1990年《美国残疾人法案》第二章（Title II of the ADA, 42 U.S.C. § 12131 et seq.）
+- 1975年《年龄歧视法案》（Age Discrimination Act, 42 U.S.C. § 6101 et seq.）
+
+### 执行机制
+OCR通过12个区域办公室和总部执行。主要方式包括：
+1. **投诉调查**：个人或组织可向OCR提交歧视投诉。OCR在收到投诉后，通常会先尝试调解（早期投诉解决），若失败则启动正式调查，并发布调查结果函（Letter of Findings）。
+2. **合规审查**：OCR可主动选择特定学校或学区进行系统性合规审查，无需等待投诉。
+3. **技术援助**：向教育机构提供关于民权义务的指导文件（如2021年《Title IX规则》）。
+4. **执法行动**：若调查确认违规，OCR可要求机构签署自愿解决协议（Voluntary Resolution Agreement），或启动行政程序暂停/终止联邦资金。
+
+### 2024-2026年调整
+- **Title IX规则修订**：2024年4月，ED发布最终Title IX规则，将性骚扰定义扩大，并要求院校采取更多措施应对性暴力。该规则于2024年8月生效，但面临多州诉讼，至2026年5月，联邦法院在26个州暂缓执行。
+- **反犹主义投诉增加**：据OCR 2026年3月报告，2024-2025学年基于国籍（反犹、反阿拉伯）的投诉激增300%，OCR为此新增30名调查员。
+- **残疾人权利**：2025年，OCR发布新指导，明确学校在远程学习环境下对残疾学生的无障碍义务（依据第504节）。
+
+## 职能五：教育研究与数据统计
+
+### 含义与范围
+ED负责收集、分析和传播全国教育数据，并支持教育科学研究。这一职能由教育科学研究所（Institute of Education Sciences, IES）承担，IES下辖四个国家中心：国家教育统计中心（NCES）、国家教育研究与开发中心（NCER）、国家教育评估与区域援助中心（NCEE）及国家特殊教育研究中心（NCSER）。
+
+### 立法依据
+- 2002年《教育科学改革法案》（Education Sciences Reform Act of 2002, 20 U.S.C. § 9501 et seq.）
+
+### 执行机制
+IES通过以下方式运行：
+1. **全国评估**：国家教育进展评估（NAEP，即“国家报告卡”）每两年测试4、8、12年级学生在阅读、数学等科目的表现。2024年NAEP数据表明，8年级阅读成绩较2019年下降3分。
+2. **纵向研究**：如“早期儿童纵向研究”（ECLS）和“高中纵向研究”（HSLS），追踪学生长期发展。
+3. **数据系统**：维护IPEDS（高等教育）、CCD（中小学通用核心数据）和Civil Rights Data Collection（民权数据收集）等数据库。
+4. **科研资助**：通过NCER资助教育研究项目，并通过What Works Clearinghouse（WWC）发布循证实践指南。
+5. **区域教育实验室**：运营10个区域教育实验室（RELs），为各州和地方教育机构提供技术支持。
+
+### 2024-2026年调整
+- **NAEP重新设计**：2025年，IES启动NAEP数字化重新设计，计划在2028年前实现自适应测试和更频繁的评估周期。
+- **数据隐私**：2024年《学生数据隐私法案》（Student Data Privacy Act）加强了对学生数据收集的限制，IES据此更新了数据共享协议。
+- **AI教育研究**：2025年，IES设立新的AI教育研究中心，资助5000万美元用于研究AI在个性化学习中的应用与风险。
+
+## 职能六：跨部门协调与联邦-州-地方关系
+
+### 含义与范围
+ED在联邦教育体系中扮演协调者角色，与国会、其他联邦机构（如劳工部、卫生与公众服务部、司法部）、州教育机构（SEAs）、地方学区及非营利组织协作。据ED 2026年战略规划，其核心协调职能包括：政策一致性、资金整合、数据共享及紧急响应。
+
+### 执行机制
+1. **跨部门工作组**：ED定期参加由白宫国内政策委员会牵头的“教育-劳动力协调工作组”，与劳工部合作制定“学徒制标准”和“职业技能认证”。
+2. **州计划审批**：根据ESSA，各州必须提交“州综合计划”（State Consolidated Plan），ED负责审批并监测执行。2025年，ED审批了12个州的修订计划。
+3. **紧急响应**：2020-2024年，ED通过《CARES法案》《CRRSA法案》和《ARP法案》向各州和学区发放约1900亿美元紧急救济资金。2025年，ED发布了《紧急资金审计指南》，要求各州在2027年前完成资金使用审计。
+4. **联邦-地方直接联系**：在特定情况下（如民权调查或特殊教育纠纷），ED可直接与学区或院校沟通，无需经过州级中介。
+
+### 2024-2026年调整
+- **ESSA灵活性**：2024年，ED宣布允许各州在2025-2026学年使用替代评估方式（如绩效评估）替代标准化测试，最多10个州可申请豁免。
+- **劳动力发展整合**：2025年，ED与劳工部联合发布“教育与劳动力数据整合框架”，要求各州在2027年前将教育记录与就业记录关联，以衡量教育项目的就业成果。
+
+## 职能七：专项支持与弱势群体服务
+
+### 含义与范围
+ED管理着数十个针对特定群体的专项项目，包括：印第安人教育（Office of Indian Education）、无家可归者教育（McKinney-Vento Act）、移民教育（Migrant Education Program）、被忽视或 delinquent 青少年教育、农村教育（Rural Education Achievement Program）以及英语学习者教育（Title III）。
+
+### 立法依据
+- 《约翰逊-奥马利印第安人教育法案》（Johnson-O'Malley Act）
+- 《麦金尼-文托无家可归者援助法案》（McKinney-Vento Homeless Assistance Act, Title VII-B）
+- 《移民教育计划》（Migrant Education Program, 20 U.S.C. § 6391 et seq.）
+- 《英语习得法案》（English Language Acquisition Act, Title III of ESEA）
+
+### 执行机制
+ED通过专门的办公室（如印第安人教育办公室、英语习得办公室）或通过OESE的特定项目组执行。资金多以公式拨款或竞争性拨款形式发放。例如：
+- **印第安人教育**：2026财年拨款1.8亿美元，支持约1,200个地方教育机构，提供文化相关课程和辅导。
+- **移民教育**：每年服务约40万流动儿童，通过“移民教育国家项目”提供远程教育支持。
+- **无家可归者教育**：2026年拨款1.5亿美元，要求每个学区指定一名联络员，确保无家可归学生立即入学。
+
+### 2024-2026年调整
+- **Title III改革**：2024年，ED修订Title III规则，允许各州使用资金支持“双语沉浸式项目”，并简化了英语水平评估要求。
+- **农村教育**：2025年，ED启动“农村教育创新基金”，拨款2亿美元用于支持农村学区宽带接入和远程教学。
+
+## 中文服务可用性
+
+美国教育部通过联邦学生资助（FSA）和民权办公室（OCR）提供有限的中文服务。FSA的StudentAid.gov网站设有简体中文版，提供FAFSA填写指南、还款选项说明及常用表格。FSA联络中心（1-800-433-3243）提供中文电话口译服务，但无独立中文专线。OCR发布的指导文件（如Title IX投诉流程）有中文翻译版本，但投诉表格仅有英文。ED总部及区域办公室不设中文窗口，但可通过第三方口译服务进行沟通。对于涉及中文社区的教育民权投诉，OCR建议使用其网站提交英文投诉，并在备注中注明语言需求。
+
+## FAQ
+
+### Q1: 美国教育部与州教育委员会（State Board of Education）是什么关系？
+ED不直接管理学校或课程设置，其角色是联邦资助者、民权执法者和数据收集者。各州教育委员会依据州宪法和法律，负责制定课程标准、教师认证和学校问责。ED通过ESSA和IDEA等法律设定联邦最低要求（如测试参与率、资金使用规则），各州必须在满足联邦要求的前提下自主决策。若州政策违反联邦民权法，ED可启动执法程序。
+
+### Q2: ED如何确保联邦学生资助不被滥用？
+ED通过以下机制防范滥用：1）院校资格认定（每年审核参与Title IV的院校）；2）FSA的“项目审查”对院校进行合规审计；3）认证机构监督；4）借款人防御偿还（Borrower Defense to Repayment）程序；5）2025年启用的“风险评分系统”自动标记高违约率院校。据GAO 2025年报告，ED在2024年追回了约3.2亿美元的不当支付。
+
+### Q3: 2024-2026年ED最大的政策变化是什么？
+最大变化是FAFSA简化实施和Title IX规则修订。FAFSA简化旨在降低申请门槛，但首年出现技术问题。Title IX规则扩大了校园性骚扰定义，但面临司法挑战。此外，ED在2025年启动了“下一代学生资助系统”采购，计划在2028年前替换现有IT基础设施。
+
+## 参考资料
+
+1. U.S. Department of Education. (2026). *FY 2027 Budget Summary*. Washington, DC: U.S. Government Publishing Office.  
+   [https://www2.ed.gov/about/overview/budget/budget27/summary/](https://www2.ed.gov/about/overview/budget/budget27/summary/)
+
+2. U.S. Congress. (1979). *Department of Education Organization Act* (20 U.S.C. § 3401 et seq.).  
+   [https://www.law.cornell.edu/uscode/text/20/3401](https://www.law.cornell.edu/uscode/text/20/3401)
+
+3. U.S. Congress. (1965). *Elementary and Secondary Education Act* (20 U.S.C. § 6301 et seq.), as amended by *Every Student Succeeds Act* (2015).  
+   [https://www.law.cornell.edu/uscode/text/20/6301](https://www.law.cornell.edu/uscode/text/20/6301)
+
+4. U.S. Congress. (1965). *Higher Education Act of 1965* (20 U.S.C. § 1001 et seq.), as amended.  
+   [https://www.law.cornell.edu/uscode/text/20/1001](https://www.law.cornell.edu/uscode/text/20/1001)
+
+5. U.S. Government Accountability Office. (2025). *Education: Key Issues and Challenges* (GAO-25-106000). Washington, DC.  
+   [https://www.gao.gov/products/gao-25-106000](https://www.gao.gov/products/gao-25-106000)
+
+6. U.S. Department of Education, Office for Civil Rights. (2026). *Annual Report to the Secretary*. Washington, DC.  
+   [https://www2.ed.gov/about/offices/list/ocr/docs/2025-annual-report.pdf](https://www2.ed.gov/about/offices/list/ocr/docs/2025-annual-report.pdf)
+
+7. Institute of Education Sciences. (2025). *National Assessment of Educational Progress: 2024 Results*. Washington, DC: National Center for Education Statistics.  
+   [https://nces.ed.gov/nationsreportcard/](https://nces.ed.gov/nationsreportcard/)

@@ -38,7 +38,7 @@ draft: false
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # 加拿大卫生部（Health Canada）机构沿革：职能、法律与改革节点（近年-2026）

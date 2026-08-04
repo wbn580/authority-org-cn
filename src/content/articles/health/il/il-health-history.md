@@ -50,7 +50,7 @@ draft: false
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # 以色列卫生部历史沿革：从建国卫生局到全民健康体系的制度化演进（近年-2026）

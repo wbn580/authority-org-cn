@@ -51,7 +51,7 @@ draft: false
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # 中国澳门特别行政区交通及民航主管部门机构沿革与职能演变（近年-2026）

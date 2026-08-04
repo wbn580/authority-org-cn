@@ -49,7 +49,7 @@ draft: false
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # 意大利劳工与社会政策部核心职能详解（2026-2026）

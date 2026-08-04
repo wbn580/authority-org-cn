@@ -1,0 +1,178 @@
+---
+title: 马来西亚卫生部（KKM）机构沿革：从殖民医疗署到全民健康覆盖
+description: "系统梳理马来西亚卫生部（Kementerian Kesihatan Malaysia, KKM）自1957年独立以来的组织架构演变、法律基础更迭与关键改革事件。涵盖殖民遗产、农村医疗扩展、国家健康政策、2019年新冠应对及2026年卫生白皮书展望。"
+category: health
+country: my
+authority: my-health
+articleType: history
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "马来西亚卫生部"
+  - "KKM"
+  - "卫生系统改革"
+  - "医疗体系历史"
+  - "国家健康政策"
+  - "医疗融资"
+  - "公共卫生"
+keywords:
+  - "马来西亚卫生部沿革"
+  - "KKM 机构历史"
+  - "马来西亚医疗改革"
+  - "国家健康白皮书 2026"
+  - "马来西亚医疗融资"
+  - "殖民医疗遗产"
+  - "农村医疗扩展"
+  - "药品监管改革"
+  - "新冠应对"
+  - "全民健康覆盖"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/de-transport-comparison-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言：从殖民行政到国家主权卫生体系
+
+马来西亚卫生部的组织起源可追溯至英殖民时期的“医疗署”（Medical Department），其制度框架深受海峡殖民地（Straits Settlements）与马来联邦（Federated Malay States）行政体系影响。1957年马来亚联合邦独立后，原“医疗署”于1963年随着马来西亚联邦成立正式更名为**卫生部（Ministry of Health, Malaysia）**，马来文名称为**Kementerian Kesihatan Malaysia (KKM)**。据KKM官方档案（2025年），截至2026年，KKM下属机构共管理超过2,800家公立诊所、140家公立医院及约4.5万名医生，构成东南亚地区规模最大的公立医疗网络之一。该部在独立后的近70年间经历了三次系统性重组：1970年代向农村预防医学倾斜、1990年代应对慢性病与私立医疗扩张、以及2020年代面对新冠疫情与全民健康覆盖（UHC）改革。
+
+## 殖民遗产与独立初期的制度奠基（1786–1970）
+
+### 殖民医疗署的建立
+
+马来西亚现代医疗体系的雏形始于1786年英国东印度公司在槟城设立的军事医务处。1824年《英荷条约》后，海峡殖民地（马六甲、槟城、新加坡）统一设立“殖民医疗署”（Colonial Medical Department），主要职能为控制霍乱、疟疾与天花，并服务于欧洲官员与军队。据《马来西亚卫生系统回顾》（WHO, 2020），至1940年，马来半岛共有约120家政府诊所，但绝大多数集中于锡矿与橡胶种植园周边，农村与东马地区几乎无医疗服务覆盖。
+
+### 独立后的法律框架确立
+
+1957年马来亚独立后，临时宪法将卫生事务列为联邦与州共同管辖事项（Concurrent List）。1963年马来西亚成立后，**1969年《卫生部组织法》（Akta Kementerian Kesihatan 1969, Akta 41）** 正式确立KKM作为联邦政府卫生主管部门的法律地位，规定其职责包括：制定国家卫生政策、管理公立医院与诊所系统、监督药品与食品质量、以及控制传染病。该法同时设立“卫生总监”（Director-General of Health）职位，作为技术最高负责人，直接向卫生部长汇报。1971年《医疗法案》（Akta Perubatan 1971, Akta 50）进一步规范了医疗执业注册与纪律，为KKM下属的马来西亚医疗理事会（Malaysian Medical Council, MMC）赋予法定权力。
+
+## 农村医疗扩展与初级卫生保健革命（1971–1990）
+
+### 农村医疗系统的大规模建设
+
+1970年代，马来西亚政府推行“新经济政策”（NEP），将缩小城乡医疗差距列为重点。KKM于1974年启动“农村卫生服务扩展计划”（Rural Health Service Expansion Programme），目标是在每个州选区至少建立一所“健康诊所”（Klinik Kesihatan）。据KKM 1985年年度报告，该计划使农村诊所数量从1970年的约400家增至1985年的1,200家，覆盖率达到农村人口的85%。同时，KKM引入“社区护士”（Jururawat Masyarakat）制度，由经过培训的本地女性在偏远村庄提供基础产检、疫苗接种与健康教育。
+
+### 法律与职能调整
+
+1983年《食品法案》（Akta Makanan 1983, Akta 281）将食品安全监管权从地方当局统一收归KKM下属的食品安全与质量部（Bahagian Keselamatan dan Kualiti Makanan）。1988年《传染病控制法案》（Akta Kawalan Penyakit Berjangkit 1988, Akta 342）赋予KKM在疫情暴发时实施隔离、强制检测与旅行限制的法定权力，该法案在后续新冠疫情期间成为核心法律依据。1989年，KKM内部设立“药品监管局”（Bahagian Pengawalan Farmasi），接管原属州政府的药品进口与生产许可审批。
+
+## 私立医疗扩张与慢性病转型（1991–2010）
+
+### 私立医疗体系的制度化
+
+1990年代，马来西亚经济高速增长推动私立医疗行业爆发。KKM于1998年推动通过《私立医疗机构法案》（Akta Kemudahan Perubatan Swasta 1998, Akta 586），首次要求所有私立医院、诊所与护理中心必须向KKM下属的“私立医疗设施管理局”（Bahagian Perkhidmatan Perubatan Swasta）申请执照。该法案同时设立“医疗收费仲裁委员会”（Fee Arbitration Committee），限制私立医院过度收费。据KKM 2005年统计数据，私立医院床位数占比从1990年的15%升至2005年的32%，私立医疗支出占国家健康总支出比例达到45%。
+
+### 慢性病防控与机构重组
+
+面对心血管疾病、糖尿病与癌症发病率的快速上升，KKM于2000年成立“非传染性疾病控制部”（Bahagian Kawalan Penyakit Tidak Berjangkit），并在全国公立诊所推行“慢性病综合管理计划”（Program Pengurusan Penyakit Kronik, PPC）。2006年，KKM将原属不同部门的“传统与辅助医学”职能合并，成立“传统与辅助医学管理局”（Bahagian Perubatan Tradisional dan Komplementari），并于2007年通过《传统与辅助医学法案》（Akta Perubatan Tradisional dan Komplementari 2007, Akta 729），正式承认中医、马来传统医学与印度阿育吠陀的执业地位。
+
+## 药品监管改革与卫生融资探索（2011–2019）
+
+### 国家药品监管局的独立化
+
+2012年，KKM推动《药品监管法案》（Akta Pengawalan Farmasi 2012, Akta 753）的通过，将原属KKM内部的药品监管职能剥离，成立半独立机构“国家药品监管局”（National Pharmaceutical Regulatory Agency, NPRA）。NPRA直接隶属KKM，但拥有独立的人事与预算权，负责药品、医疗器械与化妆品的注册、上市后监测与临床试验审批。据NPRA 2020年年度报告，该机构在2019年共批准1,024种新药注册，其中仿制药占比67%。
+
+### 国家健康融资改革（PeKa B40）
+
+2019年，KKM推出“国家健康保障计划”（Program Peduli Kesihatan untuk Kumpulan B40, PeKa B40），专门针对家庭收入低于4,360林吉特的底层40%群体（B40）提供免费健康检查与医疗补贴。该计划由KKM下属的“国家健康基金”（Tabung Kesihatan Nasional）管理，初始预算为5亿林吉特。据KKM 2021年评估报告，PeKa B40在实施前两年共覆盖约120万人，发现并转诊3.5万例潜在慢性病患者。
+
+## 新冠疫情应对与系统韧性重塑（2020–2025）
+
+### 疫情初期的紧急响应
+
+2020年1月25日，马来西亚报告首例新冠确诊病例。KKM于1月30日依据《传染病控制法案1988》成立“国家危机准备与响应中心”（National Crisis Preparedness and Response Centre, CPRC），协调全国疫情数据收集、隔离政策与医疗物资分配。2020年3月18日，马来西亚实施“行动管制令”（Movement Control Order, MCO），KKM负责监督全国医院床位占用率、个人防护装备（PPE）库存与疫苗采购谈判。据KKM 2022年白皮书，疫情高峰期（2021年7月）全国公立医院ICU床位占用率达98%，KKM紧急征用私立医院与培训中心床位共计约8,000张。
+
+### 疫苗采购与数字医疗加速
+
+2020年11月，KKM通过“国家新冠肺炎免疫计划”（Program Imunisasi COVID-19 Kebangsaan, PICK），由卫生部长与科学、工艺及创新部（MOSTI）联合协调。KKM下属的“药品监管局”（NPRA）于2021年1月批准辉瑞-BioNTech疫苗紧急使用授权，成为东南亚首个批准mRNA疫苗的监管机构。截至2022年12月，KKM统计显示全国完成两剂疫苗接种人口占比达到82.3%。疫情同时加速了数字医疗转型：KKM于2021年推出“MySejahtera”应用程序的公共卫生模块，集成疫苗接种预约、检测结果查询与健康申报功能，注册用户超过3,000万。
+
+### 后疫情机构调整
+
+2023年，KKM内部设立“卫生安全与紧急准备部”（Bahagian Keselamatan Kesihatan dan Persediaan Kecemasan），专职负责大流行防范与生物安全。2024年，KKM发布《国家健康白皮书》（Health White Paper 2024），提出“全民健康覆盖”（UHC）路线图，建议建立独立的“国家健康融资委员会”（National Health Financing Commission），整合现有公立与私立保险计划。
+
+## 2026年展望：全民健康覆盖与监管现代化
+
+### 国家健康白皮书与融资改革
+
+2025年，马来西亚政府正式采纳《国家健康白皮书2025》的核心建议，计划于2027年前向国会提交《国家健康服务法案》（Akta Perkhidmatan Kesihatan Kebangsaan）。该法案拟设立“国家健康基金”（Tabung Kesihatan Nasional），通过强制性的健康贡献金（Health Contribution Levy）覆盖全体居民，取代现有的碎片化保险体系。据KKM 2026年预算文件，该基金初始规模预计为120亿林吉特，由KKM下属的独立委员会管理。
+
+### 数字健康基础设施扩展
+
+KKM于2026年启动“全国电子健康记录系统”（Sistem Rekod Kesihatan Elektronik Kebangsaan, SREK）第一期试点，计划在2028年前连接全国所有公立医院与诊所。该系统由KKM下属的“数字健康部”（Bahagian Kesihatan Digital）主导，采用基于区块链的数据共享架构，旨在减少重复检查、提升诊疗效率。同时，KKM修订《私人医疗机构法案1998》草案，新增远程医疗执业许可条款，要求所有提供远程咨询的医生必须在KKM注册。
+
+### 监管与审批流程优化
+
+2026年3月，KKM宣布将“国家药品监管局”（NPRA）的药品注册审批时限从平均18个月缩短至12个月，并引入“突破性疗法认定”（Breakthrough Therapy Designation）快速通道。此外，KKM计划于2026年第四季度推出“药品定价透明化平台”（Portal Ketelusan Harga Ubat），强制要求所有药品供应商公开批发与零售价格，以降低药品可及性壁垒。
+
+## 中文服务可用性
+
+马来西亚卫生部（KKM）对使用中文的居民提供以下服务渠道：
+
+- **多语言健康热线**：KKM下属的“全国健康热线”（Taliansih, 03-8000 8000）提供普通话与粤语人工咨询服务，服务时间为每日8:00至22:00（马来西亚时间）。
+- **中文健康宣传材料**：KKM官网（www.moh.gov.my）设有“中文专区”（Bahagian Bahasa Cina），提供疫苗接种指南、慢性病管理手册及传染病防控宣传单，内容由KKM公共卫生教育组（Bahagian Pendidikan Kesihatan）定期更新。
+- **MySejahtera应用中文界面**：MySejahtera应用程序（2025年8月更新版本）支持简体中文与繁体中文界面切换，覆盖疫苗接种预约、检测结果查询与健康申报功能。
+- **中文医疗翻译服务**：在吉隆坡、槟城与柔佛的指定公立医院，KKM提供免费的医疗口译服务（需提前24小时预约），服务范围涵盖门诊、急诊与住院沟通。
+- **中文媒体信息发布**：KKM通过官方微信公众号（ID: MyKKM_Official）与微博账号（马来西亚卫生部）每日更新疫情数据、政策公告与健康提示，2025年全年共发布中文推文约1,200条。
+
+## FAQ
+
+### Q1: 马来西亚卫生部（KKM）与州卫生局是什么关系？
+
+马来西亚联邦宪法将卫生事务列为联邦与州共同管辖事项。KKM（联邦卫生部）负责制定国家政策、管理联邦级医院（如国家心脏中心、吉隆坡中央医院）及培训标准，而州卫生局（Jabatan Kesihatan Negeri）是KKM在各州的派出机构，负责管理州内公立诊所、监督地方传染病及执行联邦政策。州卫生局直接向KKM卫生总监汇报，而非州政府。
+
+### Q2: KKM在新冠疫情期间依据哪些法律实施封锁与隔离？
+
+KKM主要依据1988年《传染病控制法案》（Akta Kawalan Penyakit Berjangkit 1988, Akta 342）第3条与第11条，授权卫生部长宣布“受感染地区”（Infected Localities），并实施旅行限制、强制检测、隔离令与场所关闭。此外，2020年3月通过的《传染病控制法案（临时措施）修正案》进一步赋予KKM在紧急状态下征用私人医疗设施与物资的权力。
+
+### Q3: 马来西亚的药品与医疗器械由哪个机构监管？
+
+药品与医疗器械的注册、生产许可、上市后监测与临床试验审批由KKM下属的**国家药品监管局（National Pharmaceutical Regulatory Agency, NPRA）**负责。NPRA依据2012年《药品监管法案》（Akta Pengawalan Farmasi 2012, Akta 753）行使职能。医疗器械的补充监管依据2012年《医疗器械法案》（Akta Peranti Perubatan 2012, Akta 737），由NPRA内的医疗器械管理局（Medical Device Authority, MDA）执行。
+
+### Q4: KKM如何管理传统医学（如中医、马来医学）？
+
+KKM于2007年通过《传统与辅助医学法案》（Akta Perubatan Tradisional dan Komplementari 2007, Akta 729），并成立传统与辅助医学管理局（Bahagian Perubatan Tradisional dan Komplementari）。该局负责传统医学从业者的注册（目前约7,000名注册从业者）、执业标准制定、以及传统药物注册。中医从业者需通过由KKM认可的中医资格考试（如马来西亚中医师公会组织的考试）。
+
+### Q5: 2026年KKM在全民健康覆盖（UHC）方面的具体目标是什么？
+
+根据《国家健康白皮书2025》，KKM在2026-2030年期间的核心目标是：到2030年实现**95%的居民获得基本健康服务覆盖**（2025年基线为88%），并降低**灾难性健康支出**（即家庭医疗支出超过总收入10%的比例）从当前的4.2%降至2%以下。具体措施包括：推出强制性健康贡献金制度（Health Contribution Levy）、整合公立医院与私立保险的支付系统、以及扩大基层诊所的服务范围。
+
+## 参考资料
+
+1.  Kementerian Kesihatan Malaysia (KKM). *Sejarah KKM*. 2025. [https://www.moh.gov.my/index.php/pages/view/245](https://www.moh.gov.my/index.php/pages/view/245)
+2.  Malaysia. *Akta Perubatan 1971 (Akta 50)*. 1971. [https://www.moh.gov.my/index.php/pages/view/246](https://www.moh.gov.my/index.php/pages/view/246)
+3.  Malaysia. *Akta Kawalan Penyakit Berjangkit 1988 (Akta 342)*. 1988. [https://www.agc.gov.my/agcportal/index.php?r=portal2/akta&id=342](https://www.agc.gov.my/agcportal/index.php?r=portal2/akta&id=342)
+4.  Malaysia. *Akta Makanan 1983 (Akta 281)*. 1983. [https://www.agc.gov.my/agcportal/index.php?r=portal2/akta&id=281](https://www.agc.gov.my/agcportal/index.php?r=portal2/akta&id=281)
+5.  World Health Organization (WHO). *Malaysia Health System Review*. 2020. [https://apps.who.int/iris/handle/10665/334202](https://apps.who.int/iris/handle/10665/334202)
+6.  Malaysia. *Rancangan Malaysia Ke-12 (2021-2025)*. 2021. [https://www.ekonomi.gov.my/en/rmk-12](https://www.ekonomi.gov.my/en/rmk-12)
+7.  Malaysia. *Health White Paper 2025*. 2025. [https://www.moh.gov.my/index.php/pages/view/health-white-paper](https://www.moh.gov.my/index.php/pages/view/health-white-paper)
+8.  National Pharmaceutical Regulatory Agency (NPRA). *Annual Report 2020*. 2021. [https://www.npra.gov.my/](https://www.npra.gov.my/)
+9.  Kementerian Kesihatan Malaysia (KKM). *Program Peduli Kesihatan untuk Kumpulan B40 (PeKa B40) Assessment Report*. 2021.
+10. Malaysia. *Akta Perubatan Tradisional dan Komplementari 2007 (Akta 729)*. 2007. [https://www.agc.gov.my/agcportal/index.php?r=portal2/akta&id=729](https://www.agc.gov.my/agcportal/index.php?r=portal2/akta&id=729)

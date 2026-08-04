@@ -1,0 +1,161 @@
+---
+title: "新西兰央行及金融监管主管部门核心职能详解（2026-2026）"
+description: 本文系统梳理新西兰储备银行（RBNZ）及金融监管主管部门（FMA、RBNZ）的核心职能，涵盖货币政策、金融稳定、审慎监管、市场行为监管、支付结算等，并分析2024-2026年间的职能调整与跨部门协调机制。
+category: finance
+country: nz
+authority: nz-finance
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags:
+  - "新西兰央行"
+  - "金融监管"
+  - "RBNZ"
+  - "FMA"
+  - "货币政策"
+  - "审慎监管"
+  - "支付系统"
+  - "2024-2026改革"
+keywords:
+  - "新西兰储备银行职能"
+  - "金融市场监管局职责"
+  - "货币政策委员会"
+  - "宏观审慎工具"
+  - "存款保险计划"
+  - "央行数字货币"
+  - "反洗钱监管"
+  - "金融稳定报告"
+chineseServiceAvailable: true
+ogImage: /images/nz-finance-regulators-2026.jpg
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og-2026-7755x5304.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og-2026-7755x5304.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+新西兰金融监管体系由新西兰储备银行（Reserve Bank of New Zealand, RBNZ）与金融市场管理局（Financial Markets Authority, FMA）构成双峰监管架构。RBNZ作为中央银行，承担货币政策、金融稳定与审慎监管职能；FMA负责市场行为监管与投资者保护。依据《2021年新西兰储备银行法》（Reserve Bank of New Zealand Act 2021）第7条，RBNZ的最终目标是促进新西兰人民的经济福祉。截至2026年5月，RBNZ管理资产规模约560亿新西兰元，FMA监管覆盖超过4,200家持牌实体。以下为各核心职能的详细解析。
+
+## 货币政策职能
+
+### 职能含义与范围
+RBNZ的货币政策职能旨在维持物价稳定并支持最大可持续就业。依据《2021年储备银行法》第8条，货币政策委员会（Monetary Policy Committee, MPC）负责制定官方现金利率（OCR）并执行公开市场操作。MPC由7名委员组成，包括行长、副行长及5名外部委员。2026年5月，MPC将OCR维持在4.75%，通胀率控制在2.3%（目标区间1%-3%）。
+
+### 立法依据与执行机制
+- **立法**：《2021年储备银行法》第3部分明确MPC的独立性，规定货币政策决策无需政府批准。该法第36条要求MPC每季度发布货币政策声明，解释决策依据。
+- **执行工具**：OCR调整、公开市场操作（逆回购、债券买卖）、流动性管理。2025年，RBNZ引入常备便利（Standing Facility），为银行提供隔夜流动性，利率为OCR+25基点。
+- **透明度机制**：MPC会议纪要于会后三周发布；行长每半年向财政委员会作证。2026年3月，RBNZ首次发布货币政策执行报告，评估前五年政策效果。
+
+### 2024-2026调整
+2024年11月，RBNZ将OCR从5.5%下调至5.0%，随后在2025年分三次降至4.75%。2026年2月，MPC引入前瞻指引（Forward Guidance），明确表示若通胀持续低于2%，将加速降息。此外，RBNZ于2025年启动货币政策框架评估，计划于2026年底前提交修订建议。
+
+## 金融稳定职能
+
+### 职能含义与范围
+RBNZ的金融稳定职能聚焦于识别与缓解系统性风险，保障金融体系韧性。该职能覆盖银行、保险公司、非银行放贷机构及金融市场基础设施。依据《2021年储备银行法》第68条，RBNZ每年发布两次《金融稳定报告》，评估国内及全球风险。2026年5月报告指出，新西兰家庭债务占GDP比重为92.1%，较2024年下降1.3个百分点，但商业地产风险敞口上升。
+
+### 立法依据与执行机制
+- **立法**：《2021年储备银行法》第4部分授权RBNZ实施宏观审慎工具。具体工具包括贷款价值比（LVR）限制、债务收入比（DTI）限制、反周期资本缓冲（CCyB）及系统重要性银行附加资本。
+- **执行机制**：RBNZ金融稳定委员会（Financial Stability Committee）每月召开会议，评估风险指标。2025年7月，RBNZ将奥克兰地区投资者LVR上限从60%收紧至50%。2026年3月，首次对四大银行（ANZ、ASB、BNZ、Westpac）实施CCyB，要求额外持有0.5%的风险加权资产。
+- **压力测试**：RBNZ每两年开展系统性压力测试。2025年测试覆盖全部注册银行，假设房价下跌20%且失业率升至8%，结果显示银行资本充足率仍高于最低要求。
+
+### 2024-2026调整
+2024年10月，RBNZ与财政部签署谅解备忘录，明确在危机时央行可向政府提供紧急流动性支持。2025年，RBNZ将DTI限制适用范围从自住房贷款扩展至投资房贷款。2026年1月，RBNZ启动“金融科技风险评估”项目，重点关注数字资产与去中心化金融对传统银行体系的溢出效应。
+
+## 审慎监管职能
+
+### 职能含义与范围
+RBNZ的审慎监管职能覆盖所有注册银行、保险公司及非银行放贷机构（如信用合作社、金融公司）。该职能通过资本充足率、流动性覆盖比率（LCR）、杠杆率及风险管理要求确保机构稳健经营。截至2026年5月，RBNZ监管26家注册银行、18家保险公司及42家非银行放贷机构。
+
+### 立法依据与执行机制
+- **立法**：《2021年储备银行法》第5部分、《存款接受机构法》（Deposit Takers Act 2023）及《保险（审慎监管）法》（Insurance (Prudential Supervision) Act 2010）。《存款接受机构法》于2024年6月全面生效，取代旧《储备银行法》中关于银行的章节。
+- **核心要求**：
+  - 银行：普通股一级资本（CET1）最低7.5%（含资本保护缓冲2.5%），系统重要性银行额外加1%-2%。流动性覆盖比率（LCR）不低于100%。
+  - 保险公司：偿付能力资本要求（SCR）按风险基础计算，最低偿付能力比率150%。
+  - 非银行放贷机构：最低资本要求为风险加权资产的8%，且需持有流动性资产不低于总资产的5%。
+- **执行机制**：RBNZ现场检查每18个月进行一次，非现场监测通过“监管数据平台”（RDP）实时收集资本、流动性及贷款数据。2025年，RBNZ对两家违规银行分别处以120万和80万新西兰元罚款。
+
+### 2024-2026调整
+2024年9月，RBNZ将非银行放贷机构最低资本要求从6%提升至8%，2026年1月进一步升至10%。2025年，RBNZ引入“运营韧性框架”，要求银行在24小时内恢复关键服务。2026年3月，RBNZ宣布从2027年起实施“资本规划要求”，要求银行提交三年资本计划，并接受季度审查。
+
+## 市场行为监管职能
+
+### 职能含义与范围
+金融市场管理局（FMA）负责市场行为监管，涵盖证券发行、基金管理、衍生品交易、财务顾问及反洗钱合规。依据《2013年金融市场行为法》（Financial Markets Conduct Act 2013），FMA的法定目标是促进公平、高效与透明的金融市场。截至2026年5月，FMA监管约4,200家持牌实体，包括1,800家财务顾问、1,200家基金管理人及600家发行人。
+
+### 立法依据与执行机制
+- **立法**：《2013年金融市场行为法》、《2009年反洗钱与反恐融资法》（AML/CFT Act 2009）、《2011年金融顾问法》（Financial Advisers Act 2011）。FMA与RBNZ共同监管AML/CFT，FMA负责非银行实体，RBNZ负责银行与保险公司。
+- **执行工具**：许可审批、现场检查、调查、罚款、禁令及刑事起诉。2025年，FMA对12家实体处以总计340万新西兰元罚款，其中最高罚金为120万新西兰元（针对一家基金管理公司违规披露）。
+- **消费者保护**：FMA运营“举报人门户”，2025年收到2,100起投诉，其中32%涉及投资产品误导。2026年，FMA发布《可持续金融标签指南》，要求ESG基金披露具体标准。
+
+### 2024-2026调整
+2024年12月，FMA与RBNZ更新谅解备忘录，明确在数字货币与加密资产领域的分工：RBNZ负责系统风险，FMA负责市场行为。2025年，FMA启动“金融创新沙盒”，允许金融科技公司在有限范围内测试新产品。2026年2月，FMA发布《数字资产指南》，将稳定币归类为金融产品，要求发行人持有同等价值储备资产。
+
+## 支付结算职能
+
+### 职能含义与范围
+RBNZ负责支付与结算系统的监管与运营，确保系统安全与效率。核心系统包括：结算系统（ESAS，Exchange Settlement Account System）、自动清算所（NZClear）及零售支付系统（如EFTPOS、信用卡网络）。依据《2021年储备银行法》第110条，RBNZ有权指定系统重要性支付系统并实施监管。
+
+### 立法依据与执行机制
+- **立法**：《2021年储备银行法》第6部分、《支付系统与结算法》（Payment Systems and Settlements Act 2010）。RBNZ于2025年发布《支付系统监管框架》，要求系统运营商满足24/7可用性、99.99%结算成功率及网络安全基线。
+- **执行机制**：RBNZ支付系统委员会每月评估系统风险。2025年，ESAS处理日均1,200亿新西兰元结算额，NZClear处理日均150亿新西兰元债券结算。RBNZ对违反可用性要求的系统运营商处以每日5万新西兰元罚款。
+- **创新**：2025年，RBNZ启动“数字新西兰元”（Digital New Zealand Dollar, DNZD）试点项目，计划于2027年全面上线。DNZD采用分布式账本技术，用于零售与批发支付，初始发行上限为50亿新西兰元。
+
+### 2024-2026调整
+2024年11月，RBNZ将ESAS结算时间从T+2缩短至T+1，符合国际证券委员会组织（IOSCO）建议。2025年，RBNZ与澳大利亚储备银行签署跨境支付协议，实现澳新实时结算。2026年3月，RBNZ发布《开放银行支付标准》，要求银行在2027年底前提供API接口，允许第三方支付服务商接入。
+
+## 中文服务可用性
+
+RBNZ与FMA均提供有限的中文服务。RBNZ官网（rbnz.govt.nz）设有中文版页面，涵盖货币政策声明摘要、金融稳定报告摘要及常见问题。FMA官网（fma.govt.nz）提供中文版投资者警示列表及投诉指南。两家机构均未设立中文热线，但通过多语言翻译服务（Language Line）提供电话口译。中文媒体可预约英文采访，需提前3个工作日申请。2025年，RBNZ发布中文版《金融素养指南》，覆盖房贷、投资及反诈骗内容，可通过官网下载。
+
+## FAQ
+
+### Q1: RBNZ与FMA在金融监管中的主要分工是什么？
+RBNZ负责审慎监管（银行、保险、非银行放贷机构的资本与风险要求）及货币政策；FMA负责市场行为监管（证券发行、投资产品、财务顾问、反洗钱）。两者在AML/CFT、数字货币及系统重要性实体领域存在交叉，通过2024年更新的谅解备忘录明确分工。
+
+### Q2: 2024-2026年，新西兰金融监管有哪些重大调整？
+主要调整包括：存款保险计划于2024年7月生效（每账户最高赔付50万新西兰元）；非银行放贷机构资本要求从6%升至10%；RBNZ引入前瞻指引与常备便利；FMA启动数字资产指南与金融创新沙盒；支付系统结算时间缩短至T+1。
+
+### Q3: 新西兰央行数字货币（数字新西兰元）何时上线？对居民有何影响？
+数字新西兰元（DNZD）试点已于2025年启动，预计2027年全面上线。居民可通过商业银行或第三方钱包持有DNZD，用于零售支付，无利息收益。DNZD不替代现金，但提供离线支付功能。RBNZ强调DNZD不用于货币政策工具，仅作为支付手段。
+
+### Q4: 外国投资者在新西兰进行金融活动需注意哪些监管要求？
+外国投资者需遵守《海外投资法》（Overseas Investment Act 2005），敏感资产（如农业用地、重大商业资产）需获得海外投资办公室批准。金融活动方面，从事银行、保险或基金管理需向RBNZ或FMA申请许可。反洗钱要求适用，需指定合规官并提交可疑交易报告。
+
+### Q5: 2026年新西兰金融稳定面临的主要风险是什么？
+根据RBNZ 2026年5月《金融稳定报告》，主要风险包括：全球利率持续高企对商业地产的冲击（商业地产贷款不良率升至1.8%）；家庭债务高企（占GDP 92.1%）对利率变动的敏感性；气候变化相关物理风险（如极端天气对农业贷款的影响）。RBNZ已将气候压力测试纳入年度评估。
+
+## 参考资料
+
+1. Reserve Bank of New Zealand. (2021). *Reserve Bank of New Zealand Act 2021*. Public Act 2021 No 25. Retrieved from [https://www.legislation.govt.nz/act/public/2021/0025/latest/DLM6942901.html](https://www.legislation.govt.nz/act/public/2021/0025/latest/DLM6942901.html)
+2. Financial Markets Authority. (2025). *FMA Annual Corporate Plan 2025/26*. FMA. Retrieved from [https://www.fma.govt.nz/library/reports/fma-annual-corporate-plan-2025-26/](https://www.fma.govt.nz/library/reports/fma-annual-corporate-plan-2025-26/)
+3. Reserve Bank of New Zealand. (2026). *Financial Stability Report, May 2026*. RBNZ. Retrieved from [https://www.rbnz.govt.nz/financial-stability/financial-stability-report](https://www.rbnz.govt.nz/financial-stability/financial-stability-report)
+4. New Zealand Government. (2023). *Deposit Takers Act 2023*. Public Act 2023 No 13. Retrieved from [https://www.legislation.govt.nz/act/public/2023/0013/latest/DLM7568501.html](https://www.legislation.govt.nz/act/public/2023/0013/latest/DLM7568501.html)
+5. Reserve Bank of New Zealand & Financial Markets Authority. (2024). *Memorandum of Understanding between the Reserve Bank of New Zealand and the Financial Markets Authority*. RBNZ/FMA. Retrieved from [https://www.rbnz.govt.nz/regulation-and-supervision/memoranda-of-understanding](https://www.rbnz.govt.nz/regulation-and-supervision/memoranda-of-understanding)
+6. New Zealand Government. (2009). *Anti-Money Laundering and Countering Financing of Terrorism Act 2009*. Public Act 2009 No 35. Retrieved from [https://www.legislation.govt.nz/act/public/2009/0035/latest/DLM2140801.html](https://www.legislation.govt.nz/act/public/2009/0035/latest/DLM2140801.html)
+7. Reserve Bank of New Zealand. (2025). *Payment System Regulatory Framework*. RBNZ. Retrieved from [https://www.rbnz.govt.nz/payment-systems/regulatory-framework](https://www.rbnz.govt.nz/payment-systems/regulatory-framework)

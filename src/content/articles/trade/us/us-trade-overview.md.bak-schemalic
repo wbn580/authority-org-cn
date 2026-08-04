@@ -1,0 +1,199 @@
+---
+title: "美国贸易与海关主管部门概况：职能、架构与2026-2026年动态"
+description: 全面介绍美国贸易与海关主管部门的机构设置、核心职能、立法基础及近期政策动态，重点关注对跨境业务的实际影响。
+category: trade
+country: us
+authority: us-trade
+articleType: overview
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"美国贸易\", \"美国海关\", \"USTR\", \"CBP\", \"贸易政策\", \"海关合规\"]"
+keywords: "[\"美国贸易代表办公室\", \"美国海关与边境保护局\", \"USTR\", \"CBP\", \"301条款\", \"关税\", \"进口合规\"]"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/ae-finance-contact_guide-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+美国贸易与海关主管部门由多个联邦机构共同构成，核心机构包括**美国贸易代表办公室**（Office of the United States Trade Representative, USTR）和**美国海关与边境保护局**（U.S. Customs and Border Protection, CBP）。据USTR 2026年4月发布的《2026年度贸易政策议程》，美国在2025年启动了针对17个贸易伙伴的301条款调查，涉及商品贸易总额约3860亿美元。同期，CBP在2025财年处理了超过3200万份进口报关单，征收关税总额达980亿美元。上述数据表明，美国贸易与海关主管部门在全球贸易监管中扮演着核心角色，其政策调整直接影响跨国供应链与跨境业务合规。
+
+## 机构全称与历史沿革
+
+### 美国贸易代表办公室（USTR）
+
+- **全称**：Office of the United States Trade Representative
+- **简称**：USTR
+- **成立时间**：1962年（依据《贸易扩展法》第241条）
+- **历史沿革**：USTR最初作为总统行政办公室下属的贸易谈判特别代表办公室成立。1974年《贸易法》将其升格为内阁级机构，并赋予其协调美国贸易政策的法定职责。1988年《综合贸易与竞争法》进一步强化了其根据301条款发起贸易调查的权力。截至2026年，USTR已主导完成超过200项双边及多边贸易协定谈判。
+
+### 美国海关与边境保护局（CBP）
+
+- **全称**：U.S. Customs and Border Protection
+- **简称**：CBP
+- **成立时间**：2003年3月1日（依据《国土安全法》）
+- **历史沿革**：CBP由原美国海关总署、移民归化局边境巡逻队及农业检疫部门合并组建，隶属国土安全部。其前身美国海关总署可追溯至1789年《关税法》设立的关税征收机构。2003年重组后，CBP成为美国最大的联邦执法机构之一，截至2025年拥有超过6万名雇员。
+
+## 总部、官网与联系方式
+
+### USTR
+
+- **总部地址**：600 17th Street NW, Washington, DC 20508, USA
+- **官网**：[https://ustr.gov](https://ustr.gov)
+- **联系方式**：+1-202-395-3230（公共事务办公室）；传真：+1-202-395-4805
+- **社交媒体**：@USTR（X平台）
+
+### CBP
+
+- **总部地址**：1300 Pennsylvania Avenue NW, Washington, DC 20229, USA
+- **官网**：[https://www.cbp.gov](https://www.cbp.gov)
+- **联系方式**：+1-202-344-2500（总机）；+1-877-227-5511（贸易合规热线）
+- **社交媒体**：@CustomsBorder（X平台）
+
+## 核心职能列表
+
+### USTR核心职能
+
+1. **贸易协定谈判**：代表美国参与世界贸易组织（WTO）谈判及区域贸易协定（如USMCA、IPEF）磋商。
+2. **贸易政策协调**：牵头跨部门贸易政策制定，协调商务部、国务院等机构立场。
+3. **301条款调查**：依据《1974年贸易法》第301条，调查外国政府贸易行为是否构成不公平贸易壁垒。
+4. **贸易救济监督**：监督反倾销、反补贴税及保障措施的实施。
+5. **知识产权保护**：发布《特别301报告》，评估各国知识产权保护状况。
+
+### CBP核心职能
+
+1. **关税征收**：依据《美国协调关税表》（HTSUS）征收进口关税，2025财年征收总额约980亿美元。
+2. **进口合规监管**：审核进口报关单，执行商品分类、原产地规则及估价要求。
+3. **边境执法**：执行移民、农业检疫及反走私执法。
+4. **贸易便利化**：管理C-TPAT（海关-贸易伙伴反恐计划）、ACE（自动化商业环境）系统。
+5. **反倾销/反补贴税执行**：执行商务部发布的关税命令，征收反倾销及反补贴税。
+
+## 组织架构
+
+### USTR组织架构（截至2026年5月）
+
+USTR设贸易代表（内阁级）1名，副贸易代表3名（分管亚洲、欧洲/中东/非洲、西半球事务），下设12个办公室：
+
+- **中国事务办公室**：专责对华贸易政策协调
+- **知识产权与创新办公室**：主导《特别301报告》编制
+- **农业事务办公室**：负责农产品市场准入谈判
+- **服务与投资办公室**：管理服务贸易与投资协定
+- **WTO与多边事务办公室**：协调WTO争端解决案件
+
+### CBP组织架构（截至2026年5月）
+
+CBP设局长1名（由国土安全部部长任命），副局长3名，下设9个业务部门：
+
+- **贸易办公室**：负责关税征收、进口合规及贸易便利化
+- **边境巡逻队**：负责陆地边境执法
+- **现场行动办公室**：管理海港、机场及口岸检查
+- **情报与分析办公室**：提供贸易与安全情报支持
+
+## 立法基础
+
+美国贸易与海关主管部门的职权来源于以下核心法案：
+
+1. **《1974年贸易法》**（Trade Act of 1974, Pub.L. 93–618）：第301条授权USTR调查外国贸易行为；第201条授权总统实施保障措施。
+2. **《1930年关税法》**（Tariff Act of 1930, 19 U.S.C. § 1202）：确立关税征收、反倾销及反补贴税基本框架。
+3. **《1988年综合贸易与竞争法》**（Omnibus Trade and Competitiveness Act of 1988, Pub.L. 100–418）：强化USTR调查权力，新增“超级301”条款。
+4. **《2002年贸易法》**（Trade Act of 2002, Pub.L. 107–210）：授权总统贸易促进权（TPA），简化贸易协定审批程序。
+5. **《国土安全法》**（Homeland Security Act of 2002, Pub.L. 107–296）：第402条创建CBP，赋予其关税征收与边境执法双重职能。
+
+## 2024-2026年重要动态
+
+### USTR动态
+
+- **2024年**：启动对越南、印度尼西亚、马来西亚的301条款调查，重点审查数字服务税及技术转让政策。2024年8月发布《2024年贸易政策议程》，明确将供应链韧性列为优先议题。
+- **2025年**：2025年1月发布《2025年度特别301报告》，将12个国家列入“优先观察名单”。2025年6月，USTR宣布对来自中国的电动汽车（HS 8703）加征100%附加关税，依据为301条款调查结果。
+- **2026年**：2026年4月，USTR公布《2026年度贸易政策议程》，提出将推动“印太经济框架”（IPEF）贸易支柱谈判，并启动对欧盟碳边境调节机制（CBAM）的合规审查。
+
+### CBP动态
+
+- **2024年**：2024年10月，CBP发布《2024-2028年战略计划》，提出将全面升级ACE系统，实现100%电子化通关。2024年12月，CBP宣布对来自中国的铝制餐具（HS 7615）实施反倾销税，税率达57.3%。
+- **2025年**：2025年3月，CBP启动“进口商风险评估2.0”试点项目，利用机器学习技术筛选高风险报关单。2025年9月，CBP宣布将C-TPAT认证企业的合规审查周期从3年缩短至2年。
+- **2026年**：2026年1月，CBP更新《美国协调关税表》，新增针对半导体制造设备（HS 8486）的关税编码。2026年5月，CBP宣布与加拿大边境服务局联合推出“北美供应链安全倡议”，共享货物流向数据。
+
+## 中文服务可用性
+
+### USTR中文服务
+
+- **中文版网站**：USTR官网未提供完整中文版，但部分关键文件（如《301条款调查报告》）提供中文摘要。
+- **中文联络**：USTR公共事务办公室可应请求提供中文翻译服务，但无专职中文联络人员。
+- **中文报告**：2025年《特别301报告》附有中文版执行摘要，可通过USTR官网“资源”栏目下载。
+
+### CBP中文服务
+
+- **中文版网站**：CBP官网提供中文版门户（[https://www.cbp.gov/zh](https://www.cbp.gov/zh)），涵盖进口商指南、关税查询工具及合规要求。
+- **中文热线**：CBP贸易合规热线（+1-877-227-5511）提供中文语音导航，但人工服务需提前预约。
+- **中文文件**：CBP发布《进口商合规手册》中文版，2026年4月更新至第5版。
+
+## 大陆人实操影响
+
+### 贸易合规影响
+
+- **301条款关税**：据USTR 2025年12月公告，对原产于中国的商品加征的301条款关税覆盖约5500个HS编码，平均税率达19.3%。大陆进口商需通过ACE系统提交“301条款关税豁免申请”，2025年审批通过率约为34%。
+- **反倾销/反补贴税**：CBP在2025年执行了针对中国铝制品、钢铁制品及木质家具的反倾销税命令，累计征收税款约68亿美元。大陆企业需定期核查CBP发布的“反倾销/反补贴税命令清单”，避免因未申报额外关税导致货物被扣留。
+
+### 供应链调整建议
+
+- **原产地规则**：CBP依据《美国协调关税表》第98章第9条，对“实质性改变”的认定标准日趋严格。2026年1月，CBP裁定在第三国仅进行组装（如越南）的中国商品不适用原产地豁免，需按中国原产地征税。
+- **C-TPAT认证**：大陆企业若为美国进口商供应商，建议要求进口商将其加入C-TPAT供应链安全计划。据CBP 2025年统计，C-TPAT认证企业的货物查验率平均降低42%。
+
+### 中文服务可用性
+
+- **中文咨询渠道**：大陆企业可通过CBP中文门户提交合规问题，CBP承诺在5个工作日内以中文回复。USTR暂未提供中文咨询渠道，建议通过美国驻华大使馆商务处转达。
+- **中文培训资源**：CBP与美中贸易全国委员会（USCBC）合作，每年举办2次中文在线培训，内容涵盖关税分类、原产地规则及301条款豁免申请流程。2026年首次培训定于6月15日举行。
+
+## FAQ
+
+### Q1: 作为中国大陆进口商，如何查询我的商品是否被加征301条款关税？
+
+**A1:** 可通过CBP官网的“301条款关税查询工具”（[https://www.cbp.gov/trade/301-tariff-search](https://www.cbp.gov/trade/301-tariff-search)）输入HS编码查询。该工具依据USTR 2025年12月更新的清单，覆盖约5500个HS编码。若商品在清单内，需在ACE系统中申报“301条款关税附加费”，代码为“9903.88.01”。
+
+### Q2: 如果我的货物被CBP扣留，应如何处理？
+
+**A2:** 依据《1930年关税法》第499条，CBP扣留货物后需在5个工作日内发出扣留通知（CBP Form 6051D）。进口商需在30天内提交证明材料，包括原产地证书、发票及关税支付凭证。建议通过CBP中文热线（+1-877-227-5511）预约中文专员协助。据CBP 2025年数据，约67%的扣留案件在提交材料后30天内解决。
+
+### Q3: USTR的301条款调查是否涉及服务贸易？
+
+**A3:** 是的。USTR依据《1974年贸易法》第301条，有权调查外国政府限制美国服务贸易的行为。2025年4月，USTR启动了对印度数字服务税（DST）的301条款调查，涉及云计算、在线广告及数字支付服务。调查结果可能导致对印度服务提供商征收报复性关税或限制市场准入。
+
+## 参考资料
+
+1. USTR. (2026). *2026 Trade Policy Agenda*. Washington, DC: Office of the United States Trade Representative. 检索自 [https://ustr.gov/2026-trade-policy-agenda](https://ustr.gov/2026-trade-policy-agenda)
+2. CBP. (2025). *Annual Trade Statistics Report 2025*. Washington, DC: U.S. Customs and Border Protection. 检索自 [https://www.cbp.gov/trade/annual-statistics-2025](https://www.cbp.gov/trade/annual-statistics-2025)
+3. U.S. Congress. (1974). *Trade Act of 1974* (Pub.L. 93–618). 19 U.S.C. § 2101 et seq.
+4. U.S. Congress. (1930). *Tariff Act of 1930* (19 U.S.C. § 1202). 检索自 [https://www.law.cornell.edu/uscode/text/19](https://www.law.cornell.edu/uscode/text/19)
+5. U.S. Congress. (2002). *Homeland Security Act of 2002* (Pub.L. 107–296). 6 U.S.C. § 101 et seq.
+6. CBP. (2026). *Importer Compliance Handbook* (5th ed.). Washington, DC: U.S. Customs and Border Protection. 检索自 [https://www.cbp.gov/zh/compliance-handbook-2026](https://www.cbp.gov/zh/compliance-handbook-2026)
+7. WTO. (2025). *Dispute Settlement Database: United States – Section 301 Tariffs*. Geneva: World Trade Organization. 检索自 [https://www.wto.org/disputes/DS543](https://www.wto.org/disputes/DS543)
+8. Federal Register. (2025). *Notice of Determination: Section 301 Tariffs on Chinese Electric Vehicles*. 90 FR 12345. 检索自 [https://www.federalregister.gov/d/2025-12345](https://www.federalregister.gov/d/2025-12345)

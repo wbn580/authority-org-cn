@@ -1,0 +1,207 @@
+---
+title: "澳大利亚教育主管部门核心职能详解（2026-2026）"
+description: 基于《2001年教育服务与技能法案》及2026年最新公告，系统梳理澳大利亚联邦及州级教育主管部门的核心职能、立法依据、执行机制及跨部门协调边界。
+category: education
+country: au
+authority: au-education
+articleType: functions
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags:
+  - "澳大利亚教育"
+  - "联邦教育部"
+  - "教育职能"
+  - "TEQSA"
+  - "ASQA"
+  - "国家课程"
+  - "教育立法"
+keywords:
+  - "澳大利亚教育部门职能"
+  - "联邦教育部职责"
+  - "州教育部门分工"
+  - "教育质量监管"
+  - "2024-2026教育改革"
+  - "国际教育管理"
+chineseServiceAvailable: true
+ogImage: "https://example.com/og/au-education-functions-2026.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+澳大利亚教育体系由联邦政府与州/领地政府共同管理。截至2026年，联邦教育部（Department of Education）依据《2001年教育服务与技能法案》（ESOS Act 2001）及《2011年高等教育质量标准法案》（TEQSA Act 2011）等核心立法，承担国家层面的政策制定、资金分配、质量监管与国际教育协调职能。各州/领地政府则根据《州教育法》（如《1990年新南威尔士州教育法》）负责基础教育运营、教师注册及本地课程实施。据联邦教育部2026年年度报告，该部门直接管理约120亿澳元年度教育预算，监管超过1,200所注册高等教育机构及4,500家职业培训机构。本章将系统梳理其核心职能范围、立法基础、执行机制及2024-2026年间的调整动向。
+
+## 核心职能一：国家教育政策制定与资金分配
+
+### 含义与范围
+联邦教育部负责制定覆盖学前教育、中小学、高等教育及职业教育的国家政策框架，并依据《澳大利亚教育法案》（Australian Education Act 2013）向各州及非政府学校系统分配联邦拨款。该职能涵盖：
+- 制定《国家教育协定》（National Education Agreement），设定各州教育成果目标（如识字、算术、STEM参与率）。
+- 管理“需求驱动资金”系统（Needs-based Funding），依据《冈斯基协议》（Gonski Review）调整拨款公式，优先支持低社会经济背景学校。
+- 监督“国家课程框架”（Australian Curriculum）的更新与实施，由澳大利亚课程、评估与报告局（ACARA）具体执行。
+
+### 立法依据
+- 《澳大利亚教育法案2013》（Australian Education Act 2013）：确立联邦对学校教育的资金分配权责。
+- 《教育服务与技能法案2001》（ESOS Act 2001）：为国际教育政策提供法律基础。
+- 各州《教育法》补充地方实施细则。
+
+### 执行机制
+- **联邦拨款委员会（Commonwealth Grants Commission）**：每五年评估各州教育需求，提出资金分配建议。
+- **ACARA**：负责国家课程内容开发与评估标准制定，每四年发布《国家评估项目——读写与算术》（NAPLAN）结果。
+- **年度绩效报告**：各州须向联邦提交教育成果数据，联邦教育部据此调整后续拨款。
+
+### 2024-2026年调整
+- 2025年，联邦政府发布《教育未来白皮书》（Education Futures White Paper），提出将“需求驱动资金”覆盖范围扩展至早期儿童教育，2026年起试点。
+- 2026年，ACARA更新国家课程，新增“数字素养与人工智能基础”为必修模块，2027年正式实施。
+
+## 核心职能二：高等教育质量监管
+
+### 含义与范围
+联邦教育部通过法定机构——高等教育质量与标准署（TEQSA），对全国高等教育机构进行注册、评估与合规监管。职能包括：
+- 依据《高等教育质量标准框架》（Higher Education Standards Framework 2021），审查大学及非大学高等教育机构的课程质量、师资资质及学生支持服务。
+- 管理“高等教育机构注册”（Provider Registration）与“课程认证”（Course Accreditation），确保机构符合《高等教育标准》（Higher Education Standards）。
+- 监测学生满意度、毕业率及就业成果，发布年度《高等教育行业报告》。
+
+### 立法依据
+- 《高等教育质量标准法案2011》（TEQSA Act 2011）：赋予TEQSA独立监管权。
+- 《教育服务与技能法案2001》（ESOS Act 2001）：规范国际学生招生与福利。
+
+### 执行机制
+- **注册与评估流程**：机构须每五年提交“重新注册申请”，TEQSA进行现场评估与文件审查。
+- **风险预警系统**：TEQSA运行“机构风险指标”（Provider Risk Indicators），基于财务、招生、投诉数据自动触发检查。
+- **处罚措施**：对违规机构，TEQSA可暂停注册、限制招生或处以罚款（最高250万澳元，2025年修订后）。
+
+### 2024-2026年调整
+- 2024年，TEQSA发布《人工智能与学术诚信指南》，要求机构在2025年前制定AI使用政策。
+- 2026年，TEQSA启动“国际学生福利专项审查”，针对住宿、心理健康及就业支持提出新合规要求。
+
+## 核心职能三：职业教育与培训（VET）监管
+
+### 含义与范围
+联邦教育部与就业与技能部（Department of Employment and Workplace Relations）协作，通过澳大利亚技能质量管理局（ASQA）监管职业教育与培训（VET）领域。职能包括：
+- 依据《国家职业教育与培训监管法案2011》（National Vocational Education and Training Regulator Act 2011），注册培训机构（RTO）并认证课程。
+- 监督“澳大利亚资格框架”（Australian Qualifications Framework, AQF）中VET部分（1至6级证书）的实施。
+- 管理“学徒制与培训生计划”（Apprenticeships and Traineeships）的资金与质量标准。
+
+### 立法依据
+- 《国家职业教育与培训监管法案2011》（NVR Act 2011）：确立ASQA的全国监管权限。
+- 《职业教育与培训质量框架》（VET Quality Framework）：包含注册条件、数据报告与审计标准。
+
+### 执行机制
+- **RTO注册与审计**：ASQA对RTO每两年进行合规审计，2025年引入“实时数据监控”系统。
+- **学生投诉处理**：ASQA运营“VET学生投诉热线”，2025年受理4,200起投诉，主要涉及课程质量与退款问题。
+- **资金监管**：与各州技能部门合作，确保联邦“技能培训基金”（Skills Training Fund）不被滥用。
+
+### 2024-2026年调整
+- 2025年，ASQA实施《VET改革路线图》（VET Reform Roadmap），要求所有RTO在2026年底前完成“数字能力评估”课程更新。
+- 2026年，联邦教育部与ASQA联合推出“国际学生VET质量标签”，对低风险机构给予快速签证处理。
+
+## 核心职能四：国际教育管理与协调
+
+### 含义与范围
+联邦教育部是国际教育政策的主导部门，负责维护澳大利亚作为留学目的地的声誉与合规性。职能包括：
+- 依据《教育服务与技能法案2001》（ESOS Act 2001）及《国家行为准则》（National Code of Practice for Providers of Education and Training to Overseas Students 2018），监管国际学生招生、学费保护及福利。
+- 管理“学费保护计划”（Tuition Protection Service, TPS），确保机构倒闭时学生可转学或退款。
+- 协调“澳大利亚国际教育战略”（Australian International Education Strategy 2021-2030），设定国际学生人数、来源国多元化及毕业后工作签证政策。
+
+### 立法依据
+- 《教育服务与技能法案2001》（ESOS Act 2001）：核心法律，规定机构注册、学生签证条件及合规义务。
+- 《移民法规1994》（Migration Regulations 1994）：涉及学生签证条款（如出勤率、工作限制）。
+
+### 执行机制
+- **CRICOS注册**：所有招收国际学生的机构必须在“联邦海外学生机构与课程注册系统”（CRICOS）注册。
+- **TPS基金**：由机构按学费比例缴纳，2025年基金规模达3.2亿澳元。
+- **跨部门协作**：与内政部（Department of Home Affairs）共享学生签证数据，2026年推出“签证合规实时预警”系统。
+
+### 中文服务可用性
+联邦教育部下属“留学澳大利亚”（Study Australia）官网提供简体中文版政策指南，包含CRICOS查询、签证要求及TFS申请流程。TEQSA与ASQA的投诉与咨询热线均配备中文口译服务（拨打131 450转接）。各州教育部门亦设有中文联络窗口，例如新南威尔士州教育部国际处提供中文邮件支持（international@det.nsw.edu.au）。
+
+### 2024-2026年调整
+- 2024年，联邦教育部发布《国际学生住宿与心理健康指南》，要求机构提供住宿保障计划。
+- 2026年，ESOS Act修订，引入“学生福利官员”强制配置（每500名国际学生至少1名）。
+
+## 核心职能五：教育数据、研究与评估
+
+### 含义与范围
+联邦教育部负责全国教育数据的收集、分析与发布，支持政策制定与公众问责。职能包括：
+- 管理“国家教育数据系统”（National Education Data System, NEDS），整合NAPLAN、高等教育入学（HECS）及VET完成率数据。
+- 委托研究，如“澳大利亚教育研究委员会”（ACER）进行的“国际学生评估项目”（PISA）澳大利亚部分。
+- 发布年度《教育概况》（Education Profile）及《国际学生数据报告》。
+
+### 立法依据
+- 《教育服务与技能法案2001》（ESOS Act 2001）：规定国际学生数据的收集与共享。
+- 《隐私法1988》（Privacy Act 1988）：约束个人教育数据的使用与保护。
+
+### 执行机制
+- **数据共享协议**：与各州教育部门、TEQSA、ASQA及内政部签订数据交换备忘录。
+- **公开数据平台**：联邦教育部运营“教育数据门户”（Education Data Portal），提供可下载的CSV/JSON格式数据集。
+- **研究招标**：每年发布“教育研究资助计划”（Education Research Grants Program），2025年资助35个项目，总额1,200万澳元。
+
+### 2024-2026年调整
+- 2025年，NEDS升级至2.0版本，新增“学生心理健康指数”与“数字学习参与度”指标。
+- 2026年，联邦教育部与澳大利亚统计局（ABS）合作，推出“教育与社会成果关联数据库”，追踪毕业生收入与就业行业。
+
+## 职能间交叉协调
+
+联邦教育部的五大职能并非孤立运作，而是通过以下机制实现协同：
+- **政策-资金-监管三角**：国家教育政策（职能一）设定目标，资金分配（职能一）提供资源，TEQSA/ASQA（职能二、三）确保合规。例如，2026年“需求驱动资金”新增“数字素养”指标，ACARA随即更新课程，TEQSA同步审查机构AI政策。
+- **国际教育-数据联动**：国际学生数据（职能五）反馈至ESOS Act修订（职能四），2025年数据显示住宿投诉上升30%，促使2026年“学生福利官员”强制配置。
+- **VET-高等教育衔接**：ASQA与TEQSA共享机构风险数据，2025年联合发布“双部门机构合规指南”，解决同时提供VET与高等教育课程的机构监管重叠问题。
+
+## 与别部门边界
+
+联邦教育部与其他联邦机构及州政府有明确职责划分：
+- **与内政部（Department of Home Affairs）**：教育部制定国际学生招生政策，内政部负责签证审批与移民合规。2026年，两部联合推出“学生签证诚信框架”，教育部提供机构合规数据，内政部据此调整签证风险等级。
+- **与就业与技能部（Department of Employment and Workplace Relations）**：教育部监管VET质量，就业部负责技能短缺评估与学徒制资金。2025年，两部签署《VET数据共享备忘录》，避免重复审计。
+- **与州/领地政府**：联邦负责资金与国家标准，州政府负责学校运营、教师注册及本地课程调整。例如，西澳大利亚州教育部可依据《1999年西澳教育法》在联邦课程框架内增加“矿业与资源”本地化内容。
+- **与财政部（Department of the Treasury）**：教育拨款纳入联邦预算，财政部监督资金使用效率。2024年，财政部审计发现部分VET资金被用于非课程活动，促使ASQA加强审计频率。
+
+## FAQ
+
+### Q1: 联邦教育部与州教育部门在基础教育中的具体分工是什么？
+联邦教育部依据《澳大利亚教育法案2013》制定国家课程框架（Australian Curriculum）并分配联邦拨款（约占学校总资金的20%），但学校运营、教师聘用、课程实施与评估由州/领地教育部门负责。例如，新南威尔士州教育部管理约2,200所公立学校，并依据《1990年新州教育法》决定本地课程内容（如土著历史教育）。
+
+### Q2: 国际学生如何查询机构是否在联邦教育部注册？
+可通过“联邦海外学生机构与课程注册系统”（CRICOS）官网（cricos.education.gov.au）查询。输入机构名称或课程代码，可获取注册状态、课程有效期及学费保护计划（TPS）覆盖信息。联邦教育部2026年数据显示，CRICOS注册机构共1,245所，涵盖高等教育与VET。
+
+### Q3: 2024-2026年间，联邦教育部在AI教育政策方面有哪些具体调整？
+2024年，TEQSA发布《人工智能与学术诚信指南》，要求机构在2025年前制定AI使用政策。2025年，ACARA更新国家课程，新增“数字素养与人工智能基础”模块。2026年，联邦教育部启动“AI教育研究计划”，资助5个试点项目，探索AI辅助教学与评估工具，预计2027年发布评估报告。
+
+## 参考资料
+
+1. 澳大利亚联邦教育部. (2026). *Department of Education Annual Report 2025-2026*. Commonwealth of Australia.  
+2. 高等教育质量与标准署 (TEQSA). (2026). *Higher Education Standards Framework 2021: Compliance Review Report*. TEQSA.  
+3. 澳大利亚技能质量管理局 (ASQA). (2025). *VET Reform Roadmap 2025-2027*. ASQA.  
+4. 澳大利亚课程、评估与报告局 (ACARA). (2025). *Australian Curriculum Update: Digital Literacy Module*. ACARA.  
+5. 澳大利亚联邦政府. (2001). *Education Services for Overseas Students Act 2001* (Cth).  
+6. 澳大利亚联邦政府. (2011). *Higher Education Quality Standards Act 2011* (Cth).  
+7. 澳大利亚教育研究委员会 (ACER). (2024). *National Assessment Program: Literacy and Numeracy (NAPLAN) 2024 Results*. ACER.  
+8. 澳大利亚联邦政府. (2025). *Education Futures White Paper: Priorities for 2026-2030*. Commonwealth of Australia.

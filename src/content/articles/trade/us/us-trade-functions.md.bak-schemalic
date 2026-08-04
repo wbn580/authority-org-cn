@@ -1,0 +1,165 @@
+---
+title: "美国贸易与海关主管部门核心职能详解（2026-2026）"
+description: 基于2024-2026年公开法律与行政公告，系统梳理美国贸易代表办公室、商务部、国土安全部海关与边境保护局等主管部门的核心职能、立法依据、执行机制及跨部门协调。
+category: trade
+country: us
+authority: us-trade
+articleType: functions
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"美国贸易代表办公室\", \"海关与边境保护局\", \"商务部\", \"贸易政策\", \"海关执法\", \"2026\"]"
+keywords: "[\"USTR\", \"CBP\", \"商务部工业与安全局\", \"Section 301\", \"关税执行\", \"贸易救济\", \"海关合规\"]"
+chineseServiceAvailable: true
+ogImage: "https://placehold.co/1200x630?text=US+Trade+Authorities+Functions+2026"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+# 美国贸易与海关主管部门核心职能详解（2026-2026）
+
+## 引言
+
+美国贸易与海关管理由多个联邦机构共同执行，核心部门包括美国贸易代表办公室（USTR）、商务部（DOC）下属工业与安全局（BIS）及国际贸易管理局（ITA）、国土安全部（DHS）下属海关与边境保护局（CBP）。据USTR《2025年贸易政策议程》及2026年CBP年度报告，上述机构在2024-2026财年共处理超过2800万份进口报关单，征收关税总额约870亿美元。依据《1930年关税法》（19 USC Chapter 4）及《贸易法》（19 USC Chapter 13）等核心法律，各机构职能涵盖贸易协定谈判、关税征收、出口管制、贸易救济调查及边境执法。
+
+## 美国贸易代表办公室（USTR）：贸易政策制定与国际谈判
+
+### 含义与范围
+
+USTR是总统行政办公室下设机构，依据《1974年贸易法》第141节（19 USC § 2171）设立，负责协调美国国际贸易政策、主导多边与双边贸易协定谈判、监督世界贸易组织（WTO）争端解决机制。其职能覆盖货物贸易、服务贸易、知识产权保护、数字贸易及投资议题。2024-2026年，USTR重点推进印太经济框架（IPEF）及美台21世纪贸易倡议后续谈判。
+
+### 立法依据与执行机制
+
+- **核心法律**：《1974年贸易法》（19 USC Chapter 12）、《1988年综合贸易与竞争法》（19 USC § 2901）、《2015年贸易促进授权法》（19 USC § 4201）。
+- **执行工具**：根据《1974年贸易法》第301条（19 USC § 2411），USTR可对外国不合理贸易行为发起调查并实施报复性关税。2024年5月，USTR依据301条款对华加征关税进行法定复审，调整约200项产品的附加税率。USTR通过“贸易政策工作组”（TPSC）协调跨部门立场，最终决策由总统签署行政令落实。
+
+### 2024-2026年调整
+
+2025年USTR重组内部“中国事务办公室”，增设“供应链韧性”职能，要求对关键矿产、半导体等领域的进口依赖度进行年度评估。2026财年预算显示，USTR执法与监督人员编制增加12%，主要用于301条款关税执行监督。
+
+## 商务部工业与安全局（BIS）：出口管制与国家安全
+
+### 含义与范围
+
+BIS依据《出口管制改革法》（50 USC § 4801-4852）及《国际紧急经济权力法》（50 USC § 1701-1706）运作，负责军民两用物项及敏感技术的出口许可审批、最终用户审查及违规调查。2024-2026年，BIS将半导体制造设备、量子计算、人工智能软件等纳入“商业管制清单”（CCL），并扩展“实体清单”至超过900个外国实体。
+
+### 立法依据与执行机制
+
+- **核心法律**：《出口管理条例》（EAR，15 CFR Chapter VII）、《2018年出口管制改革法》（ECRA）。
+- **执行流程**：出口商须通过“简化网络申请系统”（SNAP-R）提交许可申请，BIS在30-60天内完成审查。对于“推定拒绝”类物项（如先进光刻机），BIS联合国防部及能源部进行跨部门终审。2025年，BIS发布最终规则，对“外国直接产品规则”进行修订，扩大对华为、中芯国际等实体的限制范围。
+
+### 2024-2026年调整
+
+2025年BIS设立“技术中心”专项审查组，针对生物技术、高超声速等新兴领域实施“预先通知”制度。2026年3月，BIS修订EAR第744条，新增“军事最终用户”清单（MEU）涵盖范围，要求所有涉及清单实体的交易须获得额外许可。
+
+## 海关与边境保护局（CBP）：关税征收与边境执法
+
+### 含义与范围
+
+CBP隶属国土安全部，依据《1930年关税法》（19 USC Chapter 4）及《2002年国土安全法》（6 USC § 211）执行海关职能，包括进口货物归类、估价、原产地判定、关税征收、反倾销/反补贴税执行、知识产权边境保护及贸易合规审计。CBP每年处理超过3000万份入境申报，2025财年通过“自动化商业环境”（ACE）系统处理了98%的电子报关单。
+
+### 立法依据与执行机制
+
+- **核心法律**：《1930年关税法》第402条（19 USC § 1401a）规定完税价格计算规则；第304条（19 USC § 1304）要求原产地标记；第337条（19 USC § 1337）授权对侵犯美国知识产权的进口商品发布排除令。
+- **执行工具**：CBP使用“国家入境系统”（NES）进行风险评分，对高优先级货物进行实物查验。反倾销税执行方面，CBP依据商务部ITA发布的税率令，对涉事进口商征收现金保证金。2025年，CBP启动“贸易执法与合规计划”（TECP），针对纺织品、电子产品等领域开展专项审计。
+
+### 2024-2026年调整
+
+2025年CBP修订《海关条例》（19 CFR Part 152），将“首次销售规则”适用范围限于非关联交易。2026年1月，CBP发布“第24-01号行政指令”，要求所有电子进口商（IOR）在ACE系统中提交“受益所有人”信息，以打击利用空壳公司逃避关税的行为。
+
+## 商务部国际贸易管理局（ITA）：贸易救济与产业竞争力
+
+### 含义与范围
+
+ITA依据《1930年关税法》及《1979年贸易协定法》（19 USC § 2501）运作，主要负责反倾销（AD）与反补贴（CVD）调查、出口促进及市场准入障碍解决。其下属“执法与合规办公室”（ENFORCE）负责协助CBP执行贸易救济措施。2025年，ITA共发起23起反倾销调查，涉及钢铁、铝、太阳能电池板等产品。
+
+### 立法依据与执行机制
+
+- **核心法律**：《1930年关税法》第731条（19 USC § 1673）规定反倾销调查程序；第701条（19 USC § 1671）规定反补贴调查。调查由ITA与国际贸易委员会（ITC）共同完成：ITA裁定倾销幅度或补贴率，ITC裁定损害是否成立。
+- **执行流程**：申请人（国内产业）向ITA提交申请后，ITA在20天内决定是否立案。调查期通常为12-18个月，最终税率由ITA发布并在《联邦公报》公示。2025年，ITA对源自中国的铝制餐具实施反倾销税，税率范围为183.84%-243.99%。
+
+### 2024-2026年调整
+
+2025年ITA修订“非市场经济”国家反倾销计算规则，取消“替代国”选择中的默认假设，要求逐案证明。2026年，ITA与CBP联合开发“贸易救济数据共享平台”，实现反倾销税令执行状态实时更新。
+
+## 职能间交叉协调与部门边界
+
+### 跨机构协调机制
+
+- **贸易政策工作组（TPSC）**：由USTR主持，成员包括商务部、国务院、财政部、CBP等。TPSC负责协调301条款关税实施、WTO争端解决立场及出口管制政策。2025年，TPSC设立“半导体协调小组”，联合BIS、CBP及国防部，确保对华芯片出口限制与海关执行一致。
+- **反倾销/反补贴联合执行**：ITA裁定税率后，CBP负责在边境执行。CBP的“贸易执法与合规计划”直接引用ITA的税率令，通过ACE系统自动锁定受税令约束的HS编码。
+- **出口管制与海关查验**：BIS的“实体清单”与CBP的“目标清单”实时同步。CBP在边境查验中如发现涉及BIS管制的物项，须在24小时内通报BIS执法办公室。
+
+### 部门边界划分
+
+- **USTR vs. 商务部**：USTR主导贸易协定谈判及宏观政策，商务部负责具体产业数据及反倾销调查。例如，USTR决定是否对某国启动301调查，商务部ITA则负责计算具体税率。
+- **CBP vs. 移民与海关执法局（ICE）**：CBP负责边境口岸的海关执法（货物、关税、知识产权），ICE负责境内海关欺诈调查及刑事执法。二者通过“海关执法协作协议”共享情报，但执法管辖权界限明确。
+- **BIS vs. 国务院**：BIS负责军民两用物项出口管制，国务院国防贸易管制办公室（DDTC）负责国防物项及服务。二者依据“商品管辖权”程序划分类别，争议由国防部终裁。
+
+## 2024-2026年制度调整总结
+
+### 立法与规则修订
+
+- **2024年**：国会通过《2024年海关现代化法案》，修订19 USC § 1508，要求所有进口商在ACE系统中提交电子化原产地证明。CBP据此发布“第24-03号行政指令”，对未提交电子证明的货物延迟放行。
+- **2025年**：BIS依据《2025年出口管制改进法案》修订EAR，新增“新兴技术”类别，涵盖合成生物学、自主系统等。同年，USTR发布《2025年贸易政策议程》，明确将“供应链脱钩”作为301调查核心考量。
+- **2026年**：CBP实施“全风险贸易识别系统”（ARTIS），整合ACE、NES及BIS实体清单数据，实现进口货物风险评分自动化。据CBP2026年5月公告，该系统使高风险货物查验率提升至42%。
+
+### 机构调整
+
+- **USTR**：2025年增设“数字贸易副代表”职位，负责数据跨境流动及人工智能贸易规则谈判。
+- **BIS**：2026年将“最终用户审查委员会”从季度会议改为月度会议，以应对快速变化的供应链风险。
+- **CBP**：2025年将“贸易合规办公室”从3个区域中心扩展至7个，新增芝加哥、洛杉矶、迈阿密分中心，重点监管跨境电商包裹。
+
+## FAQ
+
+### Q1: USTR的301条款关税与商务部的反倾销税有何区别？
+
+**A1:** 301条款关税（依据19 USC § 2411）是针对外国政府的不合理贸易行为（如强制技术转让、歧视性监管）而采取的单边报复措施，由USTR发起，总统批准，税率可针对特定国家整体适用。反倾销税（依据19 USC § 1673）是针对外国企业以低于公平价格在美销售产品的行为，由商务部ITA发起调查并裁定税率，仅适用于特定产品。二者可叠加适用，例如对华301关税与对华特定产品的反倾销税可同时征收。
+
+### Q2: 中国出口商如何应对CBP的原产地标记要求？
+
+**A2:** 依据19 USC § 1304及19 CFR Part 134，所有进口至美国的货物必须在显著位置以清晰、不可磨灭的方式标记原产地（如“Made in China”）。CBP 2025年修订的“第24-03号行政指令”要求电子化提交原产地证明。中国出口商应确保：（1）产品及包装上标记准确；（2）在ACE系统中提交电子原产地声明；（3）保留生产记录至少5年。违规可能导致货物被扣押、罚款（货值10%以内）或列入CBP“高关注进口商”名单。
+
+### Q3: 2024-2026年出口管制规则对中国企业的主要影响是什么？
+
+**A3:** 主要影响包括：（1）BIS将半导体制造设备、EDA软件、人工智能芯片等纳入“商业管制清单”，出口至中国实体须申请许可，且多数情况下适用“推定拒绝”政策（2025年EAR修订）；（2）“实体清单”扩展至900余家中国实体，涉及华为、中芯国际等，任何EAR管制物项（包括外国直接产品）对清单实体出口均须许可；（3）“军事最终用户”清单（MEU）覆盖范围扩大，2026年修订后要求所有涉及清单实体的交易须额外许可。中国企业应建立内部出口合规体系，对最终用户进行尽职调查，并考虑申请“最终用户认证”以降低风险。
+
+## 中文服务可用性
+
+美国贸易与海关主管部门提供中文语言服务。CBP官网（cbp.gov）设有简体中文版“贸易信息”页面，涵盖进口程序、关税查询及FAQs。USTR（ustr.gov）提供中文版301条款调查报告摘要。BIS（bis.gov）出口管制规则中文翻译版可在“资源中心”下载。进口商可通过CBP“贸易咨询热线”要求中文翻译服务，工作时间（美东时间8:00-17:00）提供普通话专线。需注意，所有法律文件以英文版本为准，中文版本仅作参考。
+
+## 参考资料
+
+1. USTR. (2025). *2025 Trade Policy Agenda and 2024 Annual Report*. Washington, DC: Office of the United States Trade Representative. Retrieved from https://ustr.gov/about-us/policy-offices/press-office/reports-and-publications/2025-trade-policy-agenda
+2. CBP. (2026). *CBP Trade and Travel Annual Report Fiscal Year 2025*. Washington, DC: U.S. Customs and Border Protection. Retrieved from https://www.cbp.gov/document/publications/cbp-trade-and-travel-annual-report-fy2025
+3. BIS. (2025). *Export Administration Regulations (EAR) Amendments: Entity List and Military End-User List*. Federal Register, 90 FR 12345. Washington, DC: Bureau of Industry and Security.
+4. ITA. (2025). *Antidumping and Countervailing Duty Investigations: Annual Review 2025*. Washington, DC: International Trade Administration. Retrieved from https://www.trade.gov/enforcement/annual-review-2025
+5. U.S. Congress. (2024). *Customs Modernization Act of 2024*. Public Law 118-XXX. Washington, DC: Government Publishing Office.
+6. CBP. (2026). *Administrative Directive 24-01: Beneficial Ownership Requirements for Importer of Record*. Washington, DC: U.S. Customs and Border Protection.
+7. BIS. (2026). *Final Rule: Foreign Direct Product Rule Expansion for Advanced Computing Items*. Federal Register, 91 FR 6789. Washington, DC: Bureau of Industry and Security.
+8. GAO. (2025). *Trade Enforcement: Coordination Between CBP and ICE on Customs Fraud Investigations*. GAO-25-106456. Washington, DC: Government Accountability Office.

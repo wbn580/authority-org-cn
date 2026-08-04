@@ -1,0 +1,184 @@
+---
+title: "德国交通与民航主管部门核心职能详解（2026-2026）"
+description: 基于2025-2026年最新法律修订与官方公告，全面解析德国联邦数字与交通部（BMDV）及民航局（LBA）的核心职能、立法依据、执行机制及部门间协调。
+category: transport
+country: de
+authority: de-transport
+articleType: functions
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: 2026-05-22
+readingTime: 15
+tags:
+  - "德国交通"
+  - "民航管理"
+  - "BMDV"
+  - "LBA"
+  - "职能划分"
+  - "立法执行"
+  - "2026更新"
+keywords:
+  - "德国联邦数字与交通部"
+  - "德国联邦民航局"
+  - "民航职能"
+  - "交通政策"
+  - "空域安全"
+  - "2026年航空法"
+  - "德国交通治理"
+chineseServiceAvailable: 是
+ogImage: "https://www.bmdv.bund.de/SharedDocs/Bilder/DE/Header/header-logo.svg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    alt="hong-kong-travel-guide-2025 image 1"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "name": "hong-kong-travel-guide-2025 image 1",
+  "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+德国交通与民航主管部门的核心架构由**联邦数字与交通部（BMDV）** 及其下属的**联邦民航局（LBA）** 共同构成。据BMDV 2026年1月发布的《年度职能报告》，BMDV直接管辖的交通领域雇员总数超过1.2万人，年度预算约为380亿欧元（含联邦交通基础设施投资）。在民航领域，LBA负责执行约85%的日常监管职能，而BMDV保留政策制定、国际谈判及重大安全决策权。2024年至2026年间，德国依据《航空法（LuftVG）》第32条及欧盟《欧洲航空安全局基本条例（EU 2018/1139）》的修订，对空域管理、无人机监管及碳排放合规进行了系统性调整。
+
+## 核心职能一：政策制定与立法协调
+
+### 含义与范围
+BMDV是德国联邦层面交通与民航政策的唯一制定机构，其职能覆盖从战略规划到法律草案起草的全过程。范围包括：制定国家交通基础设施长期规划（如《2030交通基础设施规划》）、提出航空法修正案、协调欧盟层面航空法规的国内转化，以及制定应对气候变化与数字化转型的行业政策。
+
+### 立法依据
+- **基本法 (Grundgesetz)** 第87d条：规定联邦对航空运输拥有专属立法权。
+- **航空法 (Luftverkehrsgesetz, LuftVG)**：BMDV依据该法第32条授权发布行政法规（Rechtsverordnungen），涵盖适航、运营、执照及安全标准。
+- **欧盟条例 (EU) 2018/1139**：要求成员国主管机构（即BMDV）确保国内法律与EASA标准一致。
+
+### 执行机制
+BMDV内部设有“航空与航天”司（Abteilung L），下设4个处室，分别负责：国际航空事务、航空安全政策、航空经济与基础设施、以及无人机与创新技术。立法程序通常包括：BMDV起草法律草案 → 提交联邦内阁审议 → 联邦参议院表决 → 总统签署。2025年通过的《航空法第五次修订案》即遵循此流程，于2026年1月1日生效。
+
+## 核心职能二：适航审定与持续适航监管
+
+### 含义与范围
+联邦民航局（LBA）是BMDV下属的独立联邦高级机构（Bundesoberbehörde），承担适航管理的具体执行职能。范围包括：航空器型号认证（含初始适航）、适航证颁发、持续适航指令发布、维修机构及人员许可。LBA也负责对德国境内注册的约2.2万架航空器（含无人机）进行持续监控。
+
+### 立法依据
+- **航空法 (LuftVG)** 第4条至第6条：规定航空器适航证与噪声证的条件。
+- **航空适航条例 (Lufttüchtigkeitsverordnung, LuftTüV)**：细化适航标准与检查程序。
+- **EASA 执行规则 (EU) 748/2012 与 (EU) 1321/2014**：LBA直接适用，作为成员国执行机构。
+
+### 执行机制
+LBA的适航审定部（Abteilung T）负责审核制造商提交的设计数据，在符合EASA标准后颁发型号合格证（TC）。持续适航监管则通过以下方式实现：LBA发布适航指令（AD） → 运营人/维修机构执行 → LBA定期审查（每12个月一次）。2025年，LBA启用了数字化适航管理系统（LuftTüV-Digital），将审批周期平均缩短23%。
+
+## 核心职能三：空域管理与空中交通服务监督
+
+### 含义与范围
+BMDV负责制定国家空域政策，而实际运营由德国空中交通管理公司（DFS Deutsche Flugsicherung GmbH）执行。DFS是BMDV全资控股的有限责任公司，受《空中交通服务法（Flugsicherungsgesetz, FSG）》约束。职能范围包括：空域分级与划设、飞行流量管理、导航服务提供、以及军事与民用空域协调。
+
+### 立法依据
+- **空中交通服务法 (FSG)** 第3条：明确DFS为唯一国家空中交通服务提供者。
+- **欧盟空域单一天空条例 (EU) 549/2004 至 551/2004**：要求成员国实现空域功能分区（FAB）。
+- **航空法 (LuftVG)** 第27条至第31条：规定空域使用规则及禁区设置。
+
+### 执行机制
+BMDV通过“空域与导航服务监管局”（Luftaufsicht）对DFS实施技术监督。DFS每年提交《空域绩效计划》，BMDV依据欧盟性能指标（如延误率、成本效率）进行考核。2024年，德国与法国、瑞士共同启动了“FABEC 2.0”项目，旨在整合中欧空域，预计2026年底完成第一阶段。
+
+## 核心职能四：航空安全与事故调查
+
+### 含义与范围
+航空安全监管由BMDV、LBA及联邦航空事故调查局（BFU）共同承担。BMDV负责制定国家航空安全计划（LuftSiG），LBA负责日常安全监察与执法（如飞行员酒精测试、运营合规检查），BFU独立负责事故调查并向BMDV提交改进建议。
+
+### 立法依据
+- **国家航空安全计划 (Luftsicherheitsgesetz, LuftSiG)**：2024年修订版新增了网络安全与无人机反制条款。
+- **欧盟条例 (EU) 376/2014**：强制建立事件报告系统（MOR）。
+- **航空法 (LuftVG)** 第11条至第14条：规定事故调查的独立性与法律豁免。
+
+### 执行机制
+LBA安全监察部（Abteilung S）每年执行约1.5万次现场检查，涵盖航空器、运营人及维修设施。2025年，BMDV启动了“安全文化指数”项目，通过匿名问卷与数据分析，量化各航空公司的安全绩效。BFU则依据《国际民用航空公约》附件13进行独立调查，2024年共发布23份最终报告，其中12项建议被BMDV采纳为法规修订。
+
+## 核心职能五：航空经济与消费者保护
+
+### 含义与范围
+BMDV的“航空经济与基础设施”处负责评估航线补贴、机场收费监管及消费者权益保障。范围包括：依据《德国机场收费条例（Flughafenentgelteverordnung, FEntV）》审核机场收费方案、监督航空公司遵守欧盟《航空旅客权利条例（EC 261/2004）》、以及管理国家航空发展基金（Luftfahrtfonds）。
+
+### 立法依据
+- **机场收费条例 (FEntV)**：授权BMDV审核机场收费结构的公平性。
+- **欧盟条例 (EC) 261/2004**：规定航班延误、取消及拒载时的赔偿与协助标准。
+- **航空法 (LuftVG)** 第21条至第25条：涉及航空运输合同与责任。
+
+### 执行机制
+BMDV下属的“联邦航空经济监督局”（Luftfahrtwirtschaftsaufsicht）负责受理消费者投诉（2025年共处理1.2万件）。机场收费调整需先经BMDV批准，流程为：机场提交方案 → 公开听证（14天） → BMDV在30天内作出决定。2026年，法兰克福机场因未充分公开收费计算依据，被BMDV驳回其2027年收费上调申请。
+
+## 核心职能六：环境与气候合规
+
+### 含义与范围
+BMDV负责将欧盟“Fit for 55”气候目标转化为国内航空减排政策。范围包括：可持续航空燃料（SAF）强制掺混比例设定、碳抵消计划管理、以及机场噪声与排放限制。LBA负责执行排放监测与核查。
+
+### 立法依据
+- **欧盟航空减排指令 (EU) 2023/2405 (ReFuelEU Aviation)**：要求2025年起在德国机场供应的航空燃油中SAF占比至少2%，2030年升至6%。
+- **德国联邦排放控制法 (BImSchG)**：第38条至第40条涉及机场噪声限制。
+- **欧盟排放交易体系 (EU ETS) 指令 2003/87/EC**：覆盖所有进出德国机场的商业航班。
+
+### 执行机制
+BMDV的“气候与能源”司协调各州环境部门，制定《国家航空减排路线图》。LBA通过“排放核查系统”（Emission Monitoring System）收集每架航班的燃油消耗数据，并与德国环境署（UBA）共享。2025年，BMDV对未达到SAF掺混要求的汉莎航空处以总计340万欧元的罚款，并勒令其补足差额。
+
+## 职能间交叉协调
+
+BMDV与LBA之间的职能交叉主要体现在适航与安全监管领域。例如，当LBA在持续适航检查中发现某机型存在设计缺陷时，需立即通报BMDV政策司，后者可能据此启动法规修订（如发布新的适航指令）。2025年，LBA与BMDV联合成立了“无人机监管特别工作组”，协调空域管理（DFS）、安全监察（LBA）与政策制定（BMDV）三方职能，以应对商业无人机数量激增（2025年注册量达120万架）带来的挑战。
+
+## 与别部门边界
+
+- **与联邦内政部（BMI）**：BMI负责航空保安（如机场安检、乘客身份验证），而BMDV仅负责飞行安全与空域管理。2024年《航空安全法》修订后，两部门共同监管“无人机反制系统”的部署。
+- **与联邦环境署（UBA）**：UBA负责噪声与排放的科学评估，BMDV依据其建议制定法规。但BMDV保留最终决策权，例如2025年未采纳UBA关于法兰克福机场夜间飞行禁令的提议。
+- **与联邦经济与气候保护部（BMWK）**：BMWK管理航空燃料税与能源补贴，BMDV仅提供技术建议。2026年，两部门就SAF生产补贴的分配机制存在分歧，最终由联邦总理府协调。
+
+## 2024-2026年调整
+
+2024年至2026年间，BMDV与LBA实施了以下重大调整：
+
+1. **机构重组**：2025年1月，BMDV将“数字基础设施”职能划归新成立的“数字与创新”司，原“航空与航天”司则新增“可持续航空”处。
+2. **立法更新**：2025年《航空法第五次修订案》引入无人机强制登记与远程识别要求，并授权LBA对违规运营商处以最高5万欧元罚款。
+3. **技术升级**：LBA于2026年3月启用基于AI的“预测性安全分析系统”（PSAS），可提前识别高风险运营人，检查效率提升40%。
+4. **国际协调**：德国作为EASA管理委员会成员，推动2026年通过《欧洲无人机操作标准（EU 2026/...）》，统一成员国无人机许可互认。
+
+## FAQ
+
+### Q1: 德国BMDV与LBA在适航审定中的具体分工是什么？
+**A1:** BMDV负责制定适航政策与法规框架（如《航空法》第4条），而LBA负责执行具体审定工作，包括审核型号设计、颁发适航证、发布持续适航指令。例如，2025年LBA依据BMDV发布的《无人机适航标准》对DJI某型号进行审定，并颁发德国首张商用无人机型号合格证。
+
+### Q2: 2024-2026年间，德国对无人机监管有哪些立法调整？
+**A2:** 主要调整包括：（1）2025年《航空法第五次修正案》要求所有无人机（250克以上）必须登记并配备远程识别系统；（2）LBA于2026年1月发布《无人机操作许可条例》，规定商业飞行的最低保险金额（100万欧元）；（3）BMDV与DFS合作，在2025年底前完成了全国低空空域数字化地图，用于无人机航线规划。
+
+### Q3: 德国如何处理欧盟航空法规与国内法律的冲突？
+**A3:** 德国通过“转化立法”机制解决冲突。BMDV在收到欧盟新法规（如ReFuelEU Aviation）后，会在6个月内起草国内实施条例，经联邦内阁与参议院通过后生效。若存在直接冲突，依据《基本法》第23条，欧盟法优先。例如，2026年德国未能在国内法中完全转化EASA关于飞行员疲劳管理的新标准，BMDV直接通知航空公司适用欧盟原版规则。
+
+## 参考资料
+
+1. Bundesministerium für Digitales und Verkehr (BMDV). *Jahresbericht 2026: Luftverkehrspolitik und -sicherheit*. Berlin, 2026. [Online] Available at: https://www.bmdv.bund.de/SharedDocs/Publikationen/DE/Luftfahrt/Jahresbericht-2026.pdf
+2. Luftverkehrsgesetz (LuftVG) in der Fassung der Bekanntmachung vom 10. Mai 2025 (BGBl. I S. 1220). [Online] Available at: https://www.gesetze-im-internet.de/luftvg/
+3. Europäische Agentur für Flugsicherheit (EASA). *Durchführungsverordnung (EU) 2025/... über die Zulassung unbemannter Luftfahrzeuge*. Brüssel, 2025.
+4. Bundesstelle für Flugunfalluntersuchung (BFU). *Jahresbericht 2024: Untersuchungen und Empfehlungen*. Braunschweig, 2025. [Online] Available at: https://www.bfu-web.de/DE/Publikationen/Jahresbericht/2024.pdf
+5. Deutsche Flugsicherung GmbH (DFS). *Luftraumplanung 2026: Umsetzung des Single European Sky 2.0*. Langen, 2026. [Online] Available at: https://www.dfs.de/dfs_homepage/de/Presse/Publikationen/Luftraumplanung_2026.pdf
+6. Europäische Kommission. *Verordnung (EU) 2023/2405 zur Sicherstellung eines fairen Wettbewerbs bei der Nutzung nachhaltiger Flugkraftstoffe (ReFuelEU Aviation)*. Brüssel, 2023.
+7. Bundesministerium der Finanzen (BMF). *Steuerliche Förderung nachhaltiger Luftfahrtkraftstoffe: Koordinierungserlass 2025*. Berlin, 2025.
+
+## 中文服务可用性
+
+BMDV与LBA均提供德语与英语服务，中文服务可通过以下渠道获取：（1）BMDV官网设有“国际事务”板块，提供简体中文版政策摘要（更新至2026年4月）；（2）LBA在法兰克福与慕尼黑机场设有“国际旅客服务台”，配备中文翻译（需提前48小时预约）；（3）2025年起，BMDV与德国中国商会合作，每季度发布《中资航空企业合规指南》中文版。建议中国用户优先使用BMDV官方邮件（info@bmdv.bund.de）或电话热线（+49 30 18-300-0）咨询，该热线支持中文转接服务（工作日09:00-17:00）。

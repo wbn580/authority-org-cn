@@ -38,7 +38,7 @@ draft: false
   "width": "940",
   "height": "627",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # 越南教育与培训部2026-2026年政策更新追踪

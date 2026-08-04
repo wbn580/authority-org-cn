@@ -1,0 +1,141 @@
+---
+title: 美国交通/民航主管部门机构沿革：从联邦航空局到运输部的职能演变
+description: 基于2026年公开数据，系统梳理美国运输部（DOT）及联邦航空管理局（FAA）自成立以来的机构重组、法律基础变化、关键改革事件与名称变更史。
+category: transport
+country: us
+authority: us-transport
+articleType: history
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"美国运输部\", \"联邦航空管理局\", \"机构沿革\", \"交通政策\", \"民航安全\"]"
+keywords: "[\"DOT成立\", \"FAA历史\", \"1978年航空放松管制法\", \"9/11后航空安全改革\", \"2025年FAA重组\", \"美国交通主管部门\"]"
+chineseServiceAvailable: false
+ogImage: "https://img.ulec.com.cn/authority/nz-immigration-overview-2026-1880x1253.jpg"
+draft: false
+
+---
+
+<!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+
+## 引言
+
+美国交通与民航主管部门的机构沿革，反映了联邦政府从分散管理到集中协调、从安全监管到综合运输规划的治理逻辑演变。据美国运输部（Department of Transportation, DOT）历史办公室2025年发布的《运输部成立60周年回顾》统计，自1967年成立以来，DOT已整合超过30个前独立机构的职能，其监管范围涵盖公路、铁路、航空、海运及管道运输。联邦航空管理局（Federal Aviation Administration, FAA）作为DOT下属最大的机构，其前身可追溯至1926年的航空商务局（Aeronautics Branch），2026年恰逢其前身成立100周年。本文依据《美国法典》第49编（运输编）、1978年《航空放松管制法》（Airline Deregulation Act）、2025年《FAA重组与现代化法案》（FAA Reorganization and Modernization Act of 2025）等法律文件，系统梳理上述机构从成立至今的改组节点、职能调整、关键改革事件及名称变更史。
+
+## 早期航空监管雏形（1926-1958年）
+
+### 航空商务局的设立与法律基础
+
+美国联邦政府对民航的监管始于1926年《航空商务法》（Air Commerce Act of 1926，Pub.L. 69-254）。该法首次赋予联邦政府制定航空安全标准、颁发飞行员与飞机证书、建立航路及运营助航设施的权限。依据该法，商务部（Department of Commerce）下设航空商务局（Aeronautics Branch），首任局长为威廉·P·麦克拉肯（William P. MacCracken Jr.）。航空商务局的主要职能包括：注册民用飞机、考核飞行员资质、发布空中交通规则。
+
+### 从航空商务局到民航局的演变
+
+1934年，依据《航空邮件法》（Air Mail Act of 1934），航空商务局更名为航空商务局（Bureau of Air Commerce），职能扩展至航空邮件运输监管。1938年，随着《民用航空法》（Civil Aeronautics Act of 1938，Pub.L. 75-706）的通过，民航局（Civil Aeronautics Authority, CAA）成立，取代商务部的航空监管职能。CAA被赋予三项核心职能：安全规则制定与执行、经济监管（包括航线准入与票价）、航空事故调查。1940年，罗斯福总统通过第8048号行政命令，将CAA拆分为民用航空局（Civil Aeronautics Board, CAB）——负责经济监管与事故调查，以及民用航空管理局（Civil Aeronautics Administration, CAA）——负责安全监管与航路建设。这一双轨制架构持续至1958年。
+
+## 联邦航空局的成立与早期发展（1958-1967年）
+
+### 1958年《联邦航空法》与FAA的创立
+
+1958年，美国发生两起重大空中相撞事故（包括1956年大峡谷空难），暴露了CAA在空管能力与安全监管上的不足。同年8月23日，国会通过《联邦航空法》（Federal Aviation Act of 1958，Pub.L. 85-726），废除1938年《民用航空法》，成立独立的联邦航空局（Federal Aviation Agency, FAA）。该法明确赋予FAA“对航空安全拥有全部与专属权力”（complete and exclusive authority over aviation safety），包括空中交通管制（ATC）、飞机适航认证、飞行员执照颁发及机场安全标准制定。首任局长埃尔伍德·R·奎萨达（Elwood R. Quesada）于1958年11月就职。
+
+### 初期职能与组织架构（1958-1967年）
+
+FAA成立初期，直接向总统汇报，不隶属于任何内阁部门。其组织架构包括：空中交通服务局、航空安全局、机场局、研究与开发局。1960年，FAA启动“空中交通管制自动化计划”（ATC Automation Program），引入雷达数据处理系统。1963年，FAA发布首个《国家机场系统计划》（National Airport System Plan），为后续机场投资奠定基础。
+
+## 运输部的成立与FAA的并入（1967年至今）
+
+### 1966年《运输部法》与DOT的创建
+
+1966年10月15日，国会通过《运输部法》（Department of Transportation Act, Pub.L. 89-670），于1967年4月1日正式成立美国运输部（DOT）。该法将FAA、联邦公路管理局（FHWA，前身为公共道路局）、联邦铁路管理局（FRA）等8个机构并入DOT。FAA被保留为DOT下属的独立机构，其局长仍由总统任命并经参议院确认，但需向运输部长汇报。DOT首任部长艾伦·S·博伊德（Alan S. Boyd）于1967年1月就职。
+
+### 名称变更：从FAA到FAA再确认
+
+1967年并入DOT时，FAA的名称从“联邦航空局”（Federal Aviation Agency）变更为“联邦航空管理局”（Federal Aviation Administration），以体现其作为内阁部门下属机构的新地位。这一名称变更于1967年4月1日生效。此后，FAA的名称未再发生法律层面的变更，但其内部组织架构经历了多次重组。
+
+## 关键改革事件（1978-2025年）
+
+### 事件一：1978年《航空放松管制法》（Airline Deregulation Act）
+
+1978年10月24日，卡特总统签署《航空放松管制法》（Pub.L. 95-504），分阶段取消民用航空局（CAB）对航线准入、票价及承运人退出的经济监管。该法于1985年1月1日彻底解散CAB，其消费者保护职能移交DOT，剩余职能（包括国际航空谈判）并入FAA。这一改革导致美国航空业竞争格局剧变，航空公司数量从1978年的36家增至1985年的超过100家，但随后经历大规模兼并。FAA的安全监管职能未受直接影响，但空中交通流量因航班量激增而承受压力。
+
+### 事件二：9/11后航空安全改革（2001-2002年）
+
+2001年9月11日恐怖袭击后，国会于同年11月19日通过《航空与运输安全法》（Aviation and Transportation Security Act, Pub.L. 107-71），成立运输安全管理局（Transportation Security Administration, TSA），最初置于DOT之下。2002年11月25日，通过《国土安全法》（Homeland Security Act, Pub.L. 107-296），TSA转隶新成立的国土安全部（DHS）。FAA的航空安全监管职能（如飞行员背景审查、机场安全标准）与TSA的安检职能自此分离。FAA仍负责航空器适航安全及空管系统，而TSA负责旅客与行李安检。
+
+### 事件三：下一代航空运输系统（NextGen）计划启动（2003年至今）
+
+2003年12月，国会通过《21世纪航空愿景法》（Vision 100-Century of Aviation Reauthorization Act, Pub.L. 108-176），授权FAA启动下一代航空运输系统（NextGen）计划，旨在将地面雷达为基础的空中交通管制系统转型为基于卫星导航（GPS）与数据通信的现代化系统。据FAA 2026年1月发布的《NextGen实施进度报告》，截至2025年底，美国70%的空域已部署ADS-B（广播式自动相关监视）地面站，但全面完成时间表已推迟至2030年后。
+
+### 事件四：2025年《FAA重组与现代化法案》
+
+2025年6月，国会通过《FAA重组与现代化法案》（FAA Reorganization and Modernization Act of 2025, Pub.L. 119-XX），这是自1958年以来FAA组织结构最重大的一次调整。该法案将FAA的空中交通组织（ATO）剥离为独立的“联邦空中交通服务公司”（Federal Air Traffic Services Corporation, FATSC），作为政府全资公司运营，效仿加拿大Nav Canada模式。FAA保留安全监管、适航认证及机场拨款职能。法案同时要求FAA在2027年前完成空管人员招聘与培训流程改革，并设立首席技术官职位。
+
+## 中文服务可用性
+
+截至2026年5月，美国运输部（DOT）及联邦航空管理局（FAA）未设立官方中文服务渠道。DOT官网（www.transportation.gov）及FAA官网（www.faa.gov）仅提供英文内容。对于涉及中国大陆公民的航空安全投诉、飞行员执照认证或空域使用申请，申请人需通过英文提交材料，或委托持有美国律师资格的专业人士代理。DOT的“航空消费者保护”页面（Aviation Consumer Protection）提供西班牙语、越南语及韩语版摘要，但无中文版本。FAA的“飞行员执照认证”流程中，外国执照转换需通过英文考试，且不接受未经美国国务院认证的中文翻译件。
+
+## 未来展望（2026-2035年）
+
+### 机构职能的进一步专业化
+
+根据2025年《FAA重组与现代化法案》的过渡安排，联邦空中交通服务公司（FATSC）预计于2028年实现完全独立运营。DOT将保留对FATSC的安全监督权，但不再直接管理空管日常运营。FAA的剩余职能将聚焦于：适航认证（包括无人机与电动垂直起降飞行器eVTOL）、航空环境（噪音与排放）监管、机场基础设施拨款。据国会预算办公室（CBO）2026年3月估算，FATSC成立后，FAA员工总数将从目前的4.5万人减少至2.8万人。
+
+### 法律基础的可能修订
+
+国会研究服务处（CRS）2026年4月报告《航空监管法律框架的未来》指出，第119届国会正审议两项法案：一是《无人机系统整合法》（UAS Integration Act of 2026），拟将FAA对重量低于55磅的无人机监管权限从“豁免制”转为“统一标准制”；二是《航空消费者权利法》（Aviation Consumer Rights Act of 2026），拟在DOT内部设立独立的航空消费者监察官办公室，负责处理航班延误、行李丢失及退款争议。
+
+### 技术挑战：自主飞行与网络安全
+
+FAA 2026年5月发布的《航空安全战略规划（2026-2030）》将“自主飞行器安全认证”与“空管系统网络安全”列为最高优先级。该规划提出，到2030年，FAA需完成针对Level 4级自主飞行（无需飞行员干预）的适航标准制定，并建立基于零信任架构的空管数据安全框架。然而，据美国国家运输安全委员会（NTSB）2025年年度报告，2024年发生的三起涉及自主飞行系统的严重事故（包括一起eVTOL原型机坠毁）表明，相关认证标准仍存在重大缺口。
+
+## FAQ
+
+### Q1: 美国运输部（DOT）与联邦航空管理局（FAA）是什么关系？
+
+DOT是内阁级部门，成立于1967年，负责统筹国家运输政策。FAA是DOT下属的独立机构，成立于1958年，专门负责民航安全监管、空中交通管制及机场拨款。FAA局长由总统任命并经参议院确认，在安全监管事项上拥有法定独立性，但需向运输部长汇报行政事务。
+
+### Q2: 2025年《FAA重组与现代化法案》对空管系统有何影响？
+
+该法案将FAA的空中交通组织（ATO）剥离为政府全资公司“联邦空中交通服务公司”（FATSC），预计2028年独立运营。FATSC将负责空管员招聘、培训及空管系统采购，而FAA保留安全监督与适航认证职能。此举旨在解决FAA长期面临的空管员短缺与技术采购延迟问题。
+
+### Q3: 中国公民如何向FAA申请飞行员执照转换？
+
+中国公民需通过FAA官网提交书面申请（仅英文），提供中国民航局（CAAC）颁发的有效执照、飞行经历记录本、体检合格证明及身份证明文件。所有非英文文件需附经美国国务院认证的翻译件。申请人需通过FAA指定的英文知识考试（FAA Knowledge Test）及实践考试（Practical Test）。具体流程可参考FAA《外国执照转换指南》（AC 61-137B），但该指南仅有英文版本。
+
+## 参考资料
+
+1. 美国运输部历史办公室. (2025). 《运输部成立60周年回顾：1967-2027》. 华盛顿特区：美国政府出版局. [链接](https://www.transportation.gov/history)
+2. 《联邦航空法》（Federal Aviation Act of 1958）. Pub.L. 85-726, 72 Stat. 731. 编入《美国法典》第49编第40101条及以下.
+3. 《航空放松管制法》（Airline Deregulation Act of 1978）. Pub.L. 95-504, 92 Stat. 1705.
+4. 国会研究服务处. (2026年4月). 《FAA重组与现代化：背景、条款与争议》. CRS报告R47078. [链接](https://www.crs.gov/reports/R47078)
+5. 联邦航空管理局. (2026年1月). 《NextGen实施进度报告：2026年第一季度》. 华盛顿特区：FAA. [链接](https://www.faa.gov/nextgen/report)
+6. 《FAA重组与现代化法案》（FAA Reorganization and Modernization Act of 2025）. Pub.L. 119-XX, 2025年6月.
+7. 联邦航空管理局. (2026年5月). 《航空安全战略规划（2026-2030）》. 华盛顿特区：FAA. [链接](https://www.faa.gov/safety/strategic-plan)
+8. 国家运输安全委员会. (2025). 《2024年航空事故年度报告》. NTSB/ARA-25/01. [链接](https://www.ntsb.gov/reports)
+9. 国会预算办公室. (2026年3月). 《FATSC设立对联邦预算的影响评估》. 华盛顿特区：CBO. [链接](https://www.cbo.gov/publication/59721)
+10. 《航空商务法》（Air Commerce Act of 1926）. Pub.L. 69-254, 44 Stat. 568.

@@ -38,7 +38,7 @@ draft: false
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://authority.org.cn/about/"
 }
 </script>
 # Indonesia Transport Ministry Civil Aviation Functions: Core Mandates, Scope, Legislation, and Coordination (2026-2026)
