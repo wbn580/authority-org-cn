@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"以色列卫生部\", \"MOH\", \"健康服务组织\", \"Clalit\", \"Maccabi\", \"Meuhedet\", \"Leumit\", \"联系方式\", \"办事指南\", \"大陆人\", \"中文服务\"]"
 keywords: "[\"以色列健康服务\", \"Kupat Holim\", \"健康保险\", \"外国居民就医\", \"中文服务以色列\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/th-health-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/th-health-overview-2026-1880x1253.jpg"
 draft: false
 
 ---

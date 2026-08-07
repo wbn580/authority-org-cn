@@ -14,7 +14,7 @@ tags:
 keywords:
   - "韩国贸易/海关"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/kr-trade-overview-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-trade-overview-2026-auto.jpg"
 draft: false
 
 ---

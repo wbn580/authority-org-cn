@@ -25,7 +25,7 @@ keywords:
   - "行为监管"
   - "荷兰金融监管历史"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/4a8b2ae5f413.jpg"
 draft: false
 
 ---

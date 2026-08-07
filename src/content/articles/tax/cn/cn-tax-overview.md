@@ -23,7 +23,7 @@ keywords:
   - "跨境税务"
   - "非居民纳税人"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/nz-legal-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nz-legal-comparison-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -31,7 +31,7 @@ draft: false
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    src="https://img.authority.org.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
     alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
     width="1200"
     height="800"
@@ -44,7 +44,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
   "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
   "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
   "width": "1200",

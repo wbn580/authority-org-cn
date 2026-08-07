@@ -26,7 +26,7 @@ keywords:
   - "中文服务韩国"
   - "2026韩国贸易"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1569025743873-ea3a9ade89f9?w=1200"
+ogImage: "https://img.authority.org.cn/rehost/2b1e06b1f831.jpg"
 draft: false
 
 ---

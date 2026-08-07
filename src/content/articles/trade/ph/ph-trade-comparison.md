@@ -14,7 +14,7 @@ tags:
 keywords:
   - "菲律宾贸易/海关"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ph-trade-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-trade-comparison-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 

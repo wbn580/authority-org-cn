@@ -7,7 +7,7 @@ modDatetime: '2026-07-08T00:00:00Z'
 slug: 'australia-study-abroad-agency-ranking-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-abroad-agency-ranking-2026-2026-1880x1255.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-abroad-agency-ranking-2026-2026-1880x1255.jpg'
 verified: '2026-07-08T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -30,7 +30,7 @@ hideFromHome: true
 
 无论你是看到一份网络流传的澳洲留学中介排名，还是自己在同时对比三五家机构，都可以从下面这5个维度切入，去判断它到底值不值得你把自己的申请托付给它。
 
-![2026年澳洲留学中介排名：5个关键维度帮你筛选靠谱机构](https://img.ulec.com.cn/authority/australia-study-abroad-agency-ranking-2026-2026-1880x1255.jpg)
+![2026年澳洲留学中介排名：5个关键维度帮你筛选靠谱机构](https://img.authority.org.cn/authority/australia-study-abroad-agency-ranking-2026-2026-1880x1255.jpg)
 
 
 ### 维度一：是否拥有持牌移民代理和注册教育顾问
@@ -67,7 +67,7 @@ hideFromHome: true
 
 在挑选中介的同时，你也需要自己掌握几项关键的签证与入学政策变化，因为如果中介在这一点上给的信息滞后或错误，后果会直接由你来承担。2026年申请季，以下几个新动向尤其值得关注：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
 
 
 - **GS（Genuine Student）审核代替GTE**：澳洲移民局已全面推行真实学生甄别机制，不再用过去的GTE（Genuine Temporary Entrant）说明。这意味着留学申请时，学生需要回答移民局提出的一系列结构化问题，包括家庭情况、就业背景、课程选择和未来规划等。一个专业的中介应该在前期就帮助你梳理这些问题的回答逻辑，而不是等到了签证环节才临时应付。

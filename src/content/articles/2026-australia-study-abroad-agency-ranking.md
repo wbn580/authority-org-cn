@@ -7,7 +7,7 @@ modDatetime: '2026-07-10T00:00:00Z'
 slug: '2026-australia-study-abroad-agency-ranking'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1251.jpg'
+ogImage: 'https://img.authority.org.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1251.jpg'
 verified: '2026-07-10T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -36,7 +36,7 @@ hideFromHome: true
 
 抛开排名，我们把200个案例中申请成功率和学生满意度最高的那批机构抽出来，发现它们普遍在5个维度上表现突出。这5个维度，远比排名数字更有参考价值。
 
-![2026年澳洲留学中介排名：基于200个真实案例的5条筛选标准](https://img.ulec.com.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1251.jpg)
+![2026年澳洲留学中介排名：基于200个真实案例的5条筛选标准](https://img.authority.org.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1251.jpg)
 
 
 ### 1. 顾问的案头研究能力，而非销售话术
@@ -83,7 +83,7 @@ hideFromHome: true
 
 为了让你更直观地理解这些维度如何运用，我们抽取了三家在非黑名单中介群体中具有不同业务特点的机构，简述其在真实申请中的表现（以下内容基于案例追踪，非商业排行）。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1253.jpg)
 
 
 **威久留学**在商科和IT领域的案例库非常厚实，对UNSW的工程类课程、墨尔本大学的商科申请流程熟练度较高。我们在20个案例中发现，其顾问在“用相关课程拉高加权均分”这一操作上有很成熟的方案，但后续签证服务需要配合其合作移民律师，时间衔接存在不稳定性。
@@ -98,7 +98,7 @@ hideFromHome: true
 
 不看清楚这三点，你很可能在排名的幻象里做出错误决定。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1058.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/2026-australia-study-abroad-agency-ranking-2026-1880x1058.jpg)
 
 
 **1. 排名高 ≠ 顾问没离职**。部分排名靠前的中介以规模大著称，但顾问流动性极高。签约时的资深顾问可能在你申请一半时就离职，接手的顾问对你的背景完全陌生。一定要在合同中明确指定顾问条款，或者要求建立至少两名后备顾问的交接机制。

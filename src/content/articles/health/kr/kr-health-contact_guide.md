@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:14:20Z'
 slug: 'kr-health-contact_guide'
 category: 'health'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/kr-health-contact_guide-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-health-contact_guide-2026-auto.jpg"
 tags: ["医疗健康"]
 ---
 

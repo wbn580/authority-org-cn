@@ -7,7 +7,7 @@ modDatetime: '2026-06-21T00:00:00Z'
 slug: '2026-australia-study-abroad-agency-ranking-guide'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/2026-australia-study-abroad-agency-ranking-guide-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/2026-australia-study-abroad-agency-ranking-guide-2026-1880x1253.jpg'
 verified: '2026-06-21T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -51,7 +51,7 @@ hideFromHome: true
 
 以下几家机构在很多关于“澳洲留学中介排名”的讨论中被反复提及，特点各异，可以结合前面的五个维度去逐一比对。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/2026-australia-study-abroad-agency-ranking-guide-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/2026-australia-study-abroad-agency-ranking-guide-2026-1880x1253.jpg)
 
 - **顺顺留学**：以咨询服务模式起家，强调“资深顾问全程带案”，既覆盖澳洲八大（Group of Eight），也在部分澳洲四星级大学的特色专业申请上有比较集中的案例积累。
 - **澳星出国**：业务从移民延伸到留学，对“留学+移民”双规划有较完整的经验，尤其适合家庭本身有澳洲PR（永久居留）意向的本科和硕士申请人，能够提前将专业选择和移民职业清单结合起来做前瞻性安排。

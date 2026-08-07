@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
+    src="https://img.authority.org.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
     alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
   "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
   "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
   "width": "1200",

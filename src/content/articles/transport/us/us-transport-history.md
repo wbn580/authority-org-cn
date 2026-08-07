@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"美国运输部\", \"联邦航空管理局\", \"机构沿革\", \"交通政策\", \"民航安全\"]"
 keywords: "[\"DOT成立\", \"FAA历史\", \"1978年航空放松管制法\", \"9/11后航空安全改革\", \"2025年FAA重组\", \"美国交通主管部门\"]"
 chineseServiceAvailable: false
-ogImage: "https://img.ulec.com.cn/authority/nz-immigration-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nz-immigration-overview-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

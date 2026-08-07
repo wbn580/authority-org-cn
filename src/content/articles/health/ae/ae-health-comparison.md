@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"阿联酋\", \"卫生部门\", \"医保\", \"跨国对比\", \"MOHAP\", \"NHS\", \"新加坡MOH\", \"加拿大卫生部\", \"监管效率\", \"数字化医疗\", \"申诉机制\"]"
 keywords: "[\"阿联酋卫生与预防部\", \"MOHAP\", \"NHS\", \"新加坡卫生部\", \"加拿大卫生部\", \"医疗监管对比\", \"医保制度差异\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-health-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-health-comparison-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
     alt="top-50-universities-international-tuition-fees-comparison image 2"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
   "name": "top-50-universities-international-tuition-fees-comparison image 2",
   "description": "top-50-universities-international-tuition-fees-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

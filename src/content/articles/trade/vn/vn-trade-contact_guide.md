@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:08:45Z'
 slug: 'vn-trade-contact_guide'
 category: 'trade'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/vn-trade-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/vn-trade-contact_guide-2026-1880x1253.jpg"
 tags: ["trade"]
 ---
 

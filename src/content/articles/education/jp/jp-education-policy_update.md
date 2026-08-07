@@ -21,7 +21,7 @@ keywords:
   - "日语教育"
   - "特定活动签证"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200"
+ogImage: "https://img.authority.org.cn/rehost/eb5d23a5b94a.jpg"
 draft: false
 
 ---
@@ -29,7 +29,7 @@ draft: false
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
     alt="university library"
     width="1200"
     height="800"
@@ -42,7 +42,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
   "name": "university library",
   "description": "university library — 配图来源：R2自有图库",
   "width": "1200",

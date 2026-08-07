@@ -22,7 +22,7 @@ keywords:
   - "边境与签证协调"
   - "内政部职能边界"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/fr-immigration-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-immigration-comparison-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -30,7 +30,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
     alt="英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK"
     width="1200"
     height="800"
@@ -43,7 +43,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg",
   "name": "英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK",
   "description": "英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK — 配图来源：R2自有图库",
   "width": "1200",

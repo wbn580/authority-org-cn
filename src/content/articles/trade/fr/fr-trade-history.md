@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:11:40Z'
 slug: 'fr-trade-history'
 category: 'trade'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/fr-trade-history-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-trade-history-2026-auto.jpg"
 tags: ["trade"]
 ---
 

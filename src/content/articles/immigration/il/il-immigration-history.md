@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"以色列移民局\", \"PIBA\", \"签证政策\", \"移民法\", \"机构沿革\", \"法律改革\", \"以色列内政部\"]"
 keywords: "[\"以色列移民主管部门\", \"以色列签证机构历史\", \"PIBA成立\", \"回归法\", \"以色列居留许可\", \"以色列移民改革\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580651315530-69c8e0026377?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/75ead70afd18.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
     alt="186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
   "name": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR",
   "description": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR — 配图来源：R2自有图库",
   "width": "1200",

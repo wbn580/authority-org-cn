@@ -33,7 +33,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-澳洲留學生活費預算悉尼-vs-墨爾本差幾多 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-澳洲留學生活費預算悉尼-vs-墨爾本差幾多-2026-1880x1058.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-澳洲留學生活費預算悉尼-vs-墨爾本差幾多-2026-1880x1058.jpg"
     alt="澳洲留學,生活費,悉尼,墨爾本,預算比較,2026"
     width="1200"
     height="800"
@@ -46,7 +46,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-澳洲留學生活費預算悉尼-vs-墨爾本差幾多-2026-1880x1058.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-澳洲留學生活費預算悉尼-vs-墨爾本差幾多-2026-1880x1058.jpg",
   "name": "澳洲留學,生活費,悉尼,墨爾本,預算比較,2026",
   "description": "澳洲留學,生活費,悉尼,墨爾本,預算比較,2026 — 配图来源：R2自有图库",
   "width": "1200",

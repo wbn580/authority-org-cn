@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"澳大利亚央行\", \"RBA\", \"APRA\", \"ASIC\", \"金融监管改革\", \"机构沿革\", \"Wallis Inquiry\", \"金融体系调查\", \"审慎监管\", \"货币政策\"]"
 keywords: "[\"澳大利亚储备银行历史\", \"APRA成立\", \"ASIC职能\", \"金融监管法律框架\", \"RBA独立性\", \"澳大利亚金融改革\", \"双峰监管模式\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/7ceef8a195ae.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: 互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340-2026-940x627.jpeg"
+    src="https://img.authority.org.cn/loan/互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340-2026-940x627.jpeg"
     alt="互助银行利率对比 newcastle heritage bank australia cnf06 c3cac340"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340-2026-940x627.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340-2026-940x627.jpeg",
   "name": "互助银行利率对比 newcastle heritage bank australia cnf06 c3cac340",
   "description": "互助银行利率对比 newcastle heritage bank australia cnf06 c3cac340 — 配图来源：R2自有图库",
   "width": "1200",

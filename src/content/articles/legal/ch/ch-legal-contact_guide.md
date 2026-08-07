@@ -23,7 +23,7 @@ keywords:
   - "中文法律服务瑞士"
   - "中国大陆人瑞士法律指南"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200"
+ogImage: "https://img.authority.org.cn/rehost/0cb55b2a087b.jpg"
 draft: false
 
 ---

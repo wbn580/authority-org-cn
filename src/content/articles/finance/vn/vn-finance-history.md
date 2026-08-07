@@ -23,7 +23,7 @@ keywords:
   - "越南反洗钱法"
   - "越南金融科技监管沙盒"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1584483766114-2c6e4c2e8a0c?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/90addc67d9d4.jpg"
 draft: false
 
 ---

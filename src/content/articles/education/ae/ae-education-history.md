@@ -26,7 +26,7 @@ keywords:
   - "阿联酋教育体系"
   - "阿联酋教育治理"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-education-history-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-education-history-2026-1880x869.jpg"
 draft: false
 
 ---

@@ -32,7 +32,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -45,7 +45,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

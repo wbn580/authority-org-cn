@@ -14,7 +14,7 @@ tags:
 keywords:
   - "荷兰司法/法务"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/nl-legal-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nl-legal-overview-2026-1880x1253.jpg"
 draft: false
 ---
 

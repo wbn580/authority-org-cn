@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"瑞士教育\", \"SERI\", \"EDK\", \"联邦制\", \"教育立法\", \"职业教育\", \"义务教育\", \"高等教育\", \"2026\"]"
 keywords: "[\"瑞士教育主管部门\", \"SERI职能\", \"EDK协调\", \"联邦教育法\", \"瑞士职业教育\", \"义务教育监管\", \"高等教育资助\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ch-education-functions-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-education-functions-2026-1880x869.jpg"
 draft: false
 
 ---

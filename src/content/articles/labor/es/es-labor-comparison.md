@@ -25,7 +25,7 @@ keywords:
   - "劳动监察效率"
   - "数字化服务"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1521791136064-7986c2920aa1?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/27c3f7d2ea12.jpg"
 draft: false
 hideFromHome: true
 
@@ -34,7 +34,7 @@ hideFromHome: true
 <!-- R2_IMAGE: backfill-ucl-2026-fees-scholarships--career-outco -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg"
+    src="https://img.authority.org.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg"
     alt="UCL, tuition fees, scholarships, career outcomes, international students, London, 2026"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg",
   "name": "UCL, tuition fees, scholarships, career outcomes, international students, London, 2026",
   "description": "UCL, tuition fees, scholarships, career outcomes, international students, London, 2026 — 配图来源：R2自有图库",
   "width": "1200",

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"中国人民银行\", \"国家金融监督管理总局\", \"货币政策\", \"数字人民币\", \"金融监管\", \"2024-2026\", \"跨境资本\", \"金融科技\"]"
 keywords: "[\"中国人民银行政策\", \"金融监管总局\", \"LPR改革\", \"数字人民币试点\", \"跨境资金流动\", \"金融科技监管\", \"2024-2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/be045e96d35f.jpg"
 draft: false
 
 ---

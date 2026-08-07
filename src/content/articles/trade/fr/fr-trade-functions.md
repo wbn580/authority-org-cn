@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"法国海关\", \"DGDDI\", \"贸易合规\", \"海关职能\", \"2024-2026改革\"]"
 keywords: "[\"法国海关核心职能\", \"DGDDI\", \"贸易立法\", \"法国海关2026\", \"进出口管制\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/318bb2adc7b5.jpg"
 draft: false
 
 ---

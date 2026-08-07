@@ -31,7 +31,7 @@ keywords:
   - "韩国《对外贸易法》修订"
   - "韩国对华出口管制"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/mo-education-overview-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/mo-education-overview-2026-1880x869.jpg"
 draft: false
 
 ---

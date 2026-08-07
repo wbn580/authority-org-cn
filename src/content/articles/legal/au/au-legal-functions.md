@@ -14,7 +14,7 @@ tags:
 keywords:
   - "澳大利亚司法/法务"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/au-legal-functions-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-legal-functions-2026-auto.jpg"
 draft: false
 
 ---
@@ -22,7 +22,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -35,7 +35,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

@@ -14,7 +14,7 @@ tags:
 keywords:
   - "荷兰教育"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/nl-education-functions-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/nl-education-functions-2026-auto.jpg"
 draft: false
 
 ---

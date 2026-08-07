@@ -14,7 +14,7 @@ tags:
 keywords:
   - "德国教育"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/de-education-functions-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/de-education-functions-2026-1880x869.jpg"
 draft: false
 
 ---

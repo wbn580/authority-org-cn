@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:18:27Z'
 slug: 'au-education-contact_guide'
 category: 'education'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
 tags: ["教育部门"]
 ---
 

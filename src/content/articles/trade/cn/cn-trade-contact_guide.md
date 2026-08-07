@@ -24,7 +24,7 @@ keywords:
   - "贸易投诉渠道"
   - "大陆人通关指南"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg"
 draft: false
 
 ---

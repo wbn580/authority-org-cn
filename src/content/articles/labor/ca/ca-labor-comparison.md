@@ -36,7 +36,7 @@ hideFromHome: true
 <!-- R2_IMAGE: three-dimension-framework-study-abroad-destination -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-决策框架/three-dimension-framework-study-abroad-destination-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-决策框架/three-dimension-framework-study-abroad-destination-2026-1880x1253.jpg"
     alt="three-dimension-framework-study-abroad-destination image 1"
     width="1200"
     height="800"
@@ -49,7 +49,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-决策框架/three-dimension-framework-study-abroad-destination-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-决策框架/three-dimension-framework-study-abroad-destination-2026-1880x1253.jpg",
   "name": "three-dimension-framework-study-abroad-destination image 1",
   "description": "three-dimension-framework-study-abroad-destination image 1 — 配图来源：R2自有图库",
   "width": "1200",

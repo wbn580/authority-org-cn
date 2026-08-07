@@ -37,7 +37,7 @@ draft: false
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
     alt="post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs "
     width="1200"
     height="800"
@@ -50,7 +50,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg",
   "name": "post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs ",
   "description": "post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs  — 配图来源：R2自有图库",
   "width": "1200",

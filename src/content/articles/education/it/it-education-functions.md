@@ -14,7 +14,7 @@ tags:
 keywords:
   - "意大利教育"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/it-education-functions-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/it-education-functions-2026-1880x869.jpg"
 draft: false
 
 ---
@@ -58,7 +58,7 @@ dataSources:
   - "2026年MUR战略规划（Documento di Programmazione Strategica 2026-2028）"
   - "ANVUR（意大利国家大学与科研评估署）2025年度报告"
   - "MIUR（现MUR）2022年职能重组说明"
-ogImage: "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+ogImage: "https://img.authority.org.cn/rehost/ed91b7af3067.jpg"
 draft: false
 
 ## 引言

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"中国人民银行\", \"金融监管\", \"机构沿革\", \"中国金融改革\", \"货币政策\"]"
 keywords: "[\"中国人民银行成立\", \"金融监管体制改革\", \"银保监会合并\", \"国家金融监督管理总局\", \"央行职能演变\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/2026-uk-study-abroad-agency-ranking-real-reviews-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/2026-uk-study-abroad-agency-ranking-real-reviews-2026-1880x1253.jpg"
 draft: false
 
 ---

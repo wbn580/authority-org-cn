@@ -14,7 +14,7 @@ tags:
 keywords:
   - "意大利交通/民航"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/it-transport-history-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/it-transport-history-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -22,7 +22,7 @@ draft: false
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    src="https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
     alt="hong-kong-travel-guide-2025 image 1"
     width="1200"
     height="800"
@@ -35,7 +35,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "contentUrl": "https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
   "name": "hong-kong-travel-guide-2025 image 1",
   "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
   "width": "1200",
@@ -60,7 +60,7 @@ draft: false
 **关键词**：意大利交通主管部门，民航管理机构，机构沿革，职能调整，法律基础  
 **中文服务可用性**：是  
 **数据来源**：意大利官方公报，欧盟委员会文件，ENAC年度报告  
-**OG图像**：https://img.ulec.com.cn/authority/uk-tax-functions-2026-1880x1253.jpg  
+**OG图像**：https://img.authority.org.cn/authority/uk-tax-functions-2026-1880x1253.jpg  
 **草稿**：false
 
 ---

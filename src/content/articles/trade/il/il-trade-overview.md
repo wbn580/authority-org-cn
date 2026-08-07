@@ -14,7 +14,7 @@ tags:
 keywords:
   - "以色列贸易/海关"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/il-trade-overview-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/il-trade-overview-2026-auto.jpg"
 draft: false
 
 ---

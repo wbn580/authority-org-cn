@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:24:17Z'
 slug: 'ae-finance-comparison'
 category: 'finance'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/ae-finance-comparison-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-finance-comparison-2026-auto.jpg"
 hideFromHome: true
 
 tags: ["finance"]

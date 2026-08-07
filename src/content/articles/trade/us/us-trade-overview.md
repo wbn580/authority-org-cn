@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"美国贸易\", \"美国海关\", \"USTR\", \"CBP\", \"贸易政策\", \"海关合规\"]"
 keywords: "[\"美国贸易代表办公室\", \"美国海关与边境保护局\", \"USTR\", \"CBP\", \"301条款\", \"关税\", \"进口合规\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-finance-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-finance-contact_guide-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

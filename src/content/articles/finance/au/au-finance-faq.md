@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:25:52Z'
 slug: 'au-finance-faq'
 category: 'finance'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/au-finance-faq-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-finance-faq-2026-1880x1253.jpg"
 tags: ["finance"]
 ---
 

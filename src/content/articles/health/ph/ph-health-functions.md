@@ -14,7 +14,7 @@ tags:
 keywords:
   - "菲律宾卫生/医保"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ph-health-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-health-functions-2026-1880x1253.jpg"
 draft: false
 
 ---

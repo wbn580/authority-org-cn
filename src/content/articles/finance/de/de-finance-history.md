@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"德国央行\", \"德意志联邦银行\", \"BaFin\", \"金融监管\", \"机构沿革\", \"货币政策\", \"银行法\"]"
 keywords: "[\"德国央行历史\", \"Bundesbank改革\", \"BaFin成立\", \"德国金融监管体系\", \"欧洲央行单一监管机制\"]"
 chineseServiceAvailable: false
-ogImage: "https://images.unsplash.com/photo-1585515320310-1a3a5c4d5f5e?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/81e819551bbf.jpg"
 draft: false
 
 ---

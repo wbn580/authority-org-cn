@@ -22,7 +22,7 @@ keywords:
   - "瑞士贸易商中文服务"
   - "瑞士海关申报流程时间"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/2dfb540f06a2.jpg"
 draft: false
 
 ---

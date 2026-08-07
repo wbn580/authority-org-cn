@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"意大利\", \"贸易\", \"海关\", \"ADM\", \"德国海关\", \"法国海关\", \"西班牙海关\", \"跨国对比\", \"制度分析\"]"
 keywords: "[\"意大利海关\", \"ADM\", \"德国海关 Zoll\", \"法国海关 DGDDI\", \"西班牙海关 AEAT\", \"贸易监管对比\", \"数字化\", \"透明度\", \"申诉机制\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+ogImage: "https://img.authority.org.cn/rehost/cfdf225860f9.jpg"
 draft: false
 hideFromHome: true
 

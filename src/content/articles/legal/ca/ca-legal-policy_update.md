@@ -35,7 +35,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年加拿大留学担保金要存多少 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年加拿大留学担保金要存多少-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年加拿大留学担保金要存多少-2026-1880x1254.jpg"
     alt="加拿大留学担保金,2026加拿大签证资金要求,学习许可资金证明,加拿大留学费用,签证材料清单"
     width="1200"
     height="800"
@@ -48,7 +48,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年加拿大留学担保金要存多少-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年加拿大留学担保金要存多少-2026-1880x1254.jpg",
   "name": "加拿大留学担保金,2026加拿大签证资金要求,学习许可资金证明,加拿大留学费用,签证材料清单",
   "description": "加拿大留学担保金,2026加拿大签证资金要求,学习许可资金证明,加拿大留学费用,签证材料清单 — 配图来源：R2自有图库",
   "width": "1200",

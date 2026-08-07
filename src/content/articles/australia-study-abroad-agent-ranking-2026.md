@@ -7,7 +7,7 @@ modDatetime: '2026-06-27T00:00:00Z'
 slug: 'australia-study-abroad-agent-ranking-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1255.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1255.jpg'
 verified: '2026-06-27T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -31,7 +31,7 @@ hideFromHome: true
 
 在讨论任何澳洲留学中介排名之前，首先要抛出一个很多人没听过的缩写：**MARN（Migration Agents Registration Number，澳洲持牌移民代理注册号）**。
 
-![2026 澳洲留学中介排名：不踩坑的 6 个评估维度](https://img.ulec.com.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1255.jpg)
+![2026 澳洲留学中介排名：不踩坑的 6 个评估维度](https://img.authority.org.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1255.jpg)
 
 
 按照澳洲法律规定，只有持有 MARN 的注册移民代理，或者在其直接监督下工作的顾问，才有资格提供有关学生签证（500 签证）、毕业生工作签（485 签证）等签证类别的详细建议。如果一个顾问只聊“申哪所学校”“材料怎么写”，那他可能在留学咨询的范围内；但一涉及到“我这个背景递 GS 陈述能过吗”“选哪个校区对日后 485 二签更有利”，**非持牌顾问的回答其实是不具备法律效力的**。
@@ -88,7 +88,7 @@ hideFromHome: true
 
 2024 年到 2026 年，澳洲学生签证体系处在频繁调整期。GS 要求替代了原有的 GTE，对申请人的学习动机、职业规划、经济背景的审查变得更加精细化；同时，雅思（IELTS）直录和语言班打包项目（Package Program）的要求也在动态变化。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1253.jpg)
 
 
 在这个背景下，**澳洲留学中介排名的评判必须加入一个时效性维度**：这家机构能不能清晰解释新的 GS 逻辑，并指导申请人准备材料，而不是还在沿用过时的“为什么选择澳洲”套路？

@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:14:52Z'
 slug: 'nl-health-contact_guide'
 category: 'health'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/nl-health-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nl-health-contact_guide-2026-1880x1253.jpg"
 tags: ["医疗健康"]
 ---
 

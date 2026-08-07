@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"DHSC\", \"英国卫生部\", \"NHS\", \"机构沿革\", \"卫生改革\", \"健康与社会照护\", \"英国医保\"]"
 keywords: "[\"英国卫生与社会保健部\", \"DHSC\", \"卫生部\", \"NHS改革\", \"2012年健康与社会保健法\", \"2022年健康与照护法\", \"机构重组\", \"法律基础\", \"英国\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/us-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/us-finance-comparison-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

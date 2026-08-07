@@ -29,7 +29,7 @@ keywords:
   - "2026年司法部"
   - "新西兰司法未来展望"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/589fc0cd60b0.jpg"
 draft: false
 
 ---
@@ -37,7 +37,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og-2026-7755x5304.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og-2026-7755x5304.jpg"
     alt=""
     width="1200"
     height="800"
@@ -50,7 +50,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og-2026-7755x5304.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og-2026-7755x5304.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

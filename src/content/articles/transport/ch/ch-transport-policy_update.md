@@ -26,7 +26,7 @@ keywords:
   - "瑞士铁路时刻表调整"
   - "欧洲航空安全局EASA"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/3b91f617e325.jpg"
 draft: false
 
 ---
@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    src="https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
     alt="hong-kong-travel-guide-2025 image 1"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "contentUrl": "https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
   "name": "hong-kong-travel-guide-2025 image 1",
   "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
   "width": "1200",

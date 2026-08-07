@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"西班牙央行\", \"Banco de España\", \"中央银行\", \"金融监管\", \"机构沿革\", \"欧洲央行体系\", \"金融改革\"]"
 keywords: "[\"西班牙央行历史\", \"Banco de España成立\", \"西班牙金融监管改革\", \"欧洲央行体系\", \"西班牙银行法\", \"金融监管机构沿革\"]"
 chineseServiceAvailable: false
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630"
+ogImage: "https://img.authority.org.cn/rehost/20098febb498.jpg"
 draft: false
 
 ---

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"司法部对比\", \"法务部\", \"跨国司法\", \"台湾法务部\", \"日本法务省\", \"韩国法务部\", \"新加坡律政部\", \"德国联邦司法部\"]"
 keywords: "[\"司法部职能\", \"司法监管\", \"司法效率\", \"数字化司法\", \"透明度\", \"申诉机制\", \"大陆人接触度\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+ogImage: "https://img.authority.org.cn/rehost/d43ace66efff.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

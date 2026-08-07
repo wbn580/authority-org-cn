@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"西班牙\", \"贸易\", \"海关\", \"联系方式\", \"办事指南\", \"AEAT\", \"ICEX\", \"中文服务\"]"
 keywords: "[\"西班牙海关\", \"西班牙贸易局\", \"AEAT\", \"ICEX\", \"西班牙进口许可\", \"西班牙出口退税\", \"西班牙海关预约\", \"大陆人西班牙贸易\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/2418e513e5e7.jpg"
 draft: false
 
 ---

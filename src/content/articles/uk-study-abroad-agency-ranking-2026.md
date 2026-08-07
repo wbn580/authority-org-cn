@@ -7,7 +7,7 @@ modDatetime: '2026-07-07T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg'
 verified: '2026-07-07T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -34,7 +34,7 @@ hideFromHome: true
 
 与其被各类“英国留学中介排名”牵着走，不如自己建立一套评估框架。我们基于对近两年成功获取G5录取的学生调研，提炼出以下四维度：
 
-![2026年英国留学中介排名：看G5录取数据，找真正靠谱的机构](https://img.ulec.com.cn/authority/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
+![2026年英国留学中介排名：看G5录取数据，找真正靠谱的机构](https://img.authority.org.cn/authority/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
 
 
 ### 1. 选校定位的颗粒度
@@ -69,7 +69,7 @@ hideFromHome: true
 
 在依据“英国留学中介排名”挑选机构时，家长和学生容易误入以下陷阱：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/uk-study-abroad-agency-ranking-2026-2026-1809x1300.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/uk-study-abroad-agency-ranking-2026-2026-1809x1300.jpg)
 
 
 - **误区一：迷信“保录”承诺**  

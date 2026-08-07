@@ -50,7 +50,7 @@ hideFromHome: true
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
     alt="Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala"
     width="1200"
     height="800"
@@ -63,7 +63,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
   "name": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala",
   "description": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala — 配图来源：R2自有图库",
   "width": "1200",

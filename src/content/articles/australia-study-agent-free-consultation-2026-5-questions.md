@@ -8,7 +8,7 @@ modDatetime: '2026-06-29T00:00:00Z'
 slug: 'australia-study-agent-free-consultation-2026-5-questions'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1058.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1058.jpg'
 verified: '2026-06-29T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -40,7 +40,7 @@ tags:
 
 很多学生和家长在参加澳洲留学中介免费咨询前，最担心的就是被营销话术带着走。其实防被动的办法非常简单：准备一套标准化问题，用对方的回答质量来打分。下面的五个问题，适合在任何一次澳洲留学中介免费咨询中使用，而且几乎不用提前做太多功课。
 
-![澳洲留学中介免费咨询：2026年你必须问清楚的5个问题](https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1058.jpg)
+![澳洲留学中介免费咨询：2026年你必须问清楚的5个问题](https://img.authority.org.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1058.jpg)
 
 
 **问题一：“以我的背景，2026年这几个专业的具体录取均分线是多少？能帮我看一下最近一次录取案例的时间吗？”**
@@ -109,7 +109,7 @@ tags:
 
 经历过一到两次深入的澳洲留学中介免费咨询，你手里已经有了足够的素材来做下一步决定。此时你要回答的核心问题只有一个：我是否真的需要把这套申请流程外包出去？
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1254.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1254.jpg)
 
 
 如果你的目标专业申请流程简单、所需文书较少，且你有充足的时间研究网申系统、跟进签证政策，自己DIY完全可行。但如果你面临以下情况中的两种以上，签约一个在澳洲留学中介免费咨询阶段已经通过质量检验的机构，可能是更稳妥的选择：

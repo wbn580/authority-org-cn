@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[瑞士, 央行, 金融监管, SNB, FINMA, 政策更新, 合规]"
 keywords: "[瑞士央行, SNB, FINMA, 瑞士金融监管, 2024政策, 2025政策, 2026政策, 跨境合规, 大陆人影响, 反洗钱, 资本充足率]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/d4d5c6ed7524.jpg"
 draft: false
 
 ---

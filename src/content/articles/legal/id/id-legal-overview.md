@@ -27,7 +27,7 @@ keywords:
   - "印尼法律中文服务"
   - "印尼法律对中国人影响"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-finance-comparison-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-finance-comparison-2026-auto.jpg"
 draft: false
 
 ---

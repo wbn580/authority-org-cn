@@ -31,7 +31,7 @@ keywords:
   - "KHDA"
   - "2024-2026调整"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-education-functions-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-education-functions-2026-1880x869.jpg"
 draft: false
 
 ---

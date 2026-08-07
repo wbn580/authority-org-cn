@@ -27,7 +27,7 @@ keywords:
   - "法律职业资格"
   - "法律援助"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/jp-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/jp-transport-comparison-2026-1880x1253.jpg"
 draft: false
 
 ---

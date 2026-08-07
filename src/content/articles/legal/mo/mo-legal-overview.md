@@ -14,7 +14,7 @@ tags:
 keywords:
   - "中国澳门司法/法务"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/mo-legal-overview-2026-1280x855.jpg"
+ogImage: "https://img.authority.org.cn/authority/mo-legal-overview-2026-1280x855.jpg"
 draft: false
 
 ---

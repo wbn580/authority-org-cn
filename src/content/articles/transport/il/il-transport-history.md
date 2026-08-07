@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"以色列\", \"交通部\", \"民航局\", \"机构沿革\", \"法律改革\", \"智能交通\"]"
 keywords: "[\"以色列交通部\", \"以色列民航局\", \"机构沿革\", \"法律基础\", \"改革事件\", \"名称变更\", \"未来展望\"]"
 chineseServiceAvailable: false
-ogImage: "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/4ff9af8f3a5a.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg"
     alt="BNO,入籍,英文要求,居住要求,2026,英國簽證,Life in the UK"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg",
   "name": "BNO,入籍,英文要求,居住要求,2026,英國簽證,Life in the UK",
   "description": "BNO,入籍,英文要求,居住要求,2026,英國簽證,Life in the UK — 配图来源：R2自有图库",
   "width": "1200",

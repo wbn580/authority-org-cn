@@ -21,7 +21,7 @@ keywords:
   - "越南全民健康覆盖 2030"
   - "越南医疗政策"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/0546ff9b8fb5.jpg"
 draft: false
 
 ---

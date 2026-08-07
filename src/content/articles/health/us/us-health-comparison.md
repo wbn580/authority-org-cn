@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"美国卫生与公众服务部\", \"HHS\", \"跨国对比\", \"卫生监管\", \"医保体系\", \"NHS\", \"G-BA\", \"厚生劳动省\", \"新加坡MOH\"]"
 keywords: "[\"美国HHS\", \"英国NHS\", \"德国G-BA\", \"日本厚生劳动省\", \"新加坡MOH\", \"卫生主管部门对比\", \"医保监管效率\", \"数字化卫生服务\", \"申诉机制\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/50977beceeec.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
     alt="data-driven-career-support-comparison-chinese-applicants image 1"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
   "name": "data-driven-career-support-comparison-chinese-applicants image 1",
   "description": "data-driven-career-support-comparison-chinese-applicants image 1 — 配图来源：R2自有图库",
   "width": "1200",

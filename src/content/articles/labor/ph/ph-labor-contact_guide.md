@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:32:45Z'
 slug: 'ph-labor-contact_guide'
 category: 'labor'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/ph-labor-contact_guide-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-labor-contact_guide-2026-auto.jpg"
 tags: ["labor"]
 ---
 

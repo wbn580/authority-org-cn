@@ -14,7 +14,7 @@ tags:
 keywords:
   - "瑞士央行/金融"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ch-finance-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-finance-contact_guide-2026-1880x1253.jpg"
 draft: false
 
 ---

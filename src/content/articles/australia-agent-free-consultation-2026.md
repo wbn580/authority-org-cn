@@ -8,7 +8,7 @@ modDatetime: '2026-06-23T00:00:00Z'
 slug: 'australia-agent-free-consultation-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg'
 verified: '2026-06-23T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -34,7 +34,7 @@ tags:
 
 很多同学会把“澳洲留学中介免费咨询”理解为一次完整的留学方案制定会，这其实是把期待放错了地方。现实中，一次20到40分钟的中文或英文初步沟通，通常能解决以下几类问题：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg)
 
 - **背景初评**：根据你目前的均分、学校背景、意向专业，初步判断可以匹配的澳洲大学梯队。比如成绩在85分左右的双非同学，可能被建议关注蒙纳士大学（Monash University）部分商科方向，或者悉尼科技大学（University of Technology Sydney）的热门专业；如果分数在90分以上，则有机会探索墨尔本大学（The University of Melbourne）和新南威尔士大学（UNSW Sydney）的同类课程。
 - **关键指标科普**：QS（世界大学排名）星级、专业认证（如澳大利亚工程师协会EA认证、AACSB商科认证）、各校有条件录取（Conditional Offer）与全额录取的规定差异，这些在咨询中会被简要带出，帮你建立申请常识。
@@ -71,7 +71,7 @@ tags:
 
 把“澳洲留学中介免费咨询”当作一次性事件很可惜，它更适合被当作一个持续校准的动作。以2026年7月主入学季为例，时间线可以这样规划：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-agent-free-consultation-2026-2026-1880x1255.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-agent-free-consultation-2026-2026-1880x1255.jpg)
 
 - **2026年1–2月**：进行首轮免费咨询，明确大致的学校与专业范围，同时报考IELTS或PTE。
 - **2026年3–4月**：拿到语言首考成绩后，做第二轮免费咨询，锁定3–5个目标课程，确认是否满足申请免语言或配语言班的条件。

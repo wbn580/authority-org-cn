@@ -26,7 +26,7 @@ keywords:
   - "大陆人"
   - "实操影响"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/cn-finance-overview-2026-1280x854.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-finance-overview-2026-1280x854.jpg"
 draft: false
 
 ---

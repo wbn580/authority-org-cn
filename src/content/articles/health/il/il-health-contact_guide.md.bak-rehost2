@@ -1,0 +1,206 @@
+---
+title: 以色列卫生部及健康服务组织联系与办事指南（2026年版）
+description: 全面整理以色列卫生部（MOH）及四大健康服务组织（HMOs）的办公地址、联系方式、预约流程、表格清单、费用标准、中文服务及大陆人实操指南。
+category: health
+country: il
+authority: il-health
+articleType: contact_guide
+publishDate: "2026-05-23T10:00:00Z"
+lastVerified: 2026-05-23
+readingTime: 15
+tags: "[\"以色列卫生部\", \"MOH\", \"健康服务组织\", \"Clalit\", \"Maccabi\", \"Meuhedet\", \"Leumit\", \"联系方式\", \"办事指南\", \"大陆人\", \"中文服务\"]"
+keywords: "[\"以色列健康服务\", \"Kupat Holim\", \"健康保险\", \"外国居民就医\", \"中文服务以色列\"]"
+chineseServiceAvailable: true
+ogImage: "https://img.ulec.com.cn/authority/th-health-overview-2026-1880x1253.jpg"
+draft: false
+
+---
+
+
+## 引言
+
+以色列健康服务体系由**以色列卫生部（Ministry of Health, MOH）** 作为中央政府监管机构，以及四家依法运营的**健康服务组织（Health Maintenance Organizations, HMOs，希伯来语称“Kupat Holim”）** 构成。依据以色列1994年《国家健康保险法》（National Health Insurance Law, 5754-1994），所有以色列居民（包括持有A/5类签证及以上的外国工人和永久居民）均须注册加入其中一家HMO，以获得基本医疗服务包（Sal Briut）。截至2026年初，以色列卫生部共认证四家HMO：Clalit健康服务组织（服务约52%人口，约470万人）、Maccabi健康服务组织（约28%人口）、Meuhedet健康服务组织（约12%人口）及Leumit健康服务组织（约8%人口）。本章指南整理主管部门及四大HMO的核心联系信息、办事流程及针对中国大陆居民的实操建议。
+
+## 以色列卫生部（MOH）联系方式与职能
+
+### 总部办公地址与联系方式
+
+以色列卫生部总部位于耶路撒冷，负责制定全国卫生政策、监督HMO运营、管理公立医院及药品审批。
+
+- **办公地址**：39 Yirmiyahu Street, Jerusalem, 9446724, Israel。
+- **总机电话**：+972-2-508-2000。
+- **传真**：+972-2-508-2200。
+- **工作时间**：周日—周四，08:00–16:00（以色列标准时间，周五及犹太节假日关闭）。
+- **官方网站**：https://www.health.gov.il （提供英文及希伯来文界面）。
+- **外籍人士健康咨询专线**：+972-2-508-2000 转接“International Relations Division”（国际关系司），工作日上午09:00–12:00。
+
+### 主要办事窗口及预约方式
+
+- **公共卫生与健康保险司**：处理健康保险注册、投诉及政策解释。建议提前通过官网“Contact Us”表格预约电话或面谈。
+- **外国工人健康服务处**：专门处理非以色列公民（包括大陆工人）的健康保险及医疗投诉。地址与总部相同，需通过电话或邮件预约：foreignworker@moh.gov.il。
+- **预约方式**：官网提供在线预约系统（https://www.health.gov.il/Appointments），可选电话或视频会议；紧急事项可拨打总机后按“9”转接值班官员。
+
+### 常见表格清单（MOH层面）
+
+在以色列卫生部层面，常见的办事表格有以下四种：
+1、 **Form 17（健康保险注册声明）** · 用途：首次注册HMO时向MOH备案 · 获取方式：各HMO发放，MOH官网可下载PDF
+2、 **Foreign Worker Health Insurance Declaration** · 用途：外国工人健康保险合规声明 · 获取方式：MOH官网“Foreign Workers”专区
+3、 **Complaint Form (Tluna)** · 用途：对HMO或公立医院的投诉 · 获取方式：MOH官网“Complaints”栏目在线提交
+4、 **Medical License Verification Request** · 用途：查询医师或医疗机构执业资质 · 获取方式：MOH官网“Professions”栏目
+
+## 四大健康服务组织（HMOs）联系与办事指南
+
+### Clalit健康服务组织
+
+Clalit是以色列最大的HMO，拥有超过14,000名医生和1,400家诊所。
+
+- **客服中心**：*2700（以色列境内免费），海外拨打 +972-3-795-2700。
+- **工作时间**：周日—周四 08:00–20:00，周五 08:00–13:00。
+- **官网预约**：https://www.clalit.co.il/Appointments （支持英文界面）。
+- **主要行政办公室**：101 Arlozorov Street, Tel Aviv, 6209808。
+- **表格清单**：
+  - 注册表（Clalit Registration Form）：首次加入所需，需附身份证/护照及地址证明。
+  - 转诊单（Referral Form, Tipul Rofeh）：由家庭医生开具，用于专科或检查。
+  - 处方续药表（Prescription Renewal）：慢性病患者在线或电话申请。
+- **中文服务**：Clalit在特拉维夫、海法及耶路撒冷部分诊所提供中文翻译服务，需提前48小时通过客服*2700预约。官网提供简体中文版“新移民健康指南”PDF下载。
+
+### Maccabi健康服务组织
+
+Maccabi以数字化服务著称，拥有约250万会员。
+
+- **客服中心**：*3555（以色列境内），海外拨打 +972-3-795-3555。
+- **工作时间**：周日—周四 08:00–22:00，周五 08:00–14:00。
+- **官网预约**：https://www.maccabi4u.co.il/Appointments （英文App“Maccabi4U”亦支持预约）。
+- **主要行政办公室**：27 Hamered Street, Tel Aviv, 6812509。
+- **表格清单**：
+  - 会员注册表（Member Registration Form）：在线提交，需上传护照及签证扫描件。
+  - 第二医疗意见申请表（Second Opinion Request）：需家庭医生签字。
+  - 海外医疗费用报销表（Reimbursement for Overseas Medical Expenses）：限紧急情况，需附原始收据及翻译件。
+- **中文服务**：Maccabi在特拉维夫总部设有中文热线（*3555转接“Chinese Service”），工作日上午09:00–17:00。其手机App提供中文界面选项（2025年12月更新）。
+
+### Meuhedet健康服务组织
+
+Meuhedet规模较小，但在阿拉伯社区及南部地区覆盖广泛。
+
+- **客服中心**：*3833（以色列境内），海外拨打 +972-8-628-3833。
+- **工作时间**：周日—周四 08:00–18:00，周五 08:00–12:00。
+- **官网预约**：https://www.meuhedet.co.il/Appointments （仅希伯来文及阿拉伯文，可致电预约）。
+- **主要行政办公室**：2 HaShikma Street, Be'er Sheva, 8410001。
+- **表格清单**：
+  - 注册申请表（Meuhedet Registration）：可在线填写或前往分支办公室。
+  - 家庭医生变更表（Change of Family Doctor）：每年限变更一次。
+  - 牙科保险附加表（Dental Insurance Add-on）：需额外付费。
+- **中文服务**：Meuhedet未设专门中文服务，但可拨打客服*3833请求三方翻译（通过以色列卫生部“Language Line”服务）。建议大陆居民优先选择Clalit或Maccabi。
+
+### Leumit健康服务组织
+
+Leumit以个性化服务及替代医学覆盖为特色，会员约75万人。
+
+- **客服中心**：*507（以色列境内），海外拨打 +972-3-795-0507。
+- **工作时间**：周日—周四 08:00–19:00，周五 08:00–13:00。
+- **官网预约**：https://www.leumit.co.il/Appointments （英文界面有限）。
+- **主要行政办公室**：23 HaArba'a Street, Tel Aviv, 6473921。
+- **表格清单**：
+  - 会员注册表（Leumit Registration）：需亲签并提交至分支办公室。
+  - 替代医学服务申请表（Alternative Medicine Request）：包括针灸、自然疗法等，需家庭医生推荐。
+  - 药品费用减免申请表（Medication Co-payment Exemption）：针对低收入人群。
+- **中文服务**：Leumit无中文专线，但部分特拉维夫诊所配备中文翻译（需预约时说明）。建议通过客服*507转接英语服务后请求翻译。
+
+## 费用标准与支付方式
+
+### 健康保险月费
+
+根据以色列《国家健康保险法》，健康保险月费由**国家保险协会（Bituach Leumi）** 统一征收，与收入挂钩。2026年标准如下：
+
+- **受雇员工**：月收入的3.1%（雇主承担部分），外加3.1%由员工承担，总计6.2%，但每月上限为1,200新谢克尔（约合330美元）。
+- **自雇人士**：月收入的5.0%，上限1,200新谢克尔。
+- **非就业居民（如学生、退休人员）**：固定费率，2026年为每月210新谢克尔（约58美元）。
+- **外国工人（持B/1签证）**：2026年统一费率为每月180新谢克尔（约50美元），由雇主代扣代缴。
+
+### 自费项目与共付额
+
+- **家庭医生就诊**：免费（属于基本医疗服务包）。
+- **专科医生就诊**：每次共付额（Co-payment）为15-35新谢克尔（约4-10美元），具体视HMO而定。
+- **处方药**：每张处方共付额6-12新谢克尔，慢性病药物封顶每月100新谢克尔。
+- **住院**：公立医院住院每日共付额60新谢克尔（含食宿），最长180天。
+- **牙科（成人）**：基本服务包仅覆盖儿童及青少年（至18岁）。成人牙科需购买附加保险，月费约30-80新谢克尔。
+- **支付方式**：各HMO接受信用卡（Visa/Mastercard）、银行转账及以色列本地电子支付系统（Bit/PayBox）。现金仅限部分诊所柜台。
+
+## 大陆人实操指南（含中文服务可用性）
+
+### 注册与选择HMO
+
+- **步骤一**：抵达以色列后30天内，凭有效护照、签证（B/1工作签证或A/5临时居民签证）及以色列地址证明（租房合同或水电账单）前往任意一家HMO分支办公室注册。
+- **步骤二**：填写注册表（部分HMO支持在线提交）。Clalit及Maccabi提供英文表格，其他HMO仅希伯来文。
+- **步骤三**：选择家庭医生（Rofeh Mishpacha）。建议优先选择位于特拉维夫、海法或耶路撒冷且标注“English/Chinese Speaking”的诊所。
+- **中文服务可用性**：
+  - **Clalit**：在特拉维夫（Rothschild诊所）、海法（Carmel诊所）及耶路撒冷（Jaffa诊所）提供中文翻译服务，需提前48小时预约。客服*2700转接“Chinese Service”后等待时间平均5-10分钟。
+  - **Maccabi**：特拉维夫总部设有中文热线，工作日上午09:00–17:00。其App“Maccabi4U”支持简体中文界面（2026年1月更新）。
+  - **Meuhedet及Leumit**：无专门中文服务，但可通过以色列卫生部“Language Line”免费三方翻译（拨打*2700后按“9”选择“其他语言”）。
+  - **第三方翻译App**：推荐使用“NaTak”或“Google Translate”实时对话功能，部分诊所允许使用。
+
+### 就医流程
+
+1. **预约**：通过HMO App或致电家庭医生诊所。紧急情况（如发热、外伤）可前往“急症诊所”（Merkaz Refuah Dchufa）或拨打急救电话101（Magen David Adom）。
+2. **就诊**：携带身份证（Teudat Zehut）或护照及HMO会员卡。家庭医生开具转诊单后，方可预约专科（如皮肤科、眼科）。
+3. **取药**：凭电子处方前往任何一家持牌药房（Beit Merkachet）。部分慢性病药物需提前在HMO官网申请“Prior Authorization”。
+4. **住院**：由专科医生或急诊医生决定入院。公立医院住院共付额每日60新谢克尔，私立医院需自费或附加保险覆盖。
+
+### 常见问题处理
+
+- **语言障碍**：若遇HMO拒绝提供翻译，可依据以色列《患者权利法》（1996年）第5条要求提供免费口译服务。投诉可致电卫生部“患者权利热线”：+972-2-508-2000转“Patients' Rights”。
+- **账单争议**：若收到额外账单（如未保险项目），需在30天内向HMO提交书面申诉（Form Tluna），HMO须在45天内回复。若未解决，可向卫生部“健康保险专员办公室”投诉。
+- **药品短缺**：2026年以色列部分抗生素及降压药存在供应波动。建议大陆居民携带3个月备用药品，并保留医生处方（英文）以备海关查验。
+
+## 投诉与申诉渠道
+
+### 针对HMO的投诉
+
+- **第一步**：联系HMO内部投诉部门。各HMO承诺在30个工作日内回复。
+  - Clalit：*2700转“Tlunot”或在线提交：https://www.clalit.co.il/Complaints
+  - Maccabi：*3555转“Tlunot”或邮件：tlunot@maccabi4u.co.il
+  - Meuhedet：*3833转“Sherut Tlunot”
+  - Leumit：*507转“Tlunot”
+- **第二步**：若未解决，向卫生部“健康保险专员办公室”（Office of the Health Insurance Commissioner）提交申诉。地址：39 Yirmiyahu Street, Jerusalem。在线表格：https://www.health.gov.il/Complaints/HealthInsurance
+- **第三步**：若涉及医疗事故或执业过失，向卫生部“医疗伦理委员会”（Medical Ethics Committee）投诉，或通过法院提起民事诉讼。
+
+### 针对公立医院的投诉
+
+- **患者权利专员**：每家公立医院设有内部“患者权利专员”（Ombudsman），需在医院前台索取联系方式。
+- **卫生部医院监督司**：电话：+972-2-508-2450，邮件：hospital-supervision@moh.gov.il。
+
+## 处理时效与预期
+
+以下是各项事务的预期处理时间与备注：
+1、 **HMO注册** · 预期处理时间：当天完成（若携带齐全文件） · 备注：部分HMO需3-5个工作日邮寄会员卡
+2、 **家庭医生预约** · 预期处理时间：非紧急：1-3个工作日；紧急：当天 · 备注：通过App预约更快
+3、 **专科医生预约** · 预期处理时间：1-4周（视专科及地区） · 备注：眼科、皮肤科通常排队较长
+4、 **药品处方续药** · 预期处理时间：在线申请后24小时内 · 备注：慢性病药物需提前7天申请
+5、 **投诉处理（HMO内部）** · 预期处理时间：30个工作日 · 备注：可要求加急（紧急医疗情况）
+6、 **投诉处理（卫生部）** · 预期处理时间：60个工作日 · 备注：复杂案件可能延长至90天
+7、 **海外医疗费用报销** · 预期处理时间：45个工作日 · 备注：需提交原始收据及翻译件
+
+## FAQ
+
+### Q1: 大陆居民持短期旅游签证（B/2）能否在以色列就医？
+
+根据以色列《国家健康保险法》第2条，持B/2旅游签证者不属于“居民”，无法注册HMO。游客需购买私人旅行医疗保险（保额建议不低于5万美元），可在私立医院或公立医院自费就诊。急诊情况下，公立医院须提供紧急救治，但后续费用需自行承担。2026年，以色列所有公立医院急诊科均接受信用卡支付。
+
+### Q2: 如何查询某位以色列医生的执业资质？
+
+可通过以色列卫生部“医师注册查询系统”（https://www.health.gov.il/DoctorsRegistry）输入医生姓名或执照编号查询。该系统提供英文界面，显示医生专业、执业状态及是否有纪律处分记录。大陆居民若需认证文件，可联系卫生部“医疗执照认证处”（电话：+972-2-508-2300）。
+
+### Q3: 中文翻译服务是否完全免费？
+
+以色列《患者权利法》（1996年）第5条规定，患者有权在就诊时获得免费口译服务，但该服务由HMO或医院提供，并非所有机构均配备中文翻译。Clalit及Maccabi在指定诊所提供免费中文翻译（需预约）。其他情况下，患者可要求通过“Language Line”电话翻译，该服务对患者免费。私人翻译服务（如聘请独立口译员）费用自理，约每小时150-300新谢克尔。
+
+## 参考资料
+
+1. 以色列卫生部官方网站. "National Health Insurance Law, 5754-1994." 访问日期：2026年5月. https://www.health.gov.il/Legislation/Pages/NationalHealthInsuranceLaw.aspx
+2. Clalit健康服务组织. "Member Services and Registration Guide." 2026年更新. https://www.clalit.co.il/English/Pages/default.aspx
+3. Maccabi健康服务组织. "International Members and Chinese Services." 2026年1月公告. https://www.maccabi4u.co.il/English/Pages/ChineseService.aspx
+4. Meuhedet健康服务组织. "Branch Locations and Contact Information." 2026年4月更新. https://www.meuhedet.co.il/English/Pages/ContactUs.aspx
+5. Leumit健康服务组织. "Membership and Health Insurance Information." 2026年3月公告. https://www.leumit.co.il/English/Pages/default.aspx
+6. 以色列国家保险协会（Bituach Leumi）. "Health Insurance Premium Rates for 2026." 2025年12月发布. https://www.btl.gov.il/English/Pages/default.aspx
+7. 以色列《患者权利法》（1996年）. 卫生部法律数据库. https://www.health.gov.il/Legislation/Pages/PatientRightsLaw.aspx
+8. 以色列卫生部. "Foreign Workers Health Services Guide." 2026年2月更新. https://www.health.gov.il/English/Topics/ForeignWorkers/Pages/default.aspx

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"德国教育\", \"BMBF\", \"联邦教育与研究部\", \"机构沿革\", \"高等教育\", \"职业教育\", \"数字化转型\"]"
 keywords: "[\"德国联邦教育与研究部\", \"BMBF历史\", \"德国教育政策\", \"高校公约\", \"职业教育改革\", \"数字教育\"]"
 chineseServiceAvailable: false
-ogImage: "https://img.ulec.com.cn/authority/de-education-history-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/de-education-history-2026-1880x869.jpg"
 draft: false
 
 ---

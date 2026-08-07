@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"西班牙金融监管\", \"BdE\", \"CNMV\", \"MiCA\", \"反洗钱\", \"跨境支付\", \"2026政策\"]"
 keywords: "[\"西班牙央行政策2026\", \"CNMV加密货币监管\", \"西班牙反洗钱法案\", \"大陆人西班牙开户\", \"MiCA西班牙实施\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/9f281f99a808.jpg"
 draft: false
 
 ---

@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: backfill-ucl-2026-fees-scholarships--career-outco -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg"
+    src="https://img.authority.org.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg"
     alt="UCL, tuition fees, scholarships, career outcomes, international students, London, 2026"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg",
   "name": "UCL, tuition fees, scholarships, career outcomes, international students, London, 2026",
   "description": "UCL, tuition fees, scholarships, career outcomes, international students, London, 2026 — 配图来源：R2自有图库",
   "width": "1200",

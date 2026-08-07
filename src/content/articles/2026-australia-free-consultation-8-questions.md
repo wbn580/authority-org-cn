@@ -8,7 +8,7 @@ modDatetime: '2026-07-12T00:00:00Z'
 slug: '2026-australia-free-consultation-8-questions'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/2026-australia-free-consultation-8-questions-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/2026-australia-free-consultation-8-questions-2026-1880x1253.jpg'
 verified: '2026-07-12T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -58,7 +58,7 @@ tags:
 
 一次免费咨询结束之后，你怎么知道刚才聊的那位是不是值得托付申请？不一定靠感觉，以下四个信号能帮你把主观印象变成可验证的标准。
 
-![2026年澳洲留学中介免费咨询：先问透这8个问题，再决定签约](https://img.ulec.com.cn/authority/2026-australia-free-consultation-8-questions-2026-1880x1253.jpg)
+![2026年澳洲留学中介免费咨询：先问透这8个问题，再决定签约](https://img.authority.org.cn/authority/2026-australia-free-consultation-8-questions-2026-1880x1253.jpg)
 
 
 **信号一：是否主动说明 MARN 或机构资质。** 在澳大利亚从事移民代理服务必须持有注册移民代理编号（Migration Agents Registration Number，MARN），许多专注于澳洲业务的留学顾问也同步持有此牌照。如果讨论内容涉及实质性签证建议，对方却始终不提自己的牌照信息，甚至回避你的直接询问，这是一个明确的危险信号。

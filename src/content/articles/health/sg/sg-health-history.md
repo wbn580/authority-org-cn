@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"新加坡\", \"卫生部\", \"医保\", \"机构沿革\", \"医疗改革\", \"公共卫生\", \"智慧健康\"]"
 keywords: "[\"新加坡卫生部\", \"MOH\", \"医保制度\", \"医疗改革历史\", \"卫生政策\", \"机构变迁\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/119ebd64a96a.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

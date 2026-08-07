@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"越南\", \"移民\", \"签证\", \"公安部\", \"出入境管理\", \"机构沿革\", \"法律改革\"]"
 keywords: "[\"越南移民局\", \"公安部出入境管理局\", \"越南签证政策\", \"外国人出入境法\", \"移民总局\", \"机构沿革\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ph-immigration-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-immigration-overview-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
     alt="186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
   "name": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR",
   "description": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR — 配图来源：R2自有图库",
   "width": "1200",

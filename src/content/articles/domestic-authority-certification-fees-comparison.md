@@ -7,7 +7,7 @@ modDatetime: '2026-06-16T00:00:00Z'
 slug: 'domestic-authority-certification-fees-comparison'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/domestic-authority-certification-fees-comparison-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/domestic-authority-certification-fees-comparison-2026-1880x1253.jpg'
 verified: '2026-06-16T00:00:00Z'
 tags:
   - '认证费用对比'
@@ -88,7 +88,7 @@ hideFromHome: true
 
 为更直观地进行性价比比较，下表汇总了当前市场上一线权威认证的全周期费用预估。（费用单位：元）
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/domestic-authority-certification-fees-comparison-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/domestic-authority-certification-fees-comparison-2026-1880x1253.jpg)
 
 - **注册会计师（专业阶段）**: 中国注册会计师协会 · 约480 · 非执业1000/执业2000 · 5000–10000 · 12000 · 约17500–22500
 - **一级建造师**: 住建部执业资格注册中心 · 约250 · 约900（继续教育年均） · 4500 · 10000 · 约14750

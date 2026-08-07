@@ -14,7 +14,7 @@ tags:
 keywords:
   - "意大利司法/法务"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/it-legal-functions-2026-1280x855.jpg"
+ogImage: "https://img.authority.org.cn/authority/it-legal-functions-2026-1280x855.jpg"
 draft: false
 
 ---

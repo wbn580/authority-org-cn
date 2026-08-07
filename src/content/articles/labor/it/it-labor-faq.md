@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"意大利劳工\",\"意大利就业\",\"INPS\",\"MLPS\",\"工作许可\",\"社保缴纳\"]"
 keywords: "[\"意大利劳工部\",\"意大利社保\",\"意大利失业金\",\"意大利工作合同\",\"意大利中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/44efe311854d.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
     alt="澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
   "name": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作",
   "description": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作 — 配图来源：R2自有图库",
   "width": "1200",

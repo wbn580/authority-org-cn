@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"英国央行\", \"英格兰银行\", \"金融行为监管局\", \"FCA\", \"审慎监管局\", \"PRA\", \"英国金融监管\", \"宏观审慎政策\", \"数字货币监管\"]"
 keywords: "[\"英国央行\", \"英格兰银行\", \"FCA\", \"PRA\", \"金融监管\", \"英国金融体系\", \"跨境金融\", \"反洗钱\", \"开放银行\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/b70079f2c7c5.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

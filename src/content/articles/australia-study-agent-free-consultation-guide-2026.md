@@ -8,7 +8,7 @@ modDatetime: '2026-06-28T00:00:00Z'
 slug: 'australia-study-agent-free-consultation-guide-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1254.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1254.jpg'
 verified: '2026-06-28T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -37,7 +37,7 @@ tags:
 
 想用好**澳洲留学中介免费咨询**，就得先理解它的商业逻辑。澳洲大学给教育代理机构的佣金体系非常成熟，本科和授课型硕士项目普遍有佣金，金额大致相当于第一学期学费的一部分。只要学生通过中介注册入学并完成一定时间的学习，学校就会向中介支付这笔费用。
 
-![2026年澳洲留学中介免费咨询全流程：先问清这5件事再签约](https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1254.jpg)
+![2026年澳洲留学中介免费咨询全流程：先问清这5件事再签约](https://img.authority.org.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1254.jpg)
 
 
 也就是说，免费咨询的本质是**中介用前期的免费劳动换取你最终入读后的佣金收入**。这种模式本身没问题，但它自然会带来两个倾向：
@@ -91,7 +91,7 @@ tags:
 
 很多学生和家长做完**澳洲留学中介免费咨询**，记住了一个“平均每年30–40万人民币”的总数，就把它当成了决策依据。但实际上，悉尼、墨尔本、布里斯班、阿德莱德和珀斯的生活成本差异可能高达15–20%，而免费咨询里给出的费用预估有时用的是好几年前的样本数据。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1255.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1255.jpg)
 
 
 来做一组简单的对比：

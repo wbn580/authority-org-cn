@@ -27,7 +27,7 @@ keywords:
   - "国际学生医疗保险"
   - "中国大陆人士就医"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/0546ff9b8fb5.jpg"
 draft: false
 
 ---
@@ -35,7 +35,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年新西兰留学毕业后工签时长是多久 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg"
     alt="新西兰, 毕业后工签, 2026, 工签时长, 国际学生, 留学工作"
     width="1200"
     height="800"
@@ -48,7 +48,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg",
   "name": "新西兰, 毕业后工签, 2026, 工签时长, 国际学生, 留学工作",
   "description": "新西兰, 毕业后工签, 2026, 工签时长, 国际学生, 留学工作 — 配图来源：R2自有图库",
   "width": "1200",

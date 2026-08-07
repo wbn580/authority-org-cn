@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:29:35Z'
 slug: 'id-legal-contact_guide'
 category: 'legal'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/id-legal-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/id-legal-contact_guide-2026-1880x1253.jpg"
 tags: ["legal"]
 ---
 

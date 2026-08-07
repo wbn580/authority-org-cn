@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"泰国税务\", \"税收厅\", \"机构沿革\", \"税务改革\", \"泰国财政部\"]"
 keywords: "[\"泰国税收厅\", \"Revenue Department Thailand\", \"泰国税务机构历史\", \"泰国税法改革\", \"泰国税务现代化\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/5687c3c519ad.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    src="https://img.authority.org.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
     alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
   "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
   "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
   "width": "1200",

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"阿联酋交通\",\"阿联酋民航\",\"GCAA\",\"机构沿革\",\"交通部\",\"基础设施\",\"民航改革\"]"
 keywords: "[\"阿联酋交通主管部门\",\"阿联酋民航局(GCAA)\",\"能源与基础设施部\",\"联邦交通管理局\",\"阿联酋航空政策\",\"民航法律基础\",\"机构职能调整\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/3b91f617e325.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    src="https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
     alt="hong-kong-travel-guide-2025 image 1"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "contentUrl": "https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
   "name": "hong-kong-travel-guide-2025 image 1",
   "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
   "width": "1200",

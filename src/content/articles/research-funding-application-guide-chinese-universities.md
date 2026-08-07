@@ -7,7 +7,7 @@ modDatetime: '2026-07-13T00:00:00Z'
 slug: 'research-funding-application-guide-chinese-universities'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/research-funding-application-guide-chinese-universities-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/research-funding-application-guide-chinese-universities-2026-1880x1253.jpg'
 verified: '2026-07-13T00:00:00Z'
 tags:
   - '科研经费申请'
@@ -31,7 +31,7 @@ tags:
 
 选题决定了申请书的“天花板”。无论是国自然还是重点研发计划，评审专家面对大量本子时，最先筛掉的就是与项目定位不符或问题陈旧的选题。遵循以下三条原则，可以从源头提升命中率。
 
-![高校教师科研经费申请全流程指南：国家自然科学基金与重点研发计划对比、步骤与成功率提升策略](https://img.ulec.com.cn/authority/research-funding-application-guide-chinese-universities-2026-1880x1253.jpg)
+![高校教师科研经费申请全流程指南：国家自然科学基金与重点研发计划对比、步骤与成功率提升策略](https://img.authority.org.cn/authority/research-funding-application-guide-chinese-universities-2026-1880x1253.jpg)
 
 
 **第一，踩准学科“政策窗口”。** 每年的《国家自然科学基金项目指南》会列出优先资助领域和学科代码，这些是基金委根据科学前沿和国家需求凝练的方向。例如近年来的“人工智能驱动的科学研究”“量子信息”“碳中和关键技术”等均持续获得倾斜。但仅看指南还不够，更要研究近三年该学科方向的资助率变化，避开已经过度拥挤且资助率陡降的代码。科技部重点研发计划则每年发布专项申报指南，其中明确研究目标和考核指标，选题必须紧密贴合指南，不可偏离。
@@ -82,7 +82,7 @@ tags:
 
 除了做好单次申请的“规定动作”，有经验的申请者还会从更宏观的层面经营自己的申请生涯。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/research-funding-application-guide-chinese-universities-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/research-funding-application-guide-chinese-universities-2026-1880x1253.jpg)
 
 
 **策略一：建立“导师-同行”双重反馈机制。** 申请书初稿写完后，不要仅给导师或领导看。找两位本领域的同事和一位外行学者分别阅读：前者判断专业深度，后者检验逻辑清晰度。外行如果能看懂你的研究动机和基本方法，说明写作成功了。反复修改至提交前的最后几天，常会出现新的灵感。

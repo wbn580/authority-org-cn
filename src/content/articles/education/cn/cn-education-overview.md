@@ -29,7 +29,7 @@ keywords:
   - "中文服务"
   - "大陆居民教育影响"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-tax-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-tax-overview-2026-1880x1253.jpg"
 draft: false
 
 ---

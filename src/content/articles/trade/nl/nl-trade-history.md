@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"荷兰\", \"贸易政策\", \"海关\", \"机构改革\", \"Belastingdienst\", \"Douane\", \"RVO\"]"
 keywords: "[\"荷兰海关\", \"贸易主管部门\", \"机构沿革\", \"职能调整\", \"法律基础\", \"改革事件\", \"名称变更\", \"未来展望\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/261155a46c56.jpg"
 draft: false
 
 ---

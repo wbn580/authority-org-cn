@@ -25,7 +25,7 @@ keywords:
   - "金融科技监管"
   - "菲律宾金融体系"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1585518419759-7b9a8e3f1b1a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/a007d92b7346.jpg"
 draft: false
 
 ---

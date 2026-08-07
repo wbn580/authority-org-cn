@@ -25,7 +25,7 @@ keywords:
   - "泰国2026法律"
   - "泰国跨境合作"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/au-health-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-health-functions-2026-1880x1253.jpg"
 draft: false
 
 ---

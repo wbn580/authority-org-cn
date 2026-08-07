@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"法国央行\", \"法兰西银行\", \"ACPR\", \"金融监管\", \"欧洲央行\", \"银行法\", \"保险监管\", \"反洗钱\"]"
 keywords: "[\"Banque de France\", \"ACPR\", \"法国金融监管\", \"法国央行\", \"法国银行开户\", \"法国金融立法\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/au-transport-history-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-transport-history-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg"
     alt="chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg",
   "name": "chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố",
   "description": "chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố — 配图来源：R2自有图库",
   "width": "1200",

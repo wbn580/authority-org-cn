@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"新加坡\", \"劳工部\", \"人力部\", \"MOM\", \"就业政策\", \"工作准证\", \"外籍劳工\", \"劳动法\", \"2026\"]"
 keywords: "[\"新加坡人力部\", \"MOM\", \"新加坡工作准证\", \"Employment Act\", \"外籍劳工税\", \"2026年政策\", \"COMPASS框架\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/sg-labor-overview-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/sg-labor-overview-2026-auto.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
     alt="Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
   "name": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala",
   "description": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala — 配图来源：R2自有图库",
   "width": "1200",

@@ -7,7 +7,7 @@ modDatetime: '2026-06-17T00:00:00Z'
 slug: 'domestic-authoritative-body-certification-material-checklist-common-rejections'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/domestic-authoritative-body-certification-material-checklist-common-rejections-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/domestic-authoritative-body-certification-material-checklist-common-rejections-2026-1880x1253.jpg'
 verified: '2026-06-17T00:00:00Z'
 tags:
   - '权威机构认证'
@@ -79,7 +79,7 @@ tags:
 
 检测报告是产品认证的核心，也是退件重灾区，约三成退件与该类问题相关：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/domestic-authoritative-body-certification-material-checklist-common-rejections-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/domestic-authoritative-body-certification-material-checklist-common-rejections-2026-1880x1253.jpg)
 
 - **检测报告未覆盖全部申请型号与参数**：企业申请认证系列产品，但报告仅做了代表性型号试验，未按认证规则提供完整的覆盖说明或差异声明。许多实施细则要求每一型号均需对应检测，企业想当然地以为主检覆盖辅检，结果被退回。
 - **标准版本问题**：报告引用的GB或行业标准版本已废止，新版本自实施日起旧版过渡期结束，但企业仍沿用旧标准送检。认证机构对标准有效性审核极严，只要过期一日就退件。

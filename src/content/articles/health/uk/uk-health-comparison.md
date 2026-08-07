@@ -36,7 +36,7 @@ hideFromHome: true
 <!-- R2_IMAGE: international-student-health-insurance-guide-2025 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学/international-student-health-insurance-guide-2025-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/留学/international-student-health-insurance-guide-2025-2026-1880x1254.jpg"
     alt="international-student-health-insurance-guide-2025 image 1"
     width="1200"
     height="800"
@@ -49,7 +49,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学/international-student-health-insurance-guide-2025-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学/international-student-health-insurance-guide-2025-2026-1880x1254.jpg",
   "name": "international-student-health-insurance-guide-2025 image 1",
   "description": "international-student-health-insurance-guide-2025 image 1 — 配图来源：R2自有图库",
   "width": "1200",

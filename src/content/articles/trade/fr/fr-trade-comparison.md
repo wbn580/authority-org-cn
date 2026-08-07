@@ -14,7 +14,7 @@ tags:
 keywords:
   - "法国贸易/海关"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/fr-trade-comparison-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-trade-comparison-2026-auto.jpg"
 draft: false
 hideFromHome: true
 

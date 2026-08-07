@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"法国\", \"海关\", \"贸易\", \"DGDDI\", \"DGCCRF\", \"进出口\", \"欧盟关税\", \"中文服务\"]"
 keywords: "[\"法国海关\", \"法国贸易主管部门\", \"DGDDI\", \"DGCCRF\", \"法国进口清关\", \"法国贸易法规\", \"大陆企业法国出口\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/f4830d5d06fa.jpg"
 draft: false
 
 ---

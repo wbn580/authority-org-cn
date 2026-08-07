@@ -31,7 +31,7 @@ keywords:
   - "养老基金监管"
   - "2026年意大利金融改革"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3"
+ogImage: "https://img.authority.org.cn/rehost/93bd3d5642c1.jpg"
 draft: false
 
 ---

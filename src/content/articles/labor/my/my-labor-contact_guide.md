@@ -26,7 +26,7 @@ keywords:
   - "大陆人工作签证"
   - "马来西亚就业指南"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/f7ba74ee2114.jpg"
 draft: false
 
 ---
@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
     alt=""
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

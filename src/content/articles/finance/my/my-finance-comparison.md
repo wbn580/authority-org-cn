@@ -38,7 +38,7 @@ keywords:
   - "申诉机制"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/33d824cf2d37.jpg"
 draft: false
 hideFromHome: true
 
@@ -47,7 +47,7 @@ hideFromHome: true
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-大学决策/uk-hk-singapore-business-master-comparison-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-大学决策/uk-hk-singapore-business-master-comparison-2026-1880x1253.jpg"
     alt="uk-hk-singapore-business-master-comparison image 2"
     width="1200"
     height="800"
@@ -60,7 +60,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-大学决策/uk-hk-singapore-business-master-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-大学决策/uk-hk-singapore-business-master-comparison-2026-1880x1253.jpg",
   "name": "uk-hk-singapore-business-master-comparison image 2",
   "description": "uk-hk-singapore-business-master-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

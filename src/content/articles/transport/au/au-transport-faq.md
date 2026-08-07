@@ -30,7 +30,7 @@ draft: false
 <!-- R2_IMAGE: navigating-uk-university-accommodation-contracts-key-clauses -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/navigating-uk-university-accommodation-contracts-key-clauses-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/navigating-uk-university-accommodation-contracts-key-clauses-2026-1880x1253.jpg"
     alt="UK university city-life guide image"
     width="1200"
     height="800"
@@ -43,7 +43,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/navigating-uk-university-accommodation-contracts-key-clauses-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/navigating-uk-university-accommodation-contracts-key-clauses-2026-1880x1253.jpg",
   "name": "UK university city-life guide image",
   "description": "UK university city-life guide image — 配图来源：R2自有图库",
   "width": "1200",

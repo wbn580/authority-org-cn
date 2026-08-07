@@ -36,7 +36,7 @@ hideFromHome: true
 <!-- R2_IMAGE: asia-miles-southeast-asia-business-class-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/航旅-信用卡/asia-miles-southeast-asia-business-class-comparison-2026-1880x1172.jpg"
+    src="https://img.authority.org.cn/航旅-信用卡/asia-miles-southeast-asia-business-class-comparison-2026-1880x1172.jpg"
     alt="asia-miles-southeast-asia-business-class-comparison image 2"
     width="1200"
     height="800"
@@ -49,7 +49,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/航旅-信用卡/asia-miles-southeast-asia-business-class-comparison-2026-1880x1172.jpg",
+  "contentUrl": "https://img.authority.org.cn/航旅-信用卡/asia-miles-southeast-asia-business-class-comparison-2026-1880x1172.jpg",
   "name": "asia-miles-southeast-asia-business-class-comparison image 2",
   "description": "asia-miles-southeast-asia-business-class-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

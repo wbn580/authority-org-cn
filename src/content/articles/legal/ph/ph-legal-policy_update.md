@@ -25,7 +25,7 @@ keywords:
   - "大陆人签证合规"
   - "菲律宾司法改革"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/589fc0cd60b0.jpg"
 draft: false
 
 ---
@@ -33,7 +33,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
     alt="186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR"
     width="1200"
     height="800"
@@ -46,7 +46,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
   "name": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR",
   "description": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR — 配图来源：R2自有图库",
   "width": "1200",

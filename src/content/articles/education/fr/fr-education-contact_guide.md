@@ -24,7 +24,7 @@ keywords:
   - "中文服务法国"
   - "大陆人法国教育"
 chineseServiceAvailable: 部分省级教育局（Rectorat）提供中文电话翻译服务；全国统一热线无中文专线。
-ogImage: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+ogImage: "https://img.authority.org.cn/rehost/d9bce3c05825.jpg"
 draft: false
 
 ---

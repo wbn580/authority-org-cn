@@ -26,7 +26,7 @@ keywords:
   - "中国大陆驾照使用"
   - "2026年动态"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ph-health-overview-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-health-overview-2026-auto.jpg"
 draft: false
 
 ---
@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年马来西亚留学一年学费生活费大概多少 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年马来西亚留学一年学费生活费大概多少-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年马来西亚留学一年学费生活费大概多少-2026-1880x1254.jpg"
     alt="马来西亚留学费用,2026学费,生活费,本科费用,硕士费用,留学预算"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年马来西亚留学一年学费生活费大概多少-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年马来西亚留学一年学费生活费大概多少-2026-1880x1254.jpg",
   "name": "马来西亚留学费用,2026学费,生活费,本科费用,硕士费用,留学预算",
   "description": "马来西亚留学费用,2026学费,生活费,本科费用,硕士费用,留学预算 — 配图来源：R2自有图库",
   "width": "1200",

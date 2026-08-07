@@ -31,7 +31,7 @@ keywords:
   - "无人机管理"
   - "电子旅行授权"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/uk-transport-policy_update-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-transport-policy_update-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -39,7 +39,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg"
     alt="BNO,入籍,英文要求,居住要求,2026,英國簽證,Life in the UK"
     width="1200"
     height="800"
@@ -52,7 +52,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種-2026-1880x1253.jpg",
   "name": "BNO,入籍,英文要求,居住要求,2026,英國簽證,Life in the UK",
   "description": "BNO,入籍,英文要求,居住要求,2026,英國簽證,Life in the UK — 配图来源：R2自有图库",
   "width": "1200",

@@ -28,7 +28,7 @@ keywords:
   - "荷兰科学政策"
   - "荷兰教育机构重组"
 chineseServiceAvailable: false
-ogImage: "https://img.ulec.com.cn/authority/it-legal-functions-2026-1280x855.jpg"
+ogImage: "https://img.authority.org.cn/authority/it-legal-functions-2026-1280x855.jpg"
 draft: false
 
 ---

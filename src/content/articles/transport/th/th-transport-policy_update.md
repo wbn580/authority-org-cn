@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年德国留学保证金涨到多少了 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年德国留学保证金涨到多少了-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年德国留学保证金涨到多少了-2026-1880x1253.jpg"
     alt="德国留学保证金,2026德国自保金,德国签证资金证明,德国留学费用,德国留学生活费"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年德国留学保证金涨到多少了-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年德国留学保证金涨到多少了-2026-1880x1253.jpg",
   "name": "德国留学保证金,2026德国自保金,德国签证资金证明,德国留学费用,德国留学生活费",
   "description": "德国留学保证金,2026德国自保金,德国签证资金证明,德国留学费用,德国留学生活费 — 配图来源：R2自有图库",
   "width": "1200",

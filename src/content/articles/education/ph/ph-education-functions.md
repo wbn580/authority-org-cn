@@ -14,7 +14,7 @@ tags:
 keywords:
   - "菲律宾教育"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ph-education-functions-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-education-functions-2026-1880x869.jpg"
 draft: false
 
 ---

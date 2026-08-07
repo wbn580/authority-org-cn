@@ -31,7 +31,7 @@ keywords:
   - "中文服务"
   - "法律改革委员会"
 chineseServiceAvailable: 是
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/584d85c4c867.jpg"
 draft: false
 
 ---
@@ -39,7 +39,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -52,7 +52,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

@@ -28,7 +28,7 @@ keywords:
   - "阿联酋交通安全"
   - "GCAA执法"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/a152ab4be16c.jpg"
 draft: false
 
 ---
@@ -36,7 +36,7 @@ draft: false
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    src="https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
     alt="hong-kong-travel-guide-2025 image 1"
     width="1200"
     height="800"
@@ -49,7 +49,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "contentUrl": "https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
   "name": "hong-kong-travel-guide-2025 image 1",
   "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
   "width": "1200",

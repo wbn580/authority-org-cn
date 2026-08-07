@@ -29,7 +29,7 @@ keywords:
   - "德国央行中文服务"
   - "大陆人德国金融监管影响"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/6583dc615829.jpg"
 draft: false
 
 ---

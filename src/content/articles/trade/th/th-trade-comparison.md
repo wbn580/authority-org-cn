@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"泰国贸易\", \"海关对比\", \"新加坡海关\", \"德国海关\", \"澳大利亚海关\", \"南非海关\", \"贸易监管\", \"数字化\", \"透明度\"]"
 keywords: "[\"泰国海关\", \"跨国对比\", \"贸易主管部门\", \"职能差异\", \"监管效率\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/nl-legal-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nl-legal-overview-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
     alt="top-50-universities-international-tuition-fees-comparison image 2"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
   "name": "top-50-universities-international-tuition-fees-comparison image 2",
   "description": "top-50-universities-international-tuition-fees-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

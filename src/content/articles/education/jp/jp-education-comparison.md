@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"日本教育\", \"文部科学省\", \"韩国教育部\", \"德国KMK\", \"澳大利亚教育部\", \"跨国比较\", \"教育监管\", \"教育数字化\", \"申诉机制\"]"
 keywords: "[\"日本文部科学省\", \"韩国教育部\", \"德国文教部长联席会议\", \"澳大利亚教育部\", \"教育制度比较\", \"教育监管效率\", \"大陆人教育接触\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+ogImage: "https://img.authority.org.cn/rehost/29a7145b0aae.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:34:48Z'
 slug: 'il-labor-contact_guide'
 category: 'labor'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/il-labor-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/il-labor-contact_guide-2026-1880x1253.jpg"
 tags: ["labor"]
 ---
 

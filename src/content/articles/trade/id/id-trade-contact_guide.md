@@ -27,7 +27,7 @@ keywords:
   - "印尼投诉申诉"
   - "印尼贸易表格"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+ogImage: "https://img.authority.org.cn/rehost/5766256a6d2e.jpg"
 draft: false
 
 ---

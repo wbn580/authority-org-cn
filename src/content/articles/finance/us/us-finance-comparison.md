@@ -14,7 +14,7 @@ tags:
 keywords:
   - "美国央行/金融"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/us-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/us-finance-comparison-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 
@@ -23,7 +23,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -36,7 +36,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

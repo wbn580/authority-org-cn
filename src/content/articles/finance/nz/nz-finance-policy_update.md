@@ -30,7 +30,7 @@ keywords:
   - "RBNZ BS2 资本框架 2025"
   - "新西兰 海外投资者 金融监管 2026"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3"
+ogImage: "https://img.authority.org.cn/rehost/375ca6e0e6c4.jpg"
 draft: false
 
 ---
@@ -38,7 +38,7 @@ draft: false
 <!-- R2_IMAGE: 投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
+    src="https://img.authority.org.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
     alt="投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073"
     width="1200"
     height="800"
@@ -51,7 +51,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
   "name": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073",
   "description": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073 — 配图来源：R2自有图库",
   "width": "1200",

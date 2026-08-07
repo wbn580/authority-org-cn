@@ -25,7 +25,7 @@ keywords:
   - "阿联酋中文法律服务"
   - "阿联酋外国人民事诉讼"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/fr-immigration-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-immigration-contact_guide-2026-1880x1253.jpg"
 draft: false
 
 ---

@@ -31,7 +31,7 @@ keywords:
   - "韩国金融科技监管沙盒"
   - "韩国金融消费者保护法"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+ogImage: "https://img.authority.org.cn/rehost/8c40fca0d39f.jpg"
 draft: false
 
 ---

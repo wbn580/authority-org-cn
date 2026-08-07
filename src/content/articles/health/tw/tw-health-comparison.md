@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:13:50Z'
 slug: 'tw-health-comparison'
 category: 'health'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/tw-health-comparison-2026-1280x876.jpg"
+ogImage: "https://img.authority.org.cn/authority/tw-health-comparison-2026-1280x876.jpg"
 hideFromHome: true
 
 tags: ["医疗健康"]

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"韩国金融监管\", \"韩国央行\", \"金融委员会\", \"外汇政策\", \"虚拟资产\", \"资本市场\", \"2024-2026政策\"]"
 keywords: "[\"韩国金融政策更新\", \"外汇交易申报\", \"虚拟资产用户保护法\", \"FSC\", \"BOK利率\", \"大陆人韩国投资\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/id-finance-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/id-finance-overview-2026-1880x1253.jpg"
 draft: false
 
 ---

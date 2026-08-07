@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"西班牙教育\", \"机构沿革\", \"教育政策\", \"LOMLOE\", \"LODE\", \"LOGSE\", \"教育权力下放\"]"
 keywords: "[\"西班牙教育部\", \"Ministerio de Educación\", \"教育史\", \"教育改革\", \"LOMLOE\", \"教育权力下放\", \"西班牙教育体系\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+ogImage: "https://img.authority.org.cn/rehost/402996508c1b.jpg"
 draft: false
 
 ---

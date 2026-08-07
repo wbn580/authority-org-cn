@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"日本贸易\", \"海关\", \"通商产业省\", \"经济产业省\", \"关税局\", \"机构沿革\", \"贸易政策\", \"法律基础\"]"
 keywords: "[\"日本贸易主管部门\", \"日本海关机构沿革\", \"通商产业省历史\", \"经济产业省改革\", \"关税法修订\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1058.jpg"
+ogImage: "https://img.authority.org.cn/authority/australia-study-agent-free-consultation-2026-5-questions-2026-1880x1058.jpg"
 draft: false
 
 ---

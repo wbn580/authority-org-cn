@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"法国司法部\", \"法国法律服务\", \"法国法院\", \"法国法律援助\", \"中文服务\"]"
 keywords: "[\"法国司法主管部门\", \"法国法院联系方式\", \"法国诉讼费用\", \"法国法律援助条件\", \"法国司法程序时限\", \"法国中文法律服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/589fc0cd60b0.jpg"
 draft: false
 
 ---

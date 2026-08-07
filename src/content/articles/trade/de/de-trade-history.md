@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"德国\", \"贸易\", \"海关\", \"机构沿革\", \"关税同盟\", \"数字化\", \"改革\"]"
 keywords: "[\"德国海关\", \"联邦财政部海关总署\", \"Zoll\", \"德意志关税同盟\", \"海关改革\", \"ATLAS\", \"贸易便利化\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/a152ab4be16c.jpg"
 draft: false
 
 ---

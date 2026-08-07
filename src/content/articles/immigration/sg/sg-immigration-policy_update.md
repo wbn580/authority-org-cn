@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年新加坡公立大学硕士申请需要工作经验吗 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年新加坡公立大学硕士申请需要工作经验吗-2026-1733x1300.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年新加坡公立大学硕士申请需要工作经验吗-2026-1733x1300.jpg"
     alt="新加坡公立大学,硕士申请,工作经验,申请条件,2026"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年新加坡公立大学硕士申请需要工作经验吗-2026-1733x1300.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年新加坡公立大学硕士申请需要工作经验吗-2026-1733x1300.jpg",
   "name": "新加坡公立大学,硕士申请,工作经验,申请条件,2026",
   "description": "新加坡公立大学,硕士申请,工作经验,申请条件,2026 — 配图来源：R2自有图库",
   "width": "1200",

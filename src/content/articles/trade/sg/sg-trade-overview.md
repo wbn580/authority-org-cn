@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"新加坡贸易\", \"海关\", \"EnterpriseSG\", \"新加坡关税局\", \"贸易合规\", \"海关法规\"]"
 keywords: "[\"新加坡企业发展局\", \"Enterprise Singapore\", \"新加坡关税局\", \"Singapore Customs\", \"贸易主管部门\", \"海关清关\", \"自由贸易协定\", \"新加坡进出口\", \"大陆企业\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1569025743873-ea3a9ade89f9?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/a35fcf184466.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

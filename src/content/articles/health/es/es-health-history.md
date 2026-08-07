@@ -26,7 +26,7 @@ keywords:
   - "西班牙卫生部职能"
   - "卫生政策演变"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1559757175-5700dde675bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/7357a957eff9.jpg"
 draft: false
 
 ---

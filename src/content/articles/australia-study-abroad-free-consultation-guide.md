@@ -7,7 +7,7 @@ modDatetime: '2026-07-09T00:00:00Z'
 slug: 'australia-study-abroad-free-consultation-guide'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-abroad-free-consultation-guide-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-abroad-free-consultation-guide-2026-1880x1253.jpg'
 verified: '2026-07-09T00:00:00Z'
 tags:
   - '澳洲留学中介'
@@ -60,7 +60,7 @@ tags:
 
 不必等到签约后再观察，一次澳洲留学中介免费咨询本身就足够暴露出很多信息。你可以从以下五个维度做初步判断：
 
-![澳洲留学中介免费咨询完整指南：从选校到签证，免费服务到底能帮你省下什么](https://img.ulec.com.cn/authority/australia-study-abroad-free-consultation-guide-2026-1880x1253.jpg)
+![澳洲留学中介免费咨询完整指南：从选校到签证，免费服务到底能帮你省下什么](https://img.authority.org.cn/authority/australia-study-abroad-free-consultation-guide-2026-1880x1253.jpg)
 
 
 **第一，是否主动提供顾问资质。** 靠谱的顾问在自我介绍时，会很自然地提及自己的QEAC编号或相关教育背景，并且不回避你直接查询验证。如果对方完全回避资质问题，只用“经验丰富”“做这行很多年”来回应，需要慎重。

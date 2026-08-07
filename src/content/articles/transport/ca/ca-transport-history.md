@@ -27,7 +27,7 @@ keywords:
   - "国家交通政策"
   - "机构改组"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/63de18a54654.jpg"
 draft: false
 
 ---
@@ -35,7 +35,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比-2026-1880x1254.jpg"
     alt="台灣高中生,出國留學,美國,加拿大,學費,生活費,對比"
     width="1200"
     height="800"
@@ -48,7 +48,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比-2026-1880x1254.jpg",
   "name": "台灣高中生,出國留學,美國,加拿大,學費,生活費,對比",
   "description": "台灣高中生,出國留學,美國,加拿大,學費,生活費,對比 — 配图来源：R2自有图库",
   "width": "1200",

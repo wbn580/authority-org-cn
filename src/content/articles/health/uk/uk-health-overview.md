@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:13:58Z'
 slug: 'uk-health-overview'
 category: 'health'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/uk-health-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-health-overview-2026-1880x1253.jpg"
 tags: ["医疗健康"]
 ---
 

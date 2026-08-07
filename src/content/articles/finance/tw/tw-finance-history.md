@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"中央银行\", \"金融监督管理委员会\", \"机构沿革\", \"金融监管\", \"中国台湾\"]"
 keywords: "[\"台湾央行历史\", \"金管会改组\", \"金融监管改革\", \"中央银行法修订\", \"金融监理\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/tw-finance-history-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/tw-finance-history-2026-1880x1253.jpg"
 draft: false
 
 ---

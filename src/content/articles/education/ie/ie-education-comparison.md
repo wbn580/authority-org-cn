@@ -35,7 +35,7 @@ hideFromHome: true
 <!-- R2_IMAGE: uk-visa-rules-tighten-foreign-student-ban-nz-study-stability -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学/uk-visa-rules-tighten-foreign-student-ban-nz-study-stability-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学/uk-visa-rules-tighten-foreign-student-ban-nz-study-stability-2026-1880x1253.jpg"
     alt="uk-visa-rules-tighten-foreign-student-ban-nz-study-stability image 2"
     width="1200"
     height="800"
@@ -48,7 +48,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学/uk-visa-rules-tighten-foreign-student-ban-nz-study-stability-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学/uk-visa-rules-tighten-foreign-student-ban-nz-study-stability-2026-1880x1253.jpg",
   "name": "uk-visa-rules-tighten-foreign-student-ban-nz-study-stability image 2",
   "description": "uk-visa-rules-tighten-foreign-student-ban-nz-study-stability image 2 — 配图来源：R2自有图库",
   "width": "1200",

@@ -24,7 +24,7 @@ keywords:
   - "疾病预防控制局"
   - "基本医疗卫生与健康促进法"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/39262f24472a.jpg"
 draft: false
 
 ---

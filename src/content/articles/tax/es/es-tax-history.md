@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"西班牙税务\", \"AEAT\", \"机构沿革\", \"税收改革\", \"税务管理\"]"
 keywords: "[\"西班牙税务主管部门\", \"AEAT历史\", \"西班牙财政改革\", \"税务机构职能调整\"]"
 chineseServiceAvailable: false
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/589fc0cd60b0.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    src="https://img.authority.org.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
     alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
   "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
   "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
   "width": "1200",

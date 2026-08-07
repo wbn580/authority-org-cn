@@ -23,7 +23,7 @@ keywords:
   - "泰国宪法修订"
   - "泰国司法独立"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/kr-health-contact_guide-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-health-contact_guide-2026-auto.jpg"
 draft: false
 
 ---

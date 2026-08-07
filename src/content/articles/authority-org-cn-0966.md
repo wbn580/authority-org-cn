@@ -9,14 +9,14 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg
+ogImage: https://img.authority.org.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg
 tags:
 - 澳洲留学后工签与长期居留路径
 ---
 
 从学生签证到临时毕业生签证，再到技术移民，澳大利亚提供了一条相对清晰的居留通道。但这条路径由一系列硬性条件和时间窗口构成，每一步都需要提前规划，而非毕业后才着手。
 
-![2026年澳大利亚留学毕业后工签与长期居留路径解析](https://img.ulec.com.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg)
+![2026年澳大利亚留学毕业后工签与长期居留路径解析](https://img.authority.org.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg)
 
 ## 学生签证是起点
 

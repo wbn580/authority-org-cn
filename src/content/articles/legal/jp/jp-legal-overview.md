@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"日本法务省\", \"MOJ\", \"出入国管理\", \"司法制度\", \"2024-2026改革\"]"
 keywords: "[\"日本法务省\", \"法务省组织架构\", \"出入国在留管理厅\", \"2025年入管法\", \"大陆人日本签证\", \"日本司法制度改革\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ch-finance-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-finance-contact_guide-2026-1880x1253.jpg"
 draft: false
 
 ---

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"越南教育政策\", \"MoET\", \"高等教育改革\", \"国际学生\", \"学历认证\", \"职业教育\", \"外国投资\"]"
 keywords: "[\"越南教育与培训部\", \"2024-2026政策\", \"高等教育法\", \"国际学生管理\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/nz-education-history-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/nz-education-history-2026-auto.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: depreciation-study-abroad-funding -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/depreciation-study-abroad-funding-1781327310.webp"
+    src="https://img.authority.org.cn/edu/depreciation-study-abroad-funding-1781327310.webp"
     alt="'Yen Depreciation Era: Study Abroad Funding Plan 2026 – Hedging, Bank Transfers, and Smart Budgeting'"
     width="940"
     height="627"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/depreciation-study-abroad-funding-1781327310.webp",
+  "contentUrl": "https://img.authority.org.cn/edu/depreciation-study-abroad-funding-1781327310.webp",
   "name": "'Yen Depreciation Era: Study Abroad Funding Plan 2026 – Hedging, Bank Transfers, and Smart Budgeting'",
   "description": "'Yen Depreciation Era: Study Abroad Funding Plan 2026 – Hedging, Bank Transfers, and Smart Budgeting' — 配图来源：免费商用图库",
   "width": "940",

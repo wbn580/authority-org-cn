@@ -25,7 +25,7 @@ keywords:
   - "机构职能变迁"
   - "菲律宾贸易法律"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/fr-trade-history-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-trade-history-2026-auto.jpg"
 draft: false
 
 ---

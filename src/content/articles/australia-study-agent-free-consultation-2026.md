@@ -7,7 +7,7 @@ modDatetime: '2026-07-04T00:00:00Z'
 slug: 'australia-study-agent-free-consultation-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-2026-2026-1880x1058.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-agent-free-consultation-2026-2026-1880x1058.jpg'
 verified: '2026-07-04T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -61,7 +61,7 @@ tags:
 
 无论你通过哪家机构做 **澳洲留学中介免费咨询**，以下八个问题最好都过一遍。它们不需要特殊背景知识，却能把顾问的专业度和方案的完整度摸透。
 
-![澳洲留学中介免费咨询到底能问什么？2026年申请必问的 8 个问题清单](https://img.ulec.com.cn/authority/australia-study-agent-free-consultation-2026-2026-1880x1058.jpg)
+![澳洲留学中介免费咨询到底能问什么？2026年申请必问的 8 个问题清单](https://img.authority.org.cn/authority/australia-study-agent-free-consultation-2026-2026-1880x1058.jpg)
 
 
 1. **“以我的均分和院校背景，您推荐的三所学校去年的实际录取均分大约在什么区间？”** 问这个问题，你能判断对方是否有自己的录取数据库，还是仅仅在背官网要求。

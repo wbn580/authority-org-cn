@@ -14,7 +14,7 @@ tags:
 keywords:
   - "中国大陆贸易/海关"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/cn-trade-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-trade-functions-2026-1880x1253.jpg"
 draft: false
 
 ---

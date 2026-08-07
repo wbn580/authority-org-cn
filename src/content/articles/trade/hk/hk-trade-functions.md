@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"香港贸易\", \"工业贸易署\", \"香港海关\", \"产地来源证\", \"战略物品管制\", \"贸易便利化\", \"知识产权边境保护\"]"
 keywords: "[\"香港贸易主管部门\", \"工业贸易署职能\", \"香港海关职能\", \"产地来源证\", \"纺织品签证\", \"战略物品进出口管制\", \"贸易单一窗口\", \"2026年香港贸易政策\", \"中港贸易安排\", \"香港贸易合规\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1578916171728-46686eac8d58?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/3a28790c4a11.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
     alt="英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg",
   "name": "英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK",
   "description": "英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK — 配图来源：R2自有图库",
   "width": "1200",

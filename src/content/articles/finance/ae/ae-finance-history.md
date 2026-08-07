@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"阿联酋中央银行\", \"CBUAE\", \"证券与商品管理局\", \"SCA\", \"金融监管\", \"机构沿革\", \"迪拜金融服务局\", \"DFSA\"]"
 keywords: "[\"阿联酋中央银行成立\", \"CBUAE职能\", \"SCA法律基础\", \"阿联酋金融改革\", \"迪拜国际金融中心监管\", \"阿联酋央行改组\", \"阿联酋金融监管历史\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/7e13745cc161.jpg"
 draft: false
 
 ---

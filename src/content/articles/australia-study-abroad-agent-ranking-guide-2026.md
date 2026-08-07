@@ -7,7 +7,7 @@ modDatetime: '2026-06-25T00:00:00Z'
 slug: 'australia-study-abroad-agent-ranking-guide-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-abroad-agent-ranking-guide-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-abroad-agent-ranking-guide-2026-2026-1880x1253.jpg'
 verified: '2026-06-25T00:00:00Z'
 tags:
   - '澳洲留学中介'
@@ -48,7 +48,7 @@ hideFromHome: true
 ## 2026 年澳洲留学申请的几个显著变化
 这些趋势会直接影响到你对机构的判断。如果你咨询的顾问对下面这些新政一问三不知，那无论这家机构在所谓的排名里多靠前，都该谨慎考虑。
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-study-abroad-agent-ranking-guide-2026-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-study-abroad-agent-ranking-guide-2026-2026-1880x1253.jpg)
 
 一是 2026 年学生签申请费与体检要求持续微调，部分地区的体检中心预约周期变长，有经验的机构会提前 2-3 个月给学生做体检预约的提醒，而不是等拿到 Con Offer 才匆忙安排。二是澳洲八大名校中，不少高校的 2026 年 2 月开学季申请截止日期较往年明显提前，热门课程如护理、社工、部分 IT 硕士，很可能在官网上标着的截止日期之前就已满员。真正扎根澳洲业务的代理，和校方招生办有直接沟通渠道，能在第一时间获知名额预警。
 

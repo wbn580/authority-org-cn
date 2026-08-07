@@ -41,7 +41,7 @@ hideFromHome: true
 <!-- R2_IMAGE: study-abroad-guide-hong-kong-students-2026 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学/study-abroad-guide-hong-kong-students-2026-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学/study-abroad-guide-hong-kong-students-2026-2026-1880x1253.jpg"
     alt="study-abroad-guide-hong-kong-students-2026 image 2"
     width="1200"
     height="800"
@@ -54,7 +54,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学/study-abroad-guide-hong-kong-students-2026-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学/study-abroad-guide-hong-kong-students-2026-2026-1880x1253.jpg",
   "name": "study-abroad-guide-hong-kong-students-2026 image 2",
   "description": "study-abroad-guide-hong-kong-students-2026 image 2 — 配图来源：R2自有图库",
   "width": "1200",

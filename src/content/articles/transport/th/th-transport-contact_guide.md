@@ -26,7 +26,7 @@ keywords:
   - "中文服务 泰国交通"
   - "大陆居民 泰国驾照"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/261155a46c56.jpg"
 draft: false
 
 ---
@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
+    src="https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
     alt="hong-kong-travel-guide-2025 image 1"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
+  "contentUrl": "https://img.authority.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg",
   "name": "hong-kong-travel-guide-2025 image 1",
   "description": "hong-kong-travel-guide-2025 image 1 — 配图来源：R2自有图库",
   "width": "1200",

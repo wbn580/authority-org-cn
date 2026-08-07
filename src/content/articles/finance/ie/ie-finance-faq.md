@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"爱尔兰央行\", \"金融监管\", \"FAQ\", \"合规\", \"中文服务\"]"
 keywords: "[\"爱尔兰中央银行\", \"金融监管\", \"FAQ\", \"联系方式\", \"申请流程\", \"费用\", \"中文服务\", \"误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/kr-transport-overview-2026-1280x1280.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-transport-overview-2026-1280x1280.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
     alt="university library"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
   "name": "university library",
   "description": "university library — 配图来源：R2自有图库",
   "width": "1200",

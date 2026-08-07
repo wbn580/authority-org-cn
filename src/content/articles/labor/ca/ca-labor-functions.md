@@ -36,7 +36,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年加拿大硕士申请co-op实习项目值得选吗 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年加拿大硕士申请co-op实习项目值得选吗-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年加拿大硕士申请co-op实习项目值得选吗-2026-1880x1254.jpg"
     alt="加拿大硕士,Co-op项目,实习,申请条件,2026,留学工作"
     width="1200"
     height="800"
@@ -49,7 +49,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年加拿大硕士申请co-op实习项目值得选吗-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年加拿大硕士申请co-op实习项目值得选吗-2026-1880x1254.jpg",
   "name": "加拿大硕士,Co-op项目,实习,申请条件,2026,留学工作",
   "description": "加拿大硕士,Co-op项目,实习,申请条件,2026,留学工作 — 配图来源：R2自有图库",
   "width": "1200",

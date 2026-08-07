@@ -7,7 +7,7 @@ modDatetime: '2026-06-26T00:00:00Z'
 slug: 'australia-study-agency-ranking-evaluation-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1733x1300.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1733x1300.jpg'
 verified: '2026-06-26T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -36,7 +36,7 @@ hideFromHome: true
 
 无论有没有一份公认的“澳洲留学中介排名”，申请家庭其实可以自己给中介打分。以下五个维度的权重，可以直接影响你最终的申请体验和赴澳后的生活起点。
 
-![2026年，澳洲留学中介排名真的可靠吗？不如从这5个维度自己做判断](https://img.ulec.com.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1733x1300.jpg)
+![2026年，澳洲留学中介排名真的可靠吗？不如从这5个维度自己做判断](https://img.authority.org.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1733x1300.jpg)
 
 
 ### 1. 是否持牌：MARN与QEAC缺一不可
@@ -107,7 +107,7 @@ hideFromHome: true
 
 你不需要按任何“澳洲留学中介排名”来决定选择，但可以在首次咨询时直接问出以下5个问题，看对方如何应答：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1880x1255.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1880x1255.jpg)
 
 
 1. **负责我这案子的顾问是否固定？如果中途离职，交接机制是什么？**  

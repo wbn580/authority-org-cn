@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:07:23Z'
 slug: 'de-transport-contact_guide'
 category: 'transport'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/de-transport-contact_guide-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/de-transport-contact_guide-2026-auto.jpg"
 tags: ["transport"]
 ---
 

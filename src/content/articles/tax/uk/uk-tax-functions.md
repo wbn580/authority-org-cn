@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:21:24Z'
 slug: 'uk-tax-functions'
 category: 'tax'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/uk-tax-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-tax-functions-2026-1880x1253.jpg"
 tags: ["税务部门"]
 ---
 

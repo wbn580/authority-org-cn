@@ -24,7 +24,7 @@ keywords:
   - "数字化服务"
   - "透明度"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ae-finance-faq-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-finance-faq-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 
@@ -33,7 +33,7 @@ hideFromHome: true
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
     alt="data-driven-career-support-comparison-chinese-applicants image 1"
     width="1200"
     height="800"
@@ -46,7 +46,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
   "name": "data-driven-career-support-comparison-chinese-applicants image 1",
   "description": "data-driven-career-support-comparison-chinese-applicants image 1 — 配图来源：R2自有图库",
   "width": "1200",

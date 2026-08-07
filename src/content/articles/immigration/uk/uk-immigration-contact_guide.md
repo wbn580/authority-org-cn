@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:01:48Z'
 slug: 'uk-immigration-contact_guide'
 category: 'immigration'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/uk-immigration-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-immigration-contact_guide-2026-1880x1253.jpg"
 tags: ["移民签证"]
 ---
 

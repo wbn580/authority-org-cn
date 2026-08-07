@@ -7,7 +7,7 @@ modDatetime: '2026-06-18T00:00:00Z'
 slug: '2026-uk-study-abroad-agency-ranking-real-reviews'
 category: 'general'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/2026-uk-study-abroad-agency-ranking-real-reviews-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/2026-uk-study-abroad-agency-ranking-real-reviews-2026-1880x1253.jpg"
 verified: '2026-06-18T00:00:00Z'
 tags:
   - '英国留学'

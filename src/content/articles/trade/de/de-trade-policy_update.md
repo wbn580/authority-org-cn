@@ -25,7 +25,7 @@ keywords:
   - "大陆企业"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/a152ab4be16c.jpg"
 draft: false
 
 ---

@@ -28,7 +28,7 @@ keywords:
   - "印尼外汇管制"
   - "印尼金融稳定"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/id-finance-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/id-finance-overview-2026-1880x1253.jpg"
 draft: false
 
 ---

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"意大利司法部\", \"Ministry of Justice Italy\", \"法务咨询\", \"意大利法院\", \"中文服务\", \"法律费用\", \"诉讼时效\"]"
 keywords: "[\"意大利司法部联系方式\", \"意大利法院诉讼流程\", \"意大利法律费用\", \"中文法律服务\", \"意大利司法系统\", \"Ministry of Justice Italy\", \"Italian legal system FAQ\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/ca-labor-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ca-labor-contact_guide-2026-1880x1253.jpg"
 draft: false
 
 ---

@@ -24,7 +24,7 @@ keywords:
   - "法国海关投诉"
   - "法国海关时效"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/fr-trade-contact_guide-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-trade-contact_guide-2026-auto.jpg"
 draft: false
 
 ---

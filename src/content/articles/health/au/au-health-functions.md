@@ -14,7 +14,7 @@ tags:
 keywords:
   - "澳大利亚卫生/医保"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/au-health-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-health-functions-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -22,7 +22,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目-2026-1880x1253.jpg"
     alt="澳洲留學簽證體檢,澳洲移民體檢,Medibank Health Solutions,Bupa Medical Visa Services,香港預約澳洲體檢"
     width="1200"
     height="800"
@@ -35,7 +35,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目-2026-1880x1253.jpg",
   "name": "澳洲留學簽證體檢,澳洲移民體檢,Medibank Health Solutions,Bupa Medical Visa Services,香港預約澳洲體檢",
   "description": "澳洲留學簽證體檢,澳洲移民體檢,Medibank Health Solutions,Bupa Medical Visa Services,香港預約澳洲體檢 — 配图来源：R2自有图库",
   "width": "1200",

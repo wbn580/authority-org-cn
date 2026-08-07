@@ -32,7 +32,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年新西兰留学一年生活费大概需要多少 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年新西兰留学一年生活费大概需要多少-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年新西兰留学一年生活费大概需要多少-2026-1880x1254.jpg"
     alt="新西兰留学,生活费,2026,住宿费,饮食开销,交通费,留学生预算"
     width="1200"
     height="800"
@@ -45,7 +45,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年新西兰留学一年生活费大概需要多少-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年新西兰留学一年生活费大概需要多少-2026-1880x1254.jpg",
   "name": "新西兰留学,生活费,2026,住宿费,饮食开销,交通费,留学生预算",
   "description": "新西兰留学,生活费,2026,住宿费,饮食开销,交通费,留学生预算 — 配图来源：R2自有图库",
   "width": "1200",

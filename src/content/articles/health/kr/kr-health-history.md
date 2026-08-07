@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"韩国\", \"卫生\", \"医保\", \"保健福祉部\", \"机构沿革\", \"健康保险\", \"医疗改革\"]"
 keywords: "[\"韩国卫生主管部门\", \"保健福祉部\", \"机构沿革\", \"健康保险审查评价院\", \"健康保险公团\", \"医疗法\", \"国民健康保险法\"]"
 chineseServiceAvailable: false
-ogImage: "https://img.ulec.com.cn/authority/cn-labor-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-labor-overview-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg"
     alt="chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu--2026-1880x1253.jpg",
   "name": "chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố",
   "description": "chi phí sinh hoạt Úc 2026, sinh viên Việt Nam tại Úc, tiền thuê nhà Úc, bảo hiểm OSHC, chi phí ăn uố — 配图来源：R2自有图库",
   "width": "1200",

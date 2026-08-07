@@ -23,7 +23,7 @@ keywords:
   - "假释委员会规则"
   - "司法改革2026"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/589fc0cd60b0.jpg"
 draft: false
 
 ---

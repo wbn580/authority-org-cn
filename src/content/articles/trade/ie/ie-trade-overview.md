@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"贸易\", \"海关\", \"DETE\", \"Revenue\", \"海关总署\", \"2026\"]"
 keywords: "[\"爱尔兰贸易主管部门\", \"爱尔兰海关\", \"企业贸易与就业部\", \"Revenue Commissioners\", \"爱尔兰贸易立法\", \"中国大陆企业爱尔兰贸易\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630"
+ogImage: "https://img.authority.org.cn/rehost/a1a3f4f38359.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg"
     alt="Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-hk-vs-sg-banking-2026-which-city-pays-mo-2026-1880x1253.jpg",
   "name": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala",
   "description": "Hong Kong banking salary, Singapore finance jobs, investment banking Asia, anglosphere graduate sala — 配图来源：R2自有图库",
   "width": "1200",

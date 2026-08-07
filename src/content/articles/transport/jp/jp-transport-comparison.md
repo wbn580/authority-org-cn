@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"日本交通\", \"民航监管\", \"跨国对比\", \"MLIT\", \"FAA\", \"EASA\", \"MOT\", \"CAAS\"]"
 keywords: "[\"日本国土交通省\", \"民航局\", \"监管效率\", \"数字化\", \"透明度\", \"申诉机制\", \"制度差异\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/jp-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/jp-transport-comparison-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

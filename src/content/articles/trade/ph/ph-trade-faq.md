@@ -28,7 +28,7 @@ keywords:
   - "菲律宾贸易法规"
   - "海关编码查询"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/42bc2cc52089.jpg"
 draft: false
 
 ---

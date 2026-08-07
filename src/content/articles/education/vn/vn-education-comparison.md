@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[越南教育, 教育部, 跨国对比, 教育监管, 数字化, 透明度]"
 keywords: "[越南教育与培训部, MOET, 教育部对比, 教育治理, 监管效率, 越南教育制度]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/ecb536643a2b.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
     alt="top-50-universities-international-tuition-fees-comparison image 2"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
   "name": "top-50-universities-international-tuition-fees-comparison image 2",
   "description": "top-50-universities-international-tuition-fees-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: career-support-comparison-top-study-destinations -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/career-support-comparison-top-study-destinations-2026-1880x1205.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/career-support-comparison-top-study-destinations-2026-1880x1205.jpg"
     alt="career-support-comparison-top-study-destinations image 2"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/career-support-comparison-top-study-destinations-2026-1880x1205.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/career-support-comparison-top-study-destinations-2026-1880x1205.jpg",
   "name": "career-support-comparison-top-study-destinations image 2",
   "description": "career-support-comparison-top-study-destinations image 2 — 配图来源：R2自有图库",
   "width": "1200",

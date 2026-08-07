@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"新加坡教育政策\", \"MOE\", \"SSG\", \"2026更新\", \"国际学生\", \"高等教育改革\"]"
 keywords: "[\"新加坡教育部公告\", \"2024-26政策\", \"国际学生签证\", \"技能创前程\", \"大陆学生影响\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+ogImage: "https://img.authority.org.cn/rehost/37d23c9b8a14.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年新加坡国立大学本科申请雅思要求多少分 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年新加坡国立大学本科申请雅思要求多少分-2026-1880x1254.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年新加坡国立大学本科申请雅思要求多少分-2026-1880x1254.jpg"
     alt="新加坡国立大学,本科申请,雅思要求,2026,国际学生,最低分数"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年新加坡国立大学本科申请雅思要求多少分-2026-1880x1254.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年新加坡国立大学本科申请雅思要求多少分-2026-1880x1254.jpg",
   "name": "新加坡国立大学,本科申请,雅思要求,2026,国际学生,最低分数",
   "description": "新加坡国立大学,本科申请,雅思要求,2026,国际学生,最低分数 — 配图来源：R2自有图库",
   "width": "1200",

@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:11:03Z'
 slug: 'au-trade-contact_guide'
 category: 'trade'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/au-trade-contact_guide-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-trade-contact_guide-2026-auto.jpg"
 tags: ["trade"]
 ---
 

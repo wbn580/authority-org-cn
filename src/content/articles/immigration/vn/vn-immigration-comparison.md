@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"越南移民\", \"移民主管部门\", \"跨国对比\", \"签证监管\", \"数字化\", \"透明度\", \"申诉机制\", \"2026\"]"
 keywords: "[\"越南移民局\", \"日本出入国在留管理厅\", \"韩国法务部出入境\", \"澳大利亚内政部\", \"新加坡移民与关卡局\", \"签证效率\", \"大陆人接触度\", \"制度差异\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/uk-study-abroad-agency-ranking-2026-guide-2026-1880x1128.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-study-abroad-agency-ranking-2026-guide-2026-1880x1128.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
     alt="data-driven-career-support-comparison-chinese-applicants image 1"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
   "name": "data-driven-career-support-comparison-chinese-applicants image 1",
   "description": "data-driven-career-support-comparison-chinese-applicants image 1 — 配图来源：R2自有图库",
   "width": "1200",

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"荷兰央行\", \"DNB\", \"AFM\", \"金融监管\", \"FAQ\", \"荷兰金融\", \"合规\"]"
 keywords: "[\"荷兰央行联系方式\", \"AFM投诉流程\", \"荷兰金融监管费用\", \"DNB牌照时效\", \"中文服务\", \"金融监管误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf43f?q=80&w=1000"
+ogImage: "https://img.authority.org.cn/rehost/87537222ebe9.jpg"
 draft: false
 
 ---

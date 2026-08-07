@@ -28,7 +28,7 @@ keywords:
   - "教育透明度"
   - "教育申诉"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/cn-trade-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-trade-functions-2026-1880x1253.jpg"
 draft: false
 hideFromHome: true
 
@@ -37,7 +37,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -50,7 +50,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

@@ -14,7 +14,7 @@ tags:
 keywords:
   - "西班牙央行/金融"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/es-finance-functions-2026-1280x854.jpg"
+ogImage: "https://img.authority.org.cn/authority/es-finance-functions-2026-1280x854.jpg"
 draft: false
 
 ---

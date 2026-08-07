@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:03:21Z'
 slug: 'fr-immigration-comparison'
 category: 'immigration'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/fr-immigration-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-immigration-comparison-2026-1880x1253.jpg"
 hideFromHome: true
 
 tags: ["移民签证"]

@@ -30,7 +30,7 @@ keywords:
   - "大陆人税务服务"
   - "荷兰税务制度"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80"
+ogImage: "https://img.authority.org.cn/rehost/14998bb7e102.jpg"
 draft: false
 hideFromHome: true
 
@@ -39,7 +39,7 @@ hideFromHome: true
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg"
     alt="top-50-universities-international-tuition-fees-comparison image 2"
     width="1200"
     height="800"
@@ -52,7 +52,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/top-50-universities-international-tuition-fees-comparison-2026-1880x1253.jpg",
   "name": "top-50-universities-international-tuition-fees-comparison image 2",
   "description": "top-50-universities-international-tuition-fees-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

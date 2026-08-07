@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"瑞士央行\", \"SNB\", \"FINMA\", \"金融监管\", \"银行法\", \"瑞士\"]"
 keywords: "[\"瑞士国家银行\", \"SNB历史\", \"FINMA成立\", \"瑞士银行法\", \"金融市场监管\", \"瑞士金融监管沿革\"]"
 chineseServiceAvailable: false
-ogImage: "https://img.ulec.com.cn/authority/ch-finance-history-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-finance-history-2026-1880x1253.jpg"
 draft: false
 
 ---

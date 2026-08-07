@@ -7,7 +7,7 @@ modDatetime: '2026-07-05T00:00:00Z'
 slug: 'australian-study-abroad-agency-ranking-2026-analysis'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/australian-study-abroad-agency-ranking-2026-analysis-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/australian-study-abroad-agency-ranking-2026-analysis-2026-1880x1253.jpg'
 verified: '2026-07-05T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -94,7 +94,7 @@ hideFromHome: true
 
 澳洲留学市场上，常见两类服务形态：
 
-![2026年澳洲留学中介排名解析：从资质到服务，这5项指标比名次更重要](https://img.ulec.com.cn/authority/australian-study-abroad-agency-ranking-2026-analysis-2026-1880x1253.jpg)
+![2026年澳洲留学中介排名解析：从资质到服务，这5项指标比名次更重要](https://img.authority.org.cn/authority/australian-study-abroad-agency-ranking-2026-analysis-2026-1880x1253.jpg)
 
 
 - **全国连锁大机构**：例如一些早已布局互联网留学的大型平台，这类机构流程标准化、院校合作面广，适合目标明确、自我驱动力强的学生，他们只需要高效的递交和流程管理。

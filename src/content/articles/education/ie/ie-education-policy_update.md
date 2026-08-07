@@ -24,7 +24,7 @@ keywords:
   - "爱尔兰签证政策"
   - "2026政策更新"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1529543544282-ea76fbe7c9f3?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/491d5f7c8306.jpg"
 draft: false
 
 ---
@@ -32,7 +32,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg"
     alt="法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育"
     width="1200"
     height="800"
@@ -45,7 +45,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg",
   "name": "法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育",
   "description": "法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育 — 配图来源：R2自有图库",
   "width": "1200",

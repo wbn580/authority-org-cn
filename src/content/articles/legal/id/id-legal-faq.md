@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"印度尼西亚\", \"司法\", \"法务\", \"法律与人权部\", \"FAQ\"]"
 keywords: "[\"印尼司法部\", \"法律与人权部\", \"外国人在印尼法律咨询\", \"印尼法院流程\", \"公证服务印尼\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/589fc0cd60b0.jpg"
 draft: false
 
 ---

@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"澳门税务\", \"所得补充税\", \"职业税\", \"印花税\", \"CRS\", \"税收优惠\", \"政策更新\"]"
 keywords: "[\"澳门税务局政策2026\", \"所得补充税豁免额度\", \"职业税税率调整\", \"澳门印花税减免\", \"大陆居民澳门税务\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+ogImage: "https://img.authority.org.cn/rehost/cba8233d2ba1.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: 投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
+    src="https://img.authority.org.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
     alt="投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
+  "contentUrl": "https://img.authority.org.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
   "name": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073",
   "description": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073 — 配图来源：R2自有图库",
   "width": "1200",

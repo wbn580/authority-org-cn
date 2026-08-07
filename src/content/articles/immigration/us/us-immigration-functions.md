@@ -14,7 +14,7 @@ tags:
 keywords:
   - "美国移民/签证"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/us-immigration-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/us-immigration-functions-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -22,7 +22,7 @@ draft: false
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg"
     alt="visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca"
     width="1200"
     height="800"
@@ -35,7 +35,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg",
   "name": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca",
   "description": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca — 配图来源：R2自有图库",
   "width": "1200",

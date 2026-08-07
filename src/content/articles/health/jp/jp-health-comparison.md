@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:15:35Z'
 slug: 'jp-health-comparison'
 category: 'health'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/jp-health-comparison-2026-auto.jpg"
+ogImage: "https://img.authority.org.cn/authority/jp-health-comparison-2026-auto.jpg"
 hideFromHome: true
 
 tags: ["医疗健康"]

@@ -7,7 +7,7 @@ modDatetime: '2026-06-15T00:00:00Z'
 slug: 'domestic-authority-certification-process-guide'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.ulec.com.cn/authority/domestic-authority-certification-process-guide-2026-1880x1253.jpg'
+ogImage: 'https://img.authority.org.cn/authority/domestic-authority-certification-process-guide-2026-1880x1253.jpg'
 verified: '2026-06-15T00:00:00Z'
 tags:
   - '认证流程'
@@ -35,7 +35,7 @@ tags:
 
 不同认证类型对申请人的基本要求有所不同，但总体存在几条可以通用的“硬杠杠”：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/domestic-authority-certification-process-guide-2026-1880x1253.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/domestic-authority-certification-process-guide-2026-1880x1253.jpg)
 
 1. **合法经营主体**：申请方必须是持有营业执照的法人实体，且经营范围包含所申请认证的领域。对于一个刚准备投产但尚未完成环评的工厂，申请ISO 14001之前必须先解决合规性缺陷。
 2. **体系/产品已实际运行**：管理体系认证一般要求体系至少运行3个月以上，并完成一次内部审核和管理评审。产品认证则要求产品已定型、有健全的生产设施和检测能力，CCC认证更是要求产品通过指定实验室的型式试验。
@@ -104,7 +104,7 @@ tags:
 
 纵观数百个认证案例，真正导致审核反复的往往不是硬件投入不够，而是掉入了认知误区。以下是排名靠前的五个陷阱：
 
-![authority-org-cn 配图](https://img.ulec.com.cn/authority/domestic-authority-certification-process-guide-2026-1880x1255.jpg)
+![authority-org-cn 配图](https://img.authority.org.cn/authority/domestic-authority-certification-process-guide-2026-1880x1255.jpg)
 
 **误区一：认证就是为了拿证，体系可以脱离业务**  
 实际上，审核员的核心关注点正是“写你所做，做你所写”。如果管理手册里描述了质量目标管理办法，但实际上没有任何例会记录和数据趋势分析，这就构成了严重不符合。将体系要求融入日常例会、报表和绩效考核之中，而非另起炉灶，是最为省力的做法。

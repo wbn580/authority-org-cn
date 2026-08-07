@@ -24,7 +24,7 @@ keywords:
   - "泰国进出口管制"
   - "泰国贸易便利化"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/es-health-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/es-health-functions-2026-1880x1253.jpg"
 draft: false
 
 ---

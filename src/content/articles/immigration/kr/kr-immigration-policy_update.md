@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"韩国签证政策\", \"E-7签证\", \"留学生签证\", \"非法滞留\", \"2026年政策更新\"]"
 keywords: "[\"韩国移民政策2026\", \"E-7签证改革\", \"D-2签证延长\", \"大陆人韩国签证\", \"韩国法务部公告\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1546412414-e1885e0c8b7f?w=1200&h=630&fit=crop"
+ogImage: "https://img.authority.org.cn/rehost/cc1951f2b443.jpg"
 draft: false
 
 ---
@@ -19,7 +19,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg"
     alt="法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育"
     width="1200"
     height="800"
@@ -32,7 +32,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg",
   "name": "法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育",
   "description": "法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育 — 配图来源：R2自有图库",
   "width": "1200",

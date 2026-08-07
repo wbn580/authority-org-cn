@@ -26,7 +26,7 @@ keywords:
   - "大陆人菲律宾签证"
   - "菲律宾电子旅行证ETravel"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/vn-trade-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/vn-trade-contact_guide-2026-1880x1253.jpg"
 draft: false
 
 ---
@@ -34,7 +34,7 @@ draft: false
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg"
+    src="https://img.authority.org.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg"
     alt="法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育"
     width="1200"
     height="800"
@@ -47,7 +47,7 @@ draft: false
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/backfill-2026年法国留学签证需要多少担保金-2026-1733x1300.jpg",
   "name": "法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育",
   "description": "法国留学,担保金,2026,签证要求,资金证明,留学生,法国高等教育 — 配图来源：R2自有图库",
   "width": "1200",

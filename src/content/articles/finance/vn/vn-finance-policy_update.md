@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"越南央行\", \"金融监管\", \"政策更新\", \"外汇管理\", \"数字资产\", \"外资准入\"]"
 keywords: "[\"越南央行政策\", \"SBV 2026\", \"外汇管制\", \"数字资产法律\", \"外资银行准入\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-4.0.3"
+ogImage: "https://img.authority.org.cn/rehost/701c67c8171e.jpg"
 draft: false
 
 ---

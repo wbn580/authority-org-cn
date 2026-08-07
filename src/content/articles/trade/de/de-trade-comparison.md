@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"德国海关\", \"贸易监管\", \"跨国对比\", \"Zoll\", \"CBP\", \"日本海关\", \"新加坡海关\"]"
 keywords: "[\"德国贸易主管部门\", \"海关职能对比\", \"监管效率\", \"数字化通关\", \"透明度\", \"申诉机制\", \"大陆人接触度\"]"
 chineseServiceAvailable: true
-ogImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.authority.org.cn/rehost/42bc2cc52089.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
+    src="https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg"
     alt="data-driven-career-support-comparison-chinese-applicants image 1"
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
+  "contentUrl": "https://img.authority.org.cn/留学-院校评测/data-driven-career-support-comparison-chinese-applicants-2026-1880x1253.jpg",
   "name": "data-driven-career-support-comparison-chinese-applicants image 1",
   "description": "data-driven-career-support-comparison-chinese-applicants image 1 — 配图来源：R2自有图库",
   "width": "1200",

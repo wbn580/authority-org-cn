@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"法国卫生主管部门\", \"跨国对比\", \"医疗监管\", \"行政效率\", \"数字化\", \"申诉机制\"]"
 keywords: "[\"法国卫生部\", \"德国联邦联合委员会\", \"英国NHS\", \"加拿大卫生部\", \"卫生系统对比\", \"大陆人医疗接触度\"]"
 chineseServiceAvailable: true
-ogImage: "https://img.ulec.com.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
 draft: false
 hideFromHome: true
 
@@ -20,7 +20,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg"
+    src="https://img.authority.org.cn/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -33,7 +33,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.authority.org.cn/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

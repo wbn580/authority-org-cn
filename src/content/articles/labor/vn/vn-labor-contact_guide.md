@@ -7,7 +7,7 @@ modDatetime: '2026-06-14T04:30:52Z'
 slug: 'vn-labor-contact_guide'
 category: 'labor'
 language: 'zh-CN'
-ogImage: "https://img.ulec.com.cn/authority/vn-labor-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/vn-labor-contact_guide-2026-1880x1253.jpg"
 tags: ["labor"]
 ---
 
