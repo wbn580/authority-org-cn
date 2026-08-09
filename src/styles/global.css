@@ -209,3 +209,4 @@ a:hover {
   font-size: 0.8125rem;
   color: #5F6B7A;
 }
+@media (max-width:768px){a,button,input,select,textarea,summary,[role="button"]{min-height:44px;box-sizing:border-box}a,button,summary,[role="button"]{display:inline-flex;align-items:center}}
