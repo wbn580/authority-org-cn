@@ -28,7 +28,6 @@ keywords:
   - "数字贸易"
   - "投资限制"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ph-trade-policy-2026.jpg"
 draft: false
 
 ---

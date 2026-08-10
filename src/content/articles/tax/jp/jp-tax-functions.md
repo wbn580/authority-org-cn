@@ -22,7 +22,6 @@ keywords:
   - "税务争议解决"
   - "中文税务服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-tax-functions-2026.png"
 draft: false
 
 ---

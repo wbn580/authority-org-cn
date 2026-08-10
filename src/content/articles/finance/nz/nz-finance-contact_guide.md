@@ -27,7 +27,6 @@ keywords:
   - "大陆人金融合规"
   - "办事指南"
 chineseServiceAvailable: true
-ogImage: "https://www.rbnz.govt.nz/og-images/contact-guide-default.jpg"
 draft: false
 
 ---

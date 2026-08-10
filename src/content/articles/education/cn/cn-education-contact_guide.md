@@ -25,7 +25,6 @@ keywords:
   - "办事流程"
   - "费用标准"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-cn-education-guide-2026.jpg"
 draft: false
 
 ---

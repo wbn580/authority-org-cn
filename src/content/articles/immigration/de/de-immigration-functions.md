@@ -27,7 +27,6 @@ keywords:
   - "2024年移民改革"
   - "2026年政策更新"
 chineseServiceAvailable: true
-ogImage: "https://example.com/de-immigration-functions-2026.jpg"
 draft: false
 
 ---

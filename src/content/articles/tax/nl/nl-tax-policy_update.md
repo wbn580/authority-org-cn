@@ -22,7 +22,6 @@ keywords:
   - "跨境税务合规"
   - "大陆纳税人"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-tax-policy-update-2024-2026.jpg"
 draft: false
 
 ---

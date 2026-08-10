@@ -23,7 +23,6 @@ keywords:
   - "中文服务瑞士"
   - "中国大陆人士瑞士医保"
 chineseServiceAvailable: true
-ogImage: "https://www.bag.admin.ch/bag/en/home/_jcr_content/image.imagespooler.jpg"
 draft: false
 
 ---

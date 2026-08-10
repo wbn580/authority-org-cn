@@ -24,7 +24,6 @@ keywords:
   - "中文服务"
   - "大陆人实操影响"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-labor-overview-2026.jpg"
 draft: false
 
 ---

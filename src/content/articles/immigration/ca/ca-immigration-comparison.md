@@ -25,7 +25,6 @@ keywords:
   - "申诉机制比较"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-immigration-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国教育政策\", \"BMBF\", \"KMK\", \"2024-2026\", \"留学生政策\", \"DAAD\", \"学历认证\", \"数字化教育\"]"
 keywords: "[\"德国教育\", \"政策更新\", \"2024\", \"2025\", \"2026\", \"留学生\", \"大陆申请人\", \"学历认证\", \"数字化\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/de-education-policy-2024-26.jpg"
 draft: false
 
 ---

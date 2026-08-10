@@ -31,7 +31,6 @@ keywords:
   - "航空安全"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/uae-transport-authorities-overview.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"移民局\", \"签证\", \"居留许可\", \"FAQ\"]"
 keywords: "[\"马来西亚移民局\", \"MM2H\", \"签证申请\", \"居留许可\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-immigration-faq-og.jpg"
 draft: false
 
 ---

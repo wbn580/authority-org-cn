@@ -22,7 +22,6 @@ keywords:
   - "澳门金融消费者投诉渠道"
   - "澳门跨境资金流动监管"
 chineseServiceAvailable: true
-ogImage: "https://www.amcm.gov.mo/images/faq-og.jpg"
 draft: false
 
 ---

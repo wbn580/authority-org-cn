@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰移民\", \"INIS\", \"司法部\", \"签证政策\", \"机构改革\", \"移民法\", \"IPAS\", \"EU自由流动\"]"
 keywords: "[\"爱尔兰移民局\", \"INIS历史\", \"司法部平等与法律改革\", \"移民服务交付司\", \"2015年国际保护法\", \"2023年移民分流\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-immigration-history-2026.jpg"
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "税务行政数字化"
   - "令和税制改革"
 chineseServiceAvailable: true
-ogImage: "https://www.nta.go.jp/og-image.jpg"
 draft: false
 
 ---

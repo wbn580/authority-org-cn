@@ -24,7 +24,6 @@ keywords:
   - "泰国社会保障"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.mol.go.th/og-image-labor-th.jpg"
 draft: false
 
 ---

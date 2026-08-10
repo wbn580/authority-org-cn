@@ -24,7 +24,6 @@ keywords:
   - "数字司法战略"
   - "爱尔兰法律基础"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-legal-history-og.jpg"
 draft: false
 
 ---

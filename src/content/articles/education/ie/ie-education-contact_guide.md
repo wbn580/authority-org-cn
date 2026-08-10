@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[爱尔兰教育部, DES, 联系方式, 办事指南, 中文服务, 大陆人士]"
 keywords: "[爱尔兰教育部地址, DES电话, 预约方式, 费用标准, 中文服务, 大陆人实操, 投诉申诉]"
 chineseServiceAvailable: true
-ogImage: "https://www.gov.ie/assets/img/education-og.jpg"
 draft: false
 
 ---

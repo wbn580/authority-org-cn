@@ -22,7 +22,6 @@ keywords:
   - "车辆注册时效"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-transport-faq-og.jpg"
 draft: false
 
 ---

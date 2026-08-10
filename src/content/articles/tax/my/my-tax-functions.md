@@ -25,7 +25,6 @@ keywords:
   - "跨境税务协调"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/my-tax-functions-2026.jpg"
 draft: false
 
 ---

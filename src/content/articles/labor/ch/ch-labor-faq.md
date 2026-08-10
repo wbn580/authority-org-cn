@@ -21,7 +21,6 @@ keywords:
   - "中文服务瑞士劳工局"
   - "瑞士外籍劳工政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/swiss-labor-faq-2026.jpg"
 draft: false
 
 ---

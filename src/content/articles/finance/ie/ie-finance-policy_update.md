@@ -24,7 +24,6 @@ keywords:
   - "反洗钱合规"
   - "加密资产监管"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ie-financial-regulation-2024-2026.jpg"
 draft: false
 
 ---

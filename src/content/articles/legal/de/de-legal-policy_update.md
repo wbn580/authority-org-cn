@@ -22,7 +22,6 @@ keywords:
   - "GDPR跨境数据传输"
   - "德国律师执业资格"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/de-legal-policy-update-2024-26.jpg"
 draft: false
 
 ---

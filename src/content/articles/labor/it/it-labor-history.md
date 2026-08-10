@@ -25,7 +25,6 @@ keywords:
   - "社会对话机制"
   - "2026年就业政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-labor-ministry-history-og.jpg"
 draft: false
 
 ---

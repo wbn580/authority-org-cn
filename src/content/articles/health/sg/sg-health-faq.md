@@ -25,7 +25,6 @@ keywords:
   - "医疗误区"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/sg-health-faq-2026.jpg"
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "欧盟海关"
   - "2026政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-trade-faq-2026.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "2024-2026教育改革"
   - "国际教育管理"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/au-education-functions-2026.jpg"
 draft: false
 
 ---

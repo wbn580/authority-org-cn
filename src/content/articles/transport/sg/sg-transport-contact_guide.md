@@ -24,7 +24,6 @@ keywords:
   - "民航投诉"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.lta.gov.sg/content/dam/ltaweb/images/lta-building.jpg"
 draft: false
 
 ---

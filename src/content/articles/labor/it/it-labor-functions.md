@@ -22,7 +22,6 @@ keywords:
   - "社会保障体系"
   - "中国籍劳工"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-labor-ministry-functions-2026.jpg"
 draft: false
 
 ---

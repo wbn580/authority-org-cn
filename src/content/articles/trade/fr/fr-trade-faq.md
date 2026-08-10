@@ -27,7 +27,6 @@ keywords:
   - "报关代理"
   - "2026年法国贸易法规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/fr-trade-faq-2026.png"
 draft: false
 
 ---

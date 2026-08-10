@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[新加坡税务, IRAS, 税务职能, 税收征管, 国际税务]"
 keywords: "[新加坡税务局, IRAS职能, 税务合规, 税收政策执行, 2026年税务调整]"
 chineseServiceAvailable: true
-ogImage: "https://www.iras.gov.sg/images/iras-og-image.jpg"
 draft: false
 
 ---

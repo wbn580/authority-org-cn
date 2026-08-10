@@ -35,7 +35,6 @@ keywords:
   - "中文服务荷兰"
   - "中国大陆荷兰交通"
 chineseServiceAvailable: true
-ogImage: "https://www.rijkswaterstaat.nl/images/og-image-default.jpg"
 draft: false
 
 ---

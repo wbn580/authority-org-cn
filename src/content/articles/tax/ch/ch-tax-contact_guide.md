@@ -23,7 +23,6 @@ keywords:
   - "中文税务服务"
   - "瑞士税务投诉"
 chineseServiceAvailable: true
-ogImage: "https://example.com/swiss-tax-guide-2026.jpg"
 draft: false
 
 ---

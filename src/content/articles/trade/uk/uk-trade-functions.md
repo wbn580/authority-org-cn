@@ -27,7 +27,6 @@ keywords:
   - "贸易救济"
   - "海关合规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-uk-trade-customs-2026.png"
 draft: false
 
 ---

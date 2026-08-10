@@ -21,7 +21,6 @@ keywords:
   - "国家移民管理局联系方式"
   - "签证费用2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image-cn-immigration-faq-2026.jpg"
 draft: false
 
 ---

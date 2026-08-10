@@ -26,7 +26,6 @@ keywords:
   - "申诉渠道"
   - "数字化平台"
 chineseServiceAvailable: 爱尔兰教育部官网（education.ie）提供英文界面，无中文版本；部分关键文件（如《2026年教育行动计划》）有自动翻译功能，但未设专职中文服务人员。
-ogImage: "https://example.com/ie-education-comparison-og.jpg"
 draft: false
 hideFromHome: true
 

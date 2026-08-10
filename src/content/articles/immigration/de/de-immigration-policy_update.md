@@ -21,7 +21,6 @@ keywords:
   - "德国联邦内政部"
   - "Skilled Immigration Act"
 chineseServiceAvailable: true
-ogImage: "https://example.com/de-immigration-policy-2026.jpg"
 draft: false
 
 ---

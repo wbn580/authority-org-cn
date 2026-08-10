@@ -23,7 +23,6 @@ keywords:
   - "大陆人香港就医"
   - "香港医院管理局"
 chineseServiceAvailable: true
-ogImage: "https://www.hk.gov.hk/images/og-health-authority-2026.jpg"
 draft: false
 
 ---

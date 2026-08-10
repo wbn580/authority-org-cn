@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印尼税务\", \"增值税上调\", \"税收赦免\", \"企业所得税\", \"数字经济税\", \"转让定价\"]"
 keywords: "[\"印尼税务总局\", \"DJP\", \"PPN 12%\", \"税收赦免法案\", \"企业所得税率\", \"PMA\", \"常设机构\", \"PPh Pasal 26\", \"大陆人印尼税务\"]"
 chineseServiceAvailable: true
-ogImage: "https://res.cloudinary.com/djp-tax/image/upload/v1680000000/indonesia-tax-policy-2026.jpg"
 draft: false
 
 ---

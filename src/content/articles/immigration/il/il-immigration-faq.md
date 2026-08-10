@@ -21,7 +21,6 @@ keywords:
   - "签证申请流程"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-israel-immigration-2026.jpg"
 draft: false
 
 ---

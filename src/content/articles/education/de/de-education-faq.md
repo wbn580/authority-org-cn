@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国教育\", \"BMBF\", \"KMK\", \"留学申请\", \"签证时效\", \"费用标准\", \"中文服务\"]"
 keywords: "[\"德国教育主管部门FAQ\", \"德国留学申请流程\", \"德国签证处理时间\", \"德国大学费用\", \"中文服务可用性\", \"Anabin认证\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-de-education-faq.jpg"
 draft: false
 
 ---

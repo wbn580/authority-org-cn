@@ -23,7 +23,6 @@ keywords:
   - "联邦法院规则修订"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/us-legal-policy-2024-2026.jpg"
 draft: false
 
 ---

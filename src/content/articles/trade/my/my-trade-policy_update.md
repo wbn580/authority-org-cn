@@ -31,7 +31,6 @@ keywords:
   - "马来西亚贸易政策更新追踪"
   - "马来西亚进口限制 2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-trade-policy-2024-2026-og.jpg"
 draft: false
 
 ---

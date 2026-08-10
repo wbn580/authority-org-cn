@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰交通\", \"荷兰民航\", \"Rijkswaterstaat\", \"ILT\", \"欧洲交通政策\", \"荷兰基础设施\"]"
 keywords: "[\"荷兰交通水运管理总局\", \"荷兰民航局\", \"荷兰交通法规\", \"荷兰驾照\", \"荷兰航空安全\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/netherlands-transport-authority-og.jpg"
 draft: false
 
 ---

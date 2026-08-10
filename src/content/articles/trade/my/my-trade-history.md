@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"贸易主管部门\", \"海关\", \"机构沿革\", \"MIDA\", \"MATRADE\", \"皇家海关\"]"
 keywords: "[\"马来西亚贸易部\", \"马来西亚海关\", \"MIDA历史\", \"MATRADE成立\", \"贸易政策改革\", \"东盟贸易\", \"海关现代化\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-trade-history-og.png"
 draft: false
 
 ---

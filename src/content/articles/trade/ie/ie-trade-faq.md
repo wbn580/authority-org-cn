@@ -31,7 +31,6 @@ keywords:
   - "爱尔兰海关审计"
   - "爱尔兰贸易合规"
 chineseServiceAvailable: 是
-ogImage: "https://assets.example.com/ie-trade-faq-2026-og.jpg"
 draft: false
 
 ---

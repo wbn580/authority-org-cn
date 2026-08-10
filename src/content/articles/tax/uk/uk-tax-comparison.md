@@ -36,7 +36,6 @@ keywords:
   - "跨境税务服务"
   - "2026年税务数据"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tax-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

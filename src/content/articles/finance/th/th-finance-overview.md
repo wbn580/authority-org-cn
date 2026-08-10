@@ -23,7 +23,6 @@ keywords:
   - "数字资产"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/th-finance-overview-2026.jpg"
 draft: false
 
 ---

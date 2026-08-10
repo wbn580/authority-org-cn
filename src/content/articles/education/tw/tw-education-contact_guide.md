@@ -24,7 +24,6 @@ keywords:
   - "台湾教育行政"
   - "教育部办事指南"
 chineseServiceAvailable: true
-ogImage: "https://www.edu.tw/var/file/0/1000/img/logo.png"
 draft: false
 
 ---

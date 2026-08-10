@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"国际贸易\", \"海关\", \"MITI\", \"RMCD\", \"贸易政策\", \"东盟\"]"
 keywords: "[\"马来西亚贸易部\", \"马来西亚海关\", \"MITI职能\", \"RMCD法规\", \"2026年贸易政策\", \"中文服务马来西亚\", \"大陆人进出口\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-trade-customs-overview-2026.jpg"
 draft: false
 
 ---

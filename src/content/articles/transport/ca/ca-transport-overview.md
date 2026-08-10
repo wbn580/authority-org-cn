@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大交通部\", \"Transport Canada\", \"加拿大民航\", \"加拿大航空安全\", \"加拿大交通法规\", \"加拿大司机执照\", \"中文服务\"]"
 keywords: "[\"加拿大交通部\", \"Transport Canada\", \"加拿大民航局\", \"加拿大航空法规\", \"加拿大驾驶执照\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://tc.canada.ca/sites/default/files/2025-06/tc-logo-en.png"
 draft: false
 
 ---

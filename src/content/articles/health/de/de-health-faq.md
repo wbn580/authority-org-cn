@@ -21,7 +21,6 @@ keywords:
   - "德国医保误区"
   - "医保费用减免"
 chineseServiceAvailable: true
-ogImage: "https://example.com/de-health-faq-og-2026.jpg"
 draft: false
 
 ---

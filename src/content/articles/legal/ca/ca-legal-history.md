@@ -26,7 +26,6 @@ keywords:
   - "未来展望"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-legal-history-og.png"
 draft: false
 
 ---

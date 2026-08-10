@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚贸易\", \"海关\", \"ABF\", \"DFAT\", \"贸易合规\", \"跨境实务\"]"
 keywords: "[\"澳大利亚贸易委员会\", \"澳大利亚边境执法局\", \"海关立法\", \"2026年关税调整\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-trade-overview-og.jpg"
 draft: false
 
 ---

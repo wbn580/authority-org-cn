@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国劳工部\", \"DOL\", \"劳动法\", \"FLSA\", \"OSHA\", \"FMLA\", \"移民劳工\", \"最低工资\", \"2026\"]"
 keywords: "[\"美国劳工部\", \"DOL\", \"劳动法\", \"FLSA\", \"OSHA\", \"FMLA\", \"移民劳工\", \"最低工资\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.dol.gov/themes/contrib/dol_theme/images/dol-logo.png"
 draft: false
 
 ---

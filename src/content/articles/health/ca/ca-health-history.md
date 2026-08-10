@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大卫生部\", \"Health Canada\", \"机构沿革\", \"卫生政策\", \"加拿大卫生法\", \"公共卫生\", \"药品监管\"]"
 keywords: "[\"加拿大卫生部沿革\", \"Health Canada history\", \"加拿大卫生法\", \"机构改组\", \"公共卫生改革\", \"食品与药品法\", \"加拿大卫生署\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.canada.ca/content/dam/hc-sc/images/brand/hc-sc-og.jpg"
 draft: false
 
 ---

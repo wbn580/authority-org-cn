@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本\", \"厚生劳动省\", \"医保\", \"公共卫生\", \"医疗政策\", \"职能详解\"]"
 keywords: "[\"日本卫生主管部门\", \"厚生劳动省职能\", \"日本医保体系\", \"健康保险法\", \"介护保险法\", \"2024年医疗改革\", \"2026年制度调整\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-health-ministry-functions-2026.jpg"
 draft: false
 
 ---

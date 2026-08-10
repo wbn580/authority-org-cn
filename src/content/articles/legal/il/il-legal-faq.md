@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列\", \"司法部\", \"法务\", \"FAQ\", \"法律咨询\", \"中文服务\"]"
 keywords: "[\"以色列司法部\", \"法务主管部门\", \"法律程序\", \"费用时效\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-legal-faq-og.jpg"
 draft: false
 
 ---

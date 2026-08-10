@@ -22,7 +22,6 @@ keywords:
   - "瑞士税务数字化"
   - "瑞士中文税务服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ch-tax-history-og.png"
 draft: false
 
 ---

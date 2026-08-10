@@ -23,7 +23,6 @@ keywords:
   - "中文服务可用性"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-legal-faq-2026.jpg"
 draft: false
 
 ---

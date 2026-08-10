@@ -24,7 +24,6 @@ keywords:
   - "初级卫生保健"
   - "卫生中心"
 chineseServiceAvailable: true
-ogImage: "https://www.ssm.gov.mo/images/og-history.jpg"
 draft: false
 
 ---

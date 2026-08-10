@@ -26,7 +26,6 @@ keywords:
   - "中文服务"
   - "大陆人"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/id-health-overview-2026.jpg"
 draft: false
 
 ---

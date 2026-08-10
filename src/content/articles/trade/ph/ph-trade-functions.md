@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"菲律宾\", \"贸易\", \"海关\", \"DTI\", \"BOC\", \"职能详解\", \"2026\"]"
 keywords: "[\"菲律宾贸易与工业部\", \"菲律宾海关局\", \"贸易政策\", \"海关清关\", \"R.A. 10863\", \"R.A. 11293\", \"2026年调整\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.dti.gov.ph/images/default-source/default-album/ph-trade-og.png?sfvrsn=2"
 draft: false
 
 ---

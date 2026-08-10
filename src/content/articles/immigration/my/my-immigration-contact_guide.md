@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[马来西亚, 移民局, 签证, 护照, 通行证, 联系方式, 办事指南]"
 keywords: "[马来西亚移民局, JIM, 签证申请, 护照办理, 办公地址, 预约系统, 费用标准, 中文服务, 投诉申诉, 大陆人指南]"
 chineseServiceAvailable: true
-ogImage: "https://www.imi.gov.my/images/og-image.jpg"
 draft: false
 
 ---

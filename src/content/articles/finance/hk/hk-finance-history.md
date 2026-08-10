@@ -21,7 +21,6 @@ keywords:
   - "外汇基金条例修订"
   - "金融科技监管沙盒"
 chineseServiceAvailable: true
-ogImage: "https://example.com/hk-monetary-history-og.jpg"
 draft: false
 
 ---

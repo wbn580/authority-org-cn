@@ -33,7 +33,6 @@ keywords:
   - "马来西亚劳工局历史"
   - "马来西亚人力资源部2026"
 chineseServiceAvailable: true
-ogImage: "https://res.cloudinary.com/demo/image/upload/v1684912345/malaysia-ministry-of-human-resources-history.jpg"
 draft: false
 
 ---

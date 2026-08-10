@@ -27,7 +27,6 @@ keywords:
   - "越南出入境管理局"
   - "越南中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-immigration-faq-2026.jpg"
 draft: false
 
 ---

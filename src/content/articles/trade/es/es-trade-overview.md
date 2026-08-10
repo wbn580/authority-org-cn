@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙\", \"贸易\", \"海关\", \"主管部门\", \"经济商业贸易部\", \"税务海关局\", \"MCC\", \"AEAT\", \"法规\"]"
 keywords: "[\"西班牙贸易主管部门\", \"西班牙海关\", \"MCC\", \"AEAT\", \"进出口法规\", \"中文服务\", \"中国大陆企业\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/spain-trade-customs-overview-2026.jpg"
 draft: false
 
 ---

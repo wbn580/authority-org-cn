@@ -27,7 +27,6 @@ keywords:
   - "2026年调整"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/es-trade-customs-functions-2026.jpg"
 draft: false
 
 ---

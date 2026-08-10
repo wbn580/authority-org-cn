@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国签证\", \"移民政策\", \"2024-2026\", \"中国大陆\", \"政策更新\"]"
 keywords: "[\"泰国移民局\", \"签证政策\", \"中国大陆\", \"电子签证\", \"长期居留\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-immigration-2024-26.jpg"
 draft: false
 
 ---

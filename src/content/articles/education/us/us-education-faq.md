@@ -22,7 +22,6 @@ keywords:
   - "教育公平"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/us-education-faq-2026.jpg"
 draft: false
 
 ---

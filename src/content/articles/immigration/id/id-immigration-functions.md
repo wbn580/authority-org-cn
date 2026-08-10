@@ -31,7 +31,6 @@ keywords:
   - "签证逾期印尼"
   - "中文服务印尼移民"
 chineseServiceAvailable: true
-ogImage: "https://www.imigrasi.go.id/images/og-image-functions-2026.jpg"
 draft: false
 
 ---

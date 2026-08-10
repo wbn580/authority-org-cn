@@ -24,7 +24,6 @@ keywords:
   - "泰国税务预约"
   - "泰国税务投诉"
 chineseServiceAvailable: true
-ogImage: "https://www.rd.go.th/fileadmin/user_upload/og-image-tax-guide-2026.jpg"
 draft: false
 
 ---

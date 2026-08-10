@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门金融监管\", \"反洗钱\", \"数字澳门元\", \"金融科技\", \"跨境金融\", \"政策更新\"]"
 keywords: "[\"澳门金融管理局\", \"AMCM\", \"2026年金融政策\", \"反洗钱法修订\", \"数字澳门元\", \"跨境资金流动\", \"大陆投资者影响\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.amcm.gov.mo/images/og-image-finance-policy-update-2026.jpg"
 draft: false
 
 ---

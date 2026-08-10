@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港\", \"入境事务处\", \"机构沿革\", \"移民政策\", \"签证管理\", \"历史\"]"
 keywords: "[\"香港入境事务处\", \"香港移民局\", \"香港签证\", \"香港入境政策\", \"香港居民身份\", \"香港特别行政区\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image-hk-immigration-history.jpg"
 draft: false
 
 ---

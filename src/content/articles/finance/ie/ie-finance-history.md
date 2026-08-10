@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰央行\", \"CBI\", \"金融监管\", \"中央银行改革\", \"欧洲央行\", \"单一监管机制\"]"
 keywords: "[\"爱尔兰中央银行\", \"金融监管机构沿革\", \"爱尔兰金融改革\", \"CBI历史\", \"欧洲央行SSM\"]"
 chineseServiceAvailable: true
-ogImage: "https://res.cloudinary.com/dqjv9z6vz/image/upload/v1685723456/ireland-central-bank-hq.jpg"
 draft: false
 
 ---

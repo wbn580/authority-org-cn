@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"瑞士\", \"司法\", \"法务\", \"机构沿革\", \"联邦司法与警察部\", \"FDJP\", \"法律改革\"]"
 keywords: "[\"瑞士司法部\", \"FDJP\", \"联邦司法与警察部\", \"瑞士法律体系\", \"机构改革\", \"联邦宪法\"]"
 chineseServiceAvailable: false
-ogImage: "https://www.bj.admin.ch/dam/bj/de/home/bilder/logos/bj-logo.png"
 draft: false
 
 ---

@@ -29,7 +29,6 @@ keywords:
   - "MAS 2026政策"
   - "新加坡金融科技监管沙盒"
 chineseServiceAvailable: true
-ogImage: "https://www.mas.gov.sg/images/default-source/default-album/mas-building.jpg"
 draft: false
 
 ---

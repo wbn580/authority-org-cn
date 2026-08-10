@@ -26,7 +26,6 @@ keywords:
   - "加拿大劳工权益"
   - "加拿大就业与社会发展部"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-labor-faq-og.png"
 draft: false
 
 ---

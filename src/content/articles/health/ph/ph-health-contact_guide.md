@@ -22,7 +22,6 @@ keywords:
   - "大陆人菲律宾医保"
   - "菲律宾卫生投诉"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ph-health-guide-2026.jpg"
 draft: false
 
 ---

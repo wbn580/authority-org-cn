@@ -27,7 +27,6 @@ keywords:
   - "巴塞尔协议III"
   - "金融机构业务法"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/thailand-bot-history-og.jpg"
 draft: false
 
 ---

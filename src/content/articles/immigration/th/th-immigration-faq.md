@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国签证\", \"泰国移民\", \"FAQ\", \"泰国长期居留\", \"签证申请\"]"
 keywords: "[\"泰国签证费用\", \"泰国移民局联系方式\", \"泰国签证中文服务\", \"泰国签证误区\", \"泰国移民流程\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-th-immigration-faq-2026.jpg"
 draft: false
 
 ---

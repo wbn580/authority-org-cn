@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港劳工处\", \"机构沿革\", \"劳工政策\", \"就业服务\", \"职业安全\", \"劳工法例\"]"
 keywords: "[\"香港劳工处历史\", \"劳工处职能\", \"香港劳工法例演变\", \"职业安全改革\", \"劳工处改组\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.labour.gov.hk/images/og-image.jpg"
 draft: false
 
 ---

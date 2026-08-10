@@ -21,7 +21,6 @@ keywords:
   - "以色列法院系统"
   - "以色列司法改革2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/israel-ministry-justice-overview.png"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国贸易代表办公室\", \"USTR\", \"商务部国际贸易局\", \"ITA\", \"海关与边境保护局\", \"CBP\", \"贸易政策\", \"海关法规\", \"机构沿革\", \"法律基础\"]"
 keywords: "[\"美国贸易主管部门沿革\", \"USTR成立背景\", \"ITA职能调整\", \"CBP法律基础\", \"贸易法改革\", \"海关现代化\", \"美国贸易政策历史\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/us-trade-history-og.jpg"
 draft: false
 
 ---

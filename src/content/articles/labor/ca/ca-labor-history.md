@@ -31,7 +31,6 @@ keywords:
   - "加拿大就业保险制度"
   - "加拿大劳工部名称变更"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/canada-labor-department-history.jpg"
 draft: false
 
 ---

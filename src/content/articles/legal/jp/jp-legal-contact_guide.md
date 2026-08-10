@@ -26,7 +26,6 @@ keywords:
   - "中文服务"
   - "大陆人日本办事"
 chineseServiceAvailable: true
-ogImage: "https://example.com/jp-legal-guide-2026.jpg"
 draft: false
 
 ---

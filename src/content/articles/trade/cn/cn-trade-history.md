@@ -31,7 +31,6 @@ keywords:
   - "法律基础"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-trade-history-og.jpg"
 draft: false
 
 ---

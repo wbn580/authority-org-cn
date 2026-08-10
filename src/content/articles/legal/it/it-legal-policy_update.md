@@ -26,7 +26,6 @@ keywords:
   - "司法协助"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/italy-legal-policy-2024-2026.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "大陆人英国就医"
   - "2024-2026"
 chineseServiceAvailable: true
-ogImage: "https://www.gov.uk/assets/images/opengraph-image.png"
 draft: false
 
 ---

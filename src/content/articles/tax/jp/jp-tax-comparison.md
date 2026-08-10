@@ -28,7 +28,6 @@ keywords:
   - "税务透明度指数"
   - "大陆人税务接触"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-tax-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

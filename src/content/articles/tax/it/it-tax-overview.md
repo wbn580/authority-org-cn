@@ -26,7 +26,6 @@ keywords:
   - "意大利税务合规"
   - "中文税务服务"
 chineseServiceAvailable: true
-ogImage: "https://www.agenziaentrate.gov.it/portale/documents/20395/0/logo-agenzia-entrate.png"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "WICA"
   - "2026年新加坡劳动法"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-sg-labor-2026.jpg"
 draft: false
 
 ---

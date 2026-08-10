@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚移民\", \"移民部\", \"内政部\", \"机构沿革\", \"法律基础\", \"政策改革\"]"
 keywords: "[\"澳大利亚移民局历史\", \"移民部改组\", \"移民法变迁\", \"澳大利亚签证体系\", \"内政部职能\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-immigration-history-2026.jpg"
 draft: false
 
 ---

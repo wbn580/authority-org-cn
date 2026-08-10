@@ -27,7 +27,6 @@ keywords:
   - "卫生法律"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-health-functions-2026.jpg"
 draft: false
 
 ---

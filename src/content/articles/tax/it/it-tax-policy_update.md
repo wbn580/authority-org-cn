@@ -31,7 +31,6 @@ keywords:
   - "跨境税务"
   - "中文税务服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-tax-policy-2024-2026.jpg"
 draft: false
 
 ---

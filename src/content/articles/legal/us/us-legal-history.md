@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国司法部\", \"DOJ\", \"机构沿革\", \"法律基础\", \"联邦检察\", \"反垄断\", \"民权\", \"国家安全\"]"
 keywords: "[\"美国司法部历史\", \"1789年司法部法案\", \"司法部改组\", \"联邦检察体系\", \"关键改革事件\"]"
 chineseServiceAvailable: false
-ogImage: "https://www.justice.gov/sites/all/themes/justice/images/og-image.jpg"
 draft: false
 
 ---

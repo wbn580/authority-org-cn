@@ -23,7 +23,6 @@ keywords:
   - "处理时效"
   - "投诉申诉"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-legal-contact-guide-2026.jpg"
 draft: false
 
 ---

@@ -29,7 +29,6 @@ keywords:
   - "大陆企业"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tw-trade-customs-guide-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "TFSA供款限额"
   - "RRSP供款限额"
 chineseServiceAvailable: true
-ogImage: "https://www.canada.ca/content/dam/cra-arc/images/og-image-tax.jpg"
 draft: false
 
 ---

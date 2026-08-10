@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印尼移民\", \"签证政策\", \"移民总局\", \"电子落地签证\", \"黄金签证\", \"大陆人影响\"]"
 keywords: "[\"印尼移民总局\", \"Direktorat Jenderal Imigrasi\", \"印尼签证\", \"电子落地签证\", \"黄金签证\", \"中国大陆申请人\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/id-immigration-overview-2026.jpg"
 draft: false
 
 ---

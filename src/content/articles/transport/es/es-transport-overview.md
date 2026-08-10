@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙交通部\", \"MITMS\", \"AESA\", \"民航管理\", \"西班牙交通法规\", \"EASA\", \"西班牙航空安全\"]"
 keywords: "[\"西班牙交通部\", \"西班牙民航局\", \"AESA\", \"MITMS\", \"西班牙交通法规\", \"西班牙航空安全\", \"中文服务\", \"大陆人西班牙交通\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.mitms.gob.es/imagenes/og-image-default.jpg"
 draft: false
 
 ---

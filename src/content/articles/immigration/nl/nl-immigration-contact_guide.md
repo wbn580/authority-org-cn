@@ -25,7 +25,6 @@ keywords:
   - "MVV申请"
   - "荷兰移民中文服务"
 chineseServiceAvailable: true
-ogImage: "https://ind.nl/themes/custom/ind/images/og-image.png"
 draft: false
 
 ---

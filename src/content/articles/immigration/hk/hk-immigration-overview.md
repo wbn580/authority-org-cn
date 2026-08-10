@@ -25,7 +25,6 @@ keywords:
   - "香港身份证申请"
   - "香港入境事务"
 chineseServiceAvailable: true
-ogImage: "https://www.immd.gov.hk/immd_common/images/og_image.jpg"
 draft: false
 
 ---

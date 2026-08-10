@@ -23,7 +23,6 @@ keywords:
   - "2026年费用"
   - "紧急医疗"
 chineseServiceAvailable: true
-ogImage: "https://www.health.govt.nz/sites/default/files/og-image-nz-health-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列央行\", \"BOI\", \"ISA\", \"货币政策\", \"金融监管\", \"政策更新\", \"2024-2026\"]"
 keywords: "[\"以色列央行政策\", \"以色列金融监管\", \"2024年政策变化\", \"大陆人影响\", \"以色列银行业\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.boi.org.il/og-image.jpg"
 draft: false
 
 ---

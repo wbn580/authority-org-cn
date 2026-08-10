@@ -25,7 +25,6 @@ keywords:
   - "课程注册时效"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://www.moe.gov.sg/images/og-image.jpg"
 draft: false
 
 ---

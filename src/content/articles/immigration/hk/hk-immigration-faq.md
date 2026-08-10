@@ -27,7 +27,6 @@ keywords:
   - "香港永久居民申请"
   - "香港签证误区"
 chineseServiceAvailable: true
-ogImage: "https://www.immd.gov.hk/images/faq-2026-og.jpg"
 draft: false
 
 ---

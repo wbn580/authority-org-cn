@@ -30,7 +30,6 @@ keywords:
   - "政策分析"
   - "日本法律"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-legal-policy-update-2024-2026.jpg"
 draft: false
 
 ---

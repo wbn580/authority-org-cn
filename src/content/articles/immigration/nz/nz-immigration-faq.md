@@ -23,7 +23,6 @@ keywords:
   - "居民签证误区"
   - "INZ客服电话"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-immigration-faq-2026.jpg"
 draft: false
 
 ---

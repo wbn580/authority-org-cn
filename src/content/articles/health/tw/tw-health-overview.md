@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国台湾\", \"卫生福利部\", \"MOHW\", \"医保\", \"健康政策\", \"组织架构\", \"法规\"]"
 keywords: "[\"卫生福利部\", \"台湾卫生主管部门\", \"台湾医保\", \"全民健康保险\", \"MOHW\", \"中医药\", \"防疫\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.mohw.gov.tw/public/images/og-default.jpg"
 draft: false
 
 ---

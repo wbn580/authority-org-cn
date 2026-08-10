@@ -21,7 +21,6 @@ keywords:
   - "贸易便利化"
   - "反倾销"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-trade-functions-2026.jpg"
 draft: false
 
 ---

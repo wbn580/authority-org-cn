@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国大陆\", \"人力资源和社会保障部\", \"劳动就业\", \"职能详解\", \"劳动关系\", \"社会保险\", \"劳动监察\", \"就业促进\"]"
 keywords: "[\"人力资源和社会保障部\", \"MOHRSS\", \"劳动就业职能\", \"劳动合同法\", \"社会保险法\", \"劳动监察\", \"就业促进\", \"2026年\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-cn-labor-functions.jpg"
 draft: false
 
 ---

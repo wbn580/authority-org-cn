@@ -28,7 +28,6 @@ keywords:
   - "机构职能调整"
   - "未来税务展望"
 chineseServiceAvailable: true
-ogImage: "https://www.iras.gov.sg/images/iras-building-og.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "认证时效"
   - "中文咨询"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-fr-education-faq.jpg"
 draft: false
 
 ---

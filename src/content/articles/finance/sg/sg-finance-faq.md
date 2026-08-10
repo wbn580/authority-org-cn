@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡金融管理局\", \"MAS\", \"金融监管\", \"央行职能\", \"许可与合规\", \"中文服务\"]"
 keywords: "[\"新加坡央行\", \"MAS联系方式\", \"金融监管机构\", \"银行牌照\", \"反洗钱\", \"投诉渠道\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.mas.gov.sg/images/default-source/default-album/mas-og-image.jpg"
 draft: false
 
 ---

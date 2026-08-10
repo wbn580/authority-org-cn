@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[英国教育, 教育部, 学生办公室, 联系方式, 办事指南, 中文服务, 大陆人]"
 keywords: "[英国教育部, DfE, OfS, 办公地址, 电话, 预约, 表格, 费用, 中文服务, 处理时效, 投诉, 申诉, 中国大陆]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-uk-education-guide-2026.jpg"
 draft: false
 
 ---

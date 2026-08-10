@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利教育\", \"学历认证\", \"学生签证\", \"MUR\", \"MAECI\", \"Universitaly\"]"
 keywords: "[\"意大利教育部FAQ\", \"意大利学历认证流程\", \"意大利学生签证时效\", \"意大利中文服务\", \"意大利教育部门联系方式\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/it-education-faq-2026.jpg"
 draft: false
 
 ---

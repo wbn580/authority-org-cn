@@ -22,7 +22,6 @@ keywords:
   - "中文服务可用性"
   - "评税周期"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.gov.hk/images/og-default.jpg"
 draft: false
 
 ---

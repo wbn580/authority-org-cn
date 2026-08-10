@@ -27,7 +27,6 @@ keywords:
   - "中文服务新西兰交通"
   - "大陆人新西兰驾照"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-transport-guide-og.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "荷兰反洗钱"
   - "荷兰金融制裁"
 chineseServiceAvailable: true
-ogImage: "https://www.dnb.nl/media/4l1hq0xz/dnb-hoofdkantoor.jpg"
 draft: false
 
 ---

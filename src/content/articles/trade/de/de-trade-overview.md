@@ -31,7 +31,6 @@ keywords:
   - "德国海关中文服务"
   - "中国企业在德海关合规"
 chineseServiceAvailable: 是
-ogImage: "https://www.bmwk.de/SiteGlobals/StyleBundles/Bilder/og-image.jpg?__blob=normal&v=3"
 draft: false
 
 ---

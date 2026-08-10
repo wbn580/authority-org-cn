@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新西兰税务\", \"IRD\", \"FAQ\", \"税务居民\", \"GST\", \"PAYE\", \"中文服务\"]"
 keywords: "[\"新西兰税务局\", \"IRD联系方式\", \"税务居民测试\", \"GST申报\", \"个人所得税\", \"中文客服\", \"税务误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.govt.nz/-/media/Images/IRD-logo.png"
 draft: false
 
 ---

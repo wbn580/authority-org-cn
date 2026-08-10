@@ -28,7 +28,6 @@ keywords:
   - "投诉申诉"
   - "大陆人士指南"
 chineseServiceAvailable: true
-ogImage: "https://www.edb.gov.hk/attachment/en/about-edb/press/2026/og-image-contact-guide.jpg"
 draft: false
 
 ---

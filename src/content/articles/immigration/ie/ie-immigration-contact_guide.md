@@ -27,7 +27,6 @@ keywords:
   - "投诉申诉"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ie-immigration-guide-2026.jpg"
 draft: false
 
 ---

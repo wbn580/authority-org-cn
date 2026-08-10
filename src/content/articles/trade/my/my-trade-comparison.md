@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"贸易主管部门\", \"海关\", \"跨国对比\", \"监管效率\", \"数字化\", \"透明度\"]"
 keywords: "[\"马来西亚贸易主管部门\", \"马来西亚海关\", \"新加坡海关\", \"泰国海关\", \"韩国关税厅\", \"澳大利亚边境执法局\", \"跨境贸易\", \"大陆人接触度\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-trade-comparison-og.png"
 draft: false
 hideFromHome: true
 

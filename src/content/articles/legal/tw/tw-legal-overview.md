@@ -24,7 +24,6 @@ keywords:
   - "2026年法务动态"
   - "组织法"
 chineseServiceAvailable: true
-ogImage: "https://www.moj.gov.tw/media/logo.png"
 draft: false
 
 ---

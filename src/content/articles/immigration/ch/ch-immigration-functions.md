@@ -27,7 +27,6 @@ keywords:
   - "入籍审查"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ch-immigration-functions-2026.jpg"
 draft: false
 
 ---

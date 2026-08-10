@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[中国大陆税务, 国家税务总局, 纳税申报, 发票管理, 个人所得税, 企业所得税, 税收优惠, 税务争议, 中文服务]"
 keywords: "[中国大陆税务FAQ, 国家税务总局联系方式, 个人所得税汇算清缴, 增值税发票查验, 税务登记流程, 税收优惠政策, 税务行政复议, 12366, 电子税务局, 税务争议解决]"
 chineseServiceAvailable: true
-ogImage: "https://www.chinatax.gov.cn/images/og-tax-faq-2026.jpg"
 draft: false
 
 ---

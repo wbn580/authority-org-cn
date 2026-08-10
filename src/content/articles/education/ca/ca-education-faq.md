@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大教育\", \"留学FAQ\", \"教育主管部门\", \"申请流程\", \"费用\", \"中文服务\"]"
 keywords: "[\"加拿大教育主管部门\", \"留学申请\", \"学签\", \"费用\", \"中文服务\", \"误区\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ca-education-faq-2026.jpg"
 draft: false
 
 ---

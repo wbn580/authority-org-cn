@@ -28,7 +28,6 @@ keywords:
   - "技能发展"
   - "2024-2026改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-sg-mom-functions.jpg"
 draft: false
 
 ---

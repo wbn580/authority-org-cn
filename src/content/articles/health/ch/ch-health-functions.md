@@ -25,7 +25,6 @@ keywords:
   - "2024-2026调整"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.bag.admin.ch/dam/bag/en/dokumente/ueber-uns/medienmitteilungen/2026/og-image-foph-functions.jpg"
 draft: false
 
 ---

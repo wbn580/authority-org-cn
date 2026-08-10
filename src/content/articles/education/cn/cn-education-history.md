@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"教育部\", \"机构沿革\", \"教育改革\", \"教育法\", \"中国教育\", \"高等教育\", \"义务教育\"]"
 keywords: "[\"教育部历史\", \"教育部改组\", \"教育法修订\", \"双减政策\", \"双一流建设\", \"教育现代化\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-cn-education-history.jpg"
 draft: false
 
 ---

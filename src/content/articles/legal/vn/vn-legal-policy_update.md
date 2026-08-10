@@ -24,7 +24,6 @@ keywords:
   - "跨境法律服务"
   - "2026年政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-legal-policy-update-2024-26.jpg"
 draft: false
 
 ---

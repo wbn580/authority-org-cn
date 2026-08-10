@@ -24,7 +24,6 @@ keywords:
   - "澳门税务查询"
   - "澳门财政局地址"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/mo-tax-faq-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"英国司法部\", \"大法官部\", \"司法改革\", \"宪法改革\", \"法律基础\", \"机构沿革\", \"英国法务\"]"
 keywords: "[\"英国司法部沿革\", \"大法官部历史\", \"2005年宪法改革法\", \"英国司法改革\", \"司法职能调整\", \"英国法务主管部门\"]"
 chineseServiceAvailable: true
-ogImage: "https://assets.example.com/uk-moj-history-og.jpg"
 draft: false
 
 ---

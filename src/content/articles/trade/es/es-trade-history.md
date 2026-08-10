@@ -22,7 +22,6 @@ keywords:
   - "西班牙税收海关局"
   - "西班牙贸易政策法律"
 chineseServiceAvailable: true
-ogImage: "https://cdn.example.com/es-trade-history-2026.jpg"
 draft: false
 
 ---

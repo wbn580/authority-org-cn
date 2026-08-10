@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚移民局\", \"JIM\", \"移民政策\", \"机构沿革\", \"1963年移民条例\", \"2007年移民法\"]"
 keywords: "[\"马来西亚移民局\", \"Jabatan Imigresen Malaysia\", \"移民历史\", \"机构改革\", \"护照系统\", \"数字化移民\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-immigration-history-og.jpg"
 draft: false
 
 ---

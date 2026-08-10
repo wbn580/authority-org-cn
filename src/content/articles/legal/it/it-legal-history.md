@@ -27,7 +27,6 @@ keywords:
   - "欧盟刑事司法合作"
   - "意大利司法部职能"
 chineseServiceAvailable: false
-ogImage: "https://example.com/og-images/italy-ministry-of-justice-history.jpg"
 draft: false
 
 ---

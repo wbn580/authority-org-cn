@@ -31,7 +31,6 @@ keywords:
   - "伊斯兰金融监管"
   - "数字金融监管"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/id-finance-functions-2026.jpg"
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "职能协调"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/nz-trade-customs-functions-2026.jpg"
 draft: false
 
 ---

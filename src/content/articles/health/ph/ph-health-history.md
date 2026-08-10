@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"菲律宾\", \"卫生部\", \"机构沿革\", \"全民健康覆盖\", \"医疗改革\", \"DOH\", \"PhilHealth\"]"
 keywords: "[\"菲律宾卫生部历史\", \"DOH职能调整\", \"菲律宾医保改革\", \"全民健康覆盖法案\", \"PhilHealth转型\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/ph-health-history-2026.jpg"
 draft: false
 
 ---

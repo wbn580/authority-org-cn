@@ -25,7 +25,6 @@ keywords:
   - "FTA公告"
   - "2026年税务政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ae-tax-policy-update-2026.jpg"
 draft: false
 
 ---

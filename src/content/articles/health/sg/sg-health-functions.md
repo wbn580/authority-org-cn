@@ -25,7 +25,6 @@ keywords:
   - "2024-2026卫生政策调整"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://www.moh.gov.sg/images/og-image-default.jpg"
 draft: false
 
 ---

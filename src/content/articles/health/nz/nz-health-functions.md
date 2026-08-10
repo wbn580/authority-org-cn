@@ -25,7 +25,6 @@ keywords:
   - "2024改革"
   - "2026更新"
 chineseServiceAvailable: true
-ogImage: "https://example.com/nz-health-functions-2026.jpg"
 draft: false
 
 ---

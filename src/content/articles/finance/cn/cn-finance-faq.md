@@ -26,7 +26,6 @@ keywords:
   - "跨境人民币业务"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-finance-faq-2026-og.png"
 draft: false
 
 ---

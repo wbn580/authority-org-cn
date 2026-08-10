@@ -21,7 +21,6 @@ keywords:
   - "中文翻译服务"
   - "中国大陆人办事"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-legal-guide-2026.jpg"
 draft: false
 
 ---

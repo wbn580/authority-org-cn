@@ -28,7 +28,6 @@ keywords:
   - "法国驾照误区"
   - "法国交通罚款"
 chineseServiceAvailable: true
-ogImage: "https://www.ecologie.gouv.fr/sites/default/files/styles/og_image/public/2026-05/transport-faq-fr-2026.jpg"
 draft: false
 
 ---

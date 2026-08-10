@@ -29,7 +29,6 @@ keywords:
   - "大陆人签证"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/sg-australia-canada-uk-immigration-comparison.jpg"
 draft: false
 hideFromHome: true
 

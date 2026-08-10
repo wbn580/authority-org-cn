@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利移民\", \"机构沿革\", \"移民法\", \"内政部\", \"移民政策\", \"历史演变\"]"
 keywords: "[\"意大利移民局\", \"移民主管部门\", \"机构变迁\", \"移民法改革\", \"签证政策\", \"意大利\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/italy-immigration-history-og.png"
 draft: false
 
 ---

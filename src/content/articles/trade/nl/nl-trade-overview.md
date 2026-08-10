@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰贸易\", \"荷兰海关\", \"RVO\", \"Douane\", \"跨境贸易\", \"欧盟海关\", \"立法基础\", \"中文服务\"]"
 keywords: "[\"荷兰企业局\", \"荷兰海关\", \"贸易主管部门\", \"海关立法\", \"2026年动态\", \"中国进口商\", \"实操影响\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-trade-customs-overview.jpg"
 draft: false
 
 ---

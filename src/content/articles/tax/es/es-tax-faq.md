@@ -22,7 +22,6 @@ keywords:
   - "中文税务服务"
   - "西班牙税务误区"
 chineseServiceAvailable: true
-ogImage: "https://www.agenciatributaria.es/static/images/logo-aeat.png"
 draft: false
 
 ---

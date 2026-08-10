@@ -28,7 +28,6 @@ keywords:
   - "国际教育"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-education-functions-2026.jpg"
 draft: false
 
 ---

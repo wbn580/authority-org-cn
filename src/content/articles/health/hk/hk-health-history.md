@@ -21,7 +21,6 @@ keywords:
   - "香港医疗改革"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/hk-health-history-og.jpg"
 draft: false
 
 ---

@@ -29,7 +29,6 @@ keywords:
   - "申诉机制"
   - "数字化监管"
 chineseServiceAvailable: 是
-ogImage: "https://example.com/images/nl-finance-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

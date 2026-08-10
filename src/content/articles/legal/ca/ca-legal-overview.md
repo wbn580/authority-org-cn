@@ -22,7 +22,6 @@ keywords:
   - "中文服务"
   - "中国大陆公民"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/canada-justice-overview-2026.jpg"
 draft: false
 
 ---

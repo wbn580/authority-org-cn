@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港税务局\", \"IRD\", \"税务条例\", \"机构沿革\", \"香港税制\", \"税务改革\"]"
 keywords: "[\"香港税务局成立\", \"税务条例1947\", \"利得税\", \"薪俸税\", \"税务改革\", \"机构职能\", \"香港税制发展\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.gov.hk/images/og-image-default.jpg"
 draft: false
 
 ---

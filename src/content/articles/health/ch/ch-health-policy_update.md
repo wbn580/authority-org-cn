@@ -28,7 +28,6 @@ keywords:
   - "药品定价"
   - "医院融资"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/swiss-health-policy-2026.png"
 draft: false
 
 ---

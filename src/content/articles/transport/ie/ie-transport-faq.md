@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"交通\", \"民航\", \"IAA\", \"驾照\", \"车辆登记\", \"FAQ\"]"
 keywords: "[\"爱尔兰交通主管部门\", \"爱尔兰民航局\", \"爱尔兰驾照申请\", \"爱尔兰车辆注册费用\", \"中文服务爱尔兰交通\", \"爱尔兰交通FAQ\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ie-transport-faq-2026.png"
 draft: false
 
 ---

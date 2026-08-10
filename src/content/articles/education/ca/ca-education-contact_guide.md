@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大\", \"教育主管部门\", \"联系方式\", \"办事指南\", \"中文服务\", \"大陆申请人\"]"
 keywords: "[\"加拿大教育部\", \"加拿大教育主管部门\", \"办公地址\", \"联系电话\", \"预约方式\", \"表格下载\", \"费用标准\", \"中文服务\", \"投诉申诉\", \"大陆人实操指南\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.canada.ca/content/dam/canada/logo-canada.jpg"
 draft: false
 
 ---

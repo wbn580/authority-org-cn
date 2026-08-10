@@ -29,7 +29,6 @@ keywords:
   - "移工管理"
   - "职能交叉"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tw-labor-functions-2026.jpg"
 draft: false
 
 ---

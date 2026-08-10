@@ -23,7 +23,6 @@ keywords:
   - "自由贸易协定"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://www.tid.gov.hk/images/og-default.jpg"
 draft: false
 
 ---

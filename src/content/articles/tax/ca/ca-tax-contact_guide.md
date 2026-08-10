@@ -23,7 +23,6 @@ keywords:
   - "中文服务可用性"
   - "大陆人税务实操"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ca-tax-guide-2026.jpg"
 draft: false
 
 ---

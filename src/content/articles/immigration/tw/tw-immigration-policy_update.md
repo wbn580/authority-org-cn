@@ -22,7 +22,6 @@ keywords:
   - "台湾居留规定"
   - "移民政策更新"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-tw-immigration-2026.jpg"
 draft: false
 
 ---

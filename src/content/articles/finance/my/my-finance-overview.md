@@ -25,7 +25,6 @@ keywords:
   - "2026年政策"
   - "外汇管理"
 chineseServiceAvailable: true
-ogImage: "https://www.bnm.gov.my/documents/20182/0/BNM_Logo_HighRes.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "2026年海关现代化"
   - "中文服务"
 chineseServiceAvailable: 是
-ogImage: "https://example.com/images/de-trade-customs-functions-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国劳工部\", \"劳动法\", \"就业政策\", \"职业培训\", \"劳动监察\", \"失业救济\", \"职业健康\"]"
 keywords: "[\"法国劳动部职能\", \"Code du Travail\", \"法国就业局\", \"职业培训改革\", \"劳动监察机制\", \"法国2026年劳动法调整\", \"法国中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/france-labor-ministry-functions-2026.jpg"
 draft: false
 
 ---

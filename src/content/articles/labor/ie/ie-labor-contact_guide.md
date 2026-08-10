@@ -21,7 +21,6 @@ keywords:
   - "投诉申诉"
   - "大陆人指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-labor-guide-2026-og.jpg"
 draft: false
 
 ---

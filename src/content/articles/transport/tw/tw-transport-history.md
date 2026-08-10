@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国台湾\", \"交通部\", \"民航局\", \"机构沿革\", \"组织改组\", \"法律基础\", \"改革事件\", \"名称变更\"]"
 keywords: "[\"台湾交通部\", \"台湾民航局\", \"交通主管部门沿革\", \"台湾交通组织法\", \"民航法修订\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-transport-history-og.jpg"
 draft: false
 
 ---

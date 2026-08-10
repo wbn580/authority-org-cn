@@ -24,7 +24,6 @@ keywords:
   - "中国大陆居民法律指南"
   - "投诉申诉流程"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-legal-guide-2026.png"
 draft: false
 
 ---

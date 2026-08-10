@@ -26,7 +26,6 @@ keywords:
   - "香港民事司法改革2025年"
   - "中文司法服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/hk-legal-functions-2026-og.jpg"
 draft: false
 
 ---

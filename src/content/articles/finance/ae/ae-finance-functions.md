@@ -28,7 +28,6 @@ keywords:
   - "金融稳定委员会"
   - "2026年监管调整"
 chineseServiceAvailable: true
-ogImage: "https://www.cbuae.gov.ae/-/media/images/og-image.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "大陆人士医保"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/hhs-overview-2026.jpg"
 draft: false
 
 ---

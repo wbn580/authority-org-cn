@@ -28,7 +28,6 @@ keywords:
   - "大陆人"
   - "菲律宾"
 chineseServiceAvailable: true
-ogImage: "https://www.dotr.gov.ph/images/photos/DOTr-OG-Image.jpg"
 draft: false
 
 ---

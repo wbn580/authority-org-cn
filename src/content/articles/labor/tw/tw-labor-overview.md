@@ -27,7 +27,6 @@ keywords:
   - "劳动基准法"
   - "2026年劳动政策"
 chineseServiceAvailable: true
-ogImage: "https://www.mol.gov.tw/media/logo-og.png"
 draft: false
 
 ---

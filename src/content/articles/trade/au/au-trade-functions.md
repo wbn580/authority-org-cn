@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚\", \"贸易政策\", \"海关\", \"职能详解\", \"2026\"]"
 keywords: "[\"澳大利亚贸易委员会\", \"澳大利亚边境执法局\", \"海关职能\", \"贸易合规\", \"出口管制\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-trade-customs-functions-2026.jpg"
 draft: false
 
 ---

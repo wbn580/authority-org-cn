@@ -25,7 +25,6 @@ keywords:
   - "中文服务"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://www.bsp.gov.ph/og/faq-ph-finance-2026.jpg"
 draft: false
 
 ---

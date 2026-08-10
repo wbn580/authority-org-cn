@@ -23,7 +23,6 @@ keywords:
   - "法国税务处理时效"
   - "大陆人法国报税"
 chineseServiceAvailable: 是（有限）
-ogImage: "https://www.impots.gouv.fr/sites/default/files/logo-dgfip.jpg"
 draft: false
 
 ---

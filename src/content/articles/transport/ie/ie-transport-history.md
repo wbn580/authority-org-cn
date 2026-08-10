@@ -22,7 +22,6 @@ keywords:
   - "航空安全"
   - "机构改组"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/ie-transport-history.jpg"
 draft: false
 
 ---

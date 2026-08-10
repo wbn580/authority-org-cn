@@ -23,7 +23,6 @@ keywords:
   - "健康与安全工作法案"
   - "机构合并"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-labor-history-og.jpg"
 draft: false
 
 ---

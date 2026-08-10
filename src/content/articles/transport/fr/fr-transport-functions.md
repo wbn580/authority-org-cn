@@ -25,7 +25,6 @@ keywords:
   - "基础设施规划"
   - "中文服务可用性"
 chineseServiceAvailable: 是（部分服务提供中文界面与咨询）
-ogImage: "https://www.ecologie.gouv.fr/sites/default/files/2026-05/transport_france_og.png"
 draft: false
 
 ---

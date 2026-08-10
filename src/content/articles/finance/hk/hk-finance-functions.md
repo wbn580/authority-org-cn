@@ -31,7 +31,6 @@ keywords:
   - "数字港元"
   - "反洗钱"
 chineseServiceAvailable: true
-ogImage: "https://www.hkma.gov.hk/media/eng/publication/annual-report/2025/images/og-image.jpg"
 draft: false
 
 ---

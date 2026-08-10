@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://www.gov.uk/assets/images/og-uk-education-faq-2026.png"
 draft: false
 
 ---

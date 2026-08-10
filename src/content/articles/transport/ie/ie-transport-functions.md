@@ -22,7 +22,6 @@ keywords:
   - "2024-2026改革"
   - "立法依据"
 chineseServiceAvailable: false
-ogImage: "https://example.com/ie-transport-functions-og.jpg"
 draft: false
 
 ---

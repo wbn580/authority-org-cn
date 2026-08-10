@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国法务部\", \"机构沿革\", \"司法改革\", \"检察改革\", \"数字政府\", \"法律基础\"]"
 keywords: "[\"韩国法务部历史\", \"法务部改组\", \"检察厅改革\", \"数字司法\", \"政府组织法\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.moj.go.kr/images/og-image.jpg"
 draft: false
 
 ---

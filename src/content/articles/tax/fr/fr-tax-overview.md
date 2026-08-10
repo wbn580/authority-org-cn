@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国税务\", \"DGFiP\", \"税务合规\", \"个人所得税\", \"增值税\", \"税务稽查\"]"
 keywords: "[\"法国税务局\", \"DGFiP\", \"法国个人所得税\", \"非居民税务\", \"税务申报\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-fr-tax-2026.png"
 draft: false
 
 ---

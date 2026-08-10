@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港\", \"贸易\", \"海关\", \"工业贸易署\", \"进出口\", \"战略物品\", \"产地来源证\"]"
 keywords: "[\"香港工业贸易署\", \"香港海关\", \"贸易管制\", \"进出口报关\", \"战略物品管制\", \"CEPA\", \"自由贸易协定\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/hk-trade-customs-overview.jpg"
 draft: false
 
 ---

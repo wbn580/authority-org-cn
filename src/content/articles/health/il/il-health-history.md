@@ -23,7 +23,6 @@ keywords:
   - "健康维护组织"
   - "卫生部名称变更"
 chineseServiceAvailable: true
-ogImage: "https://www.health.gov.il/SiteCollectionImages/og-image.jpg"
 draft: false
 
 ---

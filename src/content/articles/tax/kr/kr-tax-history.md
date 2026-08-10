@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国税务\", \"国税厅\", \"机构沿革\", \"税务改革\", \"数字化税务\"]"
 keywords: "[\"韩国国税厅\", \"NTS历史\", \"税务机构重组\", \"韩国税法变迁\", \"税务行政数字化\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/kr-nts-history-og.png"
 draft: false
 
 ---

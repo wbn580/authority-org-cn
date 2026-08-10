@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国民航\", \"CAAC\", \"航空监管\", \"民用航空法\", \"航班正常\", \"低空经济\", \"飞行标准\"]"
 keywords: "[\"中国民用航空局\", \"CAAC职能\", \"民航法规\", \"2026年航班正常率\", \"飞行安全\", \"无人机管理\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/caac-overview-2026.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "跨境纠纷"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.judiciary.hk/static/image/og-legal-overview-2026.jpg"
 draft: false
 
 ---

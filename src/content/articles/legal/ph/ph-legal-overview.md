@@ -28,7 +28,6 @@ keywords:
   - "大陆人"
   - "实操影响"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ph-legal-og-image.jpg"
 draft: false
 
 ---

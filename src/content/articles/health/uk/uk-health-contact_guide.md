@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"英国卫生\", \"NHS\", \"DHSC\", \"MHRA\", \"医保联系方式\", \"中文服务\", \"中国大陆居民\"]"
 keywords: "[\"英国卫生部门\", \"NHS联系方式\", \"医保指南\", \"DHSC地址\", \"MHRA投诉\", \"中文服务英国\", \"大陆人英国医保\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/uk-health-guide-2026-og.jpg"
 draft: false
 
 ---

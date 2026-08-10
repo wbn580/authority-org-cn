@@ -26,7 +26,6 @@ keywords:
   - "支付系统监管"
   - "2025-2026金融调整"
 chineseServiceAvailable: true
-ogImage: "https://www.bnm.gov.my/images/og-image.jpg"
 draft: false
 
 ---

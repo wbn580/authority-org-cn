@@ -25,7 +25,6 @@ keywords:
   - "以色列司法部2026"
   - "以色列法律史"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/il-legal-history.jpg"
 draft: false
 
 ---

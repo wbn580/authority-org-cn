@@ -21,7 +21,6 @@ keywords:
   - "海关法律基础"
   - "香港贸易政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/hk-customs-evolution-2026.jpg"
 draft: false
 
 ---

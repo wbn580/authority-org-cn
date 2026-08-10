@@ -27,7 +27,6 @@ keywords:
   - "部门协调"
   - "2024改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/es-labor-functions-2026.jpg"
 draft: false
 
 ---

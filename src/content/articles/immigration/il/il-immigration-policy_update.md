@@ -24,7 +24,6 @@ keywords:
   - "以色列大陆人签证"
   - "以色列移民法修订"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-il-immigration-2026.jpg"
 draft: false
 
 ---

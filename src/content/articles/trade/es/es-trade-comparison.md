@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙\", \"贸易主管部门\", \"海关\", \"跨国对比\", \"监管\", \"数字化\"]"
 keywords: "[\"西班牙海关\", \"AEAT\", \"德国海关\", \"法国海关\", \"英国HMRC\", \"荷兰海关\", \"贸易监管对比\", \"数字化海关\", \"大陆人接触度\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/es-trade-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

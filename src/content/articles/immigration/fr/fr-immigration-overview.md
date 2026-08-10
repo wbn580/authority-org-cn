@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国移民\", \"法国签证\", \"OFII\", \"法国移民局\", \"移民政策\", \"法国居留\", \"中文服务\"]"
 keywords: "[\"法国移民主管部门\", \"法国移民与融合局\", \"OFII\", \"法国签证申请\", \"法国居留许可\", \"法国移民法\", \"2026法国移民政策\", \"中国大陆申请人\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.ofii.fr/sites/default/files/styles/og_image/public/2025-12/ofii-logo.png"
 draft: false
 
 ---

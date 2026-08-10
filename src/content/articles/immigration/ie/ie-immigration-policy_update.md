@@ -26,7 +26,6 @@ keywords:
   - "家庭团聚"
   - "英语语言要求"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-policy-update-2026-og.jpg"
 draft: false
 
 ---

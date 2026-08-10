@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印度尼西亚\", \"贸易部\", \"海关总署\", \"核心职能\", \"贸易政策\", \"海关监管\", \"进出口\", \"2026\"]"
 keywords: "[\"印度尼西亚贸易部职能\", \"印尼海关总署\", \"印尼贸易法规\", \"印尼进出口政策\", \"印尼2024-2026贸易调整\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-indonesia-trade-customs-2026.jpg"
 draft: false
 
 ---

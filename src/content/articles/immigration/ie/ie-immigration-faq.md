@@ -27,7 +27,6 @@ keywords:
   - "爱尔兰Stamp4"
   - "爱尔兰工作签证"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-immigration-faq-2026.png"
 draft: false
 
 ---

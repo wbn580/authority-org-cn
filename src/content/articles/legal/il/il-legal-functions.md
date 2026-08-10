@@ -25,7 +25,6 @@ keywords:
   - "以色列法律体系"
   - "司法独立"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/il-legal-functions-2026.jpg"
 draft: false
 
 ---

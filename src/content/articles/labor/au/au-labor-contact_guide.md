@@ -21,7 +21,6 @@ keywords:
   - "澳大利亚劳工投诉流程"
   - "大陆人在澳工作权益"
 chineseServiceAvailable: true
-ogImage: "https://www.fairwork.gov.au/sites/default/files/2025-09/fwo-og-image.jpg"
 draft: false
 
 ---

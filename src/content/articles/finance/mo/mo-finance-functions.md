@@ -24,7 +24,6 @@ keywords:
   - "澳门外汇储备管理"
   - "澳门反洗钱法规"
 chineseServiceAvailable: true
-ogImage: "https://www.amcm.gov.mo/images/og-default.jpg"
 draft: false
 
 ---

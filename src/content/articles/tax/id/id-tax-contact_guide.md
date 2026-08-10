@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[印尼税务, DJP, NPWP, 税务登记, 税务合规, 中文服务, 印尼]"
 keywords: "[印尼税务总局, DJP联系方式, NPWP申请, 税务申报, 中文服务印尼, 印尼税务指南, 大陆人印尼税务]"
 chineseServiceAvailable: true
-ogImage: "https://pajak.go.id/sites/default/files/2026-05/djp-office-banner.jpg"
 draft: false
 
 ---

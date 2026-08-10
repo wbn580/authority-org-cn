@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋\", \"交通政策\", \"民航\", \"FTA\", \"GCAA\", \"2026\", \"法规更新\", \"跨境出行\"]"
 keywords: "[\"阿联酋交通政策\", \"GCAA 2026\", \"FTA 2024\", \"大陆人阿联酋出行\", \"阿联酋自动驾驶\", \"无人驾驶出租车\", \"阿联酋航空安全\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ae-transport-2026-og.jpg"
 draft: false
 
 ---

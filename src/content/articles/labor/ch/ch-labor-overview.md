@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"瑞士\", \"劳工\", \"就业\", \"SECO\", \"联邦机构\", \"劳动法\", \"劳动力市场\"]"
 keywords: "[\"瑞士劳工主管部门\", \"SECO\", \"国家经济事务秘书处\", \"瑞士就业政策\", \"瑞士劳动法\", \"中文服务瑞士\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ch-labor-overview-2026.jpg"
 draft: false
 
 ---

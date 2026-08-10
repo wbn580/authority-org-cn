@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新西兰储备银行\", \"RBNZ\", \"金融监管\", \"双峰监管\", \"金融市场监管管理局\", \"FMA\", \"机构沿革\"]"
 keywords: "[\"新西兰央行\", \"金融监管\", \"机构改革\", \"双峰模式\", \"储备银行法\", \"金融市场监管\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-rbnz-history-og.png"
 draft: false
 
 ---

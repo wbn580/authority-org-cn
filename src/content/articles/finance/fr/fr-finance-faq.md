@@ -31,7 +31,6 @@ keywords:
   - "反洗钱合规"
   - "欧盟金融监管"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/fr-finance-faq-og.png"
 draft: false
 
 ---

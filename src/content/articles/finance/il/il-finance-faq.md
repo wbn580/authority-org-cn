@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列央行\", \"BOI\", \"以色列证券局\", \"ISA\", \"金融监管\", \"银行服务\", \"支付系统\", \"金融科技\", \"中文服务\", \"FAQ\"]"
 keywords: "[\"以色列央行联系方式\", \"以色列银行开户流程\", \"金融监管投诉\", \"支付系统监管\", \"中文服务可用性\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-finance-faq-og.jpg"
 draft: false
 
 ---

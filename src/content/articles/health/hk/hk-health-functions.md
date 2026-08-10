@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港卫生\",\"医保职能\",\"医务卫生局\",\"医院管理局\",\"卫生署\",\"公共卫生\",\"跨境医疗\"]"
 keywords: "[\"香港卫生署职能\",\"医院管理局\",\"医务卫生局\",\"香港医保制度\",\"2026香港卫生政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.hk.gov.hk/images/og-health-2026.jpg"
 draft: false
 
 ---

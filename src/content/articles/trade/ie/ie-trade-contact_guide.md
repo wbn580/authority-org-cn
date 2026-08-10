@@ -28,7 +28,6 @@ keywords:
   - "投诉申诉"
   - "实操指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ie-trade-guide-2026.jpg"
 draft: false
 
 ---

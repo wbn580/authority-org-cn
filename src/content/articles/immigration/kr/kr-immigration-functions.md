@@ -28,7 +28,6 @@ keywords:
   - "2025政策"
   - "2026政策"
 chineseServiceAvailable: true
-ogImage: "https://www.moj.go.kr/images/immigration_og.png"
 draft: false
 
 ---

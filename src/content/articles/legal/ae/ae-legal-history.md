@@ -29,7 +29,6 @@ keywords:
   - "阿联酋 司法独立"
   - "阿联酋 法律框架"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ae-legal-history.png"
 draft: false
 
 ---

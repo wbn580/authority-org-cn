@@ -24,7 +24,6 @@ keywords:
   - "移民改革"
   - "2024-2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-immigration-og.jpg"
 draft: false
 
 ---

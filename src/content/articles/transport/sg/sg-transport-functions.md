@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡交通部\", \"新加坡民航局\", \"陆路交通管理局\", \"职能清单\", \"立法框架\", \"部门协调\"]"
 keywords: "[\"新加坡交通主管部门职能\", \"MOT职责\", \"LTA职能\", \"CAAS民航管理\", \"新加坡交通立法2026\", \"部门边界与协调\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.example.com/sg-transport-og.png"
 draft: false
 
 ---

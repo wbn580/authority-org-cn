@@ -27,7 +27,6 @@ keywords:
   - "制度差异"
   - "大陆人接触度"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/uk-trade-comparison-og-2026.png"
 draft: false
 hideFromHome: true
 

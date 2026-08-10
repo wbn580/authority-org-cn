@@ -23,7 +23,6 @@ keywords:
   - "中文服务越南"
   - "大陆人越南交通"
 chineseServiceAvailable: true
-ogImage: "https://example.com/vn-transport-guide-og.jpg"
 draft: false
 
 ---

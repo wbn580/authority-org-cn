@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"瑞士\", \"移民\", \"签证\", \"机构沿革\", \"SEM\", \"联邦移民局\", \"外国人法\"]"
 keywords: "[\"瑞士移民局历史\", \"SEM职能调整\", \"联邦外国人警察局\", \"瑞士签证改革\", \"外国人法修订\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/ch-immigration-history-og.jpg"
 draft: false
 
 ---

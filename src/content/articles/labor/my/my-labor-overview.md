@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"人力资源部\", \"劳工就业\", \"主管部门\", \"KSM\", \"MY\"]"
 keywords: "[\"马来西亚人力资源部\", \"Ministry of Human Resources Malaysia\", \"劳工法\", \"就业服务\", \"外籍工人\", \"中文服务\", \"2026政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.mohr.gov.my/images/logo-ksm.png"
 draft: false
 
 ---

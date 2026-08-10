@@ -23,7 +23,6 @@ keywords:
   - "费用"
   - "时效"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-education-faq-2026.jpg"
 draft: false
 
 ---

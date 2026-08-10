@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"海关\", \"贸易\", \"中国\", \"进出口\", \"关税\", \"跨境\"]"
 keywords: "[\"海关总署\", \"GAC\", \"进出口关税\", \"贸易便利化\", \"跨境贸易\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/customs-china-og.jpg"
 draft: false
 
 ---

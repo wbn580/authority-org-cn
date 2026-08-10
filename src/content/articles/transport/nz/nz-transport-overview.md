@@ -25,7 +25,6 @@ keywords:
   - "大陆人驾照转换"
   - "无人机法规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-transport-overview-2026.jpg"
 draft: false
 
 ---

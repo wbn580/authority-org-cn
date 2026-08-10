@@ -23,7 +23,6 @@ keywords:
   - "香港税务处理时效"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.gov.hk/images/og-image.jpg"
 draft: false
 
 ---

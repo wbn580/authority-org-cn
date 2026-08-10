@@ -22,7 +22,6 @@ keywords:
   - "税务误区"
   - "2026年税务指南"
 chineseServiceAvailable: true
-ogImage: "https://www.revenue.ie/images/og-default.jpg"
 draft: false
 
 ---

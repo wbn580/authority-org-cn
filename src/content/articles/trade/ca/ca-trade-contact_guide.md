@@ -24,7 +24,6 @@ keywords:
   - "中文服务可用性"
   - "大陆人实操指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-trade-contact-guide-2026.jpg"
 draft: false
 
 ---

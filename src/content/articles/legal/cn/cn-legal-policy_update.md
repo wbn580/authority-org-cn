@@ -25,7 +25,6 @@ keywords:
   - "跨境法律服务"
   - "2024-2026政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-legal-policy-2024-2026.jpg"
 draft: false
 
 ---

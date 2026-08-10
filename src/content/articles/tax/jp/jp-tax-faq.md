@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本税务\", \"国税厅\", \"所得税\", \"消费税\", \"确定申告\", \"住民税\", \"源泉征收\", \"纳税期限\", \"中文服务\"]"
 keywords: "[\"日本所得税率\", \"日本税务申报流程\", \"日本消费税2026\", \"日本税务中文咨询\", \"日本税务罚款\", \"日本税务扣除项目\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.nta.go.jp/images/ogp.jpg"
 draft: false
 
 ---

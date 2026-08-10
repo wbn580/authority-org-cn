@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国税务\", \"国税厅\", \"NTS\", \"税务职能\", \"2026\"]"
 keywords: "[\"韩国国税厅职能\", \"NTS 2026\", \"韩国税务申报\", \"税务调查\", \"中文税务服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.nts.go.kr/images/og_image.jpg"
 draft: false
 
 ---

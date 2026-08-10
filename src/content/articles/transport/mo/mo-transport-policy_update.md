@@ -30,7 +30,6 @@ keywords:
   - "澳门航空运输协议"
   - "澳门碳中和交通"
 chineseServiceAvailable: true
-ogImage: "https://example.com/mo-transport-policy-2024-2026-og.jpg"
 draft: false
 
 ---

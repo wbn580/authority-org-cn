@@ -26,7 +26,6 @@ keywords:
   - "数字支付代币"
   - "中国大陆客户"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/sg-mas-policy-2024-2026.jpg"
 draft: false
 
 ---

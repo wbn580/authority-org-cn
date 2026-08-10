@@ -26,7 +26,6 @@ keywords:
   - "大陆居民税务居民身份"
   - "中文税务服务"
 chineseServiceAvailable: true
-ogImage: "https://www.iras.gov.sg/images/default-source/og-image/iras-og.jpg"
 draft: false
 
 ---

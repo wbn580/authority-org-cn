@@ -25,7 +25,6 @@ keywords:
   - "2024年税制改革"
   - "2026年海关数字化"
 chineseServiceAvailable: true
-ogImage: "https://example.com/jp-trade-functions-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "劳务输出管理"
   - "外国劳工许可"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-molisa-history-og.png"
 draft: false
 
 ---

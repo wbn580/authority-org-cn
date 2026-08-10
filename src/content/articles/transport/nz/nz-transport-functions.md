@@ -24,7 +24,6 @@ keywords:
   - "部门协调机制"
   - "2026年交通改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-transport-functions-2026.jpg"
 draft: false
 
 ---

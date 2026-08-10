@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰教育\", \"Nuffic\", \"学位认证\", \"签证流程\", \"中文服务\", \"2026\", \"FAQ\"]"
 keywords: "[\"荷兰教育FAQ\", \"Nuffic认证\", \"荷兰学生签证\", \"荷兰学费\", \"中文服务荷兰\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-education-faq-2026.jpg"
 draft: false
 
 ---

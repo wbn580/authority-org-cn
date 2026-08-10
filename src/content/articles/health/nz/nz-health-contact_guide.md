@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新西兰卫生\", \"医保指南\", \"中文服务\", \"DHB\", \"联系方式\", \"办事流程\"]"
 keywords: "[\"新西兰卫生部联系方式\", \"新西兰医保\", \"中文医疗\", \"新西兰就医流程\", \"大陆人新西兰卫生指南\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-health-guide-2026.jpg"
 draft: false
 
 ---

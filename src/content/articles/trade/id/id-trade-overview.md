@@ -23,7 +23,6 @@ keywords:
   - "印尼进口配额"
   - "大陆企业印尼合规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/id-trade-overview-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "移民合规"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/nz-labor-functions-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利\",\"金融监管\",\"央行\",\"CONSOB\",\"反洗钱\",\"MiCAR\",\"支付服务\"]"
 keywords: "[\"意大利央行\",\"Banca d'Italia\",\"CONSOB\",\"2024政策\",\"2025政策\",\"反洗钱\",\"加密资产\",\"跨境支付\",\"中国大陆\",\"合规\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-finance-policy-2026.jpg"
 draft: false
 
 ---

@@ -87,7 +87,6 @@ dataSources:
   - 韩国国土交通部2026年业务报告 (2026.1.10)
   - OECD交通政策数据库 (2026年更新)
   - 国际民航组织(ICAO)韩国安全审计报告 (2025年)
-ogImage: https://www.molit.go.kr/images/common/og_image.jpg
 draft: false
 ```
 

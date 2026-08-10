@@ -25,7 +25,6 @@ keywords:
   - "移民投诉电话"
   - "大陆人新加坡移民"
 chineseServiceAvailable: true
-ogImage: "https://www.ica.gov.sg/images/default-source/default-album/ica-building.jpg"
 draft: false
 
 ---

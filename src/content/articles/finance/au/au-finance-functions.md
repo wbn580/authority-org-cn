@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[澳大利亚央行, 金融监管, RBA, APRA, ASIC, 货币政策, 审慎监管, 金融稳定]"
 keywords: "[澳大利亚金融监管, 储备银行职能, 审慎监管局, 证券投资委员会, 职能调整2026]"
 chineseServiceAvailable: true
-ogImage: "https://res.cloudinary.com/demo/image/upload/v1650000000/australia-financial-regulators-og.png"
 draft: false
 
 ---

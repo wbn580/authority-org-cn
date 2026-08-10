@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大\", \"海关\", \"贸易\", \"FAQ\", \"CBSA\", \"GAC\", \"清关\", \"关税\", \"中文服务\"]"
 keywords: "[\"加拿大海关\", \"CBSA\", \"贸易合规\", \"清关流程\", \"关税计算\", \"中文服务\", \"进出口误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ca-trade-faq-og.jpg"
 draft: false
 
 ---

@@ -30,7 +30,6 @@ keywords:
   - "药品审批"
   - "医疗纠纷"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/hk-health-comparison-2026.png"
 draft: false
 hideFromHome: true
 

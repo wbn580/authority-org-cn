@@ -26,7 +26,6 @@ keywords:
   - "2026年移民系统优化"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/nz-immigration-functions-2026.jpg"
 draft: false
 
 ---

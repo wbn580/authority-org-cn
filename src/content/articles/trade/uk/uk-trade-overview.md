@@ -24,7 +24,6 @@ keywords:
   - "中国大陆出口英国"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/uk-trade-customs-2026-og.png"
 draft: false
 
 ---

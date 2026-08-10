@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"菲律宾教育\", \"CHED\", \"DepEd\", \"PRC\", \"学位认证\", \"留学菲律宾\", \"FAQ\"]"
 keywords: "[\"菲律宾教育部联系方式\", \"CHED认证流程\", \"菲律宾学历认证时效\", \"中文服务菲律宾教育\", \"菲律宾留学费用2026\", \"PRC考试时间\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ph-education-faq-og.jpg"
 draft: false
 
 ---

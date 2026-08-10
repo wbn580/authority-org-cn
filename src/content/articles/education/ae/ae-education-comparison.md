@@ -24,7 +24,6 @@ keywords:
   - "教育透明度对比"
   - "跨国教育申诉机制"
 chineseServiceAvailable: true
-ogImage: "https://global-edu-authority.org/images/ae-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

@@ -9,14 +9,12 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://example.com/images/my-trade-history-og.png
 tags:
 - 去澳洲留学前必须确认的几件事
 ---
 
 拿到录取通知书只是第一步。真正决定你能否顺利读完学位、规避签证风险、避免不必要开销的，是出发前对几项关键事务的确认。以下内容不涉及具体机构推荐，只梳理你必须亲自核实的事项。
 
-![2026年去澳洲留学前必须确认的几件事](https://example.com/images/my-trade-history-og.png)
 
 ## 一、确认你的签证条件，而不只是“签证获批”
 

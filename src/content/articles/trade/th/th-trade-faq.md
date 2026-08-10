@@ -23,7 +23,6 @@ keywords:
   - "关税税率"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/th-trade-faq-2026.jpg"
 draft: false
 
 ---

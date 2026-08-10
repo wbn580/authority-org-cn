@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[新加坡移民局, ICA, 移民职能, 签证管理, 边境管控, 公民权, 立法框架]"
 keywords: "[新加坡移民与关卡局, ICA职能, 移民法第133章, 护照法第220章, 签证审批, 边境安全, 长期通行证, 公民申请, 2024-2026调整]"
 chineseServiceAvailable: true
-ogImage: "https://www.ica.gov.sg/images/default-source/default-album/ica-building-og.jpg"
 draft: false
 
 ---

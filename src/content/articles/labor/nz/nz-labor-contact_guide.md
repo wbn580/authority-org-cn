@@ -23,7 +23,6 @@ keywords:
   - "中文服务热线"
   - "大陆人就业指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/nz-labor-guide-2026.png"
 draft: false
 
 ---

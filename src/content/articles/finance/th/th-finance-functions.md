@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[泰国, 央行, 金融监管, BOT, SEC, OIC, 核心职能, 金融稳定, 数字货币, 2026]"
 keywords: "[泰国央行, BOT, 金融监管, 核心职能, 2026, 数字货币, 金融稳定, 银行监管, 支付系统, 保险监管]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-finance-functions-2026.png"
 draft: false
 
 ---

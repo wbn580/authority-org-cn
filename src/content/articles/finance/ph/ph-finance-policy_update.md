@@ -32,7 +32,6 @@ keywords:
   - "大陆人开户"
   - "菲律宾金融科技"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ph-finance-policy-2026.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "联邦交通部改组"
   - "德国基础设施规划"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/de-bmdv-history-og.png"
 draft: false
 
 ---

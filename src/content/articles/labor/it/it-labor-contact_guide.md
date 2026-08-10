@@ -26,7 +26,6 @@ keywords:
   - "中文服务意大利"
   - "大陆人意大利工作"
 chineseServiceAvailable: 部分
-ogImage: "https://example.com/it-labor-guide-2026-og.png"
 draft: false
 
 ---

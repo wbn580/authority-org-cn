@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"菲律宾\", \"劳工与就业部\", \"机构沿革\", \"劳工法\", \"就业政策\", \"海外劳工\"]"
 keywords: "[\"菲律宾劳工与就业部\", \"DOLE\", \"劳工法改革\", \"海外劳工保护\", \"菲律宾劳工政策\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/ph-labor-history-og.jpg"
 draft: false
 
 ---

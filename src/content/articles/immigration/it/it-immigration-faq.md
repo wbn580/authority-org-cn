@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利移民\", \"签证FAQ\", \"居留许可\", \"意大利内政部\", \"意大利外交部\"]"
 keywords: "[\"意大利签证申请流程\", \"居留许可延期\", \"中文服务意大利移民\", \"意大利移民局联系方式\", \"2026意大利移民政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/it-immigration-faq-2026.jpg"
 draft: false
 
 ---

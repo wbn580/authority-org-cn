@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利司法部\", \"Ministero della Giustizia\", \"意大利法律体系\", \"司法改革\", \"大陆人实务\"]"
 keywords: "[\"意大利司法部\", \"意大利法院\", \"司法部职能\", \"意大利法律\", \"大陆人诉讼\", \"意大利公证\", \"司法改革2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-justice-ministry-2026.jpg"
 draft: false
 
 ---

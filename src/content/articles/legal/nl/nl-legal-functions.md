@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰司法部\", \"JenV\", \"司法职能\", \"安全立法\", \"荷兰法律体系\", \"2024-2026改革\"]"
 keywords: "[\"荷兰司法与安全部\", \"核心职能\", \"法律执行\", \"国家安全\", \"2026年改革\", \"部门协调\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-justice-2026.jpg"
 draft: false
 
 ---

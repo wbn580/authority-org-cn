@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国台湾税务\", \"财政部\", \"国税局\", \"税务指南\", \"大陆人税务\", \"联系方式\"]"
 keywords: "[\"中国台湾税务部门联系方式\", \"台湾国税局地址电话\", \"台湾税务预约\", \"台湾税务表格下载\", \"台湾税务费用标准\", \"大陆人在台湾报税\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.mof.gov.tw/images/og-default.jpg"
 draft: false
 
 ---

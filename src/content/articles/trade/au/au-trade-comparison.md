@@ -23,7 +23,6 @@ keywords:
   - "海关效率"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/trade-customs-comparison-2026-au.jpg"
 draft: false
 hideFromHome: true
 

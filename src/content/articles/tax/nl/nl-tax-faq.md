@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰税务\", \"Belastingdienst\", \"税务FAQ\", \"荷兰个人所得税\", \"增值税\", \"中文税务服务\"]"
 keywords: "[\"荷兰税务\", \"税务登记\", \"税务申报\", \"中文服务\", \"税务争议\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-tax-faq-2026.jpg"
 draft: false
 
 ---

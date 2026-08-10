@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本教育\", \"文部科学省\", \"文部省\", \"教育行政\", \"机构沿革\", \"中央教育审议会\", \"教育法\", \"学校基本法\"]"
 keywords: "[\"日本文部科学省沿革\", \"日本教育主管部门历史\", \"文部省改组\", \"文部科学省职能\", \"日本教育法变迁\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/jp-education-history-og.jpg"
 draft: false
 
 ---

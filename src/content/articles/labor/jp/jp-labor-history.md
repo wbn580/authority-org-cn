@@ -27,7 +27,6 @@ keywords:
   - "劳动组合法"
   - "2026年劳动政策"
 chineseServiceAvailable: true
-ogImage: "https://www.mhlw.go.jp/img/ogp/ogp_common.png"
 draft: false
 
 ---

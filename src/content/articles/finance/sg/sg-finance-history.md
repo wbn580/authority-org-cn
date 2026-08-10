@@ -26,7 +26,6 @@ keywords:
   - "MAS法案"
   - "金融中心建设"
 chineseServiceAvailable: true
-ogImage: "https://www.mas.gov.sg/images/default-source/default-album/mas-building-og.jpg"
 draft: false
 
 ---

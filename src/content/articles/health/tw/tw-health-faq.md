@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "联系方式"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tw-health-faq-2026.jpg"
 draft: false
 
 ---

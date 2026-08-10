@@ -27,7 +27,6 @@ keywords:
   - "海关合规审计"
   - "2024-2026贸易政策调整"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-trade-customs-functions-2026.jpg"
 draft: false
 
 ---

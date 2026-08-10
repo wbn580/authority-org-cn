@@ -24,7 +24,6 @@ keywords:
   - "双联学制"
   - "学术交流"
 chineseServiceAvailable: 是
-ogImage: "https://example.com/tw-education-policy-2026-og.jpg"
 draft: false
 
 ---

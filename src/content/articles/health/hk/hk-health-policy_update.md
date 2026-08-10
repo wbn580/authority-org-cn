@@ -25,7 +25,6 @@ keywords:
   - "香港药物监管更新"
   - "基层医疗改革"
 chineseServiceAvailable: true
-ogImage: "https://www.dh.gov.hk/english/press/2026/img/press_20260522.jpg"
 draft: false
 
 ---

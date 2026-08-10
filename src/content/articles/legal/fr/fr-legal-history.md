@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国司法部\", \"机构沿革\", \"职能调整\", \"法律改革\", \"法国司法体系\"]"
 keywords: "[\"法国司法部\", \"Ministère de la Justice\", \"机构历史\", \"法律基础\", \"改革事件\", \"名称变更\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/fr-justice-history-og.jpg"
 draft: false
 
 ---

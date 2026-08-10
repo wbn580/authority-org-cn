@@ -27,7 +27,6 @@ keywords:
   - "中文服务"
   - "中国大陆申请人"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-ind-overview-2026.jpg"
 draft: false
 
 ---

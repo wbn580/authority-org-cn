@@ -21,7 +21,6 @@ keywords:
   - "大陆人影响"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/nz-labor-policy-2024-26.jpg"
 draft: false
 
 ---

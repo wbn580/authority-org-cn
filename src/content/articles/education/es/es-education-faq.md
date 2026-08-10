@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙\", \"教育\", \"FAQ\", \"学历认证\", \"留学\", \"官方指南\"]"
 keywords: "[\"西班牙教育部\", \"学历认证\", \"留学西班牙\", \"UNEDasiss\", \"homologación\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/es-education-faq-2026.jpg"
 draft: false
 
 ---

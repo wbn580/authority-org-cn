@@ -23,7 +23,6 @@ keywords:
   - "高等教育与继续教育"
   - "教育政策2025"
 chineseServiceAvailable: true
-ogImage: "https://www.education.ie/images/og-education-functions-2026.jpg"
 draft: false
 
 ---

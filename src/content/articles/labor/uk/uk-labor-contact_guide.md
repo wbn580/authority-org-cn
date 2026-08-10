@@ -25,7 +25,6 @@ keywords:
   - "英国社保申请"
   - "英国税务海关总署"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-uk-labor-guide-2026.jpg"
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "外国人永久居留"
   - "移民管理法规"
 chineseServiceAvailable: true
-ogImage: "https://www.nia.gov.cn/images/og-default.jpg"
 draft: false
 
 ---

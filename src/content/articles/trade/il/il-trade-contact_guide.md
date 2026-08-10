@@ -27,7 +27,6 @@ keywords:
   - "中文服务"
   - "大陆人实操"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-trade-guide-2026.jpg"
 draft: false
 
 ---

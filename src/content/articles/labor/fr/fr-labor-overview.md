@@ -25,7 +25,6 @@ keywords:
   - "法国社保"
   - "中国大陆人法国工作"
 chineseServiceAvailable: true
-ogImage: "https://www.example.com/images/fr-labor-2026-og.jpg"
 draft: false
 
 ---

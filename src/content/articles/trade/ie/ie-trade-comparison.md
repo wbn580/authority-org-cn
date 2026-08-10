@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "跨境贸易对比"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ie-trade-comparison-og.jpg"
 draft: false
 hideFromHome: true
 

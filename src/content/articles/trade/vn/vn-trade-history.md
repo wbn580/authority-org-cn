@@ -36,7 +36,6 @@ keywords:
   - "改革事件"
   - "未来展望"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vietnam-trade-customs-history.jpg"
 draft: false
 
 ---

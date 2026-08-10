@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"越南贸易\", \"越南海关\", \"工贸部\", \"海关总局\", \"贸易政策\", \"海关管理\", \"职能协调\"]"
 keywords: "[\"越南贸易主管部门\", \"越南海关职能\", \"工贸部核心职能\", \"海关总局立法依据\", \"2024-2026越南贸易调整\", \"中文服务可用性\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-trade-customs-2026.jpg"
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "跨境数据流动"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/sg-trade-policy-2026.jpg"
 draft: false
 
 ---

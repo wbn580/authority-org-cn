@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"央行\", \"金融监管\", \"CBI\", \"中央银行\", \"金融监管局\", \"爱尔兰金融\"]"
 keywords: "[\"爱尔兰中央银行\", \"Central Bank of Ireland\", \"CBI\", \"金融监管\", \"爱尔兰金融监管\", \"大陆人跨境金融\", \"中文服务\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.centralbank.ie/images/default-source/logos/cbi-logo.png"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "诉讼时效"
   - "费用标准"
 chineseServiceAvailable: true
-ogImage: "https://example.com/es-legal-faq-2026.png"
 draft: false
 
 ---

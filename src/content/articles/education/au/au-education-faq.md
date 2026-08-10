@@ -29,7 +29,6 @@ keywords:
   - "中文服务"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://www.dese.gov.au/sites/default/files/2026-05/au-education-faq-og.jpg"
 draft: false
 
 ---

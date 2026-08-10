@@ -30,7 +30,6 @@ keywords:
   - "制度差异"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ae-immigration-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

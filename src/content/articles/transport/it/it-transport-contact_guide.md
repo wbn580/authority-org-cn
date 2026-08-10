@@ -25,7 +25,6 @@ keywords:
   - "意大利交通投诉申诉"
   - "中国大陆公民意大利交通办事"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/it-transport-2026.jpg"
 draft: false
 
 ---

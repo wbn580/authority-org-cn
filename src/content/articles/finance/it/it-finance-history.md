@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利央行\", \"Banca d’Italia\", \"CONSOB\", \"IVASS\", \"金融监管\", \"机构沿革\"]"
 keywords: "[\"意大利中央银行历史\", \"意大利金融监管改革\", \"Banca d’Italia 职能\", \"1993年综合银行法\", \"欧洲央行单一监管机制\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/og/it-finance-history-2026.jpg"
 draft: false
 
 ---

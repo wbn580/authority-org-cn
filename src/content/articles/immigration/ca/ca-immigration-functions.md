@@ -24,7 +24,6 @@ keywords:
   - "跨部门协调"
   - "2024-2026移民调整"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ca-ircc-functions-2026.jpg"
 draft: false
 
 ---

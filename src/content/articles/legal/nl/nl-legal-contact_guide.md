@@ -28,7 +28,6 @@ keywords:
   - "处理时效荷兰"
   - "2026荷兰司法"
 chineseServiceAvailable: 是
-ogImage: "https://example.com/images/netherlands-legal-guide-2026.jpg"
 draft: false
 
 ---

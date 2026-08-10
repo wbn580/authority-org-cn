@@ -23,7 +23,6 @@ keywords:
   - "澳门劳动关系法"
   - "澳门就业政策改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-mo-labor-history-2026.jpg"
 draft: false
 
 ---

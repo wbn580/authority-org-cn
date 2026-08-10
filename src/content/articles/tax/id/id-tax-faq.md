@@ -28,7 +28,6 @@ keywords:
   - "中文税务服务"
   - "DJP联系方式"
 chineseServiceAvailable: true
-ogImage: "https://www.pajak.go.id/sites/default/files/og-image-tax.jpg"
 draft: false
 
 ---

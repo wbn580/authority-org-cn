@@ -22,7 +22,6 @@ keywords:
   - "中文投诉渠道"
   - "金融监管误区"
 chineseServiceAvailable: true
-ogImage: "https://www.hkma.gov.hk/media/eng/images/og-image.jpg"
 draft: false
 
 ---

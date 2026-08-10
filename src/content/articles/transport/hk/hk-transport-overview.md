@@ -23,7 +23,6 @@ keywords:
   - "跨境交通安排"
   - "香港运输立法"
 chineseServiceAvailable: true
-ogImage: "https://example.com/hk-transport-authorities-overview-2026.jpg"
 draft: false
 
 ---

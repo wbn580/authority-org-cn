@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利\", \"贸易\", \"海关\", \"ICE\", \"ADM\", \"联系方式\", \"办事指南\", \"中文服务\"]"
 keywords: "[\"意大利海关\", \"意大利对外贸易委员会\", \"ICE\", \"ADM\", \"意大利进口清关\", \"意大利贸易许可\", \"中文服务意大利\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image-italy-trade-guide-2026.jpg"
 draft: false
 
 ---

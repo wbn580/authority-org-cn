@@ -26,7 +26,6 @@ keywords:
   - "2026年最低工资"
   - "外国人在日就业"
 chineseServiceAvailable: true
-ogImage: "https://www.mhlw.go.jp/content/og-image-labor-faq-2026.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "供应链安全"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-nz-trade-customs-overview.jpg"
 draft: false
 
 ---

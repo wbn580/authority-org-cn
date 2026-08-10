@@ -25,7 +25,6 @@ keywords:
   - "中文服务"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://www.justice.gov/sites/all/themes/just_secretariat/logo.png"
 draft: false
 
 ---

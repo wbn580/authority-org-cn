@@ -28,7 +28,6 @@ keywords:
   - "中文服务日本"
   - "大陆人日本签证"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-immigration-overview-2026.jpg"
 draft: false
 
 ---

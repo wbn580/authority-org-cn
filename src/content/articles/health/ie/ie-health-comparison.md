@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"HSE\", \"卫生系统对比\", \"医保监管\", \"国际卫生政策\"]"
 keywords: "[\"爱尔兰HSE\", \"英国NHS\", \"加拿大Health Canada\", \"德国G-BA\", \"澳大利亚DoH\", \"卫生系统对比\", \"监管透明度\", \"患者申诉\", \"数字化医疗\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ie-health-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

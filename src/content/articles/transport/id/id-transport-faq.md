@@ -22,7 +22,6 @@ keywords:
   - "中文服务印尼交通"
   - "2026印尼民航法规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/id-transport-faq-2026.jpg"
 draft: false
 
 ---

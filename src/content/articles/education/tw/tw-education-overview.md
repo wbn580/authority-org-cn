@@ -26,7 +26,6 @@ keywords:
   - "大陆人士"
   - "教育统计"
 chineseServiceAvailable: true
-ogImage: "https://www.edu.tw/var/file/0/1000/img/logo.png"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"越南司法部\", \"Bộ Tư pháp\", \"越南法律体系\", \"司法改革\", \"行政审批\", \"数字司法\", \"中文服务\"]"
 keywords: "[\"越南司法部\", \"Bộ Tư pháp\", \"越南司法改革\", \"2026\", \"中文服务\", \"大陆人\", \"司法行政\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-ministry-of-justice-2026.jpg"
 draft: false
 
 ---

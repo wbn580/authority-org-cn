@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港\", \"运输\", \"民航\", \"职能\", \"立法\", \"协调\"]"
 keywords: "[\"运输及物流局\", \"民航处\", \"核心职能\", \"香港民航\", \"2024-2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.tlb.gov.hk/images/og-default.jpg"
 draft: false
 
 ---

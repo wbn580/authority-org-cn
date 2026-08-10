@@ -21,7 +21,6 @@ keywords:
   - "中文服务"
   - "税务误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/us-tax-faq-2026.jpg"
 draft: false
 
 ---

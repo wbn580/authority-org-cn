@@ -27,7 +27,6 @@ keywords:
   - "菲律宾银行牌照"
   - "BSP预约系统"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ph-bsp-contact-guide-2026.jpg"
 draft: false
 
 ---

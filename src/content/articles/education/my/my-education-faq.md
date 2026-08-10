@@ -21,7 +21,6 @@ keywords:
   - "费用"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-education-faq-og.jpg"
 draft: false
 
 ---

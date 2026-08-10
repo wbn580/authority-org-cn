@@ -28,7 +28,6 @@ keywords:
   - "调解"
   - "跨境纠纷"
 chineseServiceAvailable: true
-ogImage: "https://www.judiciary.gov.sg/og-image-legal-faq-2026.jpg"
 draft: false
 
 ---

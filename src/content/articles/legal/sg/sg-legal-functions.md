@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡司法\", \"最高法院\", \"总检察署\", \"律政部\", \"法律职能\", \"2026\"]"
 keywords: "[\"新加坡司法体系\", \"最高法院职能\", \"总检察署职责\", \"律政部立法\", \"司法独立\", \"法律改革\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/sg-legal-functions-2026.jpg"
 draft: false
 
 ---

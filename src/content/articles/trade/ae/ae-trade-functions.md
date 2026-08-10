@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋\", \"贸易\", \"海关\", \"职能\", \"立法\", \"执行机制\", \"2024-2026\"]"
 keywords: "[\"阿联酋贸易主管部门\", \"阿联酋海关职能\", \"联邦海关管理局\", \"经济部\", \"贸易政策\", \"海关执法\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://assets.example.com/ae-trade-customs-2026.jpg"
 draft: false
 
 ---

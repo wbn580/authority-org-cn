@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "中国大陆"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/de-trade-customs-guide-2026.png"
 draft: false
 
 ---

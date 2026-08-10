@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本移民\", \"出入国在留管理厅\", \"机构沿革\", \"签证政策改革\"]"
 keywords: "[\"日本出入国在留管理厅沿革\", \"日本签证主管部门历史\", \"日本移民法改革\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/jp-immigration-history-og.jpg"
 draft: false
 
 ---

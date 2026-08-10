@@ -29,7 +29,6 @@ keywords:
   - "在留特别许可"
   - "法律事务局"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-legal-ministry-functions-2026.png"
 draft: false
 
 ---

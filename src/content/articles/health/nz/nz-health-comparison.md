@@ -25,7 +25,6 @@ keywords:
   - "跨国卫生监管"
   - "大陆人医疗接触度"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-health-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

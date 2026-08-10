@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国金融监管\", \"韩国银行\", \"金融委员会\", \"金融监督院\", \"货币政策\", \"宏观审慎\"]"
 keywords: "[\"韩国金融监管体系\", \"BOK职能\", \"FSC职能\", \"FSS职能\", \"韩国银行法\", \"金融消费者保护\", \"2026年韩国金融改革\"]"
 chineseServiceAvailable: true
-ogImage: "https://kr-finance-assets.s3.ap-northeast-2.amazonaws.com/og-kr-finance-authorities-2026.jpg"
 draft: false
 
 ---

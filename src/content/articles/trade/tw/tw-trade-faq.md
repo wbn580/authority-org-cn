@@ -23,7 +23,6 @@ keywords:
   - "进口费用"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tw-trade-faq-2026.jpg"
 draft: false
 
 ---

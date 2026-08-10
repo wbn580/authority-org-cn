@@ -9,14 +9,12 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://www.rd.go.th/fileadmin/user_upload/og-image-tax-guide-2026.jpg
 tags:
 - 澳洲留学申请时间线与关键截止
 ---
 
 申请澳大利亚的大学，时间把控往往比背景提升更能决定最终去向。滚动录取机制下，名额先到先得，晚递交的申请即使条件优秀，也可能因为目标专业已满员而被迫推迟入学。以下按完整申请周期梳理时间线与各阶段的实质任务。
 
-![2026-2027 澳大利亚留学申请时间线与关键截止](https://www.rd.go.th/fileadmin/user_upload/og-image-tax-guide-2026.jpg)
 
 ## 澳大利亚大学的入学季与申请开放节点
 

@@ -22,7 +22,6 @@ keywords:
   - "中文服务"
   - "FTA联系方式"
 chineseServiceAvailable: true
-ogImage: "https://www.fta.gov.ae/assets/images/og-tax-faq-ae-2026.jpg"
 draft: false
 
 ---

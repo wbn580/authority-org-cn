@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国司法\", \"法务FAQ\", \"司法流程\", \"中文服务\"]"
 keywords: "[\"泰国司法部\", \"法务流程\", \"费用标准\", \"中文服务\", \"常见误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-legal-faq-og.png"
 draft: false
 
 ---

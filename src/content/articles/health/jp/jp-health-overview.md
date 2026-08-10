@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "大陆人医保"
 chineseServiceAvailable: true
-ogImage: "https://www.mhlw.go.jp/ogp/ogp.png"
 draft: false
 
 ---

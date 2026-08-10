@@ -31,7 +31,6 @@ keywords:
   - "大陆人税务"
   - "税务差异"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tax-comparison-my-sg-au-jp-2026.jpg"
 draft: false
 hideFromHome: true
 

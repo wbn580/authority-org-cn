@@ -32,7 +32,6 @@ keywords:
   - "处理时间"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://www.ica.gov.sg/images/default-source/default-album/ica-logo.png"
 draft: false
 
 ---

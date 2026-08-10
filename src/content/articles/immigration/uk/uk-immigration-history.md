@@ -22,7 +22,6 @@ keywords:
   - "移民法演变"
   - "英国边境管理"
 chineseServiceAvailable: true
-ogImage: "https://example.com/uk-immigration-history-og.jpg"
 draft: false
 
 ---

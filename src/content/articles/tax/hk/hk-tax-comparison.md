@@ -33,7 +33,6 @@ keywords:
   - "税务透明度"
   - "税务申诉机制"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/hk-tax-comparison-2026.png"
 draft: false
 hideFromHome: true
 

@@ -23,7 +23,6 @@ keywords:
   - "工作签证"
   - "大陆籍员工"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ch-labour-policy-2026.jpg"
 draft: false
 
 ---

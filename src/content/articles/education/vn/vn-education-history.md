@@ -28,7 +28,6 @@ keywords:
   - "越南外语教育"
   - "越南教育行政"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-education-history-og.jpg"
 draft: false
 
 ---

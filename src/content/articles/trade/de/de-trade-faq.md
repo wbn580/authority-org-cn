@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国海关\", \"德国贸易\", \"Zoll\", \"海关申报\", \"进口关税\", \"中文服务\"]"
 keywords: "[\"德国海关\", \"海关申报流程\", \"进口关税税率\", \"ATLAS系统\", \"中文服务\", \"EORI号\", \"海关误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/de-trade-faq-og.png"
 draft: false
 
 ---

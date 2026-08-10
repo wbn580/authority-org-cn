@@ -21,7 +21,6 @@ keywords:
   - "医保报销比例"
   - "中文服务法国"
 chineseServiceAvailable: true
-ogImage: "https://example.com/fr-health-faq-og.jpg"
 draft: false
 
 ---

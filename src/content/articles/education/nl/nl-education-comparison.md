@@ -26,7 +26,6 @@ keywords:
   - "教育透明度"
   - "教育制度差异"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-education-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

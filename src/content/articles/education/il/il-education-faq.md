@@ -27,7 +27,6 @@ keywords:
   - "NII"
   - "Cheshbon"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-education-faq-og.jpg"
 draft: false
 
 ---

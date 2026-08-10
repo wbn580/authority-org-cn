@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利\", \"卫生部\", \"机构沿革\", \"NHS\", \"区域自治\", \"公共卫生改革\"]"
 keywords: "[\"意大利卫生部\", \"Ministero della Salute\", \"SSN\", \"医疗体系改革\", \"区域卫生服务\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/og-images/italy-health-history.png"
 draft: false
 
 ---

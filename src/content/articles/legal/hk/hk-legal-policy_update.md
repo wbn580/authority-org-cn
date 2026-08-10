@@ -31,7 +31,6 @@ keywords:
   - "香港法律科技发展"
   - "司法人员任命改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/hk-legal-policy-2026.jpg"
 draft: false
 
 ---

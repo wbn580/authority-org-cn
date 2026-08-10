@@ -21,7 +21,6 @@ keywords:
   - "大陆人美国劳工指南"
   - "美国劳工部预约"
 chineseServiceAvailable: true
-ogImage: "https://www.dol.gov/sites/default/files/og-images/dol-og-default.jpg"
 draft: false
 
 ---

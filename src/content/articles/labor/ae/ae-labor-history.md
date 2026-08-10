@@ -24,7 +24,6 @@ keywords:
   - "劳工部改组"
   - "阿联酋就业政策"
 chineseServiceAvailable: true
-ogImage: "https://www.mohre.gov.ae/en/og-image.jpg"
 draft: false
 
 ---

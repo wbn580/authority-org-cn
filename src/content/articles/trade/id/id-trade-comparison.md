@@ -28,7 +28,6 @@ keywords:
   - "跨境贸易效率"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image-trade-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰教育\", \"QQI\", \"签证\", \"认证\", \"FAQ\"]"
 keywords: "[\"爱尔兰教育部\", \"爱尔兰学历认证\", \"爱尔兰学生签证\", \"爱尔兰中文服务\", \"爱尔兰教育费用\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-education-faq-2026.jpg"
 draft: false
 
 ---

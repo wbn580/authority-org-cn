@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[新西兰税务局, IRD, 税务职能, 税收征管, 税务合规, 税务立法, 税务调整]"
 keywords: "[新西兰IRD职能, 新西兰税务管理法, 税务合规与执法, 税收政策咨询, 2026年新西兰税务调整]"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.govt.nz/-/media/project/ir/homepage/images/ird-building.jpg"
 draft: false
 
 ---

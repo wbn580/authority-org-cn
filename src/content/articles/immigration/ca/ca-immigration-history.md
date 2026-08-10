@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大移民\", \"IRCC\", \"机构沿革\", \"移民法\", \"历史改革\"]"
 keywords: "[\"加拿大移民局历史\", \"IRCC沿革\", \"移民法修订\", \"加拿大签证政策\", \"Citizenship and Immigration Canada\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/canada-immigration-history-og.jpg"
 draft: false
 
 ---

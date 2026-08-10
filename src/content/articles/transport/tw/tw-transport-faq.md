@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"台湾交通\", \"民航\", \"驾照\", \"车辆监理\", \"航空\", \"FAQ\"]"
 keywords: "[\"台湾驾照换发\", \"民航局\", \"交通部\", \"行车执照\", \"航空安检\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tw-transport-faq-2026.jpg"
 draft: false
 
 ---

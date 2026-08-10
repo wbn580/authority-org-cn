@@ -27,7 +27,6 @@ keywords:
   - "教育部名称变更"
   - "法国教育法"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/fr-education-history-og.jpg"
 draft: false
 
 ---

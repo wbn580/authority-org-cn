@@ -21,7 +21,6 @@ keywords:
   - "表格W-7"
   - "纳税人维权"
 chineseServiceAvailable: true
-ogImage: "https://www.irs.gov/pub/irs-og/irs-contact-guide-2026.png"
 draft: false
 
 ---

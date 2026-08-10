@@ -22,7 +22,6 @@ keywords:
   - "健康服务执行局"
   - "2025年健康法"
 chineseServiceAvailable: true
-ogImage: "https://www.hiqa.ie/sites/default/files/og-image.jpg"
 draft: false
 
 ---

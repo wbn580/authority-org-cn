@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本贸易\", \"海关\", \"经济产业省\", \"财务省关税局\", \"贸易管理\", \"外汇法\", \"中文服务\"]"
 keywords: "[\"日本经济产业省\", \"METI\", \"日本海关\", \"贸易管制\", \"对日出口\", \"中文服务可用性\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-trade-customs-overview-og.png"
 draft: false
 
 ---

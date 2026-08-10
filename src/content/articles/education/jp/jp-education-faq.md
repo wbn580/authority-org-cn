@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本教育\", \"文部科学省\", \"留学日本\", \"教师资格\", \"奖学金\", \"学校认证\", \"中文服务\"]"
 keywords: "[\"日本教育主管部门\", \"文部科学省FAQ\", \"日本留学手续\", \"日本教师资格证\", \"日本奖学金申请\", \"日本学校认证\", \"日本教育政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/japan-education-faq-2026.jpg"
 draft: false
 
 ---

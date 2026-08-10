@@ -25,7 +25,6 @@ keywords:
   - "学生福利"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.dsedj.gov.mo/images/og-faq-2026.jpg"
 draft: false
 
 ---

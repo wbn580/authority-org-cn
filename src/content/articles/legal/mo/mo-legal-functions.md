@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门法务\", \"司法行政\", \"立法协调\", \"法律改革\", \"司法警察\", \"职能调整\"]"
 keywords: "[\"澳门法务局\", \"司法警察局\", \"法律改革\", \"立法程序\", \"司法协助\", \"2026年调整\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.dsaj.gov.mo/images/og-functions-2026.jpg"
 draft: false
 
 ---

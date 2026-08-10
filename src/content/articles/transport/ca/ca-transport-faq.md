@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[加拿大交通, 加拿大民航, Transport Canada, Nav Canada, 飞行员执照, 航空安全, 中文服务, FAQ]"
 keywords: "[加拿大交通部, 民航局, 飞行员执照申请, 航空器注册, 费用, 时效, 中文服务, 常见误区]"
 chineseServiceAvailable: true
-ogImage: "https://www.tc.gc.ca/images/og-image.jpg"
 draft: false
 
 ---

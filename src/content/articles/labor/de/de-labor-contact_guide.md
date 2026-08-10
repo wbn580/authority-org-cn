@@ -31,7 +31,6 @@ keywords:
   - "德国失业金申请"
   - "德国劳动局办公时间"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/de-labor-guide-2026.jpg"
 draft: false
 
 ---

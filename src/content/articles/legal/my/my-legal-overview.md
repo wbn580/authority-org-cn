@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚司法\", \"法务主管部门\", \"联邦法院\", \"司法委员会\", \"法律改革\", \"中文服务\"]"
 keywords: "[\"马来西亚司法机构\", \"马来西亚法务部\", \"马来西亚联邦法院\", \"马来西亚司法委员会\", \"马来西亚法律改革\", \"中文法律服务\", \"大陆人马来西亚法律\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/my-legal-overview.jpg"
 draft: false
 
 ---

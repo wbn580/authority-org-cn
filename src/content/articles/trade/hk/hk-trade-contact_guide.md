@@ -28,7 +28,6 @@ keywords:
   - "内地企业"
   - "香港办事指南"
 chineseServiceAvailable: true
-ogImage: "https://www.tid.gov.hk/english/aboutus/publications/annualreport/2025/images/cover.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[阿联酋, 移民局, ICP, 签证指南, 联系方式, 中文服务, 费用标准, 预约流程, 投诉申诉]"
 keywords: "[阿联酋移民局, ICP, 签证办理, 迪拜移民局, 阿布扎比移民局, 中文服务, 签证费用, 预约方式, 大陆人签证, 阿联酋居留, 投诉渠道]"
 chineseServiceAvailable: true
-ogImage: "https://icp.gov.ae/assets/images/og-icp-guide-2026.jpg"
 draft: false
 
 ---

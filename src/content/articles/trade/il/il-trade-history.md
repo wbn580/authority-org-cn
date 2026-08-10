@@ -24,7 +24,6 @@ keywords:
   - "以色列经济与工业部"
   - "以色列海关数字化"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/israel-trade-customs-history.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "荷兰国籍归化"
   - "荷兰移民政策调整"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-netherlands-immigration-functions-2026.jpg"
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "司法协助"
   - "澳门检察院"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/mo-legal-history-og.png"
 draft: false
 
 ---

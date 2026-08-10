@@ -25,7 +25,6 @@ keywords:
   - "意大利贸易法律"
   - "欧盟海关法典"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-trade-customs-history-og.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "投诉"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/il-immigration-guide-2026.jpg"
 draft: false
 
 ---

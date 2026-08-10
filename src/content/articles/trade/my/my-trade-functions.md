@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\",\"贸易主管部门\",\"海关\",\"MITI\",\"RMCD\",\"职能详解\",\"2024-2026\",\"贸易政策\",\"海关监管\"]"
 keywords: "[\"马来西亚贸易主管部门\",\"MITI职能\",\"RMCD职能\",\"马来西亚海关\",\"贸易政策2026\",\"海关立法马来西亚\",\"职能协调\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-trade-customs-functions-2026.jpg"
 draft: false
 
 ---

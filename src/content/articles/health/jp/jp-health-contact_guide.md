@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[日本, 医保, 厚生劳动省, 健康保险, 国民健康保险, 中文服务, 办事指南]"
 keywords: "[日本医保主管部门, 厚生劳动省联系方式, 国民健康保险申请, 健康保险组合, 中文医疗指南, 日本社保厅]"
 chineseServiceAvailable: 部分窗口提供中文电话翻译服务，主要城市（东京、大阪、福冈）的国民健康保险课配备中文书面指南。
-ogImage: "https://www.mhlw.go.jp/images/og_image.png"
 draft: false
 
 ---

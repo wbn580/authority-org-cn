@@ -28,7 +28,6 @@ keywords:
   - "司法公信力"
   - "司法史"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/es-legal-history.jpg"
 draft: false
 
 ---

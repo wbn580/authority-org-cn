@@ -21,7 +21,6 @@ keywords:
   - "国际司法协助"
   - "中国司法合作"
 chineseServiceAvailable: true
-ogImage: "https://example.com/fr-legal-2024-26.jpg"
 draft: false
 
 ---

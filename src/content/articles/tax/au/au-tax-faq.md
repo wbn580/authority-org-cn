@@ -21,7 +21,6 @@ keywords:
   - "报税截止日期"
   - "中文税务支持"
 chineseServiceAvailable: true
-ogImage: "https://www.ato.gov.au/images/og-tax-faq.jpg"
 draft: false
 
 ---

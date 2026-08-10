@@ -25,7 +25,6 @@ keywords:
   - "大陆人影响"
   - "法律合规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image-swiss-legal-policy-2026.jpg"
 draft: false
 
 ---

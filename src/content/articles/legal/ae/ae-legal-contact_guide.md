@@ -23,7 +23,6 @@ keywords:
   - "费用标准"
   - "处理时效"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ae-legal-guide-2026.jpg"
 draft: false
 
 ---

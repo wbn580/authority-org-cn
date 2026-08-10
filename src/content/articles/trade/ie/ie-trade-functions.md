@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"贸易政策\", \"海关\", \"职能详解\", \"2026\"]"
 keywords: "[\"爱尔兰贸易\", \"海关职能\", \"企业贸易与就业部\", \"爱尔兰税务海关\", \"贸易合规\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ie-trade-functions-2026.jpg"
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "国家检察署"
   - "菲律宾司法系统"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-ph-legal-history.jpg"
 draft: false
 
 ---

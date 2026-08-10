@@ -22,7 +22,6 @@ keywords:
   - "日本司法制度变迁"
   - "法务省职能"
 chineseServiceAvailable: true
-ogImage: "https://example.com/jp-legal-history-og.jpg"
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "越南社保局"
   - "越南卫生投诉"
 chineseServiceAvailable: 部分机构提供中文服务，详见正文。
-ogImage: "https://example.com/images/vn-health-guide-2026.jpg"
 draft: false
 
 ---

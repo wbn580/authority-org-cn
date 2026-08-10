@@ -29,7 +29,6 @@ keywords:
   - "大陆人 签证 透明度"
   - "移民申诉 机制"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/au-immigration-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-immigration-faq-og.png"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "意大利教育局电话"
   - "2026年意大利教育"
 chineseServiceAvailable: 是（部分窗口及在线平台提供中文界面，但正式文件均以意大利语为主，中文电话服务有限）
-ogImage: "https://www.mur.gov.it/sites/default/files/styles/og_image/public/2026-05/italy-education-guide-2026.jpg"
 draft: false
 
 ---

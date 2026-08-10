@@ -22,7 +22,6 @@ keywords:
   - "法律基础变化"
   - "新加坡法律体系"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/sg-legal-history-og.png"
 draft: false
 
 ---

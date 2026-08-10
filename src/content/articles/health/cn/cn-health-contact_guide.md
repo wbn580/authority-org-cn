@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国大陆\", \"卫生健康\", \"医保\", \"办事指南\", \"联系方式\", \"投诉申诉\"]"
 keywords: "[\"国家卫健委\", \"医保局\", \"办事指南\", \"预约方式\", \"费用标准\", \"中文服务\", \"处理时效\", \"投诉申诉\", \"大陆人实操\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-health-guide-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "新加坡移民局官网"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.ica.gov.sg/images/default-source/default-album/ica-building.jpg"
 draft: false
 
 ---

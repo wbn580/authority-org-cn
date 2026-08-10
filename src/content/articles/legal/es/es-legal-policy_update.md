@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙司法\", \"政策更新\", \"司法数字化\", \"数据保护\", \"电子司法\", \"跨境民事合作\", \"2026\"]"
 keywords: "[\"西班牙司法部\", \"LOPDGDD\", \"电子司法\", \"数据保护\", \"大陆人权益\", \"民事合作\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/es-legal-policy-2026.jpg"
 draft: false
 
 ---

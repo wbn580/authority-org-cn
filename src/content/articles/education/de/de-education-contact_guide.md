@@ -22,7 +22,6 @@ keywords:
   - "德国官方中文服务"
   - "大陆人德国教育办事指南"
 chineseServiceAvailable: 部分州提供中文电话或邮件支持，联邦层面无统一中文窗口
-ogImage: "https://example.com/de-education-guide-2026.jpg"
 draft: false
 
 ---

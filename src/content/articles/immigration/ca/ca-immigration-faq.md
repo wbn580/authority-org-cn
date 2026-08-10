@@ -27,7 +27,6 @@ keywords:
   - "中文服务可用性"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ca-ircc-faq-2026-og.png"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "可持续航空燃料"
   - "中国大陆旅客"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/france-transport-authority-og.png"
 draft: false
 
 ---

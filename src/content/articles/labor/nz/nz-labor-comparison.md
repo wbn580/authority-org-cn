@@ -24,7 +24,6 @@ keywords:
   - "大陆人就业"
   - "数字化效率"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-labor-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

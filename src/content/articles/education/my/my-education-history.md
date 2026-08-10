@@ -26,7 +26,6 @@ keywords:
   - "国家教育蓝图 2013-2025"
   - "高教部合并"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-education-history-og.png"
 draft: false
 
 ---

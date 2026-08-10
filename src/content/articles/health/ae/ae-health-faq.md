@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋医保\", \"MOHAP\", \"健康保险\", \"医疗体系\", \"中文服务\"]"
 keywords: "[\"阿联酋医疗体系\", \"医保覆盖\", \"就诊流程\", \"医保费用\", \"中文服务\", \"MOHAP\", \"HAAD\", \"CIE\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ae-health-faq-og.jpg"
 draft: false
 
 ---

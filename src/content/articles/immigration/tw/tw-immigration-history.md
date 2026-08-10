@@ -23,7 +23,6 @@ keywords:
   - "签证管理"
   - "机构历史"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/tw-immigration-history.jpg"
 draft: false
 
 ---

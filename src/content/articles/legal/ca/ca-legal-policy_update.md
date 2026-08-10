@@ -27,7 +27,6 @@ keywords:
   - "中国大陆"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-ca-legal-2026.jpg"
 draft: false
 
 ---

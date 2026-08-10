@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国税务\", \"个人所得税\", \"增值税\", \"预扣税\", \"泰国税务局\", \"RD\", \"FAQ\", \"2026\"]"
 keywords: "[\"泰国个人所得税税率\", \"泰国增值税登记门槛\", \"泰国税务居民标准\", \"泰国税务局中文服务\", \"泰国预扣税税率\", \"泰国税务申报截止日期\", \"泰国税务罚款\", \"泰国税务联系方式\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.rd.go.th/fileadmin/user_upload/og-image-tax-faq-2026.jpg"
 draft: false
 
 ---

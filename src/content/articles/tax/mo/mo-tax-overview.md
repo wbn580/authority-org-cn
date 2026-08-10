@@ -25,7 +25,6 @@ keywords:
   - "大陆人士澳门税务"
   - "澳门税务立法"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-macao-tax-authority.png"
 draft: false
 
 ---

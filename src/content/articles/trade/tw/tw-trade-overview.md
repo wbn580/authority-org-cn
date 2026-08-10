@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国台湾\", \"贸易\", \"海关\", \"国际贸易署\", \"关务署\", \"法规\", \"两岸贸易\"]"
 keywords: "[\"中国台湾贸易部门\", \"经济部国际贸易署\", \"财政部关务署\", \"贸易法\", \"关税法\", \"两岸贸易\", \"进出口管制\", \"ECFA\", \"大陆人实务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-tw-trade-customs.jpg"
 draft: false
 
 ---

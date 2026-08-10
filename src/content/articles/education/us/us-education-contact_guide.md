@@ -29,7 +29,6 @@ keywords:
   - "美国教育主管部门"
   - "中国大陆申请人"
 chineseServiceAvailable: true
-ogImage: "https://www.ed.gov/sites/default/files/og-image.jpg"
 draft: false
 
 ---

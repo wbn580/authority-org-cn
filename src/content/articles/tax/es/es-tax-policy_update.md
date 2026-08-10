@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙税务\", \"AEAT\", \"数字服务税\", \"反避税\", \"跨境合规\", \"2024-2026\"]"
 keywords: "[\"西班牙税务政策更新\", \"AEAT 2026公告\", \"数字服务税变化\", \"大陆居民税务\", \"跨境税务合规\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.images/spain-tax-2024-26-og.jpg"
 draft: false
 
 ---

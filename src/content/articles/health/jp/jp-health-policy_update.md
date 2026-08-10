@@ -25,7 +25,6 @@ keywords:
   - "大陆人日本医保"
   - "2024-2026政策追踪"
 chineseServiceAvailable: true
-ogImage: "https://www.mhlw.go.jp/content/000000000.png"
 draft: false
 
 ---

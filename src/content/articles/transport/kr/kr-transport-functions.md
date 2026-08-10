@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国交通\", \"民航管理\", \"MOLIT\", \"航空安全\", \"基础设施\", \"2026\"]"
 keywords: "[\"韩国国土交通部\", \"韩国民航局\", \"交通职能\", \"航空立法\", \"2024-2026调整\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/kr-transport-2026.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "大陆纳税人合规"
   - "中文税务服务"
 chineseServiceAvailable: true
-ogImage: "https://fake-og-image.com/us-tax-2024-26.jpg"
 draft: false
 
 ---

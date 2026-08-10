@@ -26,7 +26,6 @@ keywords:
   - "瑞士进口流程"
   - "中文海关服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/swiss-trade-customs-2026.jpg"
 draft: false
 
 ---

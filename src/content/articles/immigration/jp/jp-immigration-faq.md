@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本签证\", \"在留资格\", \"永住许可\", \"归化申请\", \"出入国在留管理厅\", \"FAQ\"]"
 keywords: "[\"日本签证FAQ\", \"在留资格变更\", \"永住申请条件\", \"归化申请流程\", \"日本入管局中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/jp-immigration-faq-og.jpg"
 draft: false
 
 ---

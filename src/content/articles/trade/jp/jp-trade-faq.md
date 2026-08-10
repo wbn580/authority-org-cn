@@ -24,7 +24,6 @@ keywords:
   - "原产地证明"
   - "海关申报"
 chineseServiceAvailable: true
-ogImage: "https://www.customs.go.jp/og-image.jpg"
 draft: false
 
 ---

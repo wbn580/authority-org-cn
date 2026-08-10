@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"越南税务\", \"机构沿革\", \"GDT\", \"税收改革\", \"数字化转型\", \"法律框架\"]"
 keywords: "[\"越南税务总局\", \"财税改革\", \"税收征管法\", \"电子税务\", \"国际税收合作\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-tax-history-og.jpg"
 draft: false
 
 ---

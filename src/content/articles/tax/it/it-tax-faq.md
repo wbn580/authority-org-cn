@@ -21,7 +21,6 @@ keywords:
   - "中文税务服务"
   - "意大利税务误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/italy-tax-faq-2026.jpg"
 draft: false
 
 ---

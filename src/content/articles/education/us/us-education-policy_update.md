@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国教育政策\", \"2024-2026\", \"认证改革\", \"国际学生\", \"财政援助\", \"大陆人影响\"]"
 keywords: "[\"美国教育部政策更新\", \"2024-2026教育法规\", \"国际学生规则变化\", \"大陆留学生影响\", \"高等教育认证改革\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/us-education-policy-2024-26.jpg"
 draft: false
 
 ---

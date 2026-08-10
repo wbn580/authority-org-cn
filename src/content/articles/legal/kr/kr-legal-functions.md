@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国法务部\", \"MOJ\", \"检察制度\", \"出入境管理\", \"矫正保护\", \"法律救助\", \"人权\", \"2026\"]"
 keywords: "[\"韩国法务部职能\", \"检察指挥权\", \"韩国出入境政策\", \"矫正保护\", \"法律救助体系\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.moj.go.kr/images/og_image.png"
 draft: false
 
 ---

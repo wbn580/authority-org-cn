@@ -28,7 +28,6 @@ keywords:
   - "劳工投诉"
   - "工作许可"
 chineseServiceAvailable: true
-ogImage: "https://www.mohre.gov.ae/assets/images/og-image.jpg"
 draft: false
 
 ---

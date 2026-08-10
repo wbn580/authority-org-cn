@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本央行\",\"金融厅\",\"货币政策\",\"利率调整\",\"金融监管\",\"外汇管理\",\"加密货币\",\"大陆居民\"]"
 keywords: "[\"日本央行政策\",\"金融厅监管\",\"2024-2026\",\"利率变化\",\"外汇保证金\",\"加密货币监管\",\"大陆人影响\",\"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-finance-policy-2024-2026.jpg"
 draft: false
 
 ---

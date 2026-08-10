@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"移民\", \"签证\", \"跨国对比\", \"中国台湾\", \"美国\", \"日本\", \"加拿大\", \"澳大利亚\"]"
 keywords: "[\"移民局\", \"签证处理\", \"数字化\", \"透明度\", \"大陆人接触度\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image-tw-immigration-comparison.jpg"
 draft: false
 hideFromHome: true
 

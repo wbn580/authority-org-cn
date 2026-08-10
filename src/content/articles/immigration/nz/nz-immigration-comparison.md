@@ -22,7 +22,6 @@ keywords:
   - "移民监管透明度"
   - "中国大陆签证服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-immigration-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

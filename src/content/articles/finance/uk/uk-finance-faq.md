@@ -25,7 +25,6 @@ keywords:
   - "金融监管流程"
   - "费用标准"
 chineseServiceAvailable: true
-ogImage: "https://example.com/uk-finance-faq-2026-og.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "民航法"
   - "运输改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-transport-history-og.jpg"
 draft: false
 
 ---

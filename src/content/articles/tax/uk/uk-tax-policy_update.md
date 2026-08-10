@@ -26,7 +26,6 @@ keywords:
   - "HMRC公告"
   - "大陆人士税务影响"
 chineseServiceAvailable: true
-ogImage: "https://example.com/uk-tax-policy-2024-26-og.jpg"
 draft: false
 
 ---

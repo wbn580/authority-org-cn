@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-education-faq-2026.jpg"
 draft: false
 
 ---

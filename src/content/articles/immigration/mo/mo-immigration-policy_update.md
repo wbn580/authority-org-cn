@@ -22,7 +22,6 @@ keywords:
   - "非本地劳工"
   - "2026年政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-macao-immigration-2026.jpg"
 draft: false
 
 ---

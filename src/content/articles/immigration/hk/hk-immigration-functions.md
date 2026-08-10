@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港\", \"入境事务处\", \"签证\", \"移民\", \"职能\", \"2024-2026\"]"
 keywords: "[\"香港入境事务处职能\", \"香港签证审批\", \"香港入境条例\", \"香港移民政策\", \"香港边境管制\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.immd.gov.hk/opengraph/default.jpg"
 draft: false
 
 ---

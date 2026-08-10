@@ -25,7 +25,6 @@ keywords:
   - "中文服务"
   - "2026年税改"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/us-tax-authority-overview-2026.jpg"
 draft: false
 
 ---

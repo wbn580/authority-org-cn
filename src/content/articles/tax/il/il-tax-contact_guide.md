@@ -23,7 +23,6 @@ keywords:
   - "以色列非居民税务"
   - "以色列税务指南2026"
 chineseServiceAvailable: true
-ogImage: "https://www.gov.il/BlobFolder/general-images/tax-authority-logo-he.png"
 draft: false
 
 ---

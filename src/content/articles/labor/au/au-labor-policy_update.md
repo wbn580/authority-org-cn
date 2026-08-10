@@ -30,7 +30,6 @@ keywords:
   - "企业谈判协议"
   - "工作场所健康与安全"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-labor-policy-2024-2026.png"
 draft: false
 
 ---

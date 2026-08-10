@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"瑞士税务\", \"联邦税务管理局\", \"FTA\", \"税收征管\", \"瑞士税法\"]"
 keywords: "[\"瑞士税务主管部门\", \"联邦税务管理局职能\", \"瑞士税法执行\", \"瑞士税收征管\", \"瑞士税务改革2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/ch-tax-authority-2026.jpg"
 draft: false
 
 ---

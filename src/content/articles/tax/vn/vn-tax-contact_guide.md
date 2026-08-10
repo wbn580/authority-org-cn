@@ -25,7 +25,6 @@ keywords:
   - "越南税务投诉渠道"
   - "大陆人在越南报税"
 chineseServiceAvailable: 部分省级税务局（河内、胡志明市）提供中文窗口或电话口译服务，但非全国性安排。建议优先通过官方英文渠道或聘请本地税务代理。
-ogImage: "https://example.com/images/vn-tax-guide-2026.jpg"
 draft: false
 
 ---

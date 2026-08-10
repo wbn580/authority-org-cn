@@ -23,7 +23,6 @@ keywords:
   - "2026年移民公告"
   - "中文服务"
 chineseServiceAvailable: 是（有限度）
-ogImage: "https://example.com/og/ie-immigration-functions-2026.png"
 draft: false
 
 ---

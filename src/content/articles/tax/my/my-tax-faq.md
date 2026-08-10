@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚税务\", \"LHDN\", \"所得税\", \"税务申报\", \"中文服务\"]"
 keywords: "[\"马来西亚税务FAQ\", \"LHDN联系方式\", \"税务申报截止日期\", \"税务罚款计算\", \"中文税务服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-tax-faq-og.jpg"
 draft: false
 
 ---

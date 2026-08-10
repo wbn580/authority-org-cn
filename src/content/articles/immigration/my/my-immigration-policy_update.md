@@ -29,7 +29,6 @@ keywords:
   - "马来西亚签证政策变化"
   - "马来西亚移民更新"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-immigration-update-2026.jpg"
 draft: false
 
 ---

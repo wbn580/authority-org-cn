@@ -31,7 +31,6 @@ keywords:
   - "法国大陆人医保"
   - "法国就医流程"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/fr-health-guide-2026.jpg"
 draft: false
 
 ---

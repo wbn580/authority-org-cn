@@ -33,7 +33,6 @@ keywords:
   - "2026年"
   - "医疗政策"
 chineseServiceAvailable: true
-ogImage: "https://www.hsa.gov.sg/images/default-source/default-album/hsa-building.jpg"
 draft: false
 
 ---

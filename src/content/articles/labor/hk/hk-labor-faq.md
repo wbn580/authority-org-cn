@@ -25,7 +25,6 @@ keywords:
   - "中文服务可用性"
   - "雇员权益"
 chineseServiceAvailable: true
-ogImage: "https://www.labour.gov.hk/og/hk-labour-faq-2026.png"
 draft: false
 
 ---

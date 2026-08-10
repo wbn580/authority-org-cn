@@ -27,7 +27,6 @@ keywords:
   - "关税"
   - "大陆人"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ch-trade-policy-2026.jpg"
 draft: false
 
 ---

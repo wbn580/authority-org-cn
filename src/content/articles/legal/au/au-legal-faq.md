@@ -31,7 +31,6 @@ keywords:
   - "法律翻译服务"
   - "司法服务指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/au-legal-faq-og.png"
 draft: false
 
 ---

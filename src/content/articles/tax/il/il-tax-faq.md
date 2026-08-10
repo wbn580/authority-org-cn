@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列税务\", \"ITA\", \"所得税\", \"增值税\", \"税务登记\", \"申报流程\", \"中文服务\", \"跨境税务\"]"
 keywords: "[\"以色列税务FAQ\", \"以色列税务局联系方式\", \"以色列所得税申报流程\", \"以色列增值税标准税率\", \"以色列税务中文服务\", \"以色列税务登记费用\", \"以色列税务争议处理\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-tax-faq-2026.jpg"
 draft: false
 
 ---

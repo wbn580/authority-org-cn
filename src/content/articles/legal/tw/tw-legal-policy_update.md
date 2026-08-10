@@ -19,7 +19,6 @@ keywords:
   - "两岸司法互助"
   - "数位化诉讼"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-legal-2026.jpg"
 draft: false
 
 ---

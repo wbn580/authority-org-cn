@@ -23,7 +23,6 @@ keywords:
   - "韩国卫生体系"
   - "韩国外籍人士医保"
 chineseServiceAvailable: true
-ogImage: "https://example.com/kr-health-og-image.jpg"
 draft: false
 
 ---

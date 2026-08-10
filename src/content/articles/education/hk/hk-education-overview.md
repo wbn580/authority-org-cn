@@ -24,7 +24,6 @@ keywords:
   - "香港资历架构"
   - "香港专业教育"
 chineseServiceAvailable: true
-ogImage: "https://www.edb.gov.hk/attachment/en/about-edb/publications-stat/EDB_Logo_og.jpg"
 draft: false
 
 ---

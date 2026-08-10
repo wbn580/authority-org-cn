@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国交通部\", \"泰国民航局\", \"MOT\", \"CAAT\", \"航空监管\", \"陆路交通\", \"海事管理\", \"基础设施\", \"2026\"]"
 keywords: "[\"泰国交通部 MOT\", \"泰国民航局 CAAT\", \"泰国交通法规\", \"泰国航空安全\", \"泰国公共交通\", \"泰国驾照\", \"外国人在泰驾驶\", \"泰国铁路\", \"中泰高铁\", \"泰国基础设施\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/thailand-transport-ministry-overview-2026.jpg"
 draft: false
 
 ---

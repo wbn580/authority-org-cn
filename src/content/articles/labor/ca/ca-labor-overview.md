@@ -26,7 +26,6 @@ keywords:
   - "中文服务"
   - "中国大陆"
 chineseServiceAvailable: true
-ogImage: "https://www.canada.ca/content/dam/canada/employment-social-development/migration/images/ESDC-logo.jpg"
 draft: false
 
 ---

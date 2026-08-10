@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本央行\", \"金融厅\", \"外汇报告\", \"银行开户\", \"中文服务\", \"金融监管\", \"FAQ\"]"
 keywords: "[\"日本央行联系方式\", \"金融厅中文服务\", \"外汇报告流程\", \"银行开户非居民\", \"金融监管误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.boj.or.jp/en/images/og-image.jpg"
 draft: false
 
 ---

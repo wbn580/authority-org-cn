@@ -26,7 +26,6 @@ keywords:
   - "强制医保法"
   - "2026年卫生政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ae-health-functions-2026.jpg"
 draft: false
 
 ---

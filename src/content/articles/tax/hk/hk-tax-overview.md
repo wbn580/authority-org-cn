@@ -29,7 +29,6 @@ keywords:
   - "大陆居民香港税务"
   - "税务合规"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.gov.hk/images/logo.png"
 draft: false
 
 ---

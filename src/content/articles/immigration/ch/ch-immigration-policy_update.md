@@ -24,7 +24,6 @@ keywords:
   - "长期居留"
   - "大陆申请人"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-swiss-policy-2026.jpg"
 draft: false
 
 ---

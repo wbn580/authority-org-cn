@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "贸易合规"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-trade-faq-2026.jpg"
 draft: false
 
 ---

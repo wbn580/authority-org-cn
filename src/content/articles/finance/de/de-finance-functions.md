@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[德国金融监管, BaFin, 德国联邦银行, 银行监管, 证券监管, 保险监管, 反洗钱, 金融科技, 欧洲央行, 宏观审慎]"
 keywords: "[德国金融监管机构, BaFin职能, 德国联邦银行职能, 银行监管德国, 证券监管德国, 保险监管德国, 反洗钱德国, 金融科技监管德国, 欧洲央行监管, 宏观审慎政策德国]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/de-finance-regulation-2026.jpg"
 draft: false
 
 ---

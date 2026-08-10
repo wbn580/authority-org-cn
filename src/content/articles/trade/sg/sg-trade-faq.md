@@ -23,7 +23,6 @@ keywords:
   - "TradeNet系统"
   - "原产地证书"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-sg-trade-faq.jpg"
 draft: false
 
 ---

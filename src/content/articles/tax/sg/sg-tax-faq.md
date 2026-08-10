@@ -31,7 +31,6 @@ keywords:
   - "中文税务服务"
   - "新加坡税务误区"
 chineseServiceAvailable: true
-ogImage: "https://iras.gov.sg/images/og-image-tax-faq-2026.jpg"
 draft: false
 
 ---

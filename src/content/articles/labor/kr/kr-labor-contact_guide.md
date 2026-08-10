@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国劳动部\", \"MOEL\", \"雇佣劳动部\", \"劳工投诉\", \"中文服务\", \"外国人就业\", \"E-9签证\", \"劳动基准法\"]"
 keywords: "[\"韩国劳动部联系方式\", \"韩国劳工投诉电话\", \"韩国最低工资2026\", \"外国人劳动投诉\", \"首尔雇佣劳动厅\", \"大陆人在韩国工作\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.moel.go.kr/images/common/og_image.jpg"
 draft: false
 
 ---

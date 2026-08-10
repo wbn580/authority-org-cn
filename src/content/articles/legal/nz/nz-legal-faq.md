@@ -23,7 +23,6 @@ keywords:
   - "民事案件费用"
   - "中文法律服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/nz-legal-faq-2026-og.jpg"
 draft: false
 
 ---

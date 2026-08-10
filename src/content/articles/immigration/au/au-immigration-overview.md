@@ -22,7 +22,6 @@ keywords:
   - "中国大陆申请人"
   - "实操影响"
 chineseServiceAvailable: true
-ogImage: "https://www.homeaffairs.gov.au/images/og-default.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰卫生系统\", \"VWS\", \"医疗改革\", \"公共卫生治理\", \"机构史\"]"
 keywords: "[\"荷兰卫生、福利与体育部\", \"VWS\", \"2006年健康保险法\", \"长期照护改革\", \"荷兰公共卫生机构沿革\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/nl-vws-timeline-2026.jpg"
 draft: false
 
 ---

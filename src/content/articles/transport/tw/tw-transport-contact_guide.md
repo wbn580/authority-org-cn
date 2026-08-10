@@ -21,7 +21,6 @@ keywords:
   - "台湾航班投诉"
   - "公路监理"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-transport-guide-2026.png"
 draft: false
 
 ---

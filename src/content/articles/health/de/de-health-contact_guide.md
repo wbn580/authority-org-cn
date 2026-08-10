@@ -23,7 +23,6 @@ keywords:
   - "大陆人实操"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/de-health-guide-2026.png"
 draft: false
 
 ---

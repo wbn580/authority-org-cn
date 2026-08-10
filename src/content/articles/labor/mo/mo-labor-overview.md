@@ -24,7 +24,6 @@ keywords:
   - "大陆人士澳门工作"
   - "澳门劳动关系法"
 chineseServiceAvailable: true
-ogImage: "https://www.dsal.gov.mo/images/og_default.jpg"
 draft: false
 
 ---

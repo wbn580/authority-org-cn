@@ -26,7 +26,6 @@ keywords:
   - "瑞士签证处理时间"
   - "瑞士中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-swiss-immigration-faq-2026.jpg"
 draft: false
 
 ---

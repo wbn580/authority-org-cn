@@ -24,7 +24,6 @@ keywords:
   - "数字化"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/es-labor-history-og.jpg"
 draft: false
 
 ---

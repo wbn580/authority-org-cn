@@ -24,7 +24,6 @@ keywords:
   - "中文服务日本教育"
   - "中国大陆留学日本"
 chineseServiceAvailable: true
-ogImage: "https://www.mext.go.jp/common/images/ogp.png"
 draft: false
 
 ---

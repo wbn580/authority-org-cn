@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港\", \"劳工处\", \"劳工事务\", \"就业政策\", \"大陆人\", \"中文服务\"]"
 keywords: "[\"香港劳工处\", \"Labour Department\", \"香港就业\", \"劳工法例\", \"输入劳工计划\", \"大陆人士在港工作\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.labour.gov.hk/eng/public/images/logo.png"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚\", \"卫生\", \"老年护理\", \"医保\", \"Medicare\", \"卫生部\", \"政策动态\"]"
 keywords: "[\"澳大利亚卫生与老年护理部\", \"Department of Health and Aged Care\", \"Medicare\", \"药品福利计划\", \"PBS\", \"澳大利亚医保\", \"中国大陆人士\", \"卫生政策\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.health.gov.au/sites/default/files/images/og-image.jpg"
 draft: false
 
 ---

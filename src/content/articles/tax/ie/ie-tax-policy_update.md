@@ -29,7 +29,6 @@ keywords:
   - "中国大陆纳税人"
   - "数字服务平台报告义务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ie-tax-policy-update-2024-2026-og.png"
 draft: false
 
 ---

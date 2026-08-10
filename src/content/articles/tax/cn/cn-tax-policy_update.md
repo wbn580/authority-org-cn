@@ -28,7 +28,6 @@ keywords:
   - "境外个人所得税"
   - "数字人民币税务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-tax-policy-update-2024-2026.jpg"
 draft: false
 
 ---

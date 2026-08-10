@@ -24,7 +24,6 @@ keywords:
   - "2024-2026卫生改革"
   - "联邦省协调"
 chineseServiceAvailable: true
-ogImage: "https://www.canada.ca/content/dam/hc-sc/images/services/health-care-system/health-canada-building.jpg"
 draft: false
 
 ---

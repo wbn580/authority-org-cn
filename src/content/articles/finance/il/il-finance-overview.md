@@ -29,7 +29,6 @@ keywords:
   - "大陆人开户"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-il-finance-2026.png"
 draft: false
 
 ---

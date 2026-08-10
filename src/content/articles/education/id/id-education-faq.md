@@ -22,7 +22,6 @@ keywords:
   - "教师资格认证"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/id-education-faq-og.jpg"
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "荷兰卫生部门"
   - "荷兰医保误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-health-faq-2026.jpg"
 draft: false
 
 ---

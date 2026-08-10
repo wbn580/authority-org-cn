@@ -27,7 +27,6 @@ keywords:
   - "透明度"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/sg-labor-comparison-og.jpg"
 draft: false
 hideFromHome: true
 

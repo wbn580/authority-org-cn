@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"司法改革\", \"法务部\", \"机构沿革\", \"职能调整\", \"法律基础\", \"中国台湾\"]"
 keywords: "[\"中国台湾司法\", \"法务主管部门\", \"机构改革\", \"历史沿革\", \"职能变迁\", \"法律体系\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-legal-history-og.jpg"
 draft: false
 
 ---

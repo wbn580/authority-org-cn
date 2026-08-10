@@ -21,7 +21,6 @@ keywords:
   - "签证政策2026"
   - "移民与边境保护"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/au-immigration-functions-2026.jpg"
 draft: false
 
 ---

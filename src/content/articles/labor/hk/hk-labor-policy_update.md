@@ -25,7 +25,6 @@ keywords:
   - "大陆人士香港就业"
   - "香港劳工处公告"
 chineseServiceAvailable: true
-ogImage: "https://www.labour.gov.hk/tc/images/og_image.jpg"
 draft: false
 
 ---

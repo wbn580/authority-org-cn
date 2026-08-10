@@ -24,7 +24,6 @@ keywords:
   - "Chinese service availability"
   - "judicial overhaul"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-legal-policy-2026-og.png"
 draft: false
 
 ---

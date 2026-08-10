@@ -23,7 +23,6 @@ keywords:
   - "航空安全"
   - "ICAO审计"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/id-transport-history-og.jpg"
 draft: false
 
 ---

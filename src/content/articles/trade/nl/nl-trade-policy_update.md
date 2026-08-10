@@ -24,7 +24,6 @@ keywords:
   - "荷兰海关增值税2025"
   - "荷兰中国贸易影响"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-trade-policy-2024-2026.png"
 draft: false
 
 ---

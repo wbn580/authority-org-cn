@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚司法\", \"法务部\", \"法律咨询\", \"中文服务\", \"案件流程\", \"费用标准\"]"
 keywords: "[\"马来西亚司法部\", \"法务部联系方式\", \"案件时效\", \"法律费用\", \"中文法律咨询\", \"马来西亚法院\", \"法律误区\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-legal-faq-2026-og.jpg"
 draft: false
 
 ---

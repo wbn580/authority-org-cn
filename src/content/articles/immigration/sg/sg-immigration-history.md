@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡移民\", \"ICA\", \"机构沿革\", \"移民政策\", \"关卡管理\"]"
 keywords: "[\"新加坡移民局\", \"ICA历史\", \"移民法\", \"改革事件\", \"智能边境\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.ica.gov.sg/images/ica-building.jpg"
 draft: false
 
 ---

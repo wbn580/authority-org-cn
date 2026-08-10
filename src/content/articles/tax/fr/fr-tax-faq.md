@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国税务\", \"DGFiP\", \"个人所得税\", \"非居民税务\", \"税务争议\", \"中文服务\"]"
 keywords: "[\"法国税务FAQ\", \"法国个人所得税申报\", \"法国税务联系方式\", \"非居民税务义务\", \"税务争议时效\", \"中文税务服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/fr-tax-faq-og.png"
 draft: false
 
 ---

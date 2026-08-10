@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列\", \"教育部\", \"机构沿革\", \"教育改革\", \"法律变更\", \"教育体系\"]"
 keywords: "[\"以色列教育部\", \"以色列教育法\", \"教育体系改革\", \"教育部历史\", \"以色列教育政策\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/og-image-israel-education-history.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "国民健康保险公团"
   - "2026年费率"
 chineseServiceAvailable: true
-ogImage: "https://www.nhis.or.kr/images/og-image.jpg"
 draft: false
 
 ---

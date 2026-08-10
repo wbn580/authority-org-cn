@@ -24,7 +24,6 @@ keywords:
   - "大陆申请人"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.education.govt.nz/assets/og-images/nz-education-policy-2026.jpg"
 draft: false
 
 ---

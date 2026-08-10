@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门贸易投资促进局\", \"澳门海关\", \"经济财政司\", \"机构沿革\", \"贸易政策\"]"
 keywords: "[\"澳门贸易主管部门\", \"澳门海关历史\", \"IPIM改革\", \"中葡平台\", \"CEPA\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/mo-trade-history-og.jpg"
 draft: false
 
 ---

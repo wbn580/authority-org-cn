@@ -28,7 +28,6 @@ keywords:
   - "2025年调整"
   - "2026年调整"
 chineseServiceAvailable: false
-ogImage: "https://example.com/og-image-jp-education-functions.jpg"
 draft: false
 
 ---

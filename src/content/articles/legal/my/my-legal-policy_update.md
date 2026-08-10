@@ -28,7 +28,6 @@ keywords:
   - "数字司法马来西亚"
   - "司法透明度"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-legal-policy-update-2024-2026-og.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "投诉申诉"
   - "中国大陆申请人"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ch-education-guide-2026.jpg"
 draft: false
 
 ---

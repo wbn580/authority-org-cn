@@ -24,7 +24,6 @@ keywords:
   - "日语"
   - "中文"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/jp-labor-guide-2026.png"
 draft: false
 
 ---

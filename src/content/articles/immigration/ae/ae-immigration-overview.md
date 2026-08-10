@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋\", \"ICP\", \"签证\", \"移民\", \"主管部门\", \"联邦身份\", \"公民身份\"]"
 keywords: "[\"阿联酋移民局\", \"ICP\", \"签证政策\", \"黄金签证\", \"绿卡\", \"中文服务\", \"2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://icp.gov.ae/media/og-default.jpg"
 draft: false
 
 ---

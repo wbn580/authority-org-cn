@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国海关\", \"贸易主管部门\", \"联系方式\", \"办事指南\", \"进出口\", \"关税\"]"
 keywords: "[\"泰国海关厅地址\", \"泰国贸易部联系方式\", \"泰国进出口手续\", \"泰国关税标准\", \"泰国中文海关服务\", \"泰国清关流程\", \"中国大陆企业泰国贸易\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-customs-guide-2026.jpg"
 draft: false
 
 ---

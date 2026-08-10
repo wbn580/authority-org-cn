@@ -28,7 +28,6 @@ keywords:
   - "国际贸易对比"
   - "2026年数据"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-trade-comparison-2026.png"
 draft: false
 hideFromHome: true
 

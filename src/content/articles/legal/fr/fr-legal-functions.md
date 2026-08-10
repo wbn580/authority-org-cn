@@ -28,7 +28,6 @@ keywords:
   - "部门边界"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://example.com/fr-justice-2026-og.jpg"
 draft: false
 
 ---

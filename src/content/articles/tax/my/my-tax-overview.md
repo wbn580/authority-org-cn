@@ -30,7 +30,6 @@ keywords:
   - "马来西亚中文税务服务"
   - "大陆人士马来西亚税务"
 chineseServiceAvailable: true
-ogImage: "https://www.hasil.gov.my/images/og-image.jpg"
 draft: false
 
 ---

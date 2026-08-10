@@ -31,7 +31,6 @@ keywords:
   - "大陆用户接触度"
   - "制度差异分析"
 chineseServiceAvailable: 澳大利亚司法部官网提供简体中文版关键指南（如签证拒签申诉、家庭法程序），但核心法律文书仍以英文为主。英国、加拿大、新西兰司法部门官网无中文专版，部分内容可通过第三方翻译工具获取。
-ogImage: "https://example.com/images/au-legal-comparison-og.jpg"
 draft: false
 hideFromHome: true
 

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港教育局\", \"FAQ\", \"学校注册\", \"学历认证\", \"教师注册\", \"学生资助\", \"香港教育\"]"
 keywords: "[\"香港教育局\", \"教育局FAQ\", \"学校注册流程\", \"学历认证香港\", \"教师注册香港\", \"学生资助香港\", \"香港教育政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.edb.gov.hk/attachment/en/about-edb/press/EDB_Logo.png"
 draft: false
 
 ---

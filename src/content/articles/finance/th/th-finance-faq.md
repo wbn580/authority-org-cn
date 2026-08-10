@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国央行\", \"BOT\", \"泰国SEC\", \"外汇管理\", \"金融监管\", \"FAQ\", \"2026\"]"
 keywords: "[\"泰国央行联系方式\", \"泰国外汇管制\", \"非居民泰铢账户\", \"泰国金融牌照申请\", \"泰国央行中文服务\", \"BOT投诉流程\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.bot.or.th/content/dam/bot/images/logo-og.jpg"
 draft: false
 
 ---

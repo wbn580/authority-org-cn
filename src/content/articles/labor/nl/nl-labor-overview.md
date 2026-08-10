@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰\", \"劳工\", \"就业\", \"SZW\", \"UWV\", \"劳动法\", \"社会保险\", \"中国大陆\", \"中文服务\"]"
 keywords: "[\"荷兰劳工部\", \"SZW\", \"UWV\", \"荷兰劳动法\", \"荷兰工作许可\", \"中国大陆公民荷兰就业\", \"荷兰社会保险\", \"2026年荷兰劳动法\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/netherlands-labor-authority-overview-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "澳门中文服务"
   - "第15/2024号法律"
 chineseServiceAvailable: true
-ogImage: "https://www.dsf.gov.mo/images/og-tax-guide-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门教育\", \"DSEDJ\", \"办事指南\", \"联系方式\", \"大陆人士\"]"
 keywords: "[\"澳门教育及青年发展局\", \"DSEDJ地址\", \"澳门学历认证\", \"澳门留学\", \"大陆人士澳门教育\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.dsedj.gov.mo/images/og_default.jpg"
 draft: false
 
 ---

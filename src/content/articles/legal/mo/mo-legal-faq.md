@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门司法\", \"法务局\", \"法院服务\", \"法律援助\", \"中文服务\"]"
 keywords: "[\"澳门法务局\", \"法院费用\", \"司法援助\", \"公证服务\", \"中文法律文书\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.dsaj.gov.mo/images/faq-og-2026.jpg"
 draft: false
 
 ---

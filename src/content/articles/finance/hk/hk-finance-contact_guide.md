@@ -27,7 +27,6 @@ keywords:
   - "香港金融管理局预约"
   - "香港金融监管指南"
 chineseServiceAvailable: true
-ogImage: "https://www.hkma.gov.hk/media/eng/publication/2026/og-image-contact-guide.jpg"
 draft: false
 
 ---

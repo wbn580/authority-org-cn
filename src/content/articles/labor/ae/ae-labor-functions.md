@@ -31,7 +31,6 @@ keywords:
   - "劳动争议调解"
   - "劳工培训"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og/ae-labor-functions-2026.jpg"
 draft: false
 
 ---

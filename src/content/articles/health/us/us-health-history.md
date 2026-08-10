@@ -27,7 +27,6 @@ keywords:
   - "公共卫生法律基础"
   - "美国医疗体系变迁"
 chineseServiceAvailable: true
-ogImage: "https://cdn.example.com/us-health-history-og.png"
 draft: false
 
 ---

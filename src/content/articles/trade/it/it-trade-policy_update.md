@@ -22,7 +22,6 @@ keywords:
   - "中国进口意大利"
   - "意大利贸易壁垒"
 chineseServiceAvailable: true
-ogImage: "https://example.com/it-trade-2026.jpg"
 draft: false
 
 ---

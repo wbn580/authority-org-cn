@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列教育\", \"政策更新\", \"课程改革\", \"高等教育\", \"国际学生\", \"教育技术\", \"特殊教育\", \"2024-2026\"]"
 keywords: "[\"以色列教育部\", \"高等教育委员会\", \"课程改革\", \"国际学生政策\", \"教育技术整合\", \"特殊教育\", \"中国大陆学生\", \"以色列教育政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/il-education-policy-update-2024-26.jpg"
 draft: false
 
 ---

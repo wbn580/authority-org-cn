@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡\", \"卫生部\", \"医保\", \"HPB\", \"MOH\", \"中文服务\", \"大陆人\"]"
 keywords: "[\"新加坡卫生部\", \"MOH\", \"HPB\", \"医保办事指南\", \"新加坡中文医疗服务\", \"大陆人医保\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.moh.gov.sg/images/moh-logo.png"
 draft: false
 
 ---

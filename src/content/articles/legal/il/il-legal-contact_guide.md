@@ -23,7 +23,6 @@ keywords:
   - "投诉申诉"
   - "大陆人实操"
 chineseServiceAvailable: true
-ogImage: "https://example.com/il-legal-guide-2026.jpg"
 draft: false
 
 ---

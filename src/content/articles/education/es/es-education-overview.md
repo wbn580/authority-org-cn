@@ -22,7 +22,6 @@ keywords:
   - "中文服务"
   - "中国大陆学生"
 chineseServiceAvailable: 有限
-ogImage: "https://www.educacionyfp.gob.es/dam/jcr:.../logo-mefp.png"
 draft: false
 
 ---

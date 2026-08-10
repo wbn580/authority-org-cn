@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"越南劳动\", \"MOLISA\", \"劳动法\", \"就业政策\", \"外国劳工\", \"越南劳动荣军与社会部\"]"
 keywords: "[\"越南劳动荣军与社会部\", \"MOLISA\", \"越南劳动法\", \"越南就业政策\", \"越南外国劳工许可证\", \"大陆人在越南工作\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/vn-molisa-overview-og.jpg"
 draft: false
 
 ---

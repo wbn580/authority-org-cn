@@ -30,7 +30,6 @@ keywords:
   - "大陆申请人 影响 加拿大"
   - "中文服务 可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/ca-immigration-2024-2026-policy-update.jpg"
 draft: false
 
 ---

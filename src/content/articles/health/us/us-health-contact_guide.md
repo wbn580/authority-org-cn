@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国卫生部门\", \"HHS\", \"联系方式\", \"办事指南\", \"中文服务\", \"医疗保险\", \"投诉申诉\"]"
 keywords: "[\"美国卫生与公众服务部\", \"HHS联系方式\", \"CMS\", \"FDA\", \"医疗保险指南\", \"中文服务美国卫生\", \"大陆人美国医保\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.hhs.gov/sites/default/files/hhs-logo-og.jpg"
 draft: false
 
 ---

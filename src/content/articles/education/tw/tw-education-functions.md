@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国台湾教育\", \"教育部\", \"核心职能\", \"高等教育\", \"国民教育\", \"技职教育\", \"教育立法\", \"2024-2026\", \"跨部门协调\"]"
 keywords: "[\"中国台湾教育主管部门\", \"教育部核心职能\", \"台湾教育法\", \"高等教育司\", \"国民教育\", \"技职教育\", \"国际交流\", \"2024年教育改革\", \"教育预算\", \"跨部门协调\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-education-functions.jpg"
 draft: false
 
 ---

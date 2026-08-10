@@ -31,7 +31,6 @@ keywords:
   - "大陆人法律影响"
   - "新加坡法律体系"
 chineseServiceAvailable: true
-ogImage: "https://example.com/sg-legal-og-image.jpg"
 draft: false
 
 ---

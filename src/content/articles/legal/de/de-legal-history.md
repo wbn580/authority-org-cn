@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国司法部\", \"联邦司法部\", \"机构沿革\", \"法律改革\", \"德国法律史\"]"
 keywords: "[\"德国司法部沿革\", \"联邦司法部历史\", \"德国法律基础变化\", \"司法改革事件\", \"BMJ历史\"]"
 chineseServiceAvailable: false
-ogImage: "https://example.com/images/de-legal-history-og.png"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "印尼职业培训"
   - "印尼劳动监察"
 chineseServiceAvailable: true
-ogImage: "https://res.cloudinary.com/dj2c1kz6w/image/upload/v1684923457/indonesia-labor-ministry-2026.jpg"
 draft: false
 
 ---

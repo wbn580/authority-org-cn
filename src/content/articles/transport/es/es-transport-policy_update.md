@@ -21,7 +21,6 @@ keywords:
   - "大陆人士跨境"
   - "欧盟航空安全局"
 chineseServiceAvailable: true
-ogImage: "https://example.com/es-transport-policy-2026.jpg"
 draft: false
 
 ---

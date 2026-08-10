@@ -26,7 +26,6 @@ keywords:
   - "投诉申诉流程"
   - "2026年美国民航指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/us-transport-guide-2026.jpg"
 draft: false
 
 ---

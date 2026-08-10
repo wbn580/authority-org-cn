@@ -28,7 +28,6 @@ keywords:
   - "监管效率"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-trade-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

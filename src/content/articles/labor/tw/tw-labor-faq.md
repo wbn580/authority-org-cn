@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"劳工保险\", \"就业服务\", \"劳动条件\", \"职业安全\", \"台湾劳动部\"]"
 keywords: "[\"台湾劳动部FAQ\", \"劳工保险给付\", \"就业服务申请\", \"劳动条件咨询\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.mol.gov.tw/public/og-image.jpg"
 draft: false
 
 ---

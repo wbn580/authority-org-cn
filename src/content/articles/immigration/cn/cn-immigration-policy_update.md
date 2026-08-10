@@ -24,7 +24,6 @@ keywords:
   - "国籍法"
   - "大陆居民"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/cn-immigration-policy-update-2026.jpg"
 draft: false
 
 ---

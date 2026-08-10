@@ -22,7 +22,6 @@ keywords:
   - "泰国中文服务"
   - "泰国教育误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/th-education-faq-2026.png"
 draft: false
 
 ---

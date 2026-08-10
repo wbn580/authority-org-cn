@@ -21,7 +21,6 @@ keywords:
   - "警察权力"
   - "2024年司法改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-justice-functions-2026.jpg"
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "跨部门协调"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "https://example.com/tw-transport-2026-og.jpg"
 draft: false
 
 ---

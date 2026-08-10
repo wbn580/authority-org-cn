@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门金融管理局\", \"AMCM\", \"机构沿革\", \"金融监管\", \"货币政策\", \"澳门元\", \"跨境监管\"]"
 keywords: "[\"澳门金融管理局成立\", \"AMCM职能调整\", \"澳门金融改革\", \"澳门金融法律体系\", \"澳门金融监管历史\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.amcm.gov.mo/sites/default/files/og-image.jpg"
 draft: false
 
 ---

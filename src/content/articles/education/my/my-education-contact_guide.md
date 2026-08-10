@@ -26,7 +26,6 @@ keywords:
   - "马来西亚教育投诉"
   - "大陆人马来西亚办事指南"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/my-education-guide-2026.jpg"
 draft: false
 
 ---

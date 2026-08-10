@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门\", \"劳工事务局\", \"DSAL\", \"劳动监察\", \"就业服务\", \"职业安全\", \"外地雇员\", \"劳动关系\"]"
 keywords: "[\"澳门劳工局\", \"劳动监察\", \"就业配对\", \"职业安全健康\", \"外地雇员管理\", \"劳动关系协调\", \"第2/2023号法律\", \"2024-2026调整\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.dsal.gov.mo/images/og-dsal-functions-2026.jpg"
 draft: false
 
 ---

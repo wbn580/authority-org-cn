@@ -27,7 +27,6 @@ keywords:
   - "贸易协议执行法"
   - "新西兰贸易政策改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nz-trade-customs-history-og.jpg"
 draft: false
 
 ---

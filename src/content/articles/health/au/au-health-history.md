@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚\", \"卫生部\", \"医保\", \"机构沿革\", \"Medicare\", \"老年护理\", \"公共卫生改革\", \"PBAC\", \"NHPAC\"]"
 keywords: "[\"澳大利亚卫生部\", \"Department of Health and Aged Care\", \"Medicare\", \"1999年卫生与老年护理部法案\", \"2013年公共卫生法案\", \"国家卫生改革协议\", \"老年护理改革\", \"机构沿革\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.health.gov.au/sites/default/files/2026-05/og-history-department-health-aged-care.jpg"
 draft: false
 
 ---

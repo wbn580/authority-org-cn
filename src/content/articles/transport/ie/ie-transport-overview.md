@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"交通部\", \"民航\", \"爱尔兰航空管理局\", \"立法\", \"2024-2026\"]"
 keywords: "[\"爱尔兰交通部\", \"Department of Transport\", \"爱尔兰民航\", \"IAA\", \"Road Safety Authority\", \"2026年动态\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-image/ie-transport-overview.jpg"
 draft: false
 
 ---

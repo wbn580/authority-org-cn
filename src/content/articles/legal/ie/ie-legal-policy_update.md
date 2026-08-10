@@ -22,7 +22,6 @@ keywords:
   - "签证政策调整2026"
   - "中国大陆申请人影响"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ie-legal-policy-update-2026-og.jpg"
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "办事流程"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://www.immigration.go.kr/images/og_image.jpg"
 draft: false
 
 ---

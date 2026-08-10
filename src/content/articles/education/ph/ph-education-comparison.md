@@ -51,7 +51,6 @@ keywords:
   - "2026年教育数据"
   - "教育治理比较"
 chineseServiceAvailable: true
-ogImage: "https://www.example.com/images/ph-education-comparison-2026.png"
 draft: false
 hideFromHome: true
 

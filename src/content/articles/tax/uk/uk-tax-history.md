@@ -27,7 +27,6 @@ keywords:
   - "税务合规"
   - "英国税务政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/hmrc-history-2026.png"
 draft: false
 
 ---

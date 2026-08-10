@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国税务\", \"NTS\", \"所得税\", \"增值税\", \"法人税\", \"税务登记\", \"税务申报\", \"中文服务\", \"外国人税务\", \"税务误区\"]"
 keywords: "[\"韩国国税厅\", \"NTS\", \"税务登记\", \"所得税申报\", \"增值税申报\", \"法人税申报\", \"税务代理\", \"中文服务\", \"税务罚款\", \"退税流程\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.nts.go.kr/images/og_image.jpg"
 draft: false
 
 ---

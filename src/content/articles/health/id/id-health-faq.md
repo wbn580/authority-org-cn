@@ -24,7 +24,6 @@ keywords:
   - "印尼医保报销比例"
   - "印尼医保误区"
 chineseServiceAvailable: true
-ogImage: "https://example.com/id-health-faq-2026.jpg"
 draft: false
 
 ---

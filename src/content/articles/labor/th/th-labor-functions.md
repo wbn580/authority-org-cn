@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国\", \"劳工部\", \"就业\", \"劳动法\", \"社会保障\", \"职业安全\", \"外籍劳工\"]"
 keywords: "[\"泰国劳工部\", \"MOL\", \"劳动标准\", \"就业服务\", \"社会保障\", \"劳资关系\", \"外籍劳工管理\", \"2026年修订\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/th-labor-2026-og.jpg"
 draft: false
 
 ---

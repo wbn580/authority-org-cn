@@ -24,7 +24,6 @@ keywords:
   - "英国运输政策"
   - "机构改组"
 chineseServiceAvailable: true
-ogImage: "https://assets.example.com/uk-transport-history-og.png"
 draft: false
 
 ---

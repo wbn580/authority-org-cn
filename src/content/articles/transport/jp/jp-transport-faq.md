@@ -24,7 +24,6 @@ keywords:
   - "中文服务日本交通"
   - "日本交通法规2026"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/jp-transport-faq-2026.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "大陆人士"
   - "税务合规"
 chineseServiceAvailable: true
-ogImage: "https://www.iras.gov.sg/images/og-image.jpg"
 draft: false
 
 ---

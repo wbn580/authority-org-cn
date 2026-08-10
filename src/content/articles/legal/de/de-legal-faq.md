@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国司法\", \"法院程序\", \"司法费用\", \"法律咨询\", \"中文服务\", \"时效标准\"]"
 keywords: "[\"德国法院联系方式\", \"诉讼时效\", \"司法费用2026\", \"中文法律咨询\", \"公证服务\", \"法律援助\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-de-legal-faq-2026.jpg"
 draft: false
 
 ---

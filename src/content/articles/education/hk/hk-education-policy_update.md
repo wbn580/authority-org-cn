@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"香港教育\",\"政策更新\",\"国民教育\",\"STEM教育\",\"教师注册\",\"高等教育\",\"跨境学童\"]"
 keywords: "[\"香港教育局\",\"2024-2026教育政策\",\"国民教育\",\"教师注册\",\"STEM\",\"高等教育\",\"跨境学童\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.edb.gov.hk/attachment/en/about-edb/publications-stat/edb-annual-report-2024-25.jpg"
 draft: false
 
 ---

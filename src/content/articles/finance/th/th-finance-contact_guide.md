@@ -28,7 +28,6 @@ keywords:
   - "泰国金融监管"
   - "2026年"
 chineseServiceAvailable: 是（部分热线及在线表格提供中文选项）
-ogImage: "https://example.com/images/th-finance-contact-guide-2026.jpg"
 draft: false
 
 ---

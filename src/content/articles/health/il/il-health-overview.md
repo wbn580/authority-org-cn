@@ -28,7 +28,6 @@ keywords:
   - "2025年改革"
   - "中文医疗"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-images/il-ministry-of-health-overview.png"
 draft: false
 
 ---

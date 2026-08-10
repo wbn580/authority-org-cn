@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"以色列劳工部\", \"MoLSSA\", \"就业政策\", \"外籍劳工\", \"劳动法\"]"
 keywords: "[\"以色列劳工部\", \"就业服务\", \"外籍劳工配额\", \"2026年劳动改革\", \"中文服务\", \"大陆人士就业\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/il-labor-2026-og.jpg"
 draft: false
 
 ---

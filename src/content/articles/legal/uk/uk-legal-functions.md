@@ -79,7 +79,6 @@ dataSources:
   - 《2024年法律援助改革条例》（Legal Aid Reform Regulations 2024）
   - 英国国家审计署（NAO）2025年司法绩效报告
   - 英国宪法事务委员会2026年白皮书
-ogImage: https://example.com/uk-ministry-of-justice-functions-2026.jpg
 draft: false
 ```
 

@@ -22,7 +22,6 @@ keywords:
   - "劳动法演变"
   - "就业政策改革"
 chineseServiceAvailable: true
-ogImage: "https://example.com/ch-labor-history-og.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "中文服务菲律宾"
   - "大陆人菲律宾贸易"
 chineseServiceAvailable: 部分支持，见正文
-ogImage: "https://example.com/ph-trade-guide-2026-og.png"
 draft: false
 
 ---

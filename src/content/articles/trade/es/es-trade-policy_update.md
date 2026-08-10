@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "贸易合规"
 chineseServiceAvailable: true
-ogImage: "https://www.agenciatributaria.es/static/files/common/logo_aeat.png"
 draft: false
 
 ---

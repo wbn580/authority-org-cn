@@ -21,7 +21,6 @@ keywords:
   - "数字平台监管"
   - "大陆人法律影响"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/id-legal-policy-2026.jpg"
 draft: false
 
 ---

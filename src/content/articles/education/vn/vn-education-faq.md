@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"越南教育\", \"MOET\", \"学历认证\", \"留学越南\", \"学位互认\", \"FAQ\"]"
 keywords: "[\"越南教育部联系方式\", \"越南学历认证流程\", \"留学越南费用\", \"中文服务\", \"学位互认\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/vn-education-faq-og.jpg"
 draft: false
 
 ---

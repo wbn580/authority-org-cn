@@ -28,7 +28,6 @@ keywords:
   - "澳门就业"
   - "澳门劳工"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-mo-labor-faq-2026.png"
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "大陆人瑞士通关"
   - "瑞士进出口表格"
 chineseServiceAvailable: true
-ogImage: "https://www.bazg.admin.ch/dam/bazg/images/og-image.jpg"
 draft: false
 
 ---

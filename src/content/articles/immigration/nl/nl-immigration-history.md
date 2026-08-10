@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰移民\", \"IND\", \"机构沿革\", \"移民法改革\", \"荷兰签证\"]"
 keywords: "[\"荷兰移民局历史\", \"IND成立\", \"荷兰签证政策演变\", \"移民法改革荷兰\", \"荷兰移民局职能\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/nl-immigration-history-og.jpg"
 draft: false
 
 ---

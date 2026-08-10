@@ -29,7 +29,6 @@ keywords:
   - "在留管理"
   - "强制送还"
 chineseServiceAvailable: true
-ogImage: "https://example.com/jp-immigration-functions-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "荷兰劳工投诉"
   - "2026荷兰劳工政策"
 chineseServiceAvailable: true
-ogImage: "https://example.com/og-netherlands-labor-guide-2026.jpg"
 draft: false
 
 ---

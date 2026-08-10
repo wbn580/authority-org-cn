@@ -27,7 +27,6 @@ keywords:
   - "税务服务"
   - "跨部门协作"
 chineseServiceAvailable: true
-ogImage: "https://www.ird.gov.hk/images/og-image-default.jpg"
 draft: false
 
 ---

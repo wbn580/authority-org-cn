@@ -31,7 +31,6 @@ keywords:
   - "司法部中文服务"
   - "加拿大法律程序"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/ca-legal-faq-2026.jpg"
 draft: false
 
 ---

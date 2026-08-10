@@ -41,7 +41,6 @@ keywords:
   - "福利制度"
   - "劳动力市场"
 chineseServiceAvailable: 荷兰UWV提供中文电话口译服务（通过Tolk- en vertaalcentrum Nederland），网站部分内容可切换至英文；德国BA网站无中文，但部分地区提供中文咨询服务；瑞典IA网站提供英文界面，无中文；加拿大ESDC网站提供英文和法文，中文内容有限；新加坡MOM网站提供中文版，设有专门的中文热线及线下服务中心。
-ogImage: "https://example.com/images/nl-labor-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

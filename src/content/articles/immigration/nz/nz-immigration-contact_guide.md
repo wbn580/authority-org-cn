@@ -23,7 +23,6 @@ keywords:
   - "移民投诉新西兰"
   - "大陆申请人新西兰签证"
 chineseServiceAvailable: true
-ogImage: "https://www.immigration.govt.nz/assets/images/og-image.jpg"
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "美国司法投诉渠道"
   - "2026年美国司法系统"
 chineseServiceAvailable: 部分机构（如FBI、司法部民事权利司）提供中文电话口译；联邦法院一般无中文专线，需自带翻译。
-ogImage: "https://www.justice.gov/sites/all/themes/justice/logo.png"
 draft: false
 
 ---

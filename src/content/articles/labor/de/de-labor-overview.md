@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国劳工部\", \"BMAS\", \"联邦就业局\", \"BA\", \"德国就业政策\", \"德国劳工法\", \"中文服务\", \"大陆人就业\"]"
 keywords: "[\"德国劳工与社会事务部\", \"联邦就业局\", \"德国就业\", \"德国劳工法\", \"中文服务\", \"大陆人就业影响\"]"
 chineseServiceAvailable: true
-ogImage: "https://example.com/images/de-labor-overview-og.jpg"
 draft: false
 
 ---
