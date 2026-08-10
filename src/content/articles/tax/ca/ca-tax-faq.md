@@ -67,7 +67,7 @@ draft: false
 ### Q1: 加拿大税务局（CRA）的主要联系方式有哪些？
 **A1:** 据CRA 2026年公告，纳税人可通过以下渠道联系：
 - **电话**：个人税务查询1-800-959-8281（加拿大境内，英语/法语，工作日8:00-20:00东部时间）；商业查询1-800-959-5525。国际来电请致电1-613-940-8495（可能产生国际长途费）。
-- **在线服务**：通过“我的账户”（My Account）门户（`https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html`）提交查询、查看税务记录、更新地址等。
+- **在线服务**：通过“我的账户”（My Account）门户（`<https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html`>）提交查询、查看税务记录、更新地址等。
 - **邮件**：根据CRA《T1通用指南》（T1 General Guide, 2026），纸质查询需邮寄至纳税人所在税务中心（地址可在CRA官网“联系我们”页面查询）。
 - **亲自办理**：部分城市设有CRA服务点，需预约。2026年，CRA在全国设有约150个服务点，平均等待时间为15-20分钟。
 

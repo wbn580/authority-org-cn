@@ -79,7 +79,7 @@ draft: false
 - **中文服务专线**：**+61 2 9392 2000**（转接中文专员，需提前预约）。
 
 ### 中文服务可用性
-ABF与Austrade均提供有限的中文电话与在线支持。ABF官网设有中文版页面（https://www.abf.gov.au/chinese），涵盖常见问题与表格。电话咨询时，可要求“Mandarin-speaking officer”，但等待时间可能延长至**10-15分钟**（2026年4月实测）。Austrade在悉尼、墨尔本、布里斯班设有中文贸易顾问，可通过官网预约免费30分钟咨询。
+ABF与Austrade均提供有限的中文电话与在线支持。ABF官网设有中文版页面（<https://www.abf.gov.au/chinese>），涵盖常见问题与表格。电话咨询时，可要求“Mandarin-speaking officer”，但等待时间可能延长至**10-15分钟**（2026年4月实测）。Austrade在悉尼、墨尔本、布里斯班设有中文贸易顾问，可通过官网预约免费30分钟咨询。
 
 ## 进口清关流程与时效
 
@@ -114,7 +114,7 @@ ABF与Austrade均提供有限的中文电话与在线支持。ABF官网设有中
 **A1:** 可通过以下方式联系ABF进口咨询团队：  
 - **电话**：澳大利亚境内**131 881**（工作日8:00-18:00 AEST）；国际**+61 2 6275 6666**。  
 - **电子邮箱**：imports@abf.gov.au（回复时间**2个工作日**）。  
-- **在线表格**：ABF官网“Contact Us”页面（https://www.abf.gov.au/contact）。  
+- **在线表格**：ABF官网“Contact Us”页面（<https://www.abf.gov.au/contact>）。  
 2026年ABF年报显示，电话咨询平均等待时间为**4分30秒**，邮件回复率**98%**。
 
 ### Q2: 进口货物需要缴纳哪些费用？
@@ -134,7 +134,7 @@ ABF与Austrade均提供有限的中文电话与在线支持。ABF官网设有中
 
 ### Q4: 中文服务是否可用？如何获取？
 **A4:** 是，ABF与Austrade均提供中文服务。  
-- **ABF中文官网**：https://www.abf.gov.au/chinese。  
+- **ABF中文官网**：<https://www.abf.gov.au/chinese>。  
 - **电话**：可要求“Mandarin-speaking officer”，等待时间**10-15分钟**（工作日8:00-18:00 AEST）。  
 - **Austrade中文顾问**：通过官网预约免费30分钟咨询（悉尼、墨尔本、布里斯班）。  
 2026年4月实测，电话中文服务接通率**85%**，邮件回复率**92%**。
@@ -147,7 +147,7 @@ ABF与Austrade均提供有限的中文电话与在线支持。ABF官网设有中
 
 ### Q6: 如何查询HS编码与适用税率？
 **A6:** 可通过以下工具查询：  
-- **ABF在线关税计算器**：https://www.abf.gov.au/importing-exporting/calculators。  
+- **ABF在线关税计算器**：<https://www.abf.gov.au/importing-exporting/calculators>。  
 - **澳大利亚海关税则（Customs Tariff Act 1995）**：PDF版本可在ABF官网下载。  
 - **免费电话咨询**：**131 881**（工作日8:00-18:00 AEST）。  
 2026年，ABF提供**2,500+**个HS编码查询，平均查询时间**5分钟**。
@@ -284,7 +284,7 @@ ABF与Austrade均提供有限的中文电话与在线支持。ABF官网设有中
 
 ### Q25: 如何获取ABF最新通知？
 **A25:** 可通过以下渠道获取：  
-- **官网**：https://www.abf.gov.au/news。  
+- **官网**：<https://www.abf.gov.au/news>。  
 - **邮件订阅**：注册ABF新闻通讯（免费）。  
 - **社交媒体**：Twitter @ABFMedia。  
 2026年，ABF发布**150条**政策更新。

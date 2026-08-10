@@ -196,7 +196,7 @@ E-9签证持有者如需变更至其他工作类别（如E-7专门人才），�
 ## 参考资料
 
 1.  韩国法务部出入国·外国人政策本部. (2026). 《2026年出入国管理统计年报》. 首尔: 韩国法务部. [Online] Available at: https://www.moj.go.kr/moj/2026/statistics.pdf
-2.  韩国国会. (2026). 《出入国管理法》（法律第XXXXX号，2026年3月部分修订）. 首尔: 韩国法制处. [Online] Available at: https://www.law.go.kr/법령/출입국관리법
+2.  韩国国会. (2026). 《出入国管理法》（法律第XXXXX号，2026年3月部分修订）. 首尔: 韩国法制处. [Online] Available at: <https://www.law.go.kr/>법령/출입국관리법
 3.  韩国法务部. (2025). 《外国人社会融合基本计划中期修订案（2025-2027）》. 首尔: 韩国法务部政策报告. [Online] Available at: https://www.moj.go.kr/moj/2025/integration_plan.pdf
 4.  韩国雇佣劳动部 & 法务部. (2025). 《外国人雇用许可制运营指南（2025年版）》. 首尔: 韩国雇佣劳动部. [Online] Available at: https://www.moel.go.kr/foreigner/2025_guide.pdf
 5.  韩国法务部难民审议官室. (2026). 《2025年难民统计报告》. 首尔: 韩国法务部. [Online] Available at: https://www.moj.go.kr/refugee/2025_report.pdf

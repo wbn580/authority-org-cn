@@ -85,9 +85,9 @@ draft: false
 ### 线上预约系统
 各主管部门自2025年起全面推行线上预约制，现场无预约直接到访可能被拒绝受理。
 
-- **DepEd预约**：通过DepEd Online Appointment System（https://appointment.deped.gov.ph）选择“Public Assistance”或“Complaints”类别。需提前至少1个工作日预约，每日限额150个名额。
-- **CHED预约**：通过CHED eServices Portal（https://eservices.ched.gov.ph）注册账户，选择“认证服务”或“课程审批”模块。预约确认邮件需打印携带。
-- **TESDA预约**：通过TESDA Contact Center App（Google Play/App Store）或网站（https://appointment.tesda.gov.ph）预约。
+- **DepEd预约**：通过DepEd Online Appointment System（<https://appointment.deped.gov.ph>）选择“Public Assistance”或“Complaints”类别。需提前至少1个工作日预约，每日限额150个名额。
+- **CHED预约**：通过CHED eServices Portal（<https://eservices.ched.gov.ph>）注册账户，选择“认证服务”或“课程审批”模块。预约确认邮件需打印携带。
+- **TESDA预约**：通过TESDA Contact Center App（Google Play/App Store）或网站（<https://appointment.tesda.gov.ph>）预约。
 
 ### 现场办理流程
 1. **签到**：凭预约确认码及有效身份证件（护照或政府签发的身份证）在入口处签到。
@@ -152,7 +152,7 @@ draft: false
 - **TESDA**：无中文服务。
 
 ### 中文材料支持
-- **DepEd**：网站部分页面（常见问题、表格填写指南）提供中文版PDF下载（https://www.deped.gov.ph/zh/）。
+- **DepEd**：网站部分页面（常见问题、表格填写指南）提供中文版PDF下载（<https://www.deped.gov.ph/zh/>）。
 - **CHED**：学历评估申请指南有中文翻译版（由菲律宾中国留学生联合会协助制作），可在CHED官网“International Students”栏目下载。
 - **TESDA**：无中文材料。
 
@@ -170,7 +170,7 @@ draft: false
 6、 **投诉处理** · 处理时间：**30个工作日** · 备注：从正式受理起算
 
 ### 进度查询方式
-- **DepEd**：通过https://status.deped.gov.ph输入受理回执编号查询。
+- **DepEd**：通过<https://status.deped.gov.ph>输入受理回执编号查询。
 - **CHED**：登录CHED eServices个人账户查看进度。
 - **TESDA**：通过TESDA Contact Center App或拨打8888-8888查询。
 
@@ -184,7 +184,7 @@ draft: false
 **投诉范围**：工作人员态度不当、无故拖延、要求额外费用、材料丢失等。
 
 **投诉方式**：
-- **DepEd**：拨打DepEd Action Center热线（+63 2 8636-1663 转 100）或通过https://complaints.deped.gov.ph提交在线投诉。需提供受理编号、具体日期及描述。
+- **DepEd**：拨打DepEd Action Center热线（+63 2 8636-1663 转 100）或通过<https://complaints.deped.gov.ph>提交在线投诉。需提供受理编号、具体日期及描述。
 - **CHED**：通过CHED Office of the Ombudsman（监察专员办公室）提交投诉，邮箱：ombudsman@ched.gov.ph。投诉需附证据（录音、截图、证人证言等）。
 - **TESDA**：拨打TESDA Hotline 8888-8888或通过TESDA官网“Feedback”栏目提交。
 
@@ -211,7 +211,7 @@ draft: false
 
 #### 学历认证（中国学历在菲律宾使用）
 1. **材料准备**：中国学历证书原件及翻译件（需经中国公证处公证）、成绩单原件及翻译件、护照复印件、中国教育部学历认证报告（学信网）。
-2. **在线提交**：登录CHED EVE系统（https://eve.ched.gov.ph），填写申请表并上传材料。
+2. **在线提交**：登录CHED EVE系统（<https://eve.ched.gov.ph>），填写申请表并上传材料。
 3. **审核与缴费**：CHED初步审核材料完整性（3-5个工作日），通过后通知缴费（1,200比索）。
 4. **评估**：CHED将学历与菲律宾教育体系进行比对，出具《学历评估报告》（Evaluation Report）。
 5. **领取**：评估报告可选择快递寄送或自取。
@@ -249,7 +249,7 @@ draft: false
 
 ### Q1: 中国大陆学历如何获得菲律宾CHED的认证？需要多长时间？
 
-**A1:** 中国大陆学历认证需通过CHED的海外学历评估系统（EVE）。流程包括：1）准备中国学历证书、成绩单及学信网认证报告的公证件及英文翻译件；2）在CHED EVE网站（https://eve.ched.gov.ph）在线提交申请并缴费（1,200比索）；3）CHED在15-20个工作日内完成评估并出具报告。建议预留至少1个月，如材料不完整或需补充信息，时间可能延长。注意：所有中文文件须经中国外交部及菲律宾驻华使领馆双重认证。
+**A1:** 中国大陆学历认证需通过CHED的海外学历评估系统（EVE）。流程包括：1）准备中国学历证书、成绩单及学信网认证报告的公证件及英文翻译件；2）在CHED EVE网站（<https://eve.ched.gov.ph>）在线提交申请并缴费（1,200比索）；3）CHED在15-20个工作日内完成评估并出具报告。建议预留至少1个月，如材料不完整或需补充信息，时间可能延长。注意：所有中文文件须经中国外交部及菲律宾驻华使领馆双重认证。
 
 ### Q2: 在菲律宾办理学生签证续签，需要本人去移民局吗？
 

@@ -114,7 +114,7 @@ draft: false
 ### Q6: 如何在线提交税务申报（E-Filing）？
 
 **A6:** 纳税人可通过以下渠道在线申报：
-1. **DJP Online**（https://djponline.pajak.go.id）：需注册账号并激活。
+1. **DJP Online**（<https://djponline.pajak.go.id>）：需注册账号并激活。
 2. **E-Filing App**：DJP官方移动应用（支持Android/iOS）。
 3. **第三方平台**：经DJP认证的电子申报服务商（如OnlinePajak）。
 

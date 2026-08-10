@@ -142,7 +142,7 @@ MHLW的核心职权依据以下5部法律：
 ## 中文服务可用性
 
 ### 多语言信息提供
-MHLW官网设有多语言页面，包括中文（简体）、英文、韩文和葡萄牙文。中文页面（https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryou_kaigai/index.html）提供医疗制度概要、保险加入指南、紧急就医流程等基础信息。
+MHLW官网设有多语言页面，包括中文（简体）、英文、韩文和葡萄牙文。中文页面（<https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryou_kaigai/index.html>）提供医疗制度概要、保险加入指南、紧急就医流程等基础信息。
 
 ### 中文咨询窗口
 - **外国人医疗信息中心**（AMDA国际医疗信息中心）：电话03-5285-8080（日语、英语、中文、韩语等），周一至周五9:00-17:00。提供免费医疗咨询和医院介绍。

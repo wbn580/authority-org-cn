@@ -91,7 +91,7 @@ draft: false
 
 ### 线上预约（SISNAKER系统）
 
-自2024年起，Kemnaker强制要求所有个人与公司通过**SISNAKER平台**（https://sisnaker.kemnaker.go.id）进行预约和文件提交。步骤如下：
+自2024年起，Kemnaker强制要求所有个人与公司通过**SISNAKER平台**（<https://sisnaker.kemnaker.go.id>）进行预约和文件提交。步骤如下：
 1. **注册账户**：公司需提供NIB（商业识别号）及NPWP（税号）；个人需提供NIK（身份证号）或护照号（外籍人士）。
 2. **选择服务类型**：如IMTA申请、工作签推荐函（RPTKA）、劳资争议调解、K3培训认证等。
 3. **上传文件**：系统自动生成电子收据（Tanda Terima Elektronik），需在预约时间前至少3个工作日提交。
@@ -163,7 +163,7 @@ Kemnaker及BPJS Ketenagakerjaan的官方服务语言为印尼语和英语。截�
 
 ### 外部申诉渠道
 
-- **印尼国家监察署（Ombudsman RI）**：Jalan H.R. Rasuna Said Kav. C-19, Jakarta Selatan 12940，电话+62-21-5296-1000，官网https://www.ombudsman.go.id。适用于对Kemnaker行政不作为或程序违规的申诉。
+- **印尼国家监察署（Ombudsman RI）**：Jalan H.R. Rasuna Said Kav. C-19, Jakarta Selatan 12940，电话+62-21-5296-1000，官网<https://www.ombudsman.go.id>。适用于对Kemnaker行政不作为或程序违规的申诉。
 - **地方法院（Pengadilan Negeri）**：若劳资争议调解失败，双方可向劳动法庭（Pengadilan Hubungan Industrial）提起诉讼，程序参照2004年第2号《劳资争议解决法》。
 
 ## 大陆人实操指南
@@ -193,7 +193,7 @@ Kemnaker及BPJS Ketenagakerjaan的官方服务语言为印尼语和英语。截�
 **A:** 是的。根据2003年第13号《劳工法》第42条及2020年《创造就业法》修正案，所有外籍员工（包括大陆人）在印尼工作前必须获得**IMTA（工作许可证）**。例外情况包括：外国投资者持有有限期居留许可（KITAS）且从事董事会或监事会职务，但仍需向Kemnaker报备。违反者将被处以1至5年监禁及/或最高1,000,000,000 IDR罚款（依据2026年Kemnaker第8号执法令）。
 
 ### Q2: 如何查询我的BPJS Ketenagakerjaan参保状态？
-**A:** 可通过以下三种方式查询：1）登录BPJS官网（https://www.bpjsketenagakerjaan.go.id），输入NIK（身份证号）或BPJS会员号；2）下载“BPJS Ketenagakerjaan Mobile”应用（iOS/Android），使用指纹或面部识别登录；3）拨打客服1500-100，提供会员号或NIK。2026年数据：若参保状态显示“Aktif”，表示缴费正常；若“Non-Aktif”，需联系雇主补缴。
+**A:** 可通过以下三种方式查询：1）登录BPJS官网（<https://www.bpjsketenagakerjaan.go.id>），输入NIK（身份证号）或BPJS会员号；2）下载“BPJS Ketenagakerjaan Mobile”应用（iOS/Android），使用指纹或面部识别登录；3）拨打客服1500-100，提供会员号或NIK。2026年数据：若参保状态显示“Aktif”，表示缴费正常；若“Non-Aktif”，需联系雇主补缴。
 
 ### Q3: 劳资争议调解失败后，大陆人如何进一步申诉？
 **A:** 若调解在30个工作日内未达成协议，Kemnaker将出具**调解失败证明（Surat Anjuran）**。当事人可在收到证明后14个工作日内向劳动法庭（Pengadilan Hubungan Industrial）提起诉讼。建议聘请印尼籍律师（建议持有“Peradi”认证），诉讼周期通常为6-12个月。对于涉及移民身份的案件，可同时向移民局申请临时居留许可延期（Izin Tinggal Terbatas），以避免因争议导致签证逾期。

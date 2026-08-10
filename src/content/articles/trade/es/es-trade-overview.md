@@ -185,7 +185,7 @@ draft: false
 ## FAQ
 
 ### Q1: 中国大陆个人或企业如何查询西班牙进口关税税率？
-**A:** 可通过欧洲委员会“关税数据库 (TARIC)”查询（网址：https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp）。输入HS编码（例如中国产智能手机为HS 8517.12.00），系统将显示最惠国税率、优惠税率（如适用）及增值税率。此外，AEAT官网“海关信息 (Información Aduanera)”模块提供西班牙语PDF指南。
+**A:** 可通过欧洲委员会“关税数据库 (TARIC)”查询（网址：<https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp>）。输入HS编码（例如中国产智能手机为HS 8517.12.00），系统将显示最惠国税率、优惠税率（如适用）及增值税率。此外，AEAT官网“海关信息 (Información Aduanera)”模块提供西班牙语PDF指南。
 
 ### Q2: 中国大陆企业如何在西班牙申请AEO认证？
 **A:** 申请需通过AEAT官网“AEO认证”模块提交，流程包括：1) 准备财务稳定性证明、贸易记录及安全合规文件；2) 填写电子申请表（型号：AEO-2026-01）；3) 接受AEAT现场审计。审核周期通常为6-12个月。据AEAT 2026年3月公告，中国大陆企业若已持有中国海关AEO证书，可通过“互认协议 (MRA)”简化部分程序，但需提供中文原件的公证翻译件。

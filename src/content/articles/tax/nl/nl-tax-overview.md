@@ -178,7 +178,7 @@ Belastingdienst 的运作与权力来源于以下核心法律框架：
 
 Belastingdienst 针对中国大陆及华人用户提供以下中文服务：
 
-1. **多语言门户**：官方网站设有 **简体中文版税务指南**（https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/particulieren/chinees/），涵盖个人所得税申报、30% ruling税收优惠、跨境工作税务处理等核心主题。该页面于2025年全面更新，增加了视频教程。
+1. **多语言门户**：官方网站设有 **简体中文版税务指南**（<https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/particulieren/chinees/>），涵盖个人所得税申报、30% ruling税收优惠、跨境工作税务处理等核心主题。该页面于2025年全面更新，增加了视频教程。
 
 2. **中文电话专线**：非居民纳税人专线（+31 555 - 385 385）提供 **中文语言选项**（选择后转接至中文客服团队），工作时间周一至周五 9:00-17:00（荷兰时间）。2025年，该专线处理了 **约1.2万通** 中文咨询。
 

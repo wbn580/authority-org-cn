@@ -180,7 +180,7 @@ CBI不提供正式加急服务。但在特定情况下（如系统风险事件�
 1. **第一步：直接反馈（建议）** 向负责您案件的工作人员或其上级提出。CBI承诺在5个工作日内书面回复。
 2. **第二步：正式投诉** 填写《消费者投诉登记表》（CCF-01），描述问题、期望解决方案及支持证据。提交至complaints@centralbank.ie或邮寄至投诉部门。
 3. **第三步：内部审查** 投诉部门在收到后40个工作日内完成调查，出具书面决定。如不满意，可要求由高级管理层复审（需在收到决定后20个工作日内提出）。
-4. **第四步：外部申诉** 若内部流程耗尽，可向爱尔兰金融服务监察专员（Financial Services and Pensions Ombudsman，简称FSPO）提出申诉。FSPO地址：Lincoln House, Lincoln Place, Dublin 2, D02 VH29；电话：+353 (0)1 567 7000；网址：https://www.fspo.ie。FSPO处理免费，但需在CBI最终决定后6个月内提出。
+4. **第四步：外部申诉** 若内部流程耗尽，可向爱尔兰金融服务监察专员（Financial Services and Pensions Ombudsman，简称FSPO）提出申诉。FSPO地址：Lincoln House, Lincoln Place, Dublin 2, D02 VH29；电话：+353 (0)1 567 7000；网址：<https://www.fspo.ie>。FSPO处理免费，但需在CBI最终决定后6个月内提出。
 
 ### 8.2 针对受监管实体的投诉（消费者对金融机构）
 

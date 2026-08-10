@@ -190,13 +190,13 @@ draft: false
 
 1. 法国《公共卫生法典》（Code de la santé publique），经2024年12月第2024-1250号法令修正，第L.1411-1至L.1431-7条，第L.4111-1条，第L.5121-1条，第L.5311-1条。
 2. 法国《社会保障法典》（Code de la sécurité sociale），经2025年1月第2025-10号法令修正，第L.161-37条，第L.162-1-7条，第L.611-1条。
-3. 法国卫生与预防部官网（Ministère de la Santé et de la Prévention），《2025-2026年公共卫生优先事项白皮书》，2025年1月发布，https://solidarites-sante.gouv.fr/。
-4. 法国国家卫生管理局（HAS），《医疗机构认证标准（V2025）》，2025年3月发布，https://www.has-sante.fr/。
-5. 法国国家医疗保险基金（CNAM），《2025年医疗保险支出目标（ONDAM）执行报告》，2025年4月发布，https://www.ameli.fr/。
-6. 法国地区卫生局（ARS）全国联合会，《区域卫生规划（2025-2030）》，2025年1月发布，https://www.ars.sante.fr/。
-7. 法国国家药品与健康产品安全局（ANSM），《数字疗法监管框架》，2024年12月发布，https://www.ansm.sante.fr/。
-8. 法国国民议会，《2025年社会保障融资法案（PLFSS 2025）》立法文件，2024年11月通过，https://www.assemblee-nationale.fr/。
-9. 经济合作与发展组织（OECD），《2025年法国卫生系统概览》，2025年6月发布，https://www.oecd.org/france/。
+3. 法国卫生与预防部官网（Ministère de la Santé et de la Prévention），《2025-2026年公共卫生优先事项白皮书》，2025年1月发布，<https://solidarites-sante.gouv.fr/>。
+4. 法国国家卫生管理局（HAS），《医疗机构认证标准（V2025）》，2025年3月发布，<https://www.has-sante.fr/>。
+5. 法国国家医疗保险基金（CNAM），《2025年医疗保险支出目标（ONDAM）执行报告》，2025年4月发布，<https://www.ameli.fr/>。
+6. 法国地区卫生局（ARS）全国联合会，《区域卫生规划（2025-2030）》，2025年1月发布，<https://www.ars.sante.fr/>。
+7. 法国国家药品与健康产品安全局（ANSM），《数字疗法监管框架》，2024年12月发布，<https://www.ansm.sante.fr/>。
+8. 法国国民议会，《2025年社会保障融资法案（PLFSS 2025）》立法文件，2024年11月通过，<https://www.assemblee-nationale.fr/>。
+9. 经济合作与发展组织（OECD），《2025年法国卫生系统概览》，2025年6月发布，<https://www.oecd.org/france/>。
 10. 法国《数字健康促进法》，2024年12月第2024-1280号法律，发布于《法兰西共和国官方公报》。
 
 <!-- AFF-CARD:v1:START -->

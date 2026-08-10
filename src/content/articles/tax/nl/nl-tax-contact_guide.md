@@ -94,7 +94,7 @@ Belastingdienst提供多条电话热线，根据纳税人类型区分：
 
 ### 在线联系方式
 
-- **官方网站**：https://www.belastingdienst.nl（支持荷兰语、英语，部分页面支持德语）
+- **官方网站**：<https://www.belastingdienst.nl>（支持荷兰语、英语，部分页面支持德语）
 - **个人税务门户（Mijn Belastingdienst）**：https://mijn.belastingdienst.nl
 - **企业税务门户（Mijn Belastingdienst Zakelijk）**：同上，需使用eHerkenning登录
 - **电子邮件**：通过Mijn Belastingdienst内的安全消息功能发送，不提供直接公开邮箱
@@ -198,7 +198,7 @@ Belastingdienst不收取申报表格提交费用。以下为可能产生的相�
 
 ### 第二步：注册税务账户
 
-1. **个人**：收到BSN后，Belastingdienst会自动生成个人税务档案。需登录Mijn Belastingdienst激活账户，使用DigiD（数字身份认证）。DigiD可在官网https://www.digid.nl申请，需提供BSN及手机号，审核约**3个工作日**。
+1. **个人**：收到BSN后，Belastingdienst会自动生成个人税务档案。需登录Mijn Belastingdienst激活账户，使用DigiD（数字身份认证）。DigiD可在官网<https://www.digid.nl>申请，需提供BSN及手机号，审核约**3个工作日**。
 2. **企业**：需申请eHerkenning（企业数字身份），由第三方提供商（如SURF、KPN）发行，年费约**€50-€200**。完成后登录Mijn Belastingdienst Zakelijk。
 
 ### 第三步：了解申报时间

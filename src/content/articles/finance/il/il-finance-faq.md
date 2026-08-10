@@ -88,8 +88,8 @@ BOI与ISA的金融科技相关指南提供英文版本，暂未提供中文。�
 
 据以色列央行2026年《银行投诉处理指南》，消费者可通过以下渠道投诉：
 1. **银行内部投诉部门**：需在收到投诉后21天内回复。
-2. **以色列央行银行监管局投诉处**：电话+972-2-655-2666（工作时间：周日-周四，8:30-16:00），在线投诉表格：https://www.boi.org.il/en/consumer-information/complaints/。
-3. **以色列证券局投诉处**：电话+972-2-655-8111，在线投诉表格：https://www.isa.gov.il/consumer-protection/complaints/。
+2. **以色列央行银行监管局投诉处**：电话+972-2-655-2666（工作时间：周日-周四，8:30-16:00），在线投诉表格：<https://www.boi.org.il/en/consumer-information/complaints/>。
+3. **以色列证券局投诉处**：电话+972-2-655-8111，在线投诉表格：<https://www.isa.gov.il/consumer-protection/complaints/>。
 4. **以色列消费者保护与公平贸易局**：电话*6200（国内免费）。
 
 ### 投诉处理时限
@@ -110,10 +110,10 @@ BOI与ISA的金融科技相关指南提供英文版本，暂未提供中文。�
 ## FAQ
 
 ### Q1: 如何联系以色列央行（BOI）？
-A1: 以色列央行总部地址：Bank of Israel, Kiryat Hamemshala, Jerusalem 91007。电话：+972-2-655-2211。银行监管局投诉处电话：+972-2-655-2666。工作时间：周日-周四，8:30-16:00（以色列时间）。官网：https://www.boi.org.il。
+A1: 以色列央行总部地址：Bank of Israel, Kiryat Hamemshala, Jerusalem 91007。电话：+972-2-655-2211。银行监管局投诉处电话：+972-2-655-2666。工作时间：周日-周四，8:30-16:00（以色列时间）。官网：<https://www.boi.org.il>。
 
 ### Q2: 以色列证券局（ISA）的联系方式是什么？
-A2: ISA地址：Israel Securities Authority, 22 Kanfei Nesharim St., Jerusalem 95464。电话：+972-2-655-8111。工作时间：周日-周四，8:30-16:00。官网：https://www.isa.gov.il。
+A2: ISA地址：Israel Securities Authority, 22 Kanfei Nesharim St., Jerusalem 95464。电话：+972-2-655-8111。工作时间：周日-周四，8:30-16:00。官网：<https://www.isa.gov.il>。
 
 ### Q3: 个人在以色列银行开户需要多久？
 A3: 据以色列央行2026年《银行服务指南》，个人开户审核时间通常为5-10个工作日。提供加急服务的银行（如Hapoalim、Leumi）可在2-3个工作日内完成，费用为200-500新谢克尔（约合54-135美元）。
@@ -131,13 +131,13 @@ A6: 据BOI 2026年数据，SWIFT转账费用为固定费30-80新谢克尔（约�
 A7: Bit单笔转账限额为5,000新谢克尔（约合1,350美元），日累计限额为2万新谢克尔（约合5,400美元）。月累计限额为10万新谢克尔（约合2.7万美元）。Bit用户数约450万（2026年数据）。
 
 ### Q8: 如何投诉银行服务问题？
-A8: 首先联系银行内部投诉部门（需21天内回复）。如未解决，可向以色列央行银行监管局投诉处提交投诉（电话+972-2-655-2666，在线表格：https://www.boi.org.il/en/consumer-information/complaints/）。投诉免费，78%在30天内解决。
+A8: 首先联系银行内部投诉部门（需21天内回复）。如未解决，可向以色列央行银行监管局投诉处提交投诉（电话+972-2-655-2666，在线表格：<https://www.boi.org.il/en/consumer-information/complaints/>）。投诉免费，78%在30天内解决。
 
 ### Q9: 投诉证券相关问题应联系哪个机构？
-A9: 联系以色列证券局（ISA）投诉处（电话+972-2-655-8111，在线表格：https://www.isa.gov.il/consumer-protection/complaints/）。2025年平均处理时间45天。投诉免费。
+A9: 联系以色列证券局（ISA）投诉处（电话+972-2-655-8111，在线表格：<https://www.isa.gov.il/consumer-protection/complaints/>）。2025年平均处理时间45天。投诉免费。
 
 ### Q10: 以色列金融科技监管沙盒如何申请？
-A10: 据BOI 2026年《金融科技监管沙盒指南》，申请需提交商业计划书、合规方案及测试计划。每年开放两轮申请（通常为3月和9月）。截至2026年5月，已批准45个项目。更多信息：https://www.boi.org.il/en/fintech/regulatory-sandbox/。
+A10: 据BOI 2026年《金融科技监管沙盒指南》，申请需提交商业计划书、合规方案及测试计划。每年开放两轮申请（通常为3月和9月）。截至2026年5月，已批准45个项目。更多信息：<https://www.boi.org.il/en/fintech/regulatory-sandbox/>。
 
 ### Q11: 虚拟货币在以色列受监管吗？
 A11: 是的。虚拟货币交易、托管及兑换服务需向ISA注册为VASP。截至2026年5月，注册VASP数量为28家。个人持有虚拟货币无需申报，但年度交易超过5万新谢克尔需向以色列税务机构报告。
@@ -170,7 +170,7 @@ A19: 是的。Hapoalim、Leumi、Discount、Mizrahi-Tefahot及First Internationa
 A20: 截至2026年5月，以色列央行基准利率为4.75%。2025年共调整利率4次（2次上调、2次下调），最新一次调整于2026年4月进行（维持不变）。
 
 ### Q21: 如何验证银行或证券机构的牌照？
-A21: 可在BOI官网（https://www.boi.org.il/en/banking-supervision/banks-list/）查询银行牌照，或在ISA官网（https://www.isa.gov.il/licensing/）查询证券机构牌照。2026年，BOI监管的银行共23家（含分行）。
+A21: 可在BOI官网（<https://www.boi.org.il/en/banking-supervision/banks-list/>）查询银行牌照，或在ISA官网（<https://www.isa.gov.il/licensing/>）查询证券机构牌照。2026年，BOI监管的银行共23家（含分行）。
 
 ### Q22: 以色列是否允许使用数字谢克尔？
 A22: 以色列央行正在开发数字谢克尔（Digital Shekel）项目，目前处于试点阶段（2025年启动，预计2027年全面推出）。截至2026年5月，试点参与机构包括5家银行和3家金融科技公司。数字谢克尔不基于区块链技术，而是采用中心化账本系统。

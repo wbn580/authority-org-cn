@@ -61,14 +61,14 @@ draft: false
 - **总部地址**：Skipton House, 80 London Road, London, SE1 6LH, United Kingdom
 - **NHS非紧急服务热线**：111（24小时，免费，提供多语言翻译服务）
 - **NHS紧急服务（999）**：仅限危及生命的紧急情况，如心脏骤停、严重创伤、呼吸困难等。
-- **官网**：https://www.nhs.uk（提供全科诊所、药房、医院搜索及在线预约服务）
+- **官网**：<https://www.nhs.uk>（提供全科诊所、药房、医院搜索及在线预约服务）
 - **办公时间**：总部办公为周一至周五 09:00-17:00；NHS 111服务为24小时运营。
 
 ### 药品与健康产品监管局（MHRA）
 
 - **总部地址**：10 South Colonnade, Canary Wharf, London, E14 4PU, United Kingdom
 - **总机电话**：+44 (0)20 3080 6000（周一至周五 09:00-17:00）
-- **药物警戒与不良事件报告**：通过Yellow Card Scheme（https://yellowcard.mhra.gov.uk）在线提交，或拨打+44 (0)20 3080 6000咨询。
+- **药物警戒与不良事件报告**：通过Yellow Card Scheme（<https://yellowcard.mhra.gov.uk>）在线提交，或拨打+44 (0)20 3080 6000咨询。
 - **办公时间**：周一至周五 09:00-17:00，现场接待需预约。
 
 ### 公共卫生英格兰（PHE）
@@ -84,7 +84,7 @@ draft: false
 
 英国医保服务预约主要通过以下渠道：
 
-1. **NHS App与官网**：用户可通过NHS App（iOS/Android）或https://www.nhs.uk在线预约全科诊所（GP）门诊、疫苗接种、健康检查等。据NHS Digital 2026年第一季度报告，约78%的GP预约通过线上渠道完成。
+1. **NHS App与官网**：用户可通过NHS App（iOS/Android）或<https://www.nhs.uk>在线预约全科诊所（GP）门诊、疫苗接种、健康检查等。据NHS Digital 2026年第一季度报告，约78%的GP预约通过线上渠道完成。
 2. **电话预约**：拨打本地GP诊所电话，或NHS 111（非紧急服务）转接。部分专科门诊需通过GP转诊。
 3. **现场预约**：部分GP诊所设接待窗口，但多数仅限当日紧急情况。
 4. **专科医院预约**：需由GP开具转诊单（Referral Letter），经NHS系统分配至专科医院。等待时间依据地区与专科而异，2026年NHS England目标为90%的转诊在18周内完成。
@@ -128,7 +128,7 @@ draft: false
 - **NHS官网中文页面**：https://www.nhs.uk/using-the-nhs/nhs-services/using-a-translator-interpreter-or-british-sign-language-service/ 提供部分中文指南，包括如何预约GP、如何获取翻译服务等。
 - **GP诊所现场翻译**：部分位于华人聚居区（如伦敦唐人街、曼彻斯特、伯明翰）的GP诊所配备中文接待人员或提供预约翻译服务。建议在注册时主动询问。
 - **MHRA Yellow Card中文报告**：Yellow Card系统支持多语言提交，但中文界面尚不完善。用户可拨打MHRA热线要求中文协助。
-- **中文社区健康资源**：如英国华人医疗信息协会（Chinese Medical Information Association, CMIA）提供中文健康咨询与转介服务。官网：https://www.cmia.org.uk（2026年仍运营）。
+- **中文社区健康资源**：如英国华人医疗信息协会（Chinese Medical Information Association, CMIA）提供中文健康咨询与转介服务。官网：<https://www.cmia.org.uk>（2026年仍运营）。
 - **注意**：所有官方书面文件（如注册表、处方单）均为英文，中文服务仅限口头翻译与部分宣传材料。建议中国大陆居民携带翻译App或亲友协助。
 
 ## 处理时效与投诉申诉
@@ -144,7 +144,7 @@ draft: false
 
 1. **NHS投诉流程（英格兰）**：
    - 第一步：直接向提供服务的机构（如GP诊所、医院）提出书面投诉。机构须在30个工作日内书面回复。
-   - 第二步：若对回复不满，可向**议会与健康服务监察专员（Parliamentary and Health Service Ombudsman, PHSO）**投诉。地址：Millbank Tower, Millbank, London, SW1P 4QP；电话：+44 (0)34 501 54033；官网：https://www.ombudsman.org.uk。
+   - 第二步：若对回复不满，可向**议会与健康服务监察专员（Parliamentary and Health Service Ombudsman, PHSO）**投诉。地址：Millbank Tower, Millbank, London, SW1P 4QP；电话：+44 (0)34 501 54033；官网：<https://www.ombudsman.org.uk>。
 2. **MHRA投诉**：针对药品、医疗器械或不良事件，可通过Yellow Card系统报告，或致电MHRA客户服务部（+44 (0)20 3080 6000）。MHRA不直接处理个人医疗纠纷，仅处理产品安全问题。
 3. **DHSC投诉**：若涉及政策或部门行为，可发送邮件至public.enquiries@dhsc.gov.uk，或致函DHSC总部。DHSC通常于15个工作日内回复。
 4. **医疗事故与赔偿**：若因NHS工作人员过失导致损害，可依据**NHS Redress Act 2006**（英格兰）或**NHS Redress (Wales) Measure 2008**提出索赔。建议咨询专业医疗法律师。
@@ -155,7 +155,7 @@ draft: false
 
 - **资格**：持有有效英国签证（如学生签证、工作签证、家属签证）且已缴纳移民健康附加费（IHS）的中国大陆居民，可免费注册NHS。
 - **步骤**：
-  1. 查找附近GP诊所：通过NHS官网“Find a GP”功能（https://www.nhs.uk/service-search/find-a-gp）。
+  1. 查找附近GP诊所：通过NHS官网“Find a GP”功能（<https://www.nhs.uk/service-search/find-a-gp>）。
   2. 携带护照、BRP卡（Biometric Residence Permit）、地址证明（如租房合同、水电账单）前往诊所填写GMS1表格。
   3. 注册后获得NHS号码（通常为10位数字），可用于后续预约与查询。
 - **注意事项**：部分诊所要求提供英文地址证明；如无，可提供银行对账单或学校信件。建议提前电话确认诊所是否接受新患者。
@@ -184,7 +184,7 @@ draft: false
 - **Q: 中国大陆居民能否在未注册NHS的情况下就医？**
   A: 可以，但需自费。非紧急情况建议先注册NHS（需已缴纳IHS）。未缴IHS的短期访客可购买私人医疗保险。
 - **Q: 如何获取中文版NHS指南？**
-  A: NHS官网提供PDF版“NHS Services in Chinese”指南，下载地址：https://www.nhs.uk/using-the-nhs/translations/chinese/。也可致电111索取纸质版。
+  A: NHS官网提供PDF版“NHS Services in Chinese”指南，下载地址：<https://www.nhs.uk/using-the-nhs/translations/chinese/>。也可致电111索取纸质版。
 - **Q: 投诉过程中如何获得中文支持？**
   A: NHS投诉流程中，可要求Language Line翻译服务。PHSO也提供多语言口译，但需提前申请。
 

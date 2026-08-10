@@ -98,7 +98,7 @@ tags: ["医疗健康"]
 
 ### 对医疗机构或服务质量的投诉
 
-- **韩国医疗纠纷调解院**（Korea Medical Dispute Mediation Agency, KMDMA）：地址：首尔特别市钟路区栗谷路75号，电话：+82-2-2038-8000，官网：https://www.k-medi.or.kr。受理医疗事故、过度诊疗、收费争议等投诉，免费调解。
+- **韩国医疗纠纷调解院**（Korea Medical Dispute Mediation Agency, KMDMA）：地址：首尔特别市钟路区栗谷路75号，电话：+82-2-2038-8000，官网：<https://www.k-medi.or.kr>。受理医疗事故、过度诊疗、收费争议等投诉，免费调解。
 
 ### 外国人专属投诉通道
 

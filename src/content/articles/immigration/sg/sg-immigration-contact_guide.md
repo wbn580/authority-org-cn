@@ -95,7 +95,7 @@ ICA总部大楼二楼设有综合服务中心，受理以下业务：
 ## 预约方式
 
 ### 在线预约（推荐）
-- **预约平台**：ICA官网 e-Services 门户（https://eservices.ica.gov.sg）
+- **预约平台**：ICA官网 e-Services 门户（<https://eservices.ica.gov.sg>）
 - **预约步骤**：
   1. 登录ICA e-Services
   2. 选择业务类型（如“Book Appointment for Passport Application”或“Book Appointment for PR Completion”）
@@ -169,7 +169,7 @@ ICA总部大楼二楼设有综合服务中心，受理以下业务：
 
 ### 投诉流程
 1. **内部投诉**：
-   - 通过ICA官网“Feedback”页面提交（https://www.ica.gov.sg/feedback）
+   - 通过ICA官网“Feedback”页面提交（<https://www.ica.gov.sg/feedback>）
    - 或拨打(+65) 6391 6100转接投诉部门
    - 或邮寄至：ICA Headquarters, 10 Kallang Road, Singapore 208718（注明“Complaint”）
    - **处理时限**：ICA承诺在14个工作日内回复初步调查结果。
@@ -195,7 +195,7 @@ ICA总部及服务中心提供以下中文服务：
 - **柜台双语服务**：ICA总部二楼服务中心设有中文服务柜台，工作时间（星期一至星期五 8:00-16:30，星期六 8:00-12:30）提供普通话及粤语协助。
 - **电话语音选项**：拨打(+65) 6391 6100后，按“2”选择中文服务（普通话）。
 - **在线表格**：部分表格（如FORM 14A）提供中文翻译版本，但正式提交仍需使用英文填写。ICA e-Services平台界面仅支持英文。
-- **中文宣传材料**：ICA官网设有“中文版”页面（https://www.ica.gov.sg/chinese），包含常见问题解答、申请流程指南及政策解读。
+- **中文宣传材料**：ICA官网设有“中文版”页面（<https://www.ica.gov.sg/chinese>），包含常见问题解答、申请流程指南及政策解读。
 - **中文社交媒体**：ICA官方微信公众号（账号：新加坡移民与关卡局ICA）发布中文政策更新及办事提醒，更新频率约每周1-2次。
 
 **建议**：对于复杂业务（如PR申请、LTVP申诉），建议使用英文沟通以确保准确性。中文服务主要用于基本信息查询及简单业务指导。
@@ -227,14 +227,14 @@ ICA总部及服务中心提供以下中文服务：
 
 ### 5. 实用工具与资源
 - **MyICA Mobile App**：iOS及Android平台均可下载，用于提交SG Arrival Card、查询申请状态、预约服务。
-- **ICA e-Services**：https://eservices.ica.gov.sg（需Singpass登录）。
-- **新加坡法律在线**：https://sso.agc.gov.sg（可查询《移民法》全文）。
-- **中国驻新加坡大使馆**：https://www.mfa.gov.sg（领事保护电话：+65-6471-2117）。
+- **ICA e-Services**：<https://eservices.ica.gov.sg>（需Singpass登录）。
+- **新加坡法律在线**：<https://sso.agc.gov.sg>（可查询《移民法》全文）。
+- **中国驻新加坡大使馆**：<https://www.mfa.gov.sg>（领事保护电话：+65-6471-2117）。
 
 ## FAQ
 
 ### Q1: 如何查询我的签证或PR申请状态？
-**A1:** 申请人可通过ICA官网“e-Services”门户（https://eservices.ica.gov.sg）输入申请编号及护照号码查询状态。PR申请状态也可通过Singpass登录“MyICA”页面查看。处理时间如超过官方承诺时间（见上文“处理时效”节），可拨打(+65) 6391 6100转人工服务咨询。据ICA 2026年公告，约70%的查询可在5分钟内通过在线系统完成。
+**A1:** 申请人可通过ICA官网“e-Services”门户（<https://eservices.ica.gov.sg>）输入申请编号及护照号码查询状态。PR申请状态也可通过Singpass登录“MyICA”页面查看。处理时间如超过官方承诺时间（见上文“处理时效”节），可拨打(+65) 6391 6100转人工服务咨询。据ICA 2026年公告，约70%的查询可在5分钟内通过在线系统完成。
 
 ### Q2: 我持有长期准证（LTVP），是否需要办理再入境许可（REP）？
 **A2:** 不需要。再入境许可（REP）仅适用于新加坡永久居民（PR）。LTVP持有人若离开新加坡，需确保准证在有效期内，并在返回前确认准证状态。若LTVP已过期，需重新申请。PR若离开新加坡超过5年且未持有有效REP，其PR身份将自动失效。据ICA 2025年数据，约12%的PR因未及时续期REP而失去身份。

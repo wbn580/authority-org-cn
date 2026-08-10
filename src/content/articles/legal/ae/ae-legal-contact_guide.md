@@ -42,7 +42,7 @@ draft: false
 **工作时间**：周一至周四 07:30–15:30（阿联酋时间），周五 07:30–12:00，周六、周日及法定假日休息。  
 **电子邮箱**：info@moj.gov.ae  
 **官方网站**：https://www.moj.gov.ae  
-**在线服务门户**：https://e-services.moj.gov.ae（支持阿拉伯语、英语）
+**在线服务门户**：<https://e-services.moj.gov.ae>（支持阿拉伯语、英语）
 
 **主要职责**：联邦司法部负责制定全国司法政策、监督联邦法院（包括联邦最高法院、联邦一审法院及上诉法院）、管理司法人员培训及国际司法合作。
 
@@ -53,7 +53,7 @@ draft: false
 **工作时间**：周一至周四 07:30–15:30，周五 07:30–12:00  
 **电子邮箱**：customerservice@dubaicourts.gov.ae  
 **官方网站**：https://www.dubaicourts.gov.ae  
-**电子服务门户**：https://edubai.dubaicourts.gov.ae（支持阿拉伯语、英语）
+**电子服务门户**：<https://edubai.dubaicourts.gov.ae>（支持阿拉伯语、英语）
 
 **分支机构**：迪拜法院在迪拜国际金融中心（DIFC）设有专门法庭，地址为DIFC Gate Village, Building 4, PO Box 211832, Dubai，电话+971 4 362 2000。
 
@@ -64,7 +64,7 @@ draft: false
 **工作时间**：周一至周四 07:30–15:30，周五 07:30–12:00  
 **电子邮箱**：contact@adjd.gov.ae  
 **官方网站**：https://www.adjd.gov.ae  
-**电子服务门户**：https://eservices.adjd.gov.ae（支持阿拉伯语、英语）
+**电子服务门户**：<https://eservices.adjd.gov.ae>（支持阿拉伯语、英语）
 
 ### 沙迦法院（Sharjah Courts）
 
@@ -214,7 +214,7 @@ draft: false
 
 ### 语言与文化建议
 
-- **语言**：建议聘请持证阿拉伯语或英语翻译。中文翻译服务有限，且仅限基础咨询。复杂案件（如商业诉讼）需委托阿联酋注册律师（可在阿联酋律师协会官网查询：https://www.uaelawyers.ae）。
+- **语言**：建议聘请持证阿拉伯语或英语翻译。中文翻译服务有限，且仅限基础咨询。复杂案件（如商业诉讼）需委托阿联酋注册律师（可在阿联酋律师协会官网查询：<https://www.uaelawyers.ae>）。
 - **文化**：阿联酋法院遵循伊斯兰法律传统，家庭法（如离婚、子女抚养）可能适用沙里亚法。中国大陆人士应提前了解相关条款，或咨询专业律师。
 
 ## FAQ

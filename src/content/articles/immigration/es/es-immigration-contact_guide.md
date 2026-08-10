@@ -65,7 +65,7 @@ draft: false
 - **职能**：制定移民政策、审批居留许可、管理社会融合项目。
 - **地址**：Calle de la Princesa, 5, 28008 Madrid, Spain。
 - **电话**：+34 91 363 71 00（工作时间：周一至周五 09:00-14:00）。
-- **官网**：https://www.inclusion.gob.es。
+- **官网**：<https://www.inclusion.gob.es>。
 - **电子邮箱**：info@inclusion.gob.es（仅受理书面咨询，回复周期约5-7个工作日）。
 
 ### 2. 地方执行机构：移民局（Oficina de Extranjería）
@@ -83,7 +83,7 @@ draft: false
 ## 预约方式与流程
 
 ### 1. 在线预约系统
-所有移民局及警察局事务均需通过“Cita Previa”系统预约，网址为：https://sede.administracionespublicas.gob.es。根据2026年4月更新，申请人需提供以下信息：
+所有移民局及警察局事务均需通过“Cita Previa”系统预约，网址为：<https://sede.administracionespublicas.gob.es>。根据2026年4月更新，申请人需提供以下信息：
 - 护照号码
 - 全名（与护照一致）
 - 电子邮箱（用于接收确认函）
@@ -101,7 +101,7 @@ draft: false
 
 ## 常见表格清单
 
-以下为2026年现行主要表格，均可在移民局官网（https://extranjeros.inclusion.gob.es）下载PDF版本：
+以下为2026年现行主要表格，均可在移民局官网（<https://extranjeros.inclusion.gob.es>）下载PDF版本：
 
 1、 EX-01 · Solicitud de Autorización de Residencia Temporal · 短期居留许可申请（如工作、家庭团聚）
 2、 EX-02 · Solicitud de Renovación · 居留许可续签
@@ -135,7 +135,7 @@ draft: false
 
 ### 2. 第三方中文服务
 - **官方合作翻译机构**：移民局官网列出7家认证翻译公司，可提供材料公证翻译服务（如护照、学历证明），费用为每页**25-40**欧元。
-- **中华人民共和国驻西班牙大使馆**：提供领事协助，电话+34 91 519 42 42，网址http://es.china-embassy.gov.cn。2026年4月更新，可免费指导填写表格。
+- **中华人民共和国驻西班牙大使馆**：提供领事协助，电话+34 91 519 42 42，网址<http://es.china-embassy.gov.cn>。2026年4月更新，可免费指导填写表格。
 
 ### 3. 注意事项
 - 所有中文材料（如结婚证、无犯罪记录证明）需经西班牙官方翻译（Traductor Jurado）认证，否则视为无效。
@@ -157,7 +157,7 @@ draft: false
 ## 投诉与申诉
 
 ### 1. 投诉渠道
-- **移民局内部投诉**：在线提交至https://sede.administracionespublicas.gob.es，选择“Quejas y Sugerencias”。需提供申请编号及具体问题，回复周期为**15**个工作日。
+- **移民局内部投诉**：在线提交至<https://sede.administracionespublicas.gob.es>，选择“Quejas y Sugerencias”。需提供申请编号及具体问题，回复周期为**15**个工作日。
 - **监察专员（Defensor del Pueblo）**：地址Calle de Zurbano, 42, 28010 Madrid。电话+34 91 432 79 00。适用于行政不作为或歧视行为。
 
 ### 2. 申诉流程
@@ -175,7 +175,7 @@ draft: false
 - **语言考试**：申请国籍需通过DELE A2考试（2026年费用为**120**欧元），申请长期居留需通过CCSE社会文化考试（费用为**85**欧元）。考试由塞万提斯学院组织，北京、上海设有考点。
 
 ### 2. 签证申请步骤
-1. **在线预约**：通过BLS International官网（https://blsspainvisa.com）选择签证类型及预约时间。
+1. **在线预约**：通过BLS International官网（<https://blsspainvisa.com>）选择签证类型及预约时间。
 2. **提交材料**：护照原件、2张白底照片（35x45mm）、往返机票、酒店订单、旅行保险（保额不低于**3万**欧元）、收入证明（近3个月银行流水）。
 3. **指纹采集**：首次申请需前往签证中心采集指纹，费用为**15**欧元。
 4. **领取结果**：签证批准后，可选择邮寄（费用**10**欧元）或自取。
@@ -193,7 +193,7 @@ draft: false
 ## FAQ
 
 ### Q1: 如何预约西班牙移民局服务？
-**A:** 通过Cita Previa系统（https://sede.administracionespublicas.gob.es）预约。选择“Extranjería”后，输入省份、服务类型（如“Toma de Huellas”），并选择可用日期。确认后打印PDF确认函。若预约困难，可尝试每日08:00刷新系统或选择周边城市办公室。
+**A:** 通过Cita Previa系统（<https://sede.administracionespublicas.gob.es>）预约。选择“Extranjería”后，输入省份、服务类型（如“Toma de Huellas”），并选择可用日期。确认后打印PDF确认函。若预约困难，可尝试每日08:00刷新系统或选择周边城市办公室。
 
 ### Q2: 大陆申请人如何获取西班牙签证？
 **A:** 通过西班牙签证申请中心（BLS International）提交。需在线预约，准备护照、照片、机票、酒店、保险及收入证明。短期签证（类型C）费用**80**欧元，处理时效**15**个工作日。首次申请需指纹采集。

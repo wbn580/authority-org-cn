@@ -106,7 +106,7 @@ draft: false
 
 ### 3.2 CASA 预约
 
-- **在线系统**：CASA Online Services（https://online.casa.gov.au）是唯一官方预约渠道。用户需注册账户（需提供电子邮箱并设置密码），登录后选择“Book an Appointment”，按提示选择业务类别（如“Pilot Licence Application”“Aircraft Registration”“Medical Certificate”）、办公地点、日期与时间。系统实时显示可用时段。预约成功后，页面显示预约编号及二维码，需在到访时出示。
+- **在线系统**：CASA Online Services（<https://online.casa.gov.au>）是唯一官方预约渠道。用户需注册账户（需提供电子邮箱并设置密码），登录后选择“Book an Appointment”，按提示选择业务类别（如“Pilot Licence Application”“Aircraft Registration”“Medical Certificate”）、办公地点、日期与时间。系统实时显示可用时段。预约成功后，页面显示预约编号及二维码，需在到访时出示。
 - **预约规则**：每人每次仅可预约一个业务；如需办理多项业务，需分别预约（可在同一天不同时段）。2026年新规：预约迟到超过15分钟，预约自动取消，需重新预约。取消预约需在预约时间前2小时通过系统操作，否则记入“未履约记录”，累计3次将限制未来30天内预约资格。
 - **电话辅助预约**：对于不熟悉在线系统的申请人，可拨打131 757，选择“Appointment Assistance”，工作人员协助完成预约。电话辅助预约仅限澳大利亚境内号码，境外申请人需使用在线系统。
 
@@ -167,7 +167,7 @@ draft: false
 
 - **电话口译**：拨打DITRDCA总机后，可要求连接翻译服务（Translating and Interpreting Service, TIS National），免费提供普通话及粤语口译。TIS National服务时间为周一至周五 09:00-17:00 AEST，需提前告知接线员所需语言。
 - **书面翻译**：申请人可提交中文材料，DITRDCA提供免费翻译服务，处理时间约为15个工作日。需在提交时注明“中文材料翻译请求”，并附上翻译服务申请表（DITRDCA-TIS-2026）。
-- **官网中文页面**：DITRDCA官网设有简体中文版（https://www.infrastructure.gov.au/zh-hans），提供常见业务指南、表格下载链接及常见问题解答。但中文页面内容更新可能滞后于英文版，建议重要事务以英文版为准。
+- **官网中文页面**：DITRDCA官网设有简体中文版（<https://www.infrastructure.gov.au/zh-hans>），提供常见业务指南、表格下载链接及常见问题解答。但中文页面内容更新可能滞后于英文版，建议重要事务以英文版为准。
 - **现场中文服务**：堪培拉总部不设专职中文柜台，但可通过预约安排中文工作人员协助。需在预约时备注“Chinese language assistance requested”。各区域办公室（悉尼、墨尔本）中文服务需求较高，建议提前2周预约。
 
 CASA 2026年《客户服务章程》（Customer Service Charter）明确，该局提供中文服务渠道：
@@ -208,7 +208,7 @@ CASA 2026年《客户服务章程》（Customer Service Charter）明确，该�
 
 - **DITRDCA 复议**：对DITRDCA决定（如国际驾照认证被拒、航空器登记驳回）不满，可在收到决定通知后28天内提交书面复议申请（需说明理由并附支持证据）。复议由DITRDCA内部独立复议委员会（Internal Review Committee）处理，承诺60个工作日内作出裁决。复议免费。
 - **CASA 申诉**：依据《民用航空法1988》第28条，对CASA行政决定（如执照吊销、适航证书拒绝）的申诉，需在收到决定后21天内向行政上诉仲裁庭（Administrative Appeals Tribunal, AAT）提交。AAT申诉费用为500澳元（2026年标准），低收入者可申请费用减免。AAT裁决具有法律约束力，CASA必须执行。
-- **联邦监察专员**：如认为DITRDCA或CASA存在行政不当（如不当延误、歧视、程序不公），可向联邦监察专员投诉（免费）。监察专员可开展调查并出具建议，但无强制执行力。投诉网址：https://www.ombudsman.gov.au。
+- **联邦监察专员**：如认为DITRDCA或CASA存在行政不当（如不当延误、歧视、程序不公），可向联邦监察专员投诉（免费）。监察专员可开展调查并出具建议，但无强制执行力。投诉网址：<https://www.ombudsman.gov.au>。
 
 ## FAQ
 

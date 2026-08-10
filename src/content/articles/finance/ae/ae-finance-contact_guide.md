@@ -44,10 +44,10 @@ tags: ["finance"]
 
 据CBUAE 2025年11月发布的《客户服务章程》（Customer Service Charter），所有现场办事（包括牌照续期、合规咨询、投诉提交等）均需通过各机构官方预约系统提前预约。未预约者可能无法进入办公区域。
 
-- **CBUAE预约**：通过其官网“e-Services”门户（https://www.centralbank.ae/en/e-services）选择“Appointment Booking”，填写个人信息、选择办事类型（如“Banking License Application”“Compliance Query”等）及期望时间。预约确认后，系统发送含二维码的邮件，需在入口处出示。据CBUAE 2026年第一季度客户服务报告，线上预约平均响应时间为2个工作日内。
-- **SCA预约**：通过“SCA e-Services”平台（https://www.sca.gov.ae/en/e-services）预约。办事类型包括“Issuance of License”“Registration of Securities”“Complaint Filing”等。预约确认后，需携带有效身份证明（阿联酋ID或护照原件）。
-- **DFSA预约**：通过DFSA官网“Contact Us”页面提交预约请求（https://www.dfsa.ae/contact-us），或直接发送邮件至info@dfsa.ae。DFSA通常要求至少提前3个工作日预约。
-- **ADGM FSRA预约**：通过ADGM官网“Book an Appointment”功能预约（https://www.adgm.com/contact）。预约确认后，需提供公司注册号（如适用）及办事目的。
+- **CBUAE预约**：通过其官网“e-Services”门户（<https://www.centralbank.ae/en/e-services>）选择“Appointment Booking”，填写个人信息、选择办事类型（如“Banking License Application”“Compliance Query”等）及期望时间。预约确认后，系统发送含二维码的邮件，需在入口处出示。据CBUAE 2026年第一季度客户服务报告，线上预约平均响应时间为2个工作日内。
+- **SCA预约**：通过“SCA e-Services”平台（<https://www.sca.gov.ae/en/e-services>）预约。办事类型包括“Issuance of License”“Registration of Securities”“Complaint Filing”等。预约确认后，需携带有效身份证明（阿联酋ID或护照原件）。
+- **DFSA预约**：通过DFSA官网“Contact Us”页面提交预约请求（<https://www.dfsa.ae/contact-us>），或直接发送邮件至info@dfsa.ae。DFSA通常要求至少提前3个工作日预约。
+- **ADGM FSRA预约**：通过ADGM官网“Book an Appointment”功能预约（<https://www.adgm.com/contact>）。预约确认后，需提供公司注册号（如适用）及办事目的。
 
 ### 线上办事渠道
 

@@ -60,7 +60,7 @@ draft: false
 - **地址**：4900 Yonge Street, Suite 300, Toronto, Ontario M2N 6A6  
 - **电话**：+1 (416) 952-0100  
 - **工作时间**：周一至周五 08:30–16:30（东部时间）  
-- **预约方式**：仅限在线预约（https://tc.canada.ca/en/contact-us/regional-offices）。  
+- **预约方式**：仅限在线预约（<https://tc.canada.ca/en/contact-us/regional-offices>）。  
 
 ### 温哥华地区办公室（Pacific Region）  
 - **地址**：800 Burrard Street, Suite 600, Vancouver, British Columbia V6Z 2J8  
@@ -78,7 +78,7 @@ draft: false
 加拿大交通部未设立专职中文服务窗口，但提供以下渠道：  
 - **电话口译服务**：拨打1-800-305-2059后按“0”转人工，可要求连接第三方口译员（Language Line Solutions），支持普通话及粤语。据2026年加拿大政府服务标准，口译等待时间平均为3-5分钟。  
 - **书面翻译支持**：提交表格时附注“Request Chinese translation”，交通部将在15个工作日内提供翻译摘要（非正式译文）。  
-- **中文网站资源**：交通部官网提供简体中文版《航空安全指南》PDF下载（https://tc.canada.ca/en/aviation/publications/aviation-safety-guide-chinese）。  
+- **中文网站资源**：交通部官网提供简体中文版《航空安全指南》PDF下载（<https://tc.canada.ca/en/aviation/publications/aviation-safety-guide-chinese>）。  
 
 ---
 
@@ -175,11 +175,11 @@ draft: false
 ### 语言障碍应对  
 - **优先选择英文/法文**：所有表格及沟通均以英文或法文为正式语言。中文翻译仅作为辅助，不具有法律效力。  
 - **使用口译服务**：电话沟通时要求口译员，建议提前准备问题清单（中英文对照）。  
-- **委托持牌顾问**：可聘请加拿大持牌航空顾问（Licensed Aviation Consultant）代办业务，费用约200-500加元/小时。中文顾问可通过加拿大航空咨询协会（CACA）查询（网址：https://www.caca.ca）。  
+- **委托持牌顾问**：可聘请加拿大持牌航空顾问（Licensed Aviation Consultant）代办业务，费用约200-500加元/小时。中文顾问可通过加拿大航空咨询协会（CACA）查询（网址：<https://www.caca.ca>）。  
 
 ### 核心注意事项  
 1. **身份证明**：大陆申请人需提供有效护照及加拿大签证或永久居民卡。飞行执照申请还需提供加拿大无犯罪记录证明（RCMP背景调查）。  
-2. **医疗证明**：航空体检需由加拿大指定体检医师（Designated Medical Examiner, DME）进行。大陆体检报告不被认可，需在加拿大境内重新体检。DME名单查询：https://tc.canada.ca/en/aviation/medical-certification。  
+2. **医疗证明**：航空体检需由加拿大指定体检医师（Designated Medical Examiner, DME）进行。大陆体检报告不被认可，需在加拿大境内重新体检。DME名单查询：<https://tc.canada.ca/en/aviation/medical-certification>。  
 3. **飞行器注册**：若从中国大陆进口飞行器至加拿大，需提供中国民航局（CAAC）出具的出口适航证书及清洁产权证明。加拿大交通部不接受中文文件，需由加拿大认证翻译机构翻译（翻译费用约50-150加元/页）。  
 4. **时效预期**：大陆申请人因需额外背景调查，处理时间通常延长10-15个工作日。建议预留至少40个工作日完成全流程。  
 
@@ -201,7 +201,7 @@ draft: false
 **A2:** 建议按以下步骤操作：1) 在加拿大境内完成体检（指定DME）；2) 通过加拿大飞行学校完成培训（建议选择有中文辅助的学校，如多伦多的Canadian Flight Academy）；3) 提交申请时附上中国民航局（CAAC）的飞行经历证明（需翻译）；4) 使用加急服务（加收50%费用）可缩短至15个工作日。注意：大陆飞行执照不可直接转换，需参加加拿大理论及实践考试。
 
 ### Q3: 对交通部处理结果不满，如何申诉？  
-**A3:** 首先在收到决定后30天内向加拿大运输上诉法庭（TATC）提交书面申诉（表格TATC-01），并缴纳200加元申诉费。若TATC维持原判，可进一步向联邦法院（Federal Court of Canada）申请司法复核（需在30天内提出）。司法复核费用为500加元，且需聘请律师。建议在申诉前咨询加拿大航空法律师（可通过加拿大律师协会查询：https://www.cba.org）。
+**A3:** 首先在收到决定后30天内向加拿大运输上诉法庭（TATC）提交书面申诉（表格TATC-01），并缴纳200加元申诉费。若TATC维持原判，可进一步向联邦法院（Federal Court of Canada）申请司法复核（需在30天内提出）。司法复核费用为500加元，且需聘请律师。建议在申诉前咨询加拿大航空法律师（可通过加拿大律师协会查询：<https://www.cba.org>）。
 
 ### Q4: 中文翻译请求是否会影响处理时效？  
 **A4:** 会。交通部承诺在15个工作日内提供翻译摘要，但该摘要仅用于参考，不改变正式文件的处理时间。建议申请人自行聘请认证翻译，将翻译件随原文件一并提交，可节省15个工作日。

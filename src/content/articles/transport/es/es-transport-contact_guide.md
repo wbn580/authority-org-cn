@@ -69,7 +69,7 @@ draft: false
 - **电话**：+34 91 597 70 00（总机）
 - **工作时间**：周一至周五 09:00–17:30（公共假日除外）
 - **职能**：负责全国交通政策制定、驾照管理、车辆登记、道路安全监管。
-- **在线服务**：https://sede.mitms.gob.es（电子总部）
+- **在线服务**：<https://sede.mitms.gob.es>（电子总部）
 
 ### 国家航空安全局（AESA）
 
@@ -93,7 +93,7 @@ draft: false
 据MITMS **2026年1月**公告，所有线下业务（驾照换领、理论考试、车辆过户等）均需通过Cita Previa系统预约。无预约者原则上不予受理。
 
 - **预约渠道**：
-  - 网页：https://sede.mitms.gob.es（选择“Cita Previa”）
+  - 网页：<https://sede.mitms.gob.es>（选择“Cita Previa”）
   - 电话：+34 060（全国统一交通咨询热线）
   - 移动应用：miDGT（Android/iOS）
 - **预约步骤**：
@@ -106,11 +106,11 @@ draft: false
 
 ### 航空事务预约
 
-AESA不接受个人当面拜访。所有航空相关咨询需通过在线表单（https://www.seguridadaerea.gob.es/es/formulario-de-contacto）提交，或拨打+34 91 396 80 00（工作日09:00–14:00）。DGAC同样不设个人窗口，业务通过电子注册（Registro Electrónico）办理。
+AESA不接受个人当面拜访。所有航空相关咨询需通过在线表单（<https://www.seguridadaerea.gob.es/es/formulario-de-contacto>）提交，或拨打+34 91 396 80 00（工作日09:00–14:00）。DGAC同样不设个人窗口，业务通过电子注册（Registro Electrónico）办理。
 
 ## 常见表格清单与获取方式
 
-以下表格均可在Sede Electrónica（https://sede.mitms.gob.es）免费下载，部分需填写后现场提交或电子签名。具体清单如下：
+以下表格均可在Sede Electrónica（<https://sede.mitms.gob.es>）免费下载，部分需填写后现场提交或电子签名。具体清单如下：
 
 1、 **Solicitud de Permiso de Conducir (Modelo 790)** · 用途：驾照申请/换领 · 格式：PDF可填
 2、 **Declaración de Datos (Modelo 791)** · 用途：个人信息变更 · 格式：PDF可填
@@ -141,10 +141,10 @@ AESA不接受个人当面拜访。所有航空相关咨询需通过在线表单�
 
 据中国驻西班牙大使馆**2026年3月**领事服务公告，西班牙交通主管部门不提供中文电话或窗口服务。以下为中文服务替代方案：
 
-- **官网翻译**：MITMS官网（https://www.mitms.gob.es）支持自动翻译功能（Google Translate嵌入），但部分表格与法律文本无中文版本。
+- **官网翻译**：MITMS官网（<https://www.mitms.gob.es>）支持自动翻译功能（Google Translate嵌入），但部分表格与法律文本无中文版本。
 - **中国驾照换领**：需提交西班牙语翻译件（由西班牙官方翻译机构或中国公证处出具），翻译模板可在中国驻西班牙大使馆官网下载。
 - **中文热线**：无。推荐拨打060（西班牙语/英语）或通过中国驻西班牙大使馆领事保护电话（+34 91 519 4242）获取协助。
-- **中文材料**：AESA投诉表单（https://www.seguridadaerea.gob.es/es/formulario-de-reclamacion）无中文版本，建议使用西班牙语或英语填写。
+- **中文材料**：AESA投诉表单（<https://www.seguridadaerea.gob.es/es/formulario-de-reclamacion>）无中文版本，建议使用西班牙语或英语填写。
 
 **实操建议**：大陆人士办理驾照换领时，建议提前联系马德里或巴塞罗那的官方翻译机构（如Traductores Jurados），费用约**30–50欧元/页**。
 
@@ -163,7 +163,7 @@ AESA不接受个人当面拜访。所有航空相关咨询需通过在线表单�
 ### 航空投诉
 
 - **AESA旅客投诉**：据AESA **2026年第一季度**报告，平均处理时效为**60–90个工作日**。复杂案件（如航班延误赔偿争议）可能延长至**120个工作日**。
-- **进度查询**：通过AESA在线表单（https://www.seguridadaerea.gob.es/es/consulta-de-reclamaciones）输入投诉编号。
+- **进度查询**：通过AESA在线表单（<https://www.seguridadaerea.gob.es/es/consulta-de-reclamaciones>）输入投诉编号。
 
 ## 投诉与申诉渠道
 
@@ -217,7 +217,7 @@ AESA不接受个人当面拜访。所有航空相关咨询需通过在线表单�
 1. **适用场景**：航班延误、取消、行李丢失或损坏。
 2. **步骤**：
    - 保留登机牌、行程单、延误证明。
-   - 在AESA官网填写投诉表单（https://www.seguridadaerea.gob.es/es/formulario-de-reclamacion）。
+   - 在AESA官网填写投诉表单（<https://www.seguridadaerea.gob.es/es/formulario-de-reclamacion>）。
    - 附上证据（PDF格式，不超过**10MB**）。
    - 等待处理结果（**60–90个工作日**）。
 3. **中文协助**：联系中国驻西班牙大使馆领事保护电话获取指导。
@@ -226,7 +226,7 @@ AESA不接受个人当面拜访。所有航空相关咨询需通过在线表单�
 
 - **语言障碍**：建议携带西班牙语翻译或使用翻译App（如Google Translate）辅助沟通。
 - **紧急情况**：若涉及交通意外或驾照扣分，拨打112（西班牙紧急电话）。
-- **在线资源**：中国驻西班牙大使馆官网（http://es.china-embassy.gov.cn）提供领事服务指南。
+- **在线资源**：中国驻西班牙大使馆官网（<http://es.china-embassy.gov.cn>）提供领事服务指南。
 
 ## FAQ
 

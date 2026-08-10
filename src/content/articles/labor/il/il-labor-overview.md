@@ -49,7 +49,7 @@ draft: false
 ## 总部、官网与联系方式
 
 - **总部地址**：2 Kaplan Street, Kiryat Ben-Gurion, Jerusalem 9100801, Israel
-- **官方网站**：https://www.gov.il/en/departments/molsa（英文版）；https://www.gov.il/he/departments/molsa（希伯来文版）
+- **官方网站**：<https://www.gov.il/en/departments/molsa>（英文版）；<https://www.gov.il/he/departments/molsa>（希伯来文版）
 - **联系电话**：+972-2-670-8111（总机）；+972-2-675-2310（就业服务咨询热线，支持英语、阿拉伯语、俄语）
 - **电子邮件**：info@molsa.gov.il（一般咨询）；foreign-workers@molsa.gov.il（外籍劳工专项）
 - **办公时间**：周日至周四 08:00-16:00（以色列时间，周五及犹太节假日关闭）

@@ -36,7 +36,7 @@ UKVI总部位于英国伦敦，负责政策制定、审批决策及投诉处理�
 - **曼彻斯特中心**：UKVCAS Manchester, 3 Hardman Square, Spinningfields, Manchester, M3 3EB
 - **伯明翰中心**：UKVCAS Birmingham, 5-7 St. Paul’s Square, Birmingham, B3 1RB
 - **办公时间**：周一至周五 08:00 - 18:00，周六 09:00 - 15:00（需预约）
-- **预约方式**：通过UKVCAS官网（https://www.ukvcas.co.uk）在线预约，费用为**0英镑**（标准服务）或**60英镑**（优先服务，含24小时内安排预约）。
+- **预约方式**：通过UKVCAS官网（<https://www.ukvcas.co.uk>）在线预约，费用为**0英镑**（标准服务）或**60英镑**（优先服务，含24小时内安排预约）。
 
 ### 中国大陆签证申请中心
 
@@ -48,7 +48,7 @@ UKVI总部位于英国伦敦，负责政策制定、审批决策及投诉处理�
 - **成都**：成都市锦江区东御街19号茂业天地A座30层3003室
 - **武汉**：武汉市武昌区中北路171号汉街总部国际B栋39层3902室
 - **办公时间**：周一至周五 08:00 - 15:00（递签），09:00 - 16:00（护照领取），公共假日除外。
-- **预约方式**：通过VFS Global英国签证中心官网（https://www.vfsglobal.co.uk/cn）在线预约，需支付预约费（标准服务免费，优先服务额外收费）。
+- **预约方式**：通过VFS Global英国签证中心官网（<https://www.vfsglobal.co.uk/cn>）在线预约，需支付预约费（标准服务免费，优先服务额外收费）。
 
 ## 预约与递交流程
 
@@ -56,7 +56,7 @@ UKVI总部位于英国伦敦，负责政策制定、审批决策及投诉处理�
 
 所有英国签证申请（除部分移民类别外）均需通过GOV.UK在线系统提交，流程如下：
 
-1. **在线申请**：访问GOV.UK签证申请页面（https://www.gov.uk/browse/visas-immigration），选择对应签证类型，填写申请表并支付签证费。
+1. **在线申请**：访问GOV.UK签证申请页面（<https://www.gov.uk/browse/visas-immigration>），选择对应签证类型，填写申请表并支付签证费。
 2. **预约生物信息采集**：支付成功后，系统将引导至VFS Global（中国大陆）或UKVCAS（英国境内）网站，选择预约时间。
 3. **材料递交**：按预约时间前往签证申请中心，提交护照、生物信息（指纹和照片）及支持文件。部分签证类别支持“扫描上传服务”（Scanning Hub），费用为**50元人民币**。
 4. **护照返还**：可自取或选择快递服务（中国大陆：**60元人民币/本**，英国境内：**10英镑/本**）。
@@ -128,7 +128,7 @@ UKVI处理时效因签证类别、申请地点及服务类型而异。以下为2
 
 若申请人认为UKVI服务存在不当行为（如延误、错误拒签、信息泄露等），可依据《1999年移民和庇护法》第10条提出投诉：
 
-1. **第一步：内部投诉**。通过UKVI投诉页面（https://www.gov.uk/government/organisations/uk-visas-and-immigration/complaints-procedure）在线提交，或邮寄至：Complaints Allocation Hub, Home Office, 2 Marsham Street, London, SW1P 4DF。UKVI承诺在**20个工作日**内回复。
+1. **第一步：内部投诉**。通过UKVI投诉页面（<https://www.gov.uk/government/organisations/uk-visas-and-immigration/complaints-procedure>）在线提交，或邮寄至：Complaints Allocation Hub, Home Office, 2 Marsham Street, London, SW1P 4DF。UKVI承诺在**20个工作日**内回复。
 2. **第二步：升级投诉**。若对回复不满意，可在收到回复后**3个月**内向投诉调查办公室（Complaints Investigation Office, CIO）申请复核，地址同上。
 3. **第三步：独立监察机构**。若问题仍未解决，可联系独立警察与投诉监察机构（Independent Office for Police Conduct, IOPC）或议会行政监察专员（Parliamentary Ombudsman），但后者仅适用于英国内政部系统性问题。
 

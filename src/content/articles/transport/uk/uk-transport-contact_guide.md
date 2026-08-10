@@ -69,7 +69,7 @@ draft: false
 - **交通**：最近地铁站为St. James's Park（District/Circle线）或Westminster（Jubilee/District/Circle线），步行约8分钟。公共汽车3、11、12、24、88、159路均可达。
 - **办公时间**：周一至周五 09:00–17:00（英国法定节假日关闭）。部分部门（如国际航空谈判组）需提前预约。
 - **电话总机**：+44 (0)300 330 3000（英国境内按本地费率计费）
-- **在线表单**：https://www.gov.uk/government/organisations/department-for-transport（点击“Contact DfT”）
+- **在线表单**：<https://www.gov.uk/government/organisations/department-for-transport>（点击“Contact DfT”）
 
 ### 英国民航局（CAA）总部
 
@@ -91,7 +91,7 @@ DfT大部分咨询业务可通过电话或在线表单完成，无需现场预�
 
 ### CAA预约
 
-CAA不提供个人现场预约。所有业务（执照申请、考试报名、费用支付、状态查询）均通过**CAA Skywise系统**在线完成。申请人需先创建Skywise账户（链接：https://skywise.caa.co.uk），具体流程如下：
+CAA不提供个人现场预约。所有业务（执照申请、考试报名、费用支付、状态查询）均通过**CAA Skywise系统**在线完成。申请人需先创建Skywise账户（链接：<https://skywise.caa.co.uk>），具体流程如下：
 
 - **注册**：提供姓名、邮箱、国籍、护照号码。中国大陆申请人需上传护照扫描件及地址证明（如银行对账单或水电费账单，英文或翻译件）。
 - **选择业务类型**：在“My Applications”模块选择“New Application”，按指引上传材料。

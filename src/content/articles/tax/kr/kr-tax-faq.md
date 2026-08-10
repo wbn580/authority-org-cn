@@ -193,13 +193,13 @@ draft: false
 
 ## 参考资料
 
-1. 韩国国税厅（NTS）官方网站：https://www.nts.go.kr（2026年5月访问）
+1. 韩国国税厅（NTS）官方网站：<https://www.nts.go.kr>（2026年5月访问）
 2. 《所得税法》（2026年3月修订版），韩国法律信息中心：https://www.law.go.kr
 3. 《增值税法》（2026年1月修订版），韩国法律信息中心：https://www.law.go.kr
 4. 《法人税法》（2026年2月修订版），韩国法律信息中心：https://www.law.go.kr
 5. 《国税基本法》（2026年4月修订版），韩国法律信息中心：https://www.law.go.kr
-6. Hometax系统用户指南（英文版）：https://hometax.go.kr（2026年5月访问）
-7. 韩国税务师协会（KAT）官网：https://www.kata.or.kr（2026年5月访问）
+6. Hometax系统用户指南（英文版）：<https://hometax.go.kr>（2026年5月访问）
+7. 韩国税务师协会（KAT）官网：<https://www.kata.or.kr>（2026年5月访问）
 8. 韩国法务部出入境管理数据共享协议公告（2025年12月）：https://www.moj.go.kr
 9. 中韩税收协定（2024年修订版），中国国家税务总局：https://www.chinatax.gov.cn
-10. NTS 2026年度报告（税务统计摘要）：https://www.nts.go.kr（2026年4月发布）
+10. NTS 2026年度报告（税务统计摘要）：<https://www.nts.go.kr>（2026年4月发布）

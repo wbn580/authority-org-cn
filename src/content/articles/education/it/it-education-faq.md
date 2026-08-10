@@ -56,7 +56,7 @@ MUR（Ministero dell'Università e della Ricerca）负责制定高等教育政�
 
 - **MUR总机**：+39 06 58491（工作日09:00-13:00）
 - **CIMEA电子邮件**：info@cimea.it（答复时效为5-10个工作日）
-- **Universitaly平台**：https://www.universitaly.it（预注册唯一官方入口）
+- **Universitaly平台**：<https://www.universitaly.it>（预注册唯一官方入口）
 - **MAECI签证咨询**：通过所在国意大利领事馆预约，不设全国统一热线
 
 ## 学历认证流程
@@ -111,7 +111,7 @@ MUR和CIMEA官方网站提供意大利语和英语界面，暂无简体中文版
 
 ### Q2: 如何联系MUR或CIMEA？
 
-MUR总机为+39 06 58491（工作日09:00-13:00）。CIMEA的电子邮件为info@cimea.it，答复时效为5-10个工作日。建议通过Universitaly平台（https://www.universitaly.it）提交预注册及咨询，该平台提供英语支持。
+MUR总机为+39 06 58491（工作日09:00-13:00）。CIMEA的电子邮件为info@cimea.it，答复时效为5-10个工作日。建议通过Universitaly平台（<https://www.universitaly.it>）提交预注册及咨询，该平台提供英语支持。
 
 ### Q3: 非欧盟学生申请意大利大学的学历认证流程是什么？
 
@@ -155,7 +155,7 @@ MUR和CIMEA官方网站暂无简体中文版本。意大利驻华使领馆设有
 
 ### Q13: 如何确认大学是否具有合法招生资格？
 
-可通过MUR官方网站（https://www.mur.gov.it）查询“大学注册名录”（Elenco degli Atenei）。截至2026年5月，该名录包含97所公立大学及30所私立大学。建议在预注册前核实。
+可通过MUR官方网站（<https://www.mur.gov.it>）查询“大学注册名录”（Elenco degli Atenei）。截至2026年5月，该名录包含97所公立大学及30所私立大学。建议在预注册前核实。
 
 ### Q14: 学生签证的医疗保险要求是什么？
 
@@ -191,7 +191,7 @@ CIMEA评估结果有效期为12个月。若过期，需重新申请评估，再�
 
 ### Q22: 如何获取MUR或CIMEA的最新公告？
 
-可通过MUR官方网站（https://www.mur.gov.it）订阅邮件通知，或关注其社交媒体账号（Twitter: @mur_gov）。CIMEA的更新通过其网站发布。建议定期查看，以获取政策变化。
+可通过MUR官方网站（<https://www.mur.gov.it>）订阅邮件通知，或关注其社交媒体账号（Twitter: @mur_gov）。CIMEA的更新通过其网站发布。建议定期查看，以获取政策变化。
 
 ## 参考资料
 

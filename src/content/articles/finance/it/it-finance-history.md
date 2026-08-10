@@ -112,9 +112,9 @@ TUB同时改革了Banca d’Italia的治理架构：行长任期固定为7年（
 
 意大利金融监管机构官方网站（Banca d’Italia、CONSOB、IVASS）目前**未提供中文语言版本**。其主要对外文件（年度报告、监管指南、新闻稿）仅以意大利语及英语发布。对于中国大陆投资者或金融机构，建议通过以下渠道获取信息：
 
-- **Banca d’Italia 英文版网站**：https://www.bancaditalia.it/（提供英语导航及部分文件英译）
-- **CONSOB 投资者教育专栏**：https://www.consob.it/（设有英语版“For Investors”板块）
-- **IVASS 消费者保护页面**：https://www.ivass.it/（仅意大利语，可借助浏览器翻译工具）
+- **Banca d’Italia 英文版网站**：<https://www.bancaditalia.it/>（提供英语导航及部分文件英译）
+- **CONSOB 投资者教育专栏**：<https://www.consob.it/>（设有英语版“For Investors”板块）
+- **IVASS 消费者保护页面**：<https://www.ivass.it/>（仅意大利语，可借助浏览器翻译工具）
 - **意大利驻华大使馆经济处**：可协助联系监管机构进行正式咨询
 
 需要注意的是，意大利监管机构不接受中文直接提交的监管报告或合规文件，所有正式沟通须使用意大利语或英语，并由意大利公证机构或认证翻译进行翻译认证。

@@ -154,7 +154,7 @@ draft: false
 ### 6.2 投诉与申诉渠道
 - **一级申诉**：向业务所属CPAM的质量服务部（Service qualité）提交书面投诉，地址为CPAM所在省地址。需附上案件编号与相关文件。CPAM须在30天内回复。
 - **二级申诉**：如对CPAM回复不满，可向**大区卫生局（ARS）**或**国家健康保险基金（CNAM）**申诉。ARS地址见第二节。CNAM申诉地址：50 Avenue du Professeur André Lemierre, 75020 Paris。
-- **医疗纠纷调解**：向**法国国家医疗调解委员会（Médiateur national de la santé）**提交申请，免费服务。网站：https://www.mediateur-sante.fr。2025年该委员会受理案件约4.2万件，平均调解周期为60天。
+- **医疗纠纷调解**：向**法国国家医疗调解委员会（Médiateur national de la santé）**提交申请，免费服务。网站：<https://www.mediateur-sante.fr>。2025年该委员会受理案件约4.2万件，平均调解周期为60天。
 - **法律诉讼**：如涉及医疗过失或严重行政争议，可向**行政法庭（Tribunal administratif）**提起诉讼。需咨询专业律师。
 
 ## 七、中国大陆人士实操指南

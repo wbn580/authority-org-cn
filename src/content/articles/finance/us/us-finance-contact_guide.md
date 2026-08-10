@@ -93,7 +93,7 @@ FDIC提供存款保险及消费者保护服务。其消费者资源中心（Cons
 - **TTY专线**：+1-800-925-4618（听力障碍人士）
 - **在线联系**：https://www.fdic.gov/consumers/
 - **办公时间**：周一至周五 8:30–17:00 ET
-- **预约方式**：FDIC不提供面对面预约服务，所有查询通过电话或在线系统处理。如需提交正式投诉，可通过FDIC在线投诉门户（https://www.fdic.gov/consumer-center/）直接提交。
+- **预约方式**：FDIC不提供面对面预约服务，所有查询通过电话或在线系统处理。如需提交正式投诉，可通过FDIC在线投诉门户（<https://www.fdic.gov/consumer-center/>）直接提交。
 
 ## 预约方式与流程
 
@@ -110,7 +110,7 @@ OCC客户援助组提供两种预约形式：
 
 ### FDIC预约流程
 
-FDIC不设现场预约服务。所有消费者查询通过电话或在线系统处理。如需提交正式投诉，FDIC要求通过其在线投诉门户（https://www.fdic.gov/consumer-center/）提交，并将在15个工作日内发出确认收件通知。据FDIC 2026年数据，投诉平均处理时间为45天。
+FDIC不设现场预约服务。所有消费者查询通过电话或在线系统处理。如需提交正式投诉，FDIC要求通过其在线投诉门户（<https://www.fdic.gov/consumer-center/>）提交，并将在15个工作日内发出确认收件通知。据FDIC 2026年数据，投诉平均处理时间为45天。
 
 ## 常见表格清单
 
@@ -157,8 +157,8 @@ FDIC不设现场预约服务。所有消费者查询通过电话或在线系统�
 据各机构2026年语言服务公告，中文服务情况如下：
 
 - **美联储消费者帮助中心**：提供普通话及粤语电话翻译服务。拨打+1-888-851-1920后，按“0”转接人工，可要求中文翻译。在线表格支持语言包括英语、西班牙语，中文用户需通过电话提交投诉。据美联储2026年数据，中文翻译平均接通时间为3分钟。
-- **OCC客户援助组**：电话服务支持中文翻译，需提前说明。OCC网站提供简体中文版“消费者权益指南”PDF下载（https://www.occ.gov/topics/consumers-and-communities/consumer-assistance/occ-consumer-rights-brochure-chinese.pdf）。现场咨询不保证中文人员在场，建议预约时注明需求。
-- **FDIC消费者资源中心**：电话服务支持中文翻译，需在接通后要求。FDIC网站提供简体中文版“存款保险指南”（https://www.fdic.gov/deposit/deposits/chinese/）。在线投诉系统仅支持英文填写，中文用户可电话提交。
+- **OCC客户援助组**：电话服务支持中文翻译，需提前说明。OCC网站提供简体中文版“消费者权益指南”PDF下载（<https://www.occ.gov/topics/consumers-and-communities/consumer-assistance/occ-consumer-rights-brochure-chinese.pdf>）。现场咨询不保证中文人员在场，建议预约时注明需求。
+- **FDIC消费者资源中心**：电话服务支持中文翻译，需在接通后要求。FDIC网站提供简体中文版“存款保险指南”（<https://www.fdic.gov/deposit/deposits/chinese/>）。在线投诉系统仅支持英文填写，中文用户可电话提交。
 
 **中文服务可用性总结**：三家机构均通过电话翻译服务提供中文支持，但现场及书面材料中文覆盖有限。建议大陆人优先使用电话渠道，并准备英文版文件备份。
 
@@ -184,16 +184,16 @@ FDIC不设现场预约服务。所有消费者查询通过电话或在线系统�
 
 若消费者认为银行违反联邦法律（如《银行保密法》《公平信贷报告法》），可向以下机构投诉：
 
-1. **美联储消费者帮助中心**：适用于州成员银行。电话：+1-888-851-1920。在线：https://www.federalreserveconsumerhelp.gov/。
-2. **OCC客户援助组**：适用于全国性银行及联邦储蓄协会。电话：+1-800-613-6743。在线：https://www.occ.gov/topics/consumers-and-communities/consumer-assistance/index.html。
-3. **FDIC消费者资源中心**：适用于FDIC承保银行。电话：+1-877-275-3342。在线：https://www.fdic.gov/consumer-center/。
+1. **美联储消费者帮助中心**：适用于州成员银行。电话：+1-888-851-1920。在线：<https://www.federalreserveconsumerhelp.gov/>。
+2. **OCC客户援助组**：适用于全国性银行及联邦储蓄协会。电话：+1-800-613-6743。在线：<https://www.occ.gov/topics/consumers-and-communities/consumer-assistance/index.html>。
+3. **FDIC消费者资源中心**：适用于FDIC承保银行。电话：+1-877-275-3342。在线：<https://www.fdic.gov/consumer-center/>。
 
 ### 针对监管机构的申诉
 
 若对监管机构处理结果不满，可向以下渠道申诉：
 
-- **金融消费者保护局（CFPB）**：作为独立机构，CFPB可复核美联储、OCC及FDIC的投诉处理。提交方式：https://www.consumerfinance.gov/complaint/。据CFPB 2026年数据，投诉平均处理时间为30天。
-- **美国行政会议（ACUS）**：针对联邦机构行政程序申诉。适用于程序性违规。网站：https://www.acus.gov/。
+- **金融消费者保护局（CFPB）**：作为独立机构，CFPB可复核美联储、OCC及FDIC的投诉处理。提交方式：<https://www.consumerfinance.gov/complaint/>。据CFPB 2026年数据，投诉平均处理时间为30天。
+- **美国行政会议（ACUS）**：针对联邦机构行政程序申诉。适用于程序性违规。网站：<https://www.acus.gov/>。
 
 ### 投诉所需材料
 
@@ -207,7 +207,7 @@ FDIC不设现场预约服务。所有消费者查询通过电话或在线系统�
 
 ### 前置准备
 
-1. **确认银行类型**：通过FDIC银行查找工具（https://www.fdic.gov/bank-finder/）确认银行是否受FDIC承保。若银行是州成员银行，联系美联储；若是全国性银行，联系OCC。
+1. **确认银行类型**：通过FDIC银行查找工具（<https://www.fdic.gov/bank-finder/>）确认银行是否受FDIC承保。若银行是州成员银行，联系美联储；若是全国性银行，联系OCC。
 2. **准备英文文件**：所有投诉及申请材料需以英文提交。中文文件需附带认证翻译。据OCC 2026年公告，非英文文件需附翻译机构盖章。
 3. **使用国际电话**：拨打美国电话前，确认国际漫游或Skype等网络电话可用。美国号码格式：+1-XXX-XXX-XXXX。
 
@@ -239,7 +239,7 @@ FDIC不设现场预约服务。所有消费者查询通过电话或在线系统�
 
 ### Q3: FDIC存款保险查询需要多长时间？
 
-**A3:** 据FDIC 2026年指南，存款保险查询（FDIC 7000表格）的处理时效为5-7个工作日。查询可通过FDIC在线工具（https://www.fdic.gov/deposit/deposits/）或电话（+1-877-275-3342）进行。大陆人需提供银行名称、账户号码及身份证明。若查询涉及复杂账户结构（如信托账户），处理时间可能延长至15个工作日。
+**A3:** 据FDIC 2026年指南，存款保险查询（FDIC 7000表格）的处理时效为5-7个工作日。查询可通过FDIC在线工具（<https://www.fdic.gov/deposit/deposits/>）或电话（+1-877-275-3342）进行。大陆人需提供银行名称、账户号码及身份证明。若查询涉及复杂账户结构（如信托账户），处理时间可能延长至15个工作日。
 
 ## 参考资料
 

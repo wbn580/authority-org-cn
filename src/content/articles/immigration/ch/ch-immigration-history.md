@@ -127,11 +127,11 @@ SEM在2024年启动“SEM 2030”战略规划，核心目标包括：全面实�
 
 ## 参考资料
 
-1. 瑞士联邦移民秘书处（SEM）官方档案：《机构沿革与职能变迁》，2026年版，载于SEM官网，网址：https://www.sem.admin.ch/sem/de/home/das-sem/geschichte.html，访问日期：2026年5月20日。
+1. 瑞士联邦移民秘书处（SEM）官方档案：《机构沿革与职能变迁》，2026年版，载于SEM官网，网址：<https://www.sem.admin.ch/sem/de/home/das-sem/geschichte.html>，访问日期：2026年5月20日。
 2. 瑞士联邦公报（Bundesblatt）：《关于设立外国人警察局的联邦委员会决议》，1917年3月23日，BBl 1917 I 345。
 3. 瑞士联邦议会：《外国人法》（AuG），2005年12月16日通过，2008年1月1日生效，SR 142.20。
 4. 瑞士联邦议会：《关于外国人入境与居留的联邦法》（ANAG），1965年通过，1968年1月1日生效，SR 142.20（已废止）。
-5. 瑞士联邦统计局（BFS）：《瑞士外国人人口历史统计（1900-2020）》，2021年发布，网址：https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/auslaendische-bevoelkerung.assetdetail.18745654.html，访问日期：2026年5月20日。
+5. 瑞士联邦统计局（BFS）：《瑞士外国人人口历史统计（1900-2020）》，2021年发布，网址：<https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/auslaendische-bevoelkerung.assetdetail.18745654.html>，访问日期：2026年5月20日。
 6. 瑞士联邦委员会：《关于实施“反对大规模移民”倡议的联邦法令》，2015年，BBl 2015 3457。
 7. 瑞士联邦议会：《外国人法修订版（融入条款）》（AIG），2018年通过，2019年1月1日生效，SR 142.20。
 8. 瑞士联邦移民秘书处：《SEM 2030战略规划》，2024年发布，SEM内部文件，摘要载于SEM年度报告2025，第12-15页。

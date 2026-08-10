@@ -79,7 +79,7 @@ draft: false
 
 ### 预约方式
 
-- **MOPH事务（如执业许可、药品注册）**：通过“MOPH e-Service”门户网站（https://eservice.moph.go.th）在线预约，需注册Thailand Digital ID账户。现场办理需携带护照原件及复印件。
+- **MOPH事务（如执业许可、药品注册）**：通过“MOPH e-Service”门户网站（<https://eservice.moph.go.th>）在线预约，需注册Thailand Digital ID账户。现场办理需携带护照原件及复印件。
 - **NHSO医保登记/变更**：拨打1330热线预约，或前往各区NHSO服务点（服务点列表见NHSO官网“Contact Us”页面）。部分服务点支持Walk-in，但建议提前预约。
 - **SSO社保登记/缴费**：雇主通过SSO e-Service系统提交员工信息；个人需前往所属社保区办公室办理。预约方式：拨打1506热线或通过SSO Line官方账号（@ssothailand）预约。
 

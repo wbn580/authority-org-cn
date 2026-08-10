@@ -99,7 +99,7 @@ draft: false
 
 所有面对面服务均实行强制预约制。预约渠道如下：
 
-- **在线预约**：通过MUR官方门户（https://www.mur.gov.it/it/prenotazione）或PUSS平台（https://www.puss.gov.it）选择服务类型、日期与时段。预约确认信将发送至注册邮箱，需携带打印版或电子版入场。
+- **在线预约**：通过MUR官方门户（<https://www.mur.gov.it/it/prenotazione>）或PUSS平台（<https://www.puss.gov.it>）选择服务类型、日期与时段。预约确认信将发送至注册邮箱，需携带打印版或电子版入场。
 - **电话预约**：拨打各机构专线，由客服人员协助预约。电话预约需提供姓名、护照号码及申请编号（如有）。
 - **邮件预约**：部分地方USR接受邮件预约（如USR Lombardia: urp@usrlombardia.it），回复周期通常为3-5个工作日。
 - **第三方平台**：意大利邮局（Poste Italiane）部分网点提供“教育服务预约”终端，可用于预约CIMEA或MUR的简单咨询。
@@ -111,7 +111,7 @@ draft: false
 以下为2026年大陆申请人最常涉及的表格及获取渠道：
 
 1.  **Modello A - 学历认证申请表**：用于申请外国学历的Dichiarazione di Valore。下载地址：MUR官网“Servizi”>“Riconoscimento titoli”>“Modulistica”。
-2.  **Modello B - 学生签证预注册表**：由意大利驻华使领馆发放，需在Universitaly平台（https://www.universitaly.it）在线填写并提交。
+2.  **Modello B - 学生签证预注册表**：由意大利驻华使领馆发放，需在Universitaly平台（<https://www.universitaly.it>）在线填写并提交。
 3.  **Modello C - 居留许可申请表格（Kit）**：入境后8个工作日内向警察局（Questura）提交，表格可在邮局（Poste Italiane）免费领取。
 4.  **Modello D - 成绩单认证委托书**：用于委托CIMEA认证非意大利大学成绩单。需公证后提交。
 5.  **Modello E - 转学申请表格**：适用于已在意大利就读的学生。由原学校与接收学校共同签署后提交至USR。
@@ -165,7 +165,7 @@ MUR 2026年4月报告显示，学历认证申请中约**18%** 因材料不全被
 - **监察专员（Difensore Civico）**：针对行政不作为或服务延误，可向大区监察专员办公室投诉。以Lazio大区为例，邮箱：difensorecivico@regione.lazio.it。免费服务，处理周期约**60日**。
 - **司法申诉（Ricorso al TAR）**：向地区行政法庭（Tribunale Amministrativo Regionale）提起诉讼。需聘请律师，费用约**2,000-5,000欧元**，周期**6-12个月**。仅适用于法律争议。
 - **内部投诉机制**：MUR官网设有“投诉与建议”（Reclami e Suggerimenti）在线表单，承诺**10个工作日**内回复。适用于服务态度、等待时间等问题。
-- **欧盟层面投诉**：若涉及欧盟法律实施问题（如学历互认），可向欧盟委员会内部市场协调中心（SOLVIT）提交，网址：https://ec.europa.eu/solvit。
+- **欧盟层面投诉**：若涉及欧盟法律实施问题（如学历互认），可向欧盟委员会内部市场协调中心（SOLVIT）提交，网址：<https://ec.europa.eu/solvit>。
 
 据MUR 2026年2月统计，2025年共受理行政申诉**1,320件**，其中约**32%** 被部分或全部支持。
 

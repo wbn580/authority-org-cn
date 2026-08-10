@@ -108,7 +108,7 @@ draft: false
 
 CBP对以下业务要求提前预约：
 
-- **进口货物查验：** 通过ACE（Automated Commercial Environment）系统提交电子申报后，系统自动分配查验时间。如需人工协调，可拨打口岸CBP办公室电话或使用CBP的“Appointment Scheduler”在线工具（https://apps.cbp.gov/appt）。
+- **进口货物查验：** 通过ACE（Automated Commercial Environment）系统提交电子申报后，系统自动分配查验时间。如需人工协调，可拨打口岸CBP办公室电话或使用CBP的“Appointment Scheduler”在线工具（<https://apps.cbp.gov/appt>）。
 - **个人物品通关（如行李超限）：** 部分机场提供现场排队，但建议通过CBP“Mobile Passport Control”应用或“Global Entry”预约。2026年起，所有非居民旅客在主要口岸（JFK、LAX、ORD）可通过CBP One™应用预约面谈，每日放号约1500个。
 - **企业合规咨询：** 联系当地CBP“Trade Compliance Office”，一般需提前5个工作日邮件预约。
 
@@ -202,7 +202,7 @@ USITC的公开听证会（如337调查、保障措施调查）允许公众旁听
 ### 8.1 CBP投诉与申诉
 
 - **货物扣留申诉：** 依据19 CFR § 171.11，向扣留口岸的CBP“Fines, Penalties, and Forfeitures Office”提交书面申诉，附证据。申诉费$100（部分减免）。
-- **官员行为投诉：** 通过CBP“Complaint Portal”（https://www.cbp.gov/contact/complaints）在线提交，或致电CBP内部事务办公室+1 (877) 227-5511。2026年数据显示，平均处理周期45天。
+- **官员行为投诉：** 通过CBP“Complaint Portal”（<https://www.cbp.gov/contact/complaints>）在线提交，或致电CBP内部事务办公室+1 (877) 227-5511。2026年数据显示，平均处理周期45天。
 - **关税争议：** 向美国国际贸易法院（CIT）提起诉讼，地址：1 Federal Plaza, New York, NY 10278，联系电话+1 (212) 264-2800。
 
 ### 8.2 USITC投诉

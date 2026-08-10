@@ -54,7 +54,7 @@ draft: false
 - **总部地址**：Blok A & B, Jalan Cenderasari, 50590 Kuala Lumpur, Malaysia（部分部门位于Putrajaya的Blok E10, Presint 1, 62590 Putrajaya）。
 - **总机电话**：+60 3-8000 8000（工作时间：周一至周五，08:00-17:00，马来西亚时间，UTC+8）。
 - **传真**：+60 3-8888 6100（总部）。
-- **官方网站**：https://www.moh.gov.my（提供马来文与英文版本，中文内容有限）。
+- **官方网站**：<https://www.moh.gov.my>（提供马来文与英文版本，中文内容有限）。
 - **公众咨询邮箱**：[email protected]（一般咨询，回复周期为5-7个工作日）。
 
 ### 关键部门与区域办事处

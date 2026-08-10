@@ -117,10 +117,10 @@ A3: 根据阿联酋内阁第28号决议（2025年），自2025年4月1日起，�
 
 ## 参考资料
 
-1.  阿联酋内阁第120号决议（2024年），关于修订黄金签证条款，2024年10月15日发布，2024年11月1日生效。来源：阿联酋联邦身份、公民身份、海关与港口安全局（ICP）官方网站，https://icp.gov.ae/en/cabinet-decisions/。
-2.  阿联酋内阁第135号决议（2024年），关于将远程工作签证纳入正式居留类别，2024年12月10日发布，2025年1月1日生效。来源：阿联酋内阁秘书处，https://u.ae/en/information-and-services/visa-and-immigration/residence-visa/remote-work-visa。
-3.  阿联酋内阁第28号决议（2025年），关于访问签证改革及宽限期调整，2025年2月20日发布，2025年3月15日部分生效。来源：ICP官方新闻稿，https://icp.gov.ae/en/media-center/news/2025/02/28/。
-4.  阿联酋内阁第85号决议（2024年），关于启动签证罚款豁免计划，2024年8月15日发布，2024年9月1日实施。来源：阿联酋政府门户网站，https://u.ae/en/information-and-services/visa-and-immigration/visa-fine-amnesty-program。
-5.  阿联酋内阁第68号决议（2025年），关于生物识别采集及数字居留卡试点，2025年6月12日发布，2025年7月1日部分生效。来源：阿联酋联邦身份与公民身份管理局（FAIC），https://www.faic.gov.ae/en/media-center/news/2025/06/12/。
-6.  阿联酋经济部，《知识经济人才吸引评估》（2025年3月），第22-28页。来源：阿联酋经济部官方网站，https://www.economy.gov.ae/Publications/Knowledge-Economy-Talent-Attraction-Report-2025.pdf。
-7.  中国驻阿联酋大使馆，《关于阿联酋签证政策调整的提醒》（2025年4月10日）。来源：中国驻阿联酋大使馆官方网站，http://ae.china-embassy.gov.cn/chn/lsfw/202504/t20250410_11456789.htm。
+1.  阿联酋内阁第120号决议（2024年），关于修订黄金签证条款，2024年10月15日发布，2024年11月1日生效。来源：阿联酋联邦身份、公民身份、海关与港口安全局（ICP）官方网站，<https://icp.gov.ae/en/cabinet-decisions/>。
+2.  阿联酋内阁第135号决议（2024年），关于将远程工作签证纳入正式居留类别，2024年12月10日发布，2025年1月1日生效。来源：阿联酋内阁秘书处，<https://u.ae/en/information-and-services/visa-and-immigration/residence-visa/remote-work-visa>。
+3.  阿联酋内阁第28号决议（2025年），关于访问签证改革及宽限期调整，2025年2月20日发布，2025年3月15日部分生效。来源：ICP官方新闻稿，<https://icp.gov.ae/en/media-center/news/2025/02/28/>。
+4.  阿联酋内阁第85号决议（2024年），关于启动签证罚款豁免计划，2024年8月15日发布，2024年9月1日实施。来源：阿联酋政府门户网站，<https://u.ae/en/information-and-services/visa-and-immigration/visa-fine-amnesty-program>。
+5.  阿联酋内阁第68号决议（2025年），关于生物识别采集及数字居留卡试点，2025年6月12日发布，2025年7月1日部分生效。来源：阿联酋联邦身份与公民身份管理局（FAIC），<https://www.faic.gov.ae/en/media-center/news/2025/06/12/>。
+6.  阿联酋经济部，《知识经济人才吸引评估》（2025年3月），第22-28页。来源：阿联酋经济部官方网站，<https://www.economy.gov.ae/Publications/Knowledge-Economy-Talent-Attraction-Report-2025.pdf>。
+7.  中国驻阿联酋大使馆，《关于阿联酋签证政策调整的提醒》（2025年4月10日）。来源：中国驻阿联酋大使馆官方网站，<http://ae.china-embassy.gov.cn/chn/lsfw/202504/t20250410_11456789.htm>。

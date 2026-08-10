@@ -172,22 +172,22 @@ INZ内部架构分为四个主要分支，每个分支由一位副执行主任�
 
 ## 参考资料
 
-1. 新西兰移民局官网（https://www.immigration.govt.nz/zh）  
+1. 新西兰移民局官网（<https://www.immigration.govt.nz/zh>）  
 2. 新西兰国会法律数据库，《移民法2009》（2009年第51号法案）  
-   （https://legislation.govt.nz/act/public/2009/0051/latest/DLM2130701.html）  
+   （<https://legislation.govt.nz/act/public/2009/0051/latest/DLM2130701.html>）  
 3. 新西兰商业、创新与就业部（MBIE），《2024/2025年度报告》  
-   （https://www.mbie.govt.nz/publications/annual-report-2024-2025）  
+   （<https://www.mbie.govt.nz/publications/annual-report-2024-2025>）  
 4. 新西兰移民局，《2025年政策声明》  
-   （https://www.immigration.govt.nz/about-us/policy-and-law/immigration-policy-statement-2025）  
+   （<https://www.immigration.govt.nz/about-us/policy-and-law/immigration-policy-statement-2025>）  
 5. 新西兰移民及保护法庭（IPT），《2024/2025年度报告》  
-   （https://www.ipt.govt.nz/publications/annual-report-2024-2025）  
+   （<https://www.ipt.govt.nz/publications/annual-report-2024-2025>）  
 6. 新西兰统计局，《国际移民数据：2025年6月季度》  
-   （https://www.stats.govt.nz/information-releases/international-migration-june-2025）  
+   （<https://www.stats.govt.nz/information-releases/international-migration-june-2025>）  
 7. 新西兰移民局，《数字移民计划：2024-2027年战略》  
-   （https://www.immigration.govt.nz/about-us/our-strategy/digital-immigration-plan-2024-2027）  
+   （<https://www.immigration.govt.nz/about-us/our-strategy/digital-immigration-plan-2024-2027>）  
 8. 新西兰移民局，《绿色清单更新公告》（2024年4月）  
-   （https://www.immigration.govt.nz/about-us/media-centre/green-list-update-april-2024）  
+   （<https://www.immigration.govt.nz/about-us/media-centre/green-list-update-april-2024>）  
 9. 新西兰移民局，《NZeTA系统更新公告》（2026年2月）  
-   （https://www.immigration.govt.nz/about-us/media-centre/nzeta-system-update-february-2026）  
+   （<https://www.immigration.govt.nz/about-us/media-centre/nzeta-system-update-february-2026>）  
 10. 新西兰移民局，《生物识别采集范围扩展公告》（2026年5月）  
-    （https://www.immigration.govt.nz/about-us/media-centre/biometric-collection-expansion-may-2026）
+    （<https://www.immigration.govt.nz/about-us/media-centre/biometric-collection-expansion-may-2026>）

@@ -196,4 +196,4 @@ MUR负责制定国家教育政策、课程标准、教师招聘规则及大学�
 7. MUR，2026-2028战略规划（Documento di Programmazione Strategica 2026-2028），2026年3月发布，www.mur.gov.it/sites/default/files/2026-03/DPS_2026-2028.pdf。
 8. ANVUR，2025年度报告（Rapporto Annuale 2025），2026年4月发布，www.anvur.it/rapporto-annuale-2025。
 9. INVALSI，2025年国家学习评估报告（Rapporto Nazionale INVALSI 2025），2025年7月发布，www.invalsi.it/rapporto2025。
-10. 欧盟委员会，意大利国家教育体系概况（Eurydice Italia），2026年更新，https://eurydice.eacea.ec.europa.eu/national-education-systems/italy/overview。
+10. 欧盟委员会，意大利国家教育体系概况（Eurydice Italia），2026年更新，<https://eurydice.eacea.ec.europa.eu/national-education-systems/italy/overview>。

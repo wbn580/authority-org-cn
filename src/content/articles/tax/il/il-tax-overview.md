@@ -224,12 +224,12 @@ ITA的运作依据以下5部核心法律：
 ## 参考资料
 
 1. Israel Tax Authority. (2026). *Annual Report 2025*. Jerusalem: Government of Israel. 检索自 https://www.gov.il/en/departments/israel_tax_authority
-2. Income Tax Ordinance [New Version] 1961 (Israel). 检索自 https://www.nevo.co.il/law_html/law01/028_001.htm（希伯来语原文）
-3. Value Added Tax Law 1975 (Israel). 检索自 https://www.nevo.co.il/law_html/law01/028_002.htm（希伯来语原文）
+2. Income Tax Ordinance [New Version] 1961 (Israel). 检索自 <https://www.nevo.co.il/law_html/law01/028_001.htm>（希伯来语原文）
+3. Value Added Tax Law 1975 (Israel). 检索自 <https://www.nevo.co.il/law_html/law01/028_002.htm>（希伯来语原文）
 4. OECD. (2026). *Global Forum on Transparency and Exchange of Information for Tax Purposes: Israel Peer Review Report (Phase 2)*. Paris: OECD Publishing. 检索自 https://www.oecd.org/tax/transparency/
 5. 中华人民共和国国家税务总局. (1997). *中华人民共和国政府和以色列国政府关于对所得和财产避免双重征税和防止偷漏税的协定*. 检索自 http://www.chinatax.gov.cn/n810341/n810770/c1153917/content.html
 6. Israel Ministry of Finance. (2025). *The Evolution of Israel's Tax System: 1948-2025*. Jerusalem: Ministry of Finance Publications.
-7. Tax Administration Reform Law 2004 (Israel). 检索自 https://www.knesset.gov.il/laws/special/2004/tax_reform.pdf（希伯来语原文）
+7. Tax Administration Reform Law 2004 (Israel). 检索自 <https://www.knesset.gov.il/laws/special/2004/tax_reform.pdf>（希伯来语原文）
 8. Israel Tax Authority. (2024). *Private Ruling No. 2024-01: Taxation of Digital Assets*. Jerusalem: ITA.
 9. Israel Tax Authority. (2026). *Transfer Pricing Guidelines 2026*. Jerusalem: ITA.
 10. Israel Tax Authority. (2025). *Tax Resident Status Guide*. Jerusalem: ITA.

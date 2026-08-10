@@ -82,7 +82,7 @@ SECO（Staatssekretariat für Wirtschaft）负责贸易政策、出口管制及�
 
 BAZG要求所有非紧急的现场咨询（如关税分类、退税咨询）必须提前预约。预约方式：
 
-1. **在线预约系统**: 通过BAZG官网“Terminvereinbarung”模块（https://www.bazg.admin.ch/termin），选择所在州及具体办公室，可预约**2**个工作日至**30**天内的时段。
+1. **在线预约系统**: 通过BAZG官网“Terminvereinbarung”模块（<https://www.bazg.admin.ch/termin>），选择所在州及具体办公室，可预约**2**个工作日至**30**天内的时段。
 2. **电话预约**: 拨打+41 58 462 65 11，按语音提示选择“预约”，需提供姓名、联系电话及办理事项。
 3. **邮件预约**: 发送至info@bazg.admin.ch，标题注明“Terminvereinbarung”，正文包含：公司名称（如有）、联系人、电话、办理事项、期望日期及时间。
 

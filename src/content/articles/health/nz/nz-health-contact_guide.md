@@ -78,7 +78,7 @@ draft: false
 - **费用**：公费系统内免费（需GP转诊）；自费专科就诊约**150–300新西兰元**（约合人民币660–1320元）。
 
 ### 医院门诊预约
-- **方式**：由GP或专科医生推荐后，医院通过电话或短信通知患者。患者可在Health New Zealand官网（https://www.health.govt.nz/your-health）查询预约状态。
+- **方式**：由GP或专科医生推荐后，医院通过电话或短信通知患者。患者可在Health New Zealand官网（<https://www.health.govt.nz/your-health>）查询预约状态。
 - **等待时间**：非紧急门诊平均等待**4–6周**；急诊（ED）按病情分诊（1级为立即处理，5级为可等待4小时）。
 
 ## 常见表格清单
@@ -118,11 +118,11 @@ draft: false
 ### 翻译与口译服务
 - **Healthline 健康热线**：0800 611 116（24小时），提供中文（普通话和粤语）口译服务。拨通后按“0”可转接翻译，无需额外费用。
 - **医疗口译服务（Medical Interpreting Service）**：由新西兰卫生部资助，提供**200多种语言**的面对面或电话口译。预约方式：在GP诊所或医院申请，或致电0800 800 678（工作日8:00–18:00）。
-- **在线翻译资源**：卫生部官网提供中文版常见问题解答（https://www.health.govt.nz/chinese），包括流感疫苗接种、糖尿病管理指南等。
+- **在线翻译资源**：卫生部官网提供中文版常见问题解答（<https://www.health.govt.nz/chinese>），包括流感疫苗接种、糖尿病管理指南等。
 
 ### 中文医疗资源
 - **中文全科医生诊所**：在奥克兰（如Panmure Medical Centre）、惠灵顿（如Newtown Medical Centre）、基督城（如Riccarton Clinic）等华人聚居区，部分GP提供中文服务。建议预约时确认语言支持。
-- **中文健康信息平台**：新西兰健康促进局（Health Promotion Agency）设有中文专区（https://www.hpa.org.nz/zh-cn），涵盖戒烟、心理健康、营养指导等。
+- **中文健康信息平台**：新西兰健康促进局（Health Promotion Agency）设有中文专区（<https://www.hpa.org.nz/zh-cn>），涵盖戒烟、心理健康、营养指导等。
 
 ### 中文服务可用性总结
 - **电话翻译**：24小时免费支持，覆盖所有公立医疗机构。
@@ -182,7 +182,7 @@ draft: false
 
 ### 步骤四：长期管理
 - **慢性病管理**：可申请高健康需求卡，每次就诊费用降至**20新西兰元**。
-- **中文健康信息**：关注新西兰健康促进局中文网站（https://www.hpa.org.nz/zh-cn），获取疫苗接种提醒、流感季指南等。
+- **中文健康信息**：关注新西兰健康促进局中文网站（<https://www.hpa.org.nz/zh-cn>），获取疫苗接种提醒、流感季指南等。
 - **紧急联系人**：将Healthline（0800 611 116）和当地华人诊所电话存入手机。建议加入本地华人健康微信群（如“奥克兰华人医疗互助群”），获取实时建议。
 
 ### 注意事项
@@ -197,7 +197,7 @@ draft: false
 
 ### Q2: 如何预约中文全科医生（GP）？
 **A2:** 可通过以下方式查找并预约中文GP：
-1. 访问新西兰卫生部官网（https://www.health.govt.nz/your-health），使用“Find a GP”功能，筛选“Languages: Chinese”。
+1. 访问新西兰卫生部官网（<https://www.health.govt.nz/your-health>），使用“Find a GP”功能，筛选“Languages: Chinese”。
 2. 拨打Healthline（0800 611 116），要求中文翻译，告知您所在区域，客服将推荐附近提供中文服务的诊所。
 3. 联系当地华人社区组织（如奥克兰华人服务中心，电话+64 9 379 7000），获取推荐名单。
 预约时，请明确说明需要中文服务，部分诊所需提前安排翻译。等待时间通常为**2–5个工作日**。
@@ -207,14 +207,14 @@ draft: false
 
 ## 参考资料
 
-1. 新西兰卫生部（Ministry of Health）官方网站，https://www.health.govt.nz，访问日期：2026年5月23日。
-2. 新西兰卫生局（Health New Zealand）2026年一季度运营报告，https://www.health.govt.nz/publications/hnz-q1-2026，2026年4月发布。
-3. 《卫生与残疾服务法》（Health and Disability Services Act 2025），新西兰议会，2025年12月生效，https://www.legislation.govt.nz/act/public/2025/0123/latest/DLM123456.html。
-4. 《公共卫生法》（Public Health Act 2024），新西兰议会，2024年7月生效，https://www.legislation.govt.nz/act/public/2024/0089/latest/DLM987654.html。
-5. 卫生与残疾专员（Health and Disability Commissioner）投诉指南，https://www.hdc.org.nz/complaints，2026年更新。
-6. 新西兰移民局（Immigration New Zealand）医疗费用豁免政策，https://www.immigration.govt.nz/health/waiver，2026年1月更新。
-7. 新西兰健康促进局（Health Promotion Agency）中文专区，https://www.hpa.org.nz/zh-cn，访问日期：2026年5月23日。
-8. 新西兰《健康信息隐私法》（Health Information Privacy Act 2020），https://www.legislation.govt.nz/act/public/2020/0045/latest/DLM554321.html。
+1. 新西兰卫生部（Ministry of Health）官方网站，<https://www.health.govt.nz>，访问日期：2026年5月23日。
+2. 新西兰卫生局（Health New Zealand）2026年一季度运营报告，<https://www.health.govt.nz/publications/hnz-q1-2026>，2026年4月发布。
+3. 《卫生与残疾服务法》（Health and Disability Services Act 2025），新西兰议会，2025年12月生效，<https://www.legislation.govt.nz/act/public/2025/0123/latest/DLM123456.html>。
+4. 《公共卫生法》（Public Health Act 2024），新西兰议会，2024年7月生效，<https://www.legislation.govt.nz/act/public/2024/0089/latest/DLM987654.html>。
+5. 卫生与残疾专员（Health and Disability Commissioner）投诉指南，<https://www.hdc.org.nz/complaints>，2026年更新。
+6. 新西兰移民局（Immigration New Zealand）医疗费用豁免政策，<https://www.immigration.govt.nz/health/waiver>，2026年1月更新。
+7. 新西兰健康促进局（Health Promotion Agency）中文专区，<https://www.hpa.org.nz/zh-cn>，访问日期：2026年5月23日。
+8. 新西兰《健康信息隐私法》（Health Information Privacy Act 2020），<https://www.legislation.govt.nz/act/public/2020/0045/latest/DLM554321.html>。
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>

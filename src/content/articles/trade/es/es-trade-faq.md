@@ -57,7 +57,7 @@ draft: false
 - **总机电话**：+34 91 290 12 00（周一至周五 9:00-17:00）
 - **海关业务咨询专线**：+34 901 33 55 33（周一至周五 9:00-14:00）
 - **电子邮件**：aduana.info@aeat.es（一般咨询）；importaciones@aeat.es（进口事务）；exportaciones@aeat.es（出口事务）
-- **网站**：https://www.agenciatributaria.es/AEAT/duanas/（西班牙语/英语/法语）
+- **网站**：<https://www.agenciatributaria.es/AEAT/duanas/>（西班牙语/英语/法语）
 - **在线查询系统**：AEAT“我的海关”平台（Mi Aduana），需电子DNI或数字证书登录
 
 据AEAT 2026年2月公告，2025年海关业务咨询专线共处理**1,234,567次**来电，平均等待时间为**4分30秒**。

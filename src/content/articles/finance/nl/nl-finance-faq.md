@@ -142,8 +142,8 @@ draft: false
 ### Q17: 如何查询某家机构是否持有DNB或AFM牌照？
 
 **A17:** 可通过以下公开数据库查询：
-- **DNB牌照登记**：https://www.dnb.nl/toezicht/register/（实时更新，含银行、保险公司、养老基金等）。
-- **AFM牌照登记**：https://www.afm.nl/nl-nl/consumenten/register（含投资公司、信贷机构、支付机构等）。
+- **DNB牌照登记**：<https://www.dnb.nl/toezicht/register/>（实时更新，含银行、保险公司、养老基金等）。
+- **AFM牌照登记**：<https://www.afm.nl/nl-nl/consumenten/register>（含投资公司、信贷机构、支付机构等）。
 - **数据时效**：2026年数据库每日同步更新，查询结果含机构名称、牌照类型、发证日期及状态（如“有效”、“暂停”、“撤销”）。
 
 ### Q18: 跨境金融服务（如中国公司在荷兰开设分行）是否需要额外审批？
@@ -180,8 +180,8 @@ draft: false
 ### Q25: 如何获取DNB或AFM的最新监管动态？
 
 **A25:** 可通过以下渠道：
-- **DNB官网**：https://www.dnb.nl（新闻栏目每日更新，含英文版）。
-- **AFM官网**：https://www.afm.nl（“Nieuws”栏目，荷兰文为主，重要公告附英文摘要）。
+- **DNB官网**：<https://www.dnb.nl>（新闻栏目每日更新，含英文版）。
+- **AFM官网**：<https://www.afm.nl>（“Nieuws”栏目，荷兰文为主，重要公告附英文摘要）。
 - **中文服务**：无中文订阅渠道。建议使用英文关键词“DNB regulation update”搜索，或关注专业中文金融媒体（如“华尔街见闻”荷兰板块）的二次编译。
 
 ## 参考资料

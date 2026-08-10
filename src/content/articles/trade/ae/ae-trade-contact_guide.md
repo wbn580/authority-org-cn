@@ -64,9 +64,9 @@ draft: false
 
 阿联酋海关及贸易主管部门普遍推行**在线预约优先**制度。据迪拜海关2026年服务手册，所有非紧急窗口业务（如许可证申领、资质核发、咨询）须通过以下渠道提前预约：
 
-- **FCA全国统一预约平台**：登录Mirsal 2.0系统（https://mirsal.fca.gov.ae），选择“Appointment Booking”，填写企业统一编号（Customs ID）及业务类型，系统自动分配时间与窗口。
+- **FCA全国统一预约平台**：登录Mirsal 2.0系统（<https://mirsal.fca.gov.ae>），选择“Appointment Booking”，填写企业统一编号（Customs ID）及业务类型，系统自动分配时间与窗口。
 - **迪拜海关专属预约**：通过Dubai Customs App或官网“e-Services”模块，选择“Book an Appointment”，支持英语、阿拉伯语界面。
-- **阿布扎比海关预约**：通过Tamm平台（https://tamm.abudhabi）或AD Customs App，选择“Customs Services”子项。
+- **阿布扎比海关预约**：通过Tamm平台（<https://tamm.abudhabi>）或AD Customs App，选择“Customs Services”子项。
 
 **现场办事流程**：凭预约确认码及有效身份证明（企业：贸易许可证+海关编码；个人：Emirates ID或护照）在预约时间前10分钟到达指定办公点。超时未到视为放弃，需重新预约。
 
@@ -161,7 +161,7 @@ draft: false
 
 ### Q1: 大陆人如何在阿联酋申请海关编码（Customs ID）？
 
-**A1:** 大陆人申请海关编码需通过FCA Mirsal 2.0系统（https://mirsal.fca.gov.ae）在线提交。所需材料包括：企业贸易许可证（如适用）、法人护照复印件（需公证）、阿联酋地址证明（如租赁合同或水电费账单）。个人申请者需提供Emirates ID（如有）或护照+签证页。处理时效为**5**个工作日，费用为**200** AED。中文界面支持有限，建议使用英文填写。
+**A1:** 大陆人申请海关编码需通过FCA Mirsal 2.0系统（<https://mirsal.fca.gov.ae>）在线提交。所需材料包括：企业贸易许可证（如适用）、法人护照复印件（需公证）、阿联酋地址证明（如租赁合同或水电费账单）。个人申请者需提供Emirates ID（如有）或护照+签证页。处理时效为**5**个工作日，费用为**200** AED。中文界面支持有限，建议使用英文填写。
 
 ### Q2: 在迪拜海关办理清关时，如何预约中文服务？
 

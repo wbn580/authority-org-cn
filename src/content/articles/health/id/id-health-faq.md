@@ -202,7 +202,7 @@ A8: 是。根据印尼《社会保障法》（UU No. 24/2011）第15条及移民
 
 ### Q9: 如何查询BPJS Kesehatan参保状态？
 
-A9: 可通过以下渠道查询：BPJS Kesehatan Mobile应用（登录后查看电子卡及缴费记录）；呼叫中心165（提供身份证号或参保号）；官方网站（https://www.bpjs-kesehatan.go.id，输入参保号及出生日期）。据BPJS Kesehatan 2026年数字服务报告，应用查询平均响应时间为1.2秒。
+A9: 可通过以下渠道查询：BPJS Kesehatan Mobile应用（登录后查看电子卡及缴费记录）；呼叫中心165（提供身份证号或参保号）；官方网站（<https://www.bpjs-kesehatan.go.id>，输入参保号及出生日期）。据BPJS Kesehatan 2026年数字服务报告，应用查询平均响应时间为1.2秒。
 
 ### Q10: BPJS Kesehatan是否覆盖牙科治疗？
 
@@ -266,7 +266,7 @@ A24: 覆盖有限。据BPJS Kesehatan 2026年传统医学服务指南，仅覆�
 
 ### Q25: 如何验证医疗机构是否为BPJS Kesehatan合作机构？
 
-A25: 可通过以下方式验证：BPJS Kesehatan Mobile应用（搜索功能，输入机构名称或地址）；呼叫中心165（提供机构名称或地址）；官方网站（https://www.bpjs-kesehatan.go.id/faskes）。截至2026年5月，合作医疗机构总数为**24,389**家，包括**2,158**家医院及**22,231**家初级卫生机构。
+A25: 可通过以下方式验证：BPJS Kesehatan Mobile应用（搜索功能，输入机构名称或地址）；呼叫中心165（提供机构名称或地址）；官方网站（<https://www.bpjs-kesehatan.go.id/faskes>）。截至2026年5月，合作医疗机构总数为**24,389**家，包括**2,158**家医院及**22,231**家初级卫生机构。
 
 ## 参考资料
 

@@ -102,7 +102,7 @@ draft: false
 
 ### 中文服务可用性
 
-意大利大学与研究部（MUR）于2025年4月上线“Studiare in Italia”中文版门户网站（https://www.studiare-in-italia.it/zh/），提供签证申请、学历认证、奖学金信息等内容的简体中文翻译。同时，MAECI在2025年6月发布的中文版《中国学生赴意留学指南》（Guida per Studenti Cinesi in Italia）中，明确列出了“Universitaly”平台的中文客服邮箱（cina@universitaly.it），工作时间为意大利时间周一至周五9:00-18:00。据MUR 2026年3月用户调查，中文门户网站月度访问量约为12,000次，用户满意度评分为4.2/5.0。此外，部分大学（如米兰理工大学、博洛尼亚大学）在2025/2026学年开设了中文版招生页面，但尚未覆盖所有院校。
+意大利大学与研究部（MUR）于2025年4月上线“Studiare in Italia”中文版门户网站（<https://www.studiare-in-italia.it/zh/>），提供签证申请、学历认证、奖学金信息等内容的简体中文翻译。同时，MAECI在2025年6月发布的中文版《中国学生赴意留学指南》（Guida per Studenti Cinesi in Italia）中，明确列出了“Universitaly”平台的中文客服邮箱（cina@universitaly.it），工作时间为意大利时间周一至周五9:00-18:00。据MUR 2026年3月用户调查，中文门户网站月度访问量约为12,000次，用户满意度评分为4.2/5.0。此外，部分大学（如米兰理工大学、博洛尼亚大学）在2025/2026学年开设了中文版招生页面，但尚未覆盖所有院校。
 
 ## 未来展望
 

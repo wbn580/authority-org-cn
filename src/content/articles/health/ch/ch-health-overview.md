@@ -207,15 +207,15 @@ BAG批准的药品清单（Spezialitätenliste）决定医保报销范围。中�
 
 ## 参考资料
 
-1. 瑞士联邦公共卫生局（BAG）官网：https://www.bag.admin.ch/bag/en/home.html（2026年5月访问）
-2. 瑞士联邦内政部（EDI）官网：https://www.edi.admin.ch/edi/en/home.html（2026年5月访问）
+1. 瑞士联邦公共卫生局（BAG）官网：<https://www.bag.admin.ch/bag/en/home.html>（2026年5月访问）
+2. 瑞士联邦内政部（EDI）官网：<https://www.edi.admin.ch/edi/en/home.html>（2026年5月访问）
 3. 《瑞士联邦宪法》（Bundesverfassung der Schweizerischen Eidgenossenschaft），第118条、第117条（2026年修订版）
 4. 《联邦医疗保险法》（Bundesgesetz über die Krankenversicherung, KVG/LAMal），1996年生效，2025年修订
 5. 《联邦流行病防治法》（Bundesgesetz über die Bekämpfung von übertragbaren Krankheiten des Menschen, EpG），2012年生效，2024年修订
 6. 《联邦药品及医疗器械法》（Heilmittelgesetz, HMG），2000年生效，2025年修订
 7. 《联邦食品安全法》（Lebensmittel- und Gebrauchsgegenständeverordnung, LMG），2014年修订，2025年更新
-8. 瑞士联邦公共卫生局《2025年度报告》：https://www.bag.admin.ch/bag/en/home/das-bag/publikationen/jahresberichte.html（2026年5月访问）
-9. 瑞士联邦公共卫生局《2026年工作计划》：https://www.bag.admin.ch/bag/en/home/das-bag/auftrag/strategie.html（2026年5月访问）
+8. 瑞士联邦公共卫生局《2025年度报告》：<https://www.bag.admin.ch/bag/en/home/das-bag/publikationen/jahresberichte.html>（2026年5月访问）
+9. 瑞士联邦公共卫生局《2026年工作计划》：<https://www.bag.admin.ch/bag/en/home/das-bag/auftrag/strategie.html>（2026年5月访问）
 10. 世界卫生组织（WHO）《国际卫生条例》（IHR）瑞士执行情况报告，2025年
 
 <!-- AFF-CARD:v1:START -->

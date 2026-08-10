@@ -76,7 +76,7 @@ draft: false
 - **传真**：+49 201 8398-1200
 - **电子邮箱**：info@zoll.de（一般咨询）；poststelle@zoll.de（正式函件）
 - **官网**：https://www.zoll.de
-- **海关服务门户（Zoll-Portal）**：https://www.zoll-portal.de（在线申报、表格下载、状态查询）
+- **海关服务门户（Zoll-Portal）**：<https://www.zoll-portal.de>（在线申报、表格下载、状态查询）
 
 ### 联邦经济与出口管制局（BAFA）
 
@@ -101,7 +101,7 @@ draft: false
 
 ### 预约步骤（以海关总署为例）
 
-1. 登录Zoll-Portal（https://www.zoll-portal.de），选择“Terminvereinbarung”（预约服务）。
+1. 登录Zoll-Portal（<https://www.zoll-portal.de>），选择“Terminvereinbarung”（预约服务）。
 2. 选择业务类型：进口申报、出口管制、关税查询、AEO认证、投诉申诉等。
 3. 填写申请人信息（个人需提供税号/护照号；企业需提供德国税号及欧盟EORI号）。
 4. 选择办公地点、日期及时间段（系统显示未来14天可用时段）。
@@ -224,7 +224,7 @@ draft: false
 
 ### Q2: 中文文件在德国海关是否被接受？
 
-德国海关仅接受德语或英语文件。中文文件（如商业发票、合同）须附德语或英语翻译件，并由宣誓翻译签字确认。宣誓翻译名单可通过德国联邦司法部网站（https://www.bundesjustizamt.de）查询。未附翻译件的文件将被退回，导致处理延迟。Zoll-Portal的中文辅助功能仅提供填写指引，不替代正式翻译。
+德国海关仅接受德语或英语文件。中文文件（如商业发票、合同）须附德语或英语翻译件，并由宣誓翻译签字确认。宣誓翻译名单可通过德国联邦司法部网站（<https://www.bundesjustizamt.de>）查询。未附翻译件的文件将被退回，导致处理延迟。Zoll-Portal的中文辅助功能仅提供填写指引，不替代正式翻译。
 
 ### Q3: 出口许可证被拒绝后如何申诉？
 

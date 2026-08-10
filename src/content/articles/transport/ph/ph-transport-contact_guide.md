@@ -72,7 +72,7 @@ draft: false
 ### 预约方式
 
 据LTO 2026年公民宪章，自2025年1月起，所有驾照新申请、续期、补办及车辆登记业务均须通过LTO在线预约系统（LTMS Portal）进行预约。步骤如下：
-1.  访问LTO在线平台：https://portal.lto.gov.ph。
+1.  访问LTO在线平台：<https://portal.lto.gov.ph>。
 2.  注册或登录账户，填写个人信息（需提供有效电子邮件地址及菲律宾手机号码）。
 3.  选择业务类型（如Driver’s License Application/Renewal、Vehicle Registration等）。
 4.  选择就近的LTO办公室及可用时间段（通常可预约未来14天内的工作日时段）。
@@ -119,7 +119,7 @@ LTO主要办公室（如奎松市中央办公室、马卡蒂市办公室）提�
 ### 预约方式
 
 CAAP大部分业务（如飞行员执照申请、航空器登记、航空运营人证书申请等）需通过CAAP在线门户（CAAP eServices）预约。步骤：
-1.  访问 https://eservices.caap.gov.ph。
+1.  访问 <https://eservices.caap.gov.ph>。
 2.  注册账户（需提供公司/个人英文名称、电子邮件、联系电话）。
 3.  选择业务类型（如Air Operator Certificate、Flight Crew License、Aircraft Registration）。
 4.  上传所需文件（PDF格式，文件大小不超过10MB）。
@@ -181,7 +181,7 @@ CAAP中央办公室及主要机场办公室（如NAIA、克拉克国际机场）
 ### 预约方式
 
 LTFRB大部分业务（如特许经营证书申请、运价调整申请、车辆授权续期）须通过LTFRB在线预约系统（LTFRB e-Queue）预约。步骤：
-1.  访问 https://equeue.ltfrb.gov.ph。
+1.  访问 <https://equeue.ltfrb.gov.ph>。
 2.  选择业务类型（如Franchise Application、Fare Adjustment、CPC Renewal等）。
 3.  输入公司/个人TIN（税号）或有效身份证件号码。
 4.  选择预约日期及时间（通常可预约未来7天内的工作日）。

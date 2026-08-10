@@ -191,7 +191,7 @@ tags: ["transport"]
 1. 韩国国土交通部（MOLIT）. *2026年行政服务手册*（제2026-01호）. 世宗: MOLIT, 2026. [在线] https://www.molit.go.kr/guide/2026.pdf  
 2. 韩国机场公社（KAC）. *2026年机场运营公告*（제2026-15호）. 仁川: KAC, 2026. [在线] https://www.airport.co.kr/notice/2026-15  
 3. 韩国交通研究院（KOTI）. *2026年交通政策报告*（KOTI-R-2026-03）. 世宗: KOTI, 2026. [在线] https://www.koti.re.kr/report/2026-03  
-4. 韩国国会. *航空安全法*（법률 제2025-123호）. 2025年修订版. [在线] https://www.law.go.kr/법령/항공안전법  
-5. 韩国国会. *道路交通法*（법률 제2026-45호）. 2026年修正案. [在线] https://www.law.go.kr/법령/도로교통법  
+4. 韩国国会. *航空安全法*（법률 제2025-123호）. 2025年修订版. [在线] <https://www.law.go.kr/>법령/항공안전법  
+5. 韩国国会. *道路交通法*（법률 제2026-45호）. 2026年修正案. [在线] <https://www.law.go.kr/>법령/도로교통법  
 6. 韩国国民权益委员会（ACRC）. *行政申诉指南*（2026年版）. 首尔: ACRC, 2026. [在线] https://www.acrc.go.kr/guide/2026  
 7. 韩国政府. *政府24服务平台*（gov.kr）. 2026. [在线] https://www.gov.kr/portal/service/transport

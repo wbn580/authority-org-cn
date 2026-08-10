@@ -159,7 +159,7 @@ draft: false
 
 ### 经济与工业部中文服务
 
-- **中文网页**：经济与工业部官网提供简体中文版（https://www.gov.il/en/departments/ministry_of_economy_and_industry/chinese），内容涵盖投资指南、贸易政策摘要及常见问题。
+- **中文网页**：经济与工业部官网提供简体中文版（<https://www.gov.il/en/departments/ministry_of_economy_and_industry/chinese>），内容涵盖投资指南、贸易政策摘要及常见问题。
 - **中文咨询渠道**：通过“以色列投资促进中心”提供中文电话及邮件咨询（+972-2-6666666，分机3；economy.chinese@economy.gov.il），服务时间为以色列工作时间（周日-周四，9:00-17:00）。
 - **中文文件支持**：2025年起，经济与工业部接受中文翻译件（需公证）作为进口许可证申请的补充材料（据经济与工业部2025年行政指南）。
 

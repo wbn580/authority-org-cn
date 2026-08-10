@@ -127,8 +127,8 @@ draft: false
 
 ### Q9: 2026年如何通过中文渠道查询签证状态？
 **A9:** 可通过以下渠道：
-- **DOS CEAC系统**：https://ceac.state.gov/CEACStatTracker/Status.aspx，支持中文界面，输入DS-160条码查询非移民签证状态。
-- **USCIS在线账户**：https://my.uscis.gov/，注册后可用中文界面查看I-130、I-140等申请状态。
+- **DOS CEAC系统**：<https://ceac.state.gov/CEACStatTracker/Status.aspx>，支持中文界面，输入DS-160条码查询非移民签证状态。
+- **USCIS在线账户**：<https://my.uscis.gov/>，注册后可用中文界面查看I-130、I-140等申请状态。
 - **电话查询**：USCIS客服（1-800-375-5283）提供英语和西班牙语，中文服务需转接翻译（等待时间约10-15分钟）。
 - **第三方平台**：部分非营利组织（如中文帮助中心）提供免费中文咨询，但USCIS和DOS不推荐使用付费中介。
 
@@ -154,19 +154,19 @@ draft: false
 ### Q15: 如何联系USCIS咨询移民申请问题？
 **A15:** 主要联系方式：
 - **电话**：USCIS联络中心（1-800-375-5283），服务时间为周一至周五美东时间8:00-20:00。TDD（听力障碍）专线：1-800-767-1833。
-- **在线**：myUSCIS账户（https://my.uscis.gov/）提供E-Request工具，可提交查询（如处理时间超出正常范围，需等待30天以上）。
+- **在线**：myUSCIS账户（<https://my.uscis.gov/>）提供E-Request工具，可提交查询（如处理时间超出正常范围，需等待30天以上）。
 - **邮件**：通过USCIS表格（如I-130）提交后，将收到收件通知，可回复邮件联系特定服务中心。
-- **现场**：需通过InfoPass系统预约（https://infopass.uscis.gov/），但2026年大多数服务中心仅处理紧急情况。
+- **现场**：需通过InfoPass系统预约（<https://infopass.uscis.gov/>），但2026年大多数服务中心仅处理紧急情况。
 
 ### Q16: 如何投诉USCIS或DOS的服务问题？
 **A16:** 投诉渠道包括：
-- **USCIS**：通过USCIS监察专员（CIS Ombudsman）网站（https://www.dhs.gov/cis-ombudsman）提交案例协助请求（Case Assistance Request），2025财年处理投诉约8,500起，中位处理时间为45天。
-- **DOS**：通过领事事务局网站（https://travel.state.gov/content/travel/en/about-us/contact-us.html）提交反馈。针对签证拒签，可申请行政审查（需在拒签后30天内提交）。
-- **联邦投诉**：向美国国土安全部（DHS）公民权利与自由办公室（CRCL）提交（https://www.dhs.gov/office-civil-rights-and-civil-liberties）。
+- **USCIS**：通过USCIS监察专员（CIS Ombudsman）网站（<https://www.dhs.gov/cis-ombudsman>）提交案例协助请求（Case Assistance Request），2025财年处理投诉约8,500起，中位处理时间为45天。
+- **DOS**：通过领事事务局网站（<https://travel.state.gov/content/travel/en/about-us/contact-us.html>）提交反馈。针对签证拒签，可申请行政审查（需在拒签后30天内提交）。
+- **联邦投诉**：向美国国土安全部（DHS）公民权利与自由办公室（CRCL）提交（<https://www.dhs.gov/office-civil-rights-and-civil-liberties>）。
 
 ### Q17: 2026年USCIS和DOS的办公时间是什么？
 **A17:** 
-- **USCIS**：服务中心和办公室通常周一至周五8:00-16:00开放，周末及联邦假日关闭。具体时间因地点而异，可通过USCIS官网查询（https://www.uscis.gov/about-us/uscis-office-closings）。
+- **USCIS**：服务中心和办公室通常周一至周五8:00-16:00开放，周末及联邦假日关闭。具体时间因地点而异，可通过USCIS官网查询（<https://www.uscis.gov/about-us/uscis-office-closings>）。
 - **DOS**：美国驻华使领馆（北京、上海、广州、成都、沈阳）签证处周一至周五8:00-17:00开放，但面谈时间需通过预约系统确认。2026年5月，北京领区B类签证面谈预约等待时间中位数为42天（来源：DOS 2026年5月预约系统数据）。
 
 ## 最新政策变化
@@ -217,10 +217,10 @@ draft: false
 
 ### Q24: 2026年如何查询我的移民申请状态？
 **A24:** 可通过以下方式：
-- **USCIS在线账户**：https://my.uscis.gov/，输入收件号（Receipt Number，如MSC1234567890）查询。
+- **USCIS在线账户**：<https://my.uscis.gov/>，输入收件号（Receipt Number，如MSC1234567890）查询。
 - **USCIS电话**：1-800-375-5283，按语音提示输入收件号。
-- **DOS CEAC系统**：https://ceac.state.gov/CEACStatTracker/Status.aspx，用于查询移民签证（如I-130批准后转至国家签证中心）状态。
-- **移民法庭**：若涉及递解程序，通过EOIR系统查询（https://www.justice.gov/eoir）。
+- **DOS CEAC系统**：<https://ceac.state.gov/CEACStatTracker/Status.aspx>，用于查询移民签证（如I-130批准后转至国家签证中心）状态。
+- **移民法庭**：若涉及递解程序，通过EOIR系统查询（<https://www.justice.gov/eoir>）。
 - **中文服务**：myUSCIS系统支持中文界面，可查看处理时间、通知和缴费记录。
 
 ### Q25: 2026年有哪些常见移民误区需要避免？

@@ -113,7 +113,7 @@ Department of Home Affairs
 
 ## 常见表格清单
 
-以下为2026年主要签证类别对应的申请表格，均可在内政部官网（https://immi.homeaffairs.gov.au/forms）下载PDF版本或在线填写。
+以下为2026年主要签证类别对应的申请表格，均可在内政部官网（<https://immi.homeaffairs.gov.au/forms>）下载PDF版本或在线填写。
 
 1、 表格编号 100 · 表格名称 永久居民签证申请表（配偶类） · 适用签证类别 配偶移民（境外）
 2、 表格编号 309/100 · 表格名称 临时配偶签证转永居 · 适用签证类别 配偶移民（境外）
@@ -181,8 +181,8 @@ Department of Home Affairs
 ### 投诉渠道
 
 1. **内政部内部投诉：** 通过ImmiAccount提交“投诉表（Form 1395）”，或致电131 881。内政部承诺在28个工作日内回复。
-2. **澳大利亚申诉专员公署（Commonwealth Ombudsman）：** 如对内政部回复不满意，可向该独立机构投诉。官网：https://www.ombudsman.gov.au/，电话：1300 362 072。
-3. **移民申诉仲裁庭（Migration Review Tribunal, MRT）：** 适用于签证被拒或取消后的法律申诉。需在收到拒签通知后21天内提交申请（境内）或70天内（境外）。官网：https://www.aat.gov.au/。
+2. **澳大利亚申诉专员公署（Commonwealth Ombudsman）：** 如对内政部回复不满意，可向该独立机构投诉。官网：<https://www.ombudsman.gov.au/>，电话：1300 362 072。
+3. **移民申诉仲裁庭（Migration Review Tribunal, MRT）：** 适用于签证被拒或取消后的法律申诉。需在收到拒签通知后21天内提交申请（境内）或70天内（境外）。官网：<https://www.aat.gov.au/>。
 
 ### 申诉流程
 
@@ -208,13 +208,13 @@ Department of Home Affairs
 
 ### 中文服务可用性
 
-中国大陆申请人可通过VFS Global预约中文服务，所有AVAC均提供全程中文指引。内政部官网设有简体中文专区，涵盖常见问题解答及表格填写示例。如需法律代理，建议选择持有澳大利亚移民代理注册局（MARA）牌照的中文代理（可在MARA官网查询：https://www.mara.gov.au/）。
+中国大陆申请人可通过VFS Global预约中文服务，所有AVAC均提供全程中文指引。内政部官网设有简体中文专区，涵盖常见问题解答及表格填写示例。如需法律代理，建议选择持有澳大利亚移民代理注册局（MARA）牌照的中文代理（可在MARA官网查询：<https://www.mara.gov.au/>）。
 
 ## FAQ
 
 ### Q1: 中国大陆申请人如何预约生物识别信息采集？
 
-申请人需通过VFS Global官网（https://www.vfsglobal.com/australia/china/）选择所在城市的签证申请中心，在“预约”模块中选择“生物识别信息采集”服务，填写护照信息并选择日期。预约成功后，需携带护照、预约确认单及签证申请费收据前往。服务费为197元人民币，可现场支付。
+申请人需通过VFS Global官网（<https://www.vfsglobal.com/australia/china/>）选择所在城市的签证申请中心，在“预约”模块中选择“生物识别信息采集”服务，填写护照信息并选择日期。预约成功后，需携带护照、预约确认单及签证申请费收据前往。服务费为197元人民币，可现场支付。
 
 ### Q2: 签证费用可以用人民币支付吗？
 

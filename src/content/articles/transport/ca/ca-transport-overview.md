@@ -177,7 +177,7 @@ Canada
 
 ### Q2: 中国大陆人士如何在加拿大注册无人机？
 中国大陆人士若为加拿大永久居民或临时居民（持有有效学签或工签），可在加拿大交通部官网注册无人机。步骤如下：
-1. 访问加拿大交通部无人机门户（https://tc.canada.ca/en/aviation/drone-safety）。
+1. 访问加拿大交通部无人机门户（<https://tc.canada.ca/en/aviation/drone-safety>）。
 2. 创建个人账户（需提供加拿大地址及联系方式）。
 3. 完成在线考试（Basic Operations Exam，费用10加元；或Advanced Operations Exam，费用25加元）。
 4. 支付注册费（5加元/年，无人机重量超过250克）。

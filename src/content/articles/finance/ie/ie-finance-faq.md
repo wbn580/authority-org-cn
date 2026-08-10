@@ -53,7 +53,7 @@ draft: false
 **A1:** 总部地址为：Central Bank of Ireland, New Wapping Street, North Wall Quay, Dublin 1, D01 F7X3, Ireland。总机电话：+353 (0)1 224 6000。监管咨询专线：+353 (0)1 224 5800（周一至周五 09:00-17:00）。电子邮件：enquiries@centralbank.ie。监管申请相关查询：authorisations@centralbank.ie。2026年，央行在都柏林、科克及利默里克设有区域办公室，但总部为唯一对外受理监管申请的地点。
 
 ### Q2: 是否存在在线服务门户？如何注册？
-**A2:** 是。央行运营“监管数据与申请门户”（Regulatory Data and Applications Portal, RDAP），网址为：https://rdap.centralbank.ie。2026年，所有新申请（包括支付机构、电子货币机构、投资公司）均需通过RDAP提交。注册流程：机构需先发送邮件至authorisations@centralbank.ie申请注册密钥，通常在5个工作日内获得。注册后，需上传公司注册证书（CRO证书）、实益所有权声明及合规官任命信。
+**A2:** 是。央行运营“监管数据与申请门户”（Regulatory Data and Applications Portal, RDAP），网址为：<https://rdap.centralbank.ie>。2026年，所有新申请（包括支付机构、电子货币机构、投资公司）均需通过RDAP提交。注册流程：机构需先发送邮件至authorisations@centralbank.ie申请注册密钥，通常在5个工作日内获得。注册后，需上传公司注册证书（CRO证书）、实益所有权声明及合规官任命信。
 
 ### Q3: 爱尔兰央行的办公时间与节假日安排如何？
 **A3:** 办公时间为周一至周五 09:00-17:00（爱尔兰标准时间，UTC+0/UTC+1夏令时）。2026年法定假日包括：元旦（1月1日）、圣帕特里克节（3月17日）、复活节周一（4月6日）、五月银行假日（5月4日）、六月银行假日（6月1日）、八月银行假日（8月3日）、十月银行假日（10月26日）、圣诞节（12月25日）及圣斯蒂芬节（12月26日）。节假日期间，RDAP系统仍可提交，但处理将顺延至下一工作日。

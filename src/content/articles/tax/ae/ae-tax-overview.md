@@ -49,7 +49,7 @@ draft: false
 
 ## 总部、官网与联系方式
 
-FTA总部位于阿联酋首都阿布扎比，同时在迪拜设有主要区域办公室。具体地址为：Federal Tax Authority, Al Ma’arid Area, Abu Dhabi, United Arab Emirates。其官方网站为：https://tax.gov.ae，提供阿拉伯语和英语双语界面。该平台是纳税人进行税务注册、申报、支付、查询和申诉的唯一官方线上入口。
+FTA总部位于阿联酋首都阿布扎比，同时在迪拜设有主要区域办公室。具体地址为：Federal Tax Authority, Al Ma’arid Area, Abu Dhabi, United Arab Emirates。其官方网站为：<https://tax.gov.ae>，提供阿拉伯语和英语双语界面。该平台是纳税人进行税务注册、申报、支付、查询和申诉的唯一官方线上入口。
 
 联系方式方面，FTA设立全国统一客服中心，号码为600-599-994（阿联酋境内拨打），工作时间为周一至周五上午8:00至下午6:00（阿联酋标准时间，UTC+4）。海外纳税人可通过国际电话+971-2-614-3333联系。此外，FTA提供在线工单系统（e-Service）和电子邮件支持（info@tax.gov.ae）。社交媒体渠道包括Twitter/X（@FederalTaxAuth）和LinkedIn（Federal Tax Authority）。对于增值税和企业所得税的技术性咨询，FTA设有专门的税务政策咨询邮箱（taxpolicy@tax.gov.ae）。
 

@@ -180,13 +180,13 @@ BMAS官网则提供中文版政策摘要，但核心法律文件（如SGB III）
 
 ## 参考资料节
 
-1. **BMAS官网**：https://www.bmas.de，包含2025年《德国就业议程》及2026年组织手册。
-2. **BA官网**：https://www.arbeitsagentur.de，提供中文服务页面及2025年年度报告。
-3. **《社会法典》第三卷（SGB III）**：德国联邦司法部官网（https://www.gesetze-im-internet.de/sgb_3/），2025年修订版。
+1. **BMAS官网**：<https://www.bmas.de>，包含2025年《德国就业议程》及2026年组织手册。
+2. **BA官网**：<https://www.arbeitsagentur.de>，提供中文服务页面及2025年年度报告。
+3. **《社会法典》第三卷（SGB III）**：德国联邦司法部官网（<https://www.gesetze-im-internet.de/sgb_3/>），2025年修订版。
 4. **《劳动保护法》（ArbSchG）**：德国联邦司法部官网，2024年修订版。
 5. **《移民法》（AufenthG）**：德国联邦政府公报（Bundesgesetzblatt），2026年修订第18-21条。
 6. **BA 2025年中期报告**：BA内部出版物，2025年7月发布，统计失业金申请量。
 7. **BMAS 2026年公报**：BMAS新闻稿，2026年3月，关于失业金领取期限延长。
 8. **IAB劳动市场报告**：劳动市场与职业研究所（IAB），2025年第四季度报告。
-9. **德国联邦政府公报**：https://www.bundesgesetzblatt.de，2024-2026年相关法律修订。
+9. **德国联邦政府公报**：<https://www.bundesgesetzblatt.de>，2024-2026年相关法律修订。
 10. **BA 2026年客户服务报告**：BA内部文件，2026年5月，统计中文服务使用量。

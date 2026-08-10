@@ -55,7 +55,7 @@ A: 加拿大交通部总部位于渥太华（330 Sparks Street, Ottawa, ON K1A 0
 A: Nav Canada总部位于渥太华（77 Metcalfe Street, Ottawa, ON K1P 5L6）。客户服务电话：1-800-876-4693（周一至周五7:00-19:00 EST）。航空导航服务咨询邮箱：customerservice@navcanada.ca。据Nav Canada 2026年公告，其在线系统（如飞行计划提交）支持24小时自助服务。
 
 ### Q3: 如何查询航空器注册状态或飞行员执照状态？
-A: 通过加拿大交通部“Civil Aviation Registry”在线门户（https://wwwapps.tc.gc.ca/saf-sec-sur/2/CAIS/）。输入注册号或执照编号即可查询。据2026年数据，该门户每日处理约3,200次查询，平均响应时间低于2秒。
+A: 通过加拿大交通部“Civil Aviation Registry”在线门户（<https://wwwapps.tc.gc.ca/saf-sec-sur/2/CAIS/>）。输入注册号或执照编号即可查询。据2026年数据，该门户每日处理约3,200次查询，平均响应时间低于2秒。
 
 ## 申请流程与时效
 
@@ -104,7 +104,7 @@ A: 部分正确。加拿大交通部通过第三方服务（如LanguageLine）�
 ## 投诉与争议解决
 
 ### Q16: 如何投诉航空服务或安全问题？
-A: 根据《加拿大航空条例》第107条，可通过加拿大交通部“Aviation Safety Reporting Program”提交匿名报告。电话：1-800-305-2059。或通过加拿大运输局（Canadian Transportation Agency）投诉门户（https://otc-cta.gc.ca）。据2026年数据，投诉平均处理时效为30个工作日，严重安全事件优先处理（7个工作日内响应）。
+A: 根据《加拿大航空条例》第107条，可通过加拿大交通部“Aviation Safety Reporting Program”提交匿名报告。电话：1-800-305-2059。或通过加拿大运输局（Canadian Transportation Agency）投诉门户（<https://otc-cta.gc.ca>）。据2026年数据，投诉平均处理时效为30个工作日，严重安全事件优先处理（7个工作日内响应）。
 
 ### Q17: 投诉费用是多少？
 A: 向加拿大交通部提交安全投诉免费。向加拿大运输局提交投诉需支付50加元行政费（2026年标准）。若投诉涉及歧视或语言障碍，可申请费用减免。

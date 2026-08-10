@@ -46,7 +46,7 @@ draft: false
 
 印度尼西亚税务主管部门为财政部下属的税务总局（Direktorat Jenderal Pajak, DJP）。据DJP 2026年第一季度工作报告，DJP在全国设有34个省级税务办公室（Kanwil）、352个地方税务服务办公室（KPP）以及186个税务咨询与服务点（KP2KP）。DJP的核心职责包括税收征管、税务稽查、税务合规监督以及纳税人教育。依据《税收程序一般规则法》（Undang-Undang Ketentuan Umum dan Tata Cara Perpajakan, UU KUP）2023年修正案（2023年第6号法律），DJP的权力范围进一步扩展至数字经济税收征管与国际税收信息交换。
 
-DJP总部地址：Jl. Jenderal Gatot Subroto No. 40-42, Jakarta Selatan, DKI Jakarta 12190。总部总机电话：+62-21-5250208。服务热线：1500200（全国统一，周一至周五08:00-17:00）。电子邮箱：pengaduan@pajak.go.id。官方网站：https://www.pajak.go.id。
+DJP总部地址：Jl. Jenderal Gatot Subroto No. 40-42, Jakarta Selatan, DKI Jakarta 12190。总部总机电话：+62-21-5250208。服务热线：1500200（全国统一，周一至周五08:00-17:00）。电子邮箱：pengaduan@pajak.go.id。官方网站：<https://www.pajak.go.id>。
 
 ## 二、主要办公地点与营业时间
 
@@ -92,7 +92,7 @@ DJP总部地址：Jl. Jenderal Gatot Subroto No. 40-42, Jakarta Selatan, DKI Jak
 
 DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过以下步骤预约：
 
-1. 登录DJP官网（https://www.pajak.go.id），点击“Layanan” -> “Janji Temu”；
+1. 登录DJP官网（<https://www.pajak.go.id>），点击“Layanan” -> “Janji Temu”；
 2. 选择所在省份与城市，系统自动显示可预约的KPP/KP2KP列表；
 3. 选择服务类型（如NPWP申请、税务咨询、投诉等）；
 4. 选择日期与时间段（每时段30分钟）；
@@ -174,9 +174,9 @@ DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过�
 
 ### 6.4 替代中文渠道
 
-- **DJP官网中文版**：https://www.pajak.go.id/zh（2026年5月更新，提供主要表格下载、常见问题解答、政策摘要）
+- **DJP官网中文版**：<https://www.pajak.go.id/zh>（2026年5月更新，提供主要表格下载、常见问题解答、政策摘要）
 - **中国驻印尼大使馆经商处**：提供印尼税务政策简报与咨询（电话：+62-21-5761039，邮箱：id@mofcom.gov.cn）
-- **印尼中国商会总会**：定期举办税务合规讲座（官网：https://www.chinachamber.or.id）
+- **印尼中国商会总会**：定期举办税务合规讲座（官网：<https://www.chinachamber.or.id>）
 
 ## 七、处理时效
 
@@ -194,7 +194,7 @@ DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过�
 10、 服务项目 税务争议行政复议 · 标准处理时效 **12个月** · 备注 自提交申请之日起
 11、 服务项目 税务咨询（现场） · 标准处理时效 **30分钟** · 备注 需预约，实际等待时间视人流量
 
-**数据来源**：DJP 2026年第一季度服务时效统计报告（https://www.pajak.go.id/statistik/layanan）。
+**数据来源**：DJP 2026年第一季度服务时效统计报告（<https://www.pajak.go.id/statistik/layanan>）。
 
 ## 八、投诉与申诉
 
@@ -203,7 +203,7 @@ DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过�
 纳税人若对税务服务或工作人员行为不满，可通过以下渠道投诉：
 
 1. **DJP投诉热线**：1500200（按“Pengaduan”选项），周一至周五08:00-17:00
-2. **DJP官网投诉门户**：https://www.pajak.go.id/pengaduan（需填写投诉表格并上传证据）
+2. **DJP官网投诉门户**：<https://www.pajak.go.id/pengaduan>（需填写投诉表格并上传证据）
 3. **财政部监察总局（Itjen Kemenkeu）**：电话+62-21-34833666，邮箱：itjen@kemenkeu.go.id
 4. **印尼监察专员公署（Ombudsman RI）**：电话+62-21-3851234，官网：https://www.ombudsman.go.id
 
@@ -234,7 +234,7 @@ DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过�
 
 **申请步骤**：
 1. 准备材料：有效护照（原件及复印件）、印尼居留许可（KITAS/KITAP）、工作合同或收入证明、印尼手机号码（用于接收验证码）；
-2. 登录DJP e-Registration系统（https://ereg.pajak.go.id），选择“WNI/WNA”中的“WNA”选项；
+2. 登录DJP e-Registration系统（<https://ereg.pajak.go.id>），选择“WNI/WNA”中的“WNA”选项；
 3. 填写个人信息，上传护照扫描件与KITAS扫描件；
 4. 提交后，系统生成NPWP号码（格式：XX.XXX.XXX.X-XXX.XXX）；
 5. 电子NPWP证书（SKT）将在**1个工作日**内发送至注册邮箱。实体卡（Kartu NPWP）可选择邮寄或至KPP领取。
@@ -245,7 +245,7 @@ DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过�
 
 ### 9.2 税务申报
 
-- **个人所得税年度申报**：每年1月1日至3月31日申报上一年度收入。通过e-Filing系统（https://efiling.pajak.go.id）提交1770表（年收入超过**60,000,000印尼盾**）或1770-SS表（年收入低于**60,000,000印尼盾**）。
+- **个人所得税年度申报**：每年1月1日至3月31日申报上一年度收入。通过e-Filing系统（<https://efiling.pajak.go.id>）提交1770表（年收入超过**60,000,000印尼盾**）或1770-SS表（年收入低于**60,000,000印尼盾**）。
 - **月度预扣税申报**：雇主代扣代缴的PPh 21，由雇主每月提交1107表。若为自由职业者，需自行按季度提交PPh 25/29。
 - **增值税申报**：若年营业额超过**4,800,000,000印尼盾**（约240万人民币），需注册为增值税纳税人（PKP），每月提交1111表。
 
@@ -270,7 +270,7 @@ DJP自2024年起全面推行“Pajak Online”预约系统。纳税人须通过�
 
 ### Q2: DJP的中文服务是否免费？如何预约？
 
-**A2:** DJP提供的中文服务（包括口头翻译、基础表格填写指导）完全免费，无需额外费用。预约方式：登录DJP官网（https://www.pajak.go.id）的“Janji Temu”系统，在服务类型中选择“Layanan Bahasa Mandarin”，然后选择配备中文专员的KPP（如雅加达南区KPP Tebet）。预约需至少提前**1个工作日**。目前全国**12个**KPP提供中文服务，主要集中在雅加达、泗水、巴淡岛等地。复杂税务问题（如转让定价、税务稽查）的中文协助需聘请持牌税务顾问。
+**A2:** DJP提供的中文服务（包括口头翻译、基础表格填写指导）完全免费，无需额外费用。预约方式：登录DJP官网（<https://www.pajak.go.id>）的“Janji Temu”系统，在服务类型中选择“Layanan Bahasa Mandarin”，然后选择配备中文专员的KPP（如雅加达南区KPP Tebet）。预约需至少提前**1个工作日**。目前全国**12个**KPP提供中文服务，主要集中在雅加达、泗水、巴淡岛等地。复杂税务问题（如转让定价、税务稽查）的中文协助需聘请持牌税务顾问。
 
 ### Q3: 个人所得税年度申报逾期，罚款标准是多少？
 

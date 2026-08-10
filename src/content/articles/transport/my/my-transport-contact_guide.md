@@ -67,7 +67,7 @@ draft: false
 - **传真**：+603-5518 4010。
 - **电子邮箱**：[email protected]（一般咨询）；[email protected]（执照相关）。
 - **官方网站**：www.caam.gov.my。
-- **预约方式**：必须通过eLicensing系统（https://elicensing.caam.gov.my）预约。现场不接待未经预约的申请。预约确认邮件需打印携带。
+- **预约方式**：必须通过eLicensing系统（<https://elicensing.caam.gov.my>）预约。现场不接待未经预约的申请。预约确认邮件需打印携带。
 - **常见表格清单**：
   - CAAM Form 1：飞行员执照申请/更新
   - CAAM Form 2：飞机注册证书申请
@@ -96,7 +96,7 @@ draft: false
 - **客服热线**：+603-8000 8000（JPJ专属选项，按3）。
 - **电子邮箱**：[email protected]。
 - **官方网站**：www.jpj.gov.my。
-- **预约方式**：必须通过JPJ在线预约系统（https://public.jpj.gov.my）预约。部分分行提供Walk-in服务，但仅限特定业务（如路税续期）。驾照考试需通过JPJ授权的驾校（约200所，名单见JPJ官网）预约。
+- **预约方式**：必须通过JPJ在线预约系统（<https://public.jpj.gov.my>）预约。部分分行提供Walk-in服务，但仅限特定业务（如路税续期）。驾照考试需通过JPJ授权的驾校（约200所，名单见JPJ官网）预约。
 - **常见表格清单**：
   - JPJ L1：驾驶执照申请（新发）
   - JPJ L2：驾驶执照更新

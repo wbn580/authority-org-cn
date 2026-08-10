@@ -72,7 +72,7 @@ draft: false
 - **总部地址**：C/ Agustín de Bethencourt, 4, 28003 Madrid
 - **电话咨询**：+34 901 11 99 99（全国统一收费，每分钟约0.06欧元，高峰时段平均等待时间8-12分钟）
 - **电子邮箱**：informacion@mites.gob.es（普通咨询回复周期3-5个工作日）
-- **线上平台**：Sede Electrónica del MITES（https://sede.mites.gob.es），支持电子签名与身份认证。
+- **线上平台**：Sede Electrónica del MITES（<https://sede.mites.gob.es>），支持电子签名与身份认证。
 - **SEPE就业局**：电话+34 901 11 99 99 / 线上https://www.sepe.es
 - **TGSS社保局**：电话+34 901 50 20 50 / 线上https://www.seg-social.es
 
@@ -107,7 +107,7 @@ draft: false
 - **职业培训**：提供补贴课程（2026年预算为4.2亿欧元）。
 - **工作许可咨询**：外籍人士就业资格验证。
 **注册方式（2026年）**：
-1. **线上**：通过SEPE官网（https://www.sepe.es）使用电子证书或Cl@ve系统注册，耗时10-15分钟。
+1. **线上**：通过SEPE官网（<https://www.sepe.es>）使用电子证书或Cl@ve系统注册，耗时10-15分钟。
 2. **线下**：预约CITA PREVIA（电话+34 901 11 99 99或线上），前往SEPE办公室。2026年数据显示，线下平均等待时间为7-10个工作日。
 3. **所需材料**：DNI/NIE/护照、社保号码、银行账户IBAN、简历（可选）。
 4. **费用**：免费。
@@ -211,7 +211,7 @@ draft: false
 ### Q14: 如何查询个人社保缴费记录（Vida Laboral）？
 
 **A:** 社保缴费记录（Informe de Vida Laboral）显示所有工作期间与缴费情况。
-- **在线查询**：通过TGSS的Sede Electrónica（https://sede.seg-social.gob.es），使用电子证书、Cl@ve系统或短信验证码。2026年数据显示，95%的查询在5分钟内完成。
+- **在线查询**：通过TGSS的Sede Electrónica（<https://sede.seg-social.gob.es>），使用电子证书、Cl@ve系统或短信验证码。2026年数据显示，95%的查询在5分钟内完成。
 - **电话查询**：+34 901 50 20 50，需提供NIE/社保号与出生日期。平均等待时间8分钟。
 - **线下查询**：预约CITA PREVIA前往TGSS办公室，现场打印。
 - **费用**：免费。每年可免费获取3次，超过后每次需支付0.30欧元（2026年标准）。
@@ -244,7 +244,7 @@ draft: false
 ### Q18: 如何投诉雇主违法行为（如未支付工资、社保欺诈）？
 
 **A:** 投诉渠道：
-1. **劳工监察局（ITSS）**：通过MITES线上平台（https://www.mites.gob.es/itss）提交匿名或实名投诉。2026年处理周期为30-60个工作日。
+1. **劳工监察局（ITSS）**：通过MITES线上平台（<https://www.mites.gob.es/itss>）提交匿名或实名投诉。2026年处理周期为30-60个工作日。
 2. **SEPE**：若涉及失业津贴欺诈，可致电+34 901 11 99 99。
 3. **劳动法庭（Juzgado de lo Social）**：对于工资纠纷、解雇赔偿等，需在20个工作日内提起诉讼。
 4. **工会**：可寻求UGT、CCOO等工会协助（免费或低成本）。

@@ -42,7 +42,7 @@ draft: false
 - **总机电话**：+972-2-560-2222（工作时间：周日至周四 08:30–16:30，以色列当地时间；周五及犹太节假日休息）。
 - **传真**：+972-2-560-2223。
 - **电子邮箱**：info@education.gov.il（一般咨询）；针对中国大陆居民可尝试使用英文或希伯来文，中文邮件需自行翻译。
-- **官方网站**：https://www.gov.il/he/departments/ministry_of_education（希伯来文/英文/阿拉伯文界面；中文页面未设独立入口）。
+- **官方网站**：<https://www.gov.il/he/departments/ministry_of_education>（希伯来文/英文/阿拉伯文界面；中文页面未设独立入口）。
 
 **区域办事处**：教育部下设6个区域办公室（北部、海法、中央、特拉维夫、耶路撒冷、南部），负责属地教育事务。具体地址可于Gov.il门户检索“Regional Education Offices”。据2026年数据，特拉维夫区域办公室地址为37 HaBarzel St., Tel Aviv 6971008，电话+972-3-695-8000。
 

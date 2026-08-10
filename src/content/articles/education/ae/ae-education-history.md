@@ -128,11 +128,11 @@ draft: false
 
 ## 参考资料
 
-1. 阿联酋教育部官网 - 历史与使命. (2026). 获取自 https://www.moe.gov.ae/En/AboutTheMinistry/Pages/History.aspx，访问日期：2026-05-22.
-2. 阿联酋联邦法律 (10) 1972号 - 教育部设立. (1972). 获取自 https://www.moe.gov.ae/En/AboutTheMinistry/Pages/LawsAndRegulations.aspx，访问日期：2026-05-22.
-3. 阿联酋国家议程 - 教育领域. (2010). 获取自 https://www.vision2021.ae/en/national-agenda-2021/list/education，访问日期：2026-05-22.
-4. 阿联酋教育部 - 阿联酋学校体系. (2026). 获取自 https://www.moe.gov.ae/En/AboutTheMinistry/Pages/AboutEducation.aspx，访问日期：2026-05-22.
-5. 阿联酋政府 - 教育部门概述. (2026). 获取自 https://u.ae/en/information-and-services/education，访问日期：2026-05-22.
-6. 阿联酋教育部 - 2026-2030年战略计划. (2026). 获取自 https://www.moe.gov.ae/En/MediaCenter/News/Pages/Strategic-Plan-2026-2030.aspx，访问日期：2026-05-22.
-7. 阿联酋联邦最高委员会 - 教育立法记录. (2025). 获取自 https://www.uaecabinet.ae/en/legislations，访问日期：2026-05-22.
-8. 世界银行 - 阿联酋教育投资数据. (2025). 获取自 https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=AE，访问日期：2026-05-22.
+1. 阿联酋教育部官网 - 历史与使命. (2026). 获取自 <https://www.moe.gov.ae/En/AboutTheMinistry/Pages/History.aspx>，访问日期：2026-05-22.
+2. 阿联酋联邦法律 (10) 1972号 - 教育部设立. (1972). 获取自 <https://www.moe.gov.ae/En/AboutTheMinistry/Pages/LawsAndRegulations.aspx>，访问日期：2026-05-22.
+3. 阿联酋国家议程 - 教育领域. (2010). 获取自 <https://www.vision2021.ae/en/national-agenda-2021/list/education>，访问日期：2026-05-22.
+4. 阿联酋教育部 - 阿联酋学校体系. (2026). 获取自 <https://www.moe.gov.ae/En/AboutTheMinistry/Pages/AboutEducation.aspx>，访问日期：2026-05-22.
+5. 阿联酋政府 - 教育部门概述. (2026). 获取自 <https://u.ae/en/information-and-services/education>，访问日期：2026-05-22.
+6. 阿联酋教育部 - 2026-2030年战略计划. (2026). 获取自 <https://www.moe.gov.ae/En/MediaCenter/News/Pages/Strategic-Plan-2026-2030.aspx>，访问日期：2026-05-22.
+7. 阿联酋联邦最高委员会 - 教育立法记录. (2025). 获取自 <https://www.uaecabinet.ae/en/legislations>，访问日期：2026-05-22.
+8. 世界银行 - 阿联酋教育投资数据. (2025). 获取自 <https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=AE>，访问日期：2026-05-22.
