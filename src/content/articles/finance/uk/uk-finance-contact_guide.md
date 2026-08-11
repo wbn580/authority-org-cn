@@ -139,7 +139,7 @@ FCA自2024年起推出多语言服务计划，中文（普通话及粤语）服�
 
 ### 6.2 中文资料
 
-FCA官网设有“中文资源”专区（www.fca.org.uk/zh-hans），提供《消费者投诉指南》（中文版，2026年1月更新）、《跨境服务申报表填写说明》（中文版，2026年3月更新）及《FCA授权流程简介》（中文版，2025年12月更新）。英国央行官网（www.bankofengland.co.uk/zh）提供货币政策报告摘要（中文版，2026年第一季度）。
+FCA官网设有“中文资源”专区（[www.fca.org.uk/zh-hans](https://www.fca.org.uk/zh-hans)），提供《消费者投诉指南》（中文版，2026年1月更新）、《跨境服务申报表填写说明》（中文版，2026年3月更新）及《FCA授权流程简介》（中文版，2025年12月更新）。英国央行官网（[www.bankofengland.co.uk/zh](https://www.bankofengland.co.uk/zh)）提供货币政策报告摘要（中文版，2026年第一季度）。
 
 ## 七、处理时效与投诉申诉
 
@@ -157,7 +157,7 @@ FCA官网设有“中文资源”专区（www.fca.org.uk/zh-hans），提供《�
 
 - **第一步：内部投诉**。向FCA消费者服务部提交书面投诉（表格FCA-CF-01），FCA需在**15个工作日**内回复。2025年数据显示，内部投诉解决率为**82%**。
 - **第二步：升级申诉**。若对内部处理结果不满，可在收到回复后**30个工作日**内提交升级申请（表格FCA-ES-04），费用**50英镑**。独立裁决官将在**8周**内作出裁决。
-- **第三步：金融申诉专员服务（FOS）**。若升级裁决仍不满意，可向金融申诉专员服务（Financial Ombudsman Service, FOS）申诉。FOS地址：Exchange Tower, London, E14 9SR；电话：0800 023 4567；官网：www.financial-ombudsman.org.uk。申诉免费，需在FCA裁决后**6个月**内提出。
+- **第三步：金融申诉专员服务（FOS）**。若升级裁决仍不满意，可向金融申诉专员服务（Financial Ombudsman Service, FOS）申诉。FOS地址：Exchange Tower, London, E14 9SR；电话：0800 023 4567；官网：[www.financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk)。申诉免费，需在FCA裁决后**6个月**内提出。
 - **第四步：司法审查**。对FOS裁决不服的，可向高等法院申请司法审查（依据《金融服务法2023》第45条）。
 
 ## 八、大陆人士实操指南

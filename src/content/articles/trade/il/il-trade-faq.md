@@ -41,7 +41,7 @@ draft: false
 
 ### Q1: 以色列贸易与海关主管部门的具体联系方式是什么？
 
-**A1:** 以色列经济与工业部外贸管理局（Foreign Trade Administration）负责贸易政策与许可证审批，地址：5 Bank of Israel Street, Jerusalem 9103401；电话：+972-2-666-2222；电子邮箱：trade@economy.gov.il；官网：www.economy.gov.il。以色列海关总署（负责清关与关税）的中央咨询热线：\*9027（以色列境内）或 +972-3-763-3000（境外）；电子邮箱：customers@customs.mof.gov.il；办公时间：周日至周四08:00-16:00（以色列时间）。依据《以色列海关法》（Customs Ordinance 1929, 2025年修订版）第12条规定，企业可通过海关电子平台“Shoham”提交查询。
+**A1:** 以色列经济与工业部外贸管理局（Foreign Trade Administration）负责贸易政策与许可证审批，地址：5 Bank of Israel Street, Jerusalem 9103401；电话：+972-2-666-2222；电子邮箱：trade@economy.gov.il；官网：[www.economy.gov.il](https://www.economy.gov.il)。以色列海关总署（负责清关与关税）的中央咨询热线：\*9027（以色列境内）或 +972-3-763-3000（境外）；电子邮箱：customers@customs.mof.gov.il；办公时间：周日至周四08:00-16:00（以色列时间）。依据《以色列海关法》（Customs Ordinance 1929, 2025年修订版）第12条规定，企业可通过海关电子平台“Shoham”提交查询。
 
 ### Q2: 进口到以色列是否需要进口许可证？如何查询？
 

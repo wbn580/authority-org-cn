@@ -113,7 +113,7 @@ draft: false
 
 ### 5.2 中文服务可用性
 
-根据以色列交通部2026年4月发布的《外国驾驶员服务指南》（中文版），特拉维夫、耶路撒冷及海法的交通服务办公室（Mishpat HaDerech）已配备中文翻译设备或提供中文在线预约服务。理论考试支持中文、阿拉伯语、英语、俄语等12种语言。此外，以色列交通部官网（www.gov.il/he/departments/ministry_of_transport）提供简体中文版《外国驾驶员须知》PDF下载，包含驾驶规则、罚款标准及紧急联系方式。
+根据以色列交通部2026年4月发布的《外国驾驶员服务指南》（中文版），特拉维夫、耶路撒冷及海法的交通服务办公室（Mishpat HaDerech）已配备中文翻译设备或提供中文在线预约服务。理论考试支持中文、阿拉伯语、英语、俄语等12种语言。此外，以色列交通部官网（[www.gov.il/he/departments/ministry_of_transport](https://www.gov.il/he/departments/ministry_of_transport)）提供简体中文版《外国驾驶员须知》PDF下载，包含驾驶规则、罚款标准及紧急联系方式。
 
 ## 六、对大陆人士的潜在影响
 

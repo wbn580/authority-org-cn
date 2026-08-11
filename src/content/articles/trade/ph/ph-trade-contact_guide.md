@@ -62,7 +62,7 @@ draft: false
 根据DTI 2026年第03号部门行政令及BOC同期规定，所有现场业务办理需预约。
 
 ### DTI预约
-- **在线预约系统**：通过DTI官网“Online Appointment”模块（www.dti.gov.ph/appointment）选择服务类型（如企业注册、消费者投诉、出口认证），选择日期与时间段。
+- **在线预约系统**：通过DTI官网“Online Appointment”模块（[www.dti.gov.ph/appointment](https://www.dti.gov.ph/appointment)）选择服务类型（如企业注册、消费者投诉、出口认证），选择日期与时间段。
 - **邮件预约**：发送申请至appointment@dti.gov.ph，标题注明“预约申请+服务类型”，正文附姓名、联系方式、公司名称及所需文件清单。
 - **电话预约**：拨打+63 (2) 8790-8300转接预约部门，工作时间内人工受理。
 
@@ -139,7 +139,7 @@ draft: false
 ### 1. 前期准备
 - **文件公证**：所有中国大陆出具的证明文件（如营业执照、产品检验报告）需经中国外交部及菲律宾驻华使领馆双认证，并附英文翻译件。
 - **企业注册**：通过DTI在线系统提交“Foreign Business Name Registration”，需提供护照复印件、公司章程及董事会决议（英文版）。注册费PHP 500，处理周期5–7个工作日。
-- **HS编码确认**：通过BOC官网“Tariff Finder”工具（www.customs.gov.ph/tariff）查询商品编码，避免申报错误。
+- **HS编码确认**：通过BOC官网“Tariff Finder”工具（[www.customs.gov.ph/tariff](https://www.customs.gov.ph/tariff)）查询商品编码，避免申报错误。
 
 ### 2. 清关流程
 - **步骤一**：委托菲律宾本地报关行（需持BOC认证执照）代理申报。据BOC 2026年数据，超过95%的进口业务通过代理完成。
@@ -153,7 +153,7 @@ draft: false
 - **合规要求**：菲律宾对食品、药品、化妆品等有强制性进口许可，需提前向DTI下属的食品药品管理局（FDA）申请。
 
 ### 4. 实用建议
-- **使用本地代理**：推荐通过菲律宾报关行协会（CCAPI）官网（www.ccapi.ph）寻找持证代理。
+- **使用本地代理**：推荐通过菲律宾报关行协会（CCAPI）官网（[www.ccapi.ph](http://www.ccapi.ph)）寻找持证代理。
 - **加入商会**：菲律宾华商联总会（FFCCCII）提供中文法律及贸易咨询，地址：6/F, Federation Center, M. Adriatico St., Manila，电话：+63 (2) 8524-2131。
 - **关注政策更新**：订阅DTI及BOC邮件通知（官网底部“Subscribe”），获取最新关税调整及公告。
 
@@ -170,13 +170,13 @@ draft: false
 
 ## 参考资料
 
-1. 菲律宾贸易与工业部（DTI）。《2026年年度报告》。马尼拉：DTI出版，2026年。访问于2026年5月15日。www.dti.gov.ph/annual-report-2026。
-2. 菲律宾海关局（BOC）。《2026年行政令第2026-05号：进出口申报程序更新》。马尼拉：BOC，2026年3月。www.customs.gov.ph/ao2026-05。
+1. 菲律宾贸易与工业部（DTI）。《2026年年度报告》。马尼拉：DTI出版，2026年。访问于2026年5月15日。[www.dti.gov.ph/annual-report-2026](https://www.dti.gov.ph/annual-report-2026)。
+2. 菲律宾海关局（BOC）。《2026年行政令第2026-05号：进出口申报程序更新》。马尼拉：BOC，2026年3月。[www.customs.gov.ph/ao2026-05](https://www.customs.gov.ph/ao2026-05)。
 3. 菲律宾国会。《海关现代化与关税法案》（第10863号法案）。2016年。第110条（申诉程序）及第201条（关税税率）。菲律宾官方公报，2016年6月。
-4. 菲律宾贸易与工业部。《2026年第03号部门行政令：企业注册在线预约系统》。马尼拉：DTI，2026年1月。www.dti.gov.ph/dao2026-03。
-5. 菲律宾海关局官网。“Tariff Finder”工具及“e2m Customs”系统。访问于2026年5月20日。www.customs.gov.ph。
-6. 菲律宾报关行协会（CCAPI）。“持证报关行名录”。访问于2026年5月22日。www.ccapi.ph。
-7. 菲律宾华商联总会（FFCCCII）。“贸易咨询服务”。访问于2026年5月22日。www.ffcccii.org。
+4. 菲律宾贸易与工业部。《2026年第03号部门行政令：企业注册在线预约系统》。马尼拉：DTI，2026年1月。[www.dti.gov.ph/dao2026-03](https://www.dti.gov.ph/dao2026-03)。
+5. 菲律宾海关局官网。“Tariff Finder”工具及“e2m Customs”系统。访问于2026年5月20日。[www.customs.gov.ph](https://www.customs.gov.ph)。
+6. 菲律宾报关行协会（CCAPI）。“持证报关行名录”。访问于2026年5月22日。[www.ccapi.ph](http://www.ccapi.ph)。
+7. 菲律宾华商联总会（FFCCCII）。“贸易咨询服务”。访问于2026年5月22日。[www.ffcccii.org](https://www.ffcccii.org)。
 
 ---
 

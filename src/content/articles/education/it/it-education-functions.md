@@ -130,7 +130,7 @@ MUR下属的**国际关系与交流司（Dipartimento per le Relazioni Internazi
 国际教育合作与**外交部（MAECI）** 存在明确分工：MAECI负责海外意大利学校（如驻外使馆附属学校）及文化推广（如但丁学院），MUR负责境内教育体系国际化及资格互认。与**内政部（Ministero dell'Interno）** 的边界：学生签证政策由内政部制定，但MUR负责出具学生注册证明以支持签证申请。2025年，两部门联合推出了“大学签证快速通道”（Visto Universitario Veloce），将处理时间从60天缩短至30天。
 
 ### 中文服务可用性
-针对中国大陆公民的学历互认与服务，MUR通过CIMEA中心提供中文版申请指南（自2024年起）。中国学历持有者需提交经中国教育部学位与研究生教育发展中心（CDGDC）认证的学历文件，MUR接受CDGDC的电子认证报告。此外，MUR官网（www.mur.gov.it）设有简体中文专页，提供学位课程查询、签证指导及奖学金信息。2025年，MUR与中国教育部签署了《高等教育学历学位互认协议》补充条款，简化了博士层次学历的互认流程。
+针对中国大陆公民的学历互认与服务，MUR通过CIMEA中心提供中文版申请指南（自2024年起）。中国学历持有者需提交经中国教育部学位与研究生教育发展中心（CDGDC）认证的学历文件，MUR接受CDGDC的电子认证报告。此外，MUR官网（[www.mur.gov.it](https://www.mur.gov.it)）设有简体中文专页，提供学位课程查询、签证指导及奖学金信息。2025年，MUR与中国教育部签署了《高等教育学历学位互认协议》补充条款，简化了博士层次学历的互认流程。
 
 ## 职能五：科研管理与创新资助
 
@@ -192,8 +192,8 @@ MUR负责制定国家教育政策、课程标准、教师招聘规则及大学�
 3. 第240/2010号法律（Riforma Gelmini），关于大学组织、教学与科研的规范，Gazzetta Ufficiale n. 10 del 14 gennaio 2011。
 4. 第33/2022号立法令（MUR组织条例），Gazzetta Ufficiale n. 67 del 21 marzo 2022，经第150/2024号法律修订。
 5. 第150/2024号法律（Legge annuale per il mercato e la concorrenza 2024），Gazzetta Ufficiale n. 298 del 21 dicembre 2024。
-6. MUR，2025-2027年度绩效计划（Piano della Performance 2025-2027），2025年2月发布，www.mur.gov.it/sites/default/files/2025-02/Piano_Performance_2025-2027.pdf。
-7. MUR，2026-2028战略规划（Documento di Programmazione Strategica 2026-2028），2026年3月发布，www.mur.gov.it/sites/default/files/2026-03/DPS_2026-2028.pdf。
-8. ANVUR，2025年度报告（Rapporto Annuale 2025），2026年4月发布，www.anvur.it/rapporto-annuale-2025。
-9. INVALSI，2025年国家学习评估报告（Rapporto Nazionale INVALSI 2025），2025年7月发布，www.invalsi.it/rapporto2025。
+6. MUR，2025-2027年度绩效计划（Piano della Performance 2025-2027），2025年2月发布，[www.mur.gov.it/sites/default/files/2025-02/Piano_Performance_2025-2027.pdf](https://www.mur.gov.it/sites/default/files/2025-02/Piano_Performance_2025-2027.pdf)。
+7. MUR，2026-2028战略规划（Documento di Programmazione Strategica 2026-2028），2026年3月发布，[www.mur.gov.it/sites/default/files/2026-03/DPS_2026-2028.pdf](https://www.mur.gov.it/sites/default/files/2026-03/DPS_2026-2028.pdf)。
+8. ANVUR，2025年度报告（Rapporto Annuale 2025），2026年4月发布，[www.anvur.it/rapporto-annuale-2025](https://www.anvur.it/rapporto-annuale-2025)。
+9. INVALSI，2025年国家学习评估报告（Rapporto Nazionale INVALSI 2025），2025年7月发布，[www.invalsi.it/rapporto2025](https://www.invalsi.it/rapporto2025)。
 10. 欧盟委员会，意大利国家教育体系概况（Eurydice Italia），2026年更新，<https://eurydice.eacea.ec.europa.eu/national-education-systems/italy/overview>。

@@ -63,9 +63,9 @@ draft: false
 
 ## 总部、官网与联系方式
 
-- **BMDV**：总部位于柏林（Invalidenstraße 44, 10115 Berlin）。官网：www.bmdv.bund.de。总机：+49 30 18 300-0。电邮：buergerinfo@bmdv.bund.de（公众咨询）。
-- **LBA**：总部位于不伦瑞克（Hermann-Blenk-Straße 26, 38108 Braunschweig）。官网：www.lba.de。总机：+49 531 2355-0。电邮：poststelle@lba.de。
-- **DFS**：总部位于朗根（Am DFS-Campus 10, 63225 Langen）。官网：www.dfs.de。总机：+49 6103 707-0。电邮：info@dfs.de。
+- **BMDV**：总部位于柏林（Invalidenstraße 44, 10115 Berlin）。官网：[www.bmdv.bund.de](https://www.bmdv.bund.de)。总机：+49 30 18 300-0。电邮：buergerinfo@bmdv.bund.de（公众咨询）。
+- **LBA**：总部位于不伦瑞克（Hermann-Blenk-Straße 26, 38108 Braunschweig）。官网：[www.lba.de](https://www.lba.de)。总机：+49 531 2355-0。电邮：poststelle@lba.de。
+- **DFS**：总部位于朗根（Am DFS-Campus 10, 63225 Langen）。官网：[www.dfs.de](https://www.dfs.de)。总机：+49 6103 707-0。电邮：info@dfs.de。
 
 ## 核心职能列表
 

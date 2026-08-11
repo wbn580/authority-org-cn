@@ -104,7 +104,7 @@ draft: false
 
 ### 中文服务可用性
 
-PRA官方网站（www.pra.gov.ph）提供英文界面。在2026年2月备忘录生效后，PRA指定了数家持有合法资质的中国代理机构（名单公布于PRA官网“Accredited Marketing Agents”栏目）。这些机构提供中文咨询及材料预审服务。BI及PRA位于马尼拉的总部未设立专门中文柜台，但允许申请人携带翻译陪同办理。
+PRA官方网站（[www.pra.gov.ph](https://www.pra.gov.ph)）提供英文界面。在2026年2月备忘录生效后，PRA指定了数家持有合法资质的中国代理机构（名单公布于PRA官网“Accredited Marketing Agents”栏目）。这些机构提供中文咨询及材料预审服务。BI及PRA位于马尼拉的总部未设立专门中文柜台，但允许申请人携带翻译陪同办理。
 
 ## 政策变化三：投资移民签证（SIRV）签发标准修订（BOI 2024-2026年系列通知）
 

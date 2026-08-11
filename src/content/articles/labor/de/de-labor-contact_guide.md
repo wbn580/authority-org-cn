@@ -115,7 +115,7 @@ BA总部负责全国就业局运营标准与政策执行。
 ### 3.2 预约渠道
 
 **渠道一：在线预约（推荐）**
-- **平台**：BA官方网站（www.arbeitsagentur.de）->“Terminvereinbarung”（预约服务）
+- **平台**：BA官方网站（[www.arbeitsagentur.de](https://www.arbeitsagentur.de)）->“Terminvereinbarung”（预约服务）
 - **流程**：选择“外国人就业服务”->填写个人信息（姓名、护照号、邮箱）->选择城市与日期->确认后收到含PIN码的确认邮件
 - **语言**：页面支持德语、英语，部分功能支持法语、土耳其语、阿拉伯语
 - **等待时间**：据BA 2026年第一季度统计，外国人就业专窗平均等待时间为8-12个工作日（柏林、慕尼黑等大城市约14-18个工作日）
@@ -250,8 +250,8 @@ BA总部负责全国就业局运营标准与政策执行。
 
 ### 8.3 外部监督机构
 
-- **联邦数据保护专员**（BfDI）：如涉及个人信息泄露或数据滥用，可向该机构投诉（www.bfdi.bund.de）。
-- **德国联邦审计署**（Bundesrechnungshof）：如认为就业局存在系统性效率问题或资源浪费，可向该机构反映（www.bundesrechnungshof.de）。
+- **联邦数据保护专员**（BfDI）：如涉及个人信息泄露或数据滥用，可向该机构投诉（[www.bfdi.bund.de](https://www.bfdi.bund.de)）。
+- **德国联邦审计署**（Bundesrechnungshof）：如认为就业局存在系统性效率问题或资源浪费，可向该机构反映（[www.bundesrechnungshof.de](https://www.bundesrechnungshof.de)）。
 
 ## 九、中国大陆申请人实操指南
 

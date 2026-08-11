@@ -42,7 +42,7 @@ draft: false
 - **电话**：+33 (0)1 44 77 60 60（总机，周一至周五 09:00–18:00）
 - **办公时间**：周一至周五 09:00–12:30, 14:00–17:30（节假日除外）
 - **预约方式**：不直接接待公众；公众事务通过各地法院或法律援助办公室处理。
-- **官网**：www.justice.gouv.fr（法语；部分页面提供英语摘要）
+- **官网**：[www.justice.gouv.fr](https://www.justice.gouv.fr)（法语；部分页面提供英语摘要）
 
 ### 巴黎上诉法院（Cour d'appel de Paris）
 
@@ -50,7 +50,7 @@ draft: false
 - **电话**：+33 (0)1 44 32 50 00（总机）
 - **办公时间**：周一至周五 09:00–12:30, 14:00–16:30
 - **预约方式**：民事案件需通过在线平台预约（portail.justice.fr）；刑事案件无需预约，直接前往登记处。
-- **官网**：www.cours-appel.justice.fr/paris（法语）
+- **官网**：[www.cours-appel.justice.fr/paris](https://www.cours-appel.justice.fr/paris)（法语）
 
 ### 巴黎地方法院（Tribunal judiciaire de Paris）
 
@@ -58,7 +58,7 @@ draft: false
 - **电话**：+33 (0)1 44 32 80 00
 - **办公时间**：周一至周五 09:00–17:00（登记处 09:00–16:00）
 - **预约方式**：强制在线预约（通过portail.justice.fr），特殊紧急情况可电话预约。
-- **官网**：www.tribunal-de-paris.justice.fr（法语）
+- **官网**：[www.tribunal-de-paris.justice.fr](https://www.tribunal-de-paris.justice.fr)（法语）
 
 ### 法国公证人协会（Chambre nationale des notaires）
 
@@ -66,7 +66,7 @@ draft: false
 - **电话**：+33 (0)1 44 90 30 00
 - **办公时间**：周一至周五 09:00–12:30, 14:00–17:30
 - **预约方式**：通过各地公证事务所预约，中央协会不直接受理个人业务。
-- **官网**：www.notaires.fr（法语；提供英语、西班牙语、中文版本的部分内容）
+- **官网**：[www.notaires.fr](https://www.notaires.fr)（法语；提供英语、西班牙语、中文版本的部分内容）
 
 ### 法国法律援助局（Bureau d'Aide Juridictionnelle）
 
@@ -74,7 +74,7 @@ draft: false
 - **电话**：+33 (0)1 44 32 80 00（转法律援助分机）
 - **办公时间**：周一至周五 09:00–12:00, 14:00–16:00
 - **预约方式**：需提交书面申请（表格下载于service-public.fr），或通过法院登记处预约。
-- **官网**：www.service-public.fr/particuliers/vosdroits/N53（法语）
+- **官网**：[www.service-public.fr/particuliers/vosdroits/N53](https://www.service-public.fr/particuliers/vosdroits/N53)（法语）
 
 ## 常见表格清单与获取渠道
 
@@ -112,7 +112,7 @@ draft: false
 - **电话翻译服务**：巴黎上诉法院与地方法院提供通过第三方（如Interprétariat Justice）的实时电话翻译，需提前48小时预约。电话：+33 (0)1 44 32 50 00（转翻译服务）。
 - **书面材料翻译**：非法语文件需由司法部认可翻译（traducteur assermenté）提供法语译文。中国公证文书须经法国驻华使馆认证后，再由认可翻译完成法语翻译。
 - **在线资源**：Service-public.fr 提供部分表格的英语、西班牙语说明，但无中文版本。公证人协会官网（notaires.fr）提供中文版常见问题问答（FAQ）。
-- **律师协助**：建议大陆人聘请持有法国执业资格的华人律师或通过律师公会（Conseil national des barreaux）查询中文律师名单。律师公会官网：www.cnb.avocat.fr（法语）。
+- **律师协助**：建议大陆人聘请持有法国执业资格的华人律师或通过律师公会（Conseil national des barreaux）查询中文律师名单。律师公会官网：[www.cnb.avocat.fr](https://www.cnb.avocat.fr)（法语）。
 
 ## 处理时效
 
@@ -136,7 +136,7 @@ draft: false
 ### 对判决不服
 
 - **上诉**：一审判决后，须在1个月内（民事）或10天内（刑事紧急程序）向上诉法院提交上诉声明。
-- **向最高法院（Cour de cassation）申诉**：仅限法律适用错误，须在判决后2个月内提交。地址：5 Quai de l'Horloge, 75001 Paris；官网：www.courdecassation.fr。
+- **向最高法院（Cour de cassation）申诉**：仅限法律适用错误，须在判决后2个月内提交。地址：5 Quai de l'Horloge, 75001 Paris；官网：[www.courdecassation.fr](https://www.courdecassation.fr)。
 
 ### 对律师或公证人行为不满
 
@@ -148,7 +148,7 @@ draft: false
 ### 1. 文件准备与认证
 
 - **中国文件**：所有中国官方文件（身份证、结婚证、学历证明等）须先经中国外交部领事司认证，再经法国驻华使馆认证（双认证程序）。2026年，认证周期约2–4周。
-- **法语翻译**：认证后文件须由法国司法部认可翻译翻译成法语。翻译名单可在司法部官网（www.justice.gouv.fr）或各地法院登记处查询。翻译费用约每页50–80欧元。
+- **法语翻译**：认证后文件须由法国司法部认可翻译翻译成法语。翻译名单可在司法部官网（[www.justice.gouv.fr](https://www.justice.gouv.fr)）或各地法院登记处查询。翻译费用约每页50–80欧元。
 
 ### 2. 预约与到场
 

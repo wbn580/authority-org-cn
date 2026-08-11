@@ -65,7 +65,7 @@ draft: false
 
 ### Q2: 如何联系加拿大央行？有中文服务吗？
 
-**A2:** 加拿大央行总部位于渥太华（234 Wellington Street, Ottawa, ON K1A 0G9）。公众可通过电话（1-800-303-1282，加拿大境内免费）或电子邮件（info@bankofcanada.ca）联系。**央行官网（www.bankofcanada.ca）提供法语和英语服务，目前不提供中文语言版本**。中文媒体可通过其媒体关系部门（media@bankofcanada.ca）获取官方新闻稿，但无中文翻译支持。
+**A2:** 加拿大央行总部位于渥太华（234 Wellington Street, Ottawa, ON K1A 0G9）。公众可通过电话（1-800-303-1282，加拿大境内免费）或电子邮件（info@bankofcanada.ca）联系。**央行官网（[www.bankofcanada.ca](https://www.bankofcanada.ca)）提供法语和英语服务，目前不提供中文语言版本**。中文媒体可通过其媒体关系部门（media@bankofcanada.ca）获取官方新闻稿，但无中文翻译支持。
 
 ### Q3: OSFI监管哪些机构？监管标准是什么？
 
@@ -73,7 +73,7 @@ draft: false
 
 ### Q4: 如何向金融消费者局（FCAC）投诉银行？流程与时效？
 
-**A4:** 投诉流程分三步：1) **内部解决**：先向金融机构的客户投诉部门提交书面投诉。依据FCAC指引，机构须在**56天内**作出最终答复。2) **外部投诉**：若对答复不满或超时未获答复，可向FCAC提交投诉。可通过在线表格或致电1-866-461-3222（TTY: 1-866-846-8341）。3) **调查与处理**：FCAC通常在**30-60天**内完成评估，若认定机构违规，可处以行政罚款（2025年最高罚款额为单次100万加元，2026年未调整）。**中文服务**：FCAC官网（www.canada.ca/en/financial-consumer-agency）提供英语、法语，并设有**中文（简体与繁体）页面**，部分指南文件有中文翻译。电话服务仅提供英法双语。
+**A4:** 投诉流程分三步：1) **内部解决**：先向金融机构的客户投诉部门提交书面投诉。依据FCAC指引，机构须在**56天内**作出最终答复。2) **外部投诉**：若对答复不满或超时未获答复，可向FCAC提交投诉。可通过在线表格或致电1-866-461-3222（TTY: 1-866-846-8341）。3) **调查与处理**：FCAC通常在**30-60天**内完成评估，若认定机构违规，可处以行政罚款（2025年最高罚款额为单次100万加元，2026年未调整）。**中文服务**：FCAC官网（[www.canada.ca/en/financial-consumer-agency](https://www.canada.ca/en/financial-consumer-agency)）提供英语、法语，并设有**中文（简体与繁体）页面**，部分指南文件有中文翻译。电话服务仅提供英法双语。
 
 ### Q5: CDIC存款保障范围是什么？最高赔付多少？
 
@@ -97,7 +97,7 @@ draft: false
 
 ### Q10: 如何确认我的银行是否受CDIC保障？
 
-**A10:** 所有CDIC成员机构必须在营业网点、官网及账户协议中展示CDIC标志。可通过CDIC官网（www.cdic.ca）的“成员查询”功能输入机构名称验证。**注意**：即使同一品牌，不同子公司可能独立计算保障。例如，RBC Royal Bank与RBC Dominion Securities（投资部门）为不同法律实体，存款保障分别计算。
+**A10:** 所有CDIC成员机构必须在营业网点、官网及账户协议中展示CDIC标志。可通过CDIC官网（[www.cdic.ca](https://www.cdic.ca)）的“成员查询”功能输入机构名称验证。**注意**：即使同一品牌，不同子公司可能独立计算保障。例如，RBC Royal Bank与RBC Dominion Securities（投资部门）为不同法律实体，存款保障分别计算。
 
 ### Q11: 加拿大央行如何应对通货膨胀？2026年通胀目标是多少？
 
@@ -113,7 +113,7 @@ draft: false
 
 ### Q14: 如何向FCAC举报银行隐藏费用或不当销售？
 
-**A14:** 可通过以下方式向FCAC举报：1) **在线投诉系统**：www.canada.ca/en/financial-consumer-agency/services/complaints.html；2) **电话**：1-866-461-3222（TTY: 1-866-846-8341）；3) **邮寄**：FCAC, 427 Laurier Avenue West, 6th Floor, Ottawa, ON K1R 1B9。**流程**：FCAC要求先完成机构内部投诉（56天时限）。若机构未在56天内答复或答复不满意，FCAC将启动调查。2025年FCAC处理了约12,000起投诉，其中约30%涉及费用披露问题。**中文服务**：在线表格有中文翻译指引。
+**A14:** 可通过以下方式向FCAC举报：1) **在线投诉系统**：[www.canada.ca/en/financial-consumer-agency/services/complaints.html](https://www.canada.ca/en/financial-consumer-agency/services/complaints.html)；2) **电话**：1-866-461-3222（TTY: 1-866-846-8341）；3) **邮寄**：FCAC, 427 Laurier Avenue West, 6th Floor, Ottawa, ON K1R 1B9。**流程**：FCAC要求先完成机构内部投诉（56天时限）。若机构未在56天内答复或答复不满意，FCAC将启动调查。2025年FCAC处理了约12,000起投诉，其中约30%涉及费用披露问题。**中文服务**：在线表格有中文翻译指引。
 
 ### Q15: 加拿大央行的资产负债表规模是多少？2026年有何变化？
 
@@ -137,7 +137,7 @@ draft: false
 
 ### Q20: 如何获取OSFI的监管指引或年度报告？有中文吗？
 
-**A20:** OSFI所有监管指引（如B-20房贷承销指引、E-21操作韧性指引）及年度报告均发布于官网（www.osfi-bsif.gc.ca）。**语言**：仅提供英语和法语。**中文服务**：无官方中文翻译。部分第三方机构（如加拿大银行家协会）提供摘要性中文解读，但非官方来源。OSFI媒体关系部（media@osfi-bsif.gc.ca）可接受中文媒体问询，但回复为英语。
+**A20:** OSFI所有监管指引（如B-20房贷承销指引、E-21操作韧性指引）及年度报告均发布于官网（[www.osfi-bsif.gc.ca](https://www.osfi-bsif.gc.ca)）。**语言**：仅提供英语和法语。**中文服务**：无官方中文翻译。部分第三方机构（如加拿大银行家协会）提供摘要性中文解读，但非官方来源。OSFI媒体关系部（media@osfi-bsif.gc.ca）可接受中文媒体问询，但回复为英语。
 
 ### Q21: 加拿大央行是否直接向公众提供贷款或账户服务？
 

@@ -101,7 +101,7 @@ BIR在2024-2026年加速数字化转型。BIR Revenue Regulations No. 15-2025（
 
 ### 中文服务可用性
 
-BIR官方网站（www.bir.gov.ph）提供英文和菲律宾语版本，无中文界面。BIR Revenue Regulations和Memo Circular仅以英文发布。但BIR在2025年12月推出了“外籍纳税人帮助热线”（Foreign Taxpayer Helpline, 02-8531-7000），提供英文、中文和日语服务（工作日上午8点至下午5点）。此外，BIR马尼拉总部设有“国际税务服务台”（International Tax Desk），可预约中文翻译服务（需提前48小时通过邮件联系，邮箱：internationaltax@bir.gov.ph）。
+BIR官方网站（[www.bir.gov.ph](https://www.bir.gov.ph)）提供英文和菲律宾语版本，无中文界面。BIR Revenue Regulations和Memo Circular仅以英文发布。但BIR在2025年12月推出了“外籍纳税人帮助热线”（Foreign Taxpayer Helpline, 02-8531-7000），提供英文、中文和日语服务（工作日上午8点至下午5点）。此外，BIR马尼拉总部设有“国际税务服务台”（International Tax Desk），可预约中文翻译服务（需提前48小时通过邮件联系，邮箱：internationaltax@bir.gov.ph）。
 
 ### 大陆人士税务义务
 

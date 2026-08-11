@@ -104,7 +104,7 @@ AEAT于2024年5月发布通知（Resolución de 15 de mayo de 2024），将数�
 
 ### 中文服务可用性
 
-AEAT官网（www.agenciatributaria.es）提供**简体中文版**税务指南（Guía Fiscal en Chino Simplificado），涵盖数字服务税、个人所得税及增值税申报流程。2026年4月，AEAT在巴塞罗那、马德里及瓦伦西亚设立**中文税务咨询窗口**（Ventanilla de Asesoría Fiscal en Chino），工作日上午9:00-14:00开放，可预约。此外，AEAT与中国国家税务总局于2025年签署《税务信息交换与互助协议》（Acuerdo de Intercambio de Información y Asistencia Mutua），大陆居民可通过中国税务机关提交西班牙税务合规协助申请。
+AEAT官网（[www.agenciatributaria.es](https://www.agenciatributaria.es)）提供**简体中文版**税务指南（Guía Fiscal en Chino Simplificado），涵盖数字服务税、个人所得税及增值税申报流程。2026年4月，AEAT在巴塞罗那、马德里及瓦伦西亚设立**中文税务咨询窗口**（Ventanilla de Asesoría Fiscal en Chino），工作日上午9:00-14:00开放，可预约。此外，AEAT与中国国家税务总局于2025年签署《税务信息交换与互助协议》（Acuerdo de Intercambio de Información y Asistencia Mutua），大陆居民可通过中国税务机关提交西班牙税务合规协助申请。
 
 ## 未来展望
 

@@ -91,13 +91,13 @@ draft: false
 3. 紧急事务面谈（如人道主义理由、撤销申请、加急请求）。
 
 预约渠道：
-- **在线预约**：通过VVF Services官网（www.vfsglobal.cn/newzealand）选择“预约递交申请”或“生物识别采集”。
+- **在线预约**：通过VVF Services官网（[www.vfsglobal.cn/newzealand](https://www.vfsglobal.cn/newzealand)）选择“预约递交申请”或“生物识别采集”。
 - **电话预约**：拨打相应签证中心电话（见上表），工作时间内人工服务。
 - **邮件预约**：发送至对应中心邮箱（北京：info@nzbeijing.com；上海：info@nzshanghai.com；广州：info@nzgz.com），邮件标题注明“预约+姓名+护照号”。
 
 ### 申请流程步骤
 
-1. **确定签证类别**：访问INZ官网（www.immigration.govt.nz）使用“Visa Finder”工具，输入旅行目的、停留时间、国籍等信息，获取推荐类别。
+1. **确定签证类别**：访问INZ官网（[www.immigration.govt.nz](https://www.immigration.govt.nz)）使用“Visa Finder”工具，输入旅行目的、停留时间、国籍等信息，获取推荐类别。
 2. **准备材料**：依据《移民法 2009》第35条及INZ操作手册，申请人须提供有效护照、照片、资金证明、行程计划、无犯罪记录（如适用）等原件或公证副本。中国大陆申请人需额外提供户口本复印件、在职证明或在校证明。
 3. **在线或纸质递交**：
    - **在线申请**：通过RealMe账户登录INZ在线系统，上传所有文件并支付费用。2026年5月起，80%以上签证类别强制在线递交。
@@ -142,7 +142,7 @@ draft: false
 
 ### 进度查询方式
 
-1. **在线查询**：登录RealMe账户或INZ申请追踪页面（www.immigration.govt.nz/check-status），输入申请编号及出生日期。
+1. **在线查询**：登录RealMe账户或INZ申请追踪页面（[www.immigration.govt.nz/check-status](https://www.immigration.govt.nz/check-status)），输入申请编号及出生日期。
 2. **短信/邮件通知**：递交申请时提供手机号或邮箱，INZ将在关键节点（如材料补交、审理完成）发送通知。
 3. **电话查询**：拨打INZ联络中心（+64 9 914 4100），提供申请编号及护照号。中国大陆用户可拨打签证中心电话（见上表），但仅限查询纸质申请进度。
 
@@ -161,7 +161,7 @@ draft: false
 
 据INZ 2026年5月更新，新西兰移民局提供以下中文服务：
 
-1. **中文网站**：INZ官网设有简体中文版（www.immigration.govt.nz/zh），覆盖主要签证类别介绍、申请流程、费用说明及常见问题。
+1. **中文网站**：INZ官网设有简体中文版（[www.immigration.govt.nz/zh](https://www.immigration.govt.nz/zh)），覆盖主要签证类别介绍、申请流程、费用说明及常见问题。
 2. **中文电话热线**：中国大陆申请人可拨打新西兰移民局中文专线（+86 10 8447 6777），工作时间内提供普通话及粤语服务。该热线仅限咨询，不处理具体申请。
 3. **中文翻译服务**：INZ签证中心（VVF）提供文件翻译服务，每页人民币**80元**（含公证）。申请人也可自行提供由认证翻译机构出具的中英文对照文件。
 4. **中文申请表**：INZ 1017（访问签证）及INZ 1018（学生签证）提供简体中文版下载，但填写内容须用英文大写字母或电子输入。
@@ -179,7 +179,7 @@ draft: false
 若申请人认为INZ存在服务不当、延误或不合理决定，可按以下步骤投诉：
 
 1. **内部投诉**：填写INZ投诉表（INZ 1228），通过邮件发送至complaints@mbie.govt.nz，或邮寄至MBIE Complaints, PO Box 1473, Wellington 6140。INZ承诺在**15个工作日**内书面回复。
-2. **监察专员投诉**：若内部投诉未获满意解决，可向新西兰监察专员办公室（Office of the Ombudsman）投诉。依据《监察专员法 1975》（Ombudsmen Act 1975）第13条，监察专员有权调查MBIE及INZ的行政决定。投诉方式：填写在线表格（www.ombudsman.parliament.nz）或致电+64 4 473 9533。
+2. **监察专员投诉**：若内部投诉未获满意解决，可向新西兰监察专员办公室（Office of the Ombudsman）投诉。依据《监察专员法 1975》（Ombudsmen Act 1975）第13条，监察专员有权调查MBIE及INZ的行政决定。投诉方式：填写在线表格（[www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)）或致电+64 4 473 9533。
 3. **司法审查**：针对签证拒签决定，可向新西兰高等法院（High Court of New Zealand）申请司法审查。依据《司法审查程序法 2016》（Judicial Review Procedure Act 2016），申请人须在收到拒签通知后**28天**内提交申请。
 
 ### 申诉流程

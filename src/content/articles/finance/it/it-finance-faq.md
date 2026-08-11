@@ -55,7 +55,7 @@ draft: false
 - **投资者保护热线**：+39 06 4792 2222（周一至周五 9:00-16:00 CET）
 - **电子邮箱**：servizio.clienti@bancaditalia.it（消费者咨询）；vigilanza@bancaditalia.it（机构监管）
 - **官方网站**：www.bancaditalia.it
-- **中文页面**：官网设有“中文专区”（www.bancaditalia.it/chi-siamo/lingua-cinese），提供银行开户、支付服务及消费者权益保护的基本指南。
+- **中文页面**：官网设有“中文专区”（[www.bancaditalia.it/chi-siamo/lingua-cinese](https://www.bancaditalia.it/chi-siamo/lingua-cinese)），提供银行开户、支付服务及消费者权益保护的基本指南。
 
 ### CONSOB（全国公司与证券交易所委员会）
 - **地址**：Via Giovanni Battista Martini, 3, 00198 Roma, Italy
@@ -88,8 +88,8 @@ draft: false
 
 对于涉及中国大陆个人或企业的跨境金融业务，意大利三大监管机构在2026年已提供有限但明确的中文服务渠道：
 
-- **Banca d'Italia**：官网中文专区（www.bancaditalia.it/chi-siamo/lingua-cinese）提供银行开户、支付服务、汇款及消费者权益保护的PDF指南（2026年3月更新）。中文电话咨询可通过投资者保护热线转接至中文翻译服务（需提前预约，处理时间约2个工作日）。
-- **CONSOB**：多语言投资者门户（www.consob.it/multilingua）包含简体中文版投资警示、投诉流程及常见问题。中文邮件咨询可发送至 infopoint@consob.it，CONSOB承诺在**5个工作日**内以英文或中文回复。
+- **Banca d'Italia**：官网中文专区（[www.bancaditalia.it/chi-siamo/lingua-cinese](https://www.bancaditalia.it/chi-siamo/lingua-cinese)）提供银行开户、支付服务、汇款及消费者权益保护的PDF指南（2026年3月更新）。中文电话咨询可通过投资者保护热线转接至中文翻译服务（需提前预约，处理时间约2个工作日）。
+- **CONSOB**：多语言投资者门户（[www.consob.it/multilingua](https://www.consob.it/multilingua)）包含简体中文版投资警示、投诉流程及常见问题。中文邮件咨询可发送至 infopoint@consob.it，CONSOB承诺在**5个工作日**内以英文或中文回复。
 - **IVASS**：未设中文页面或中文电话服务。中文用户需通过英文邮件（consumatori@ivass.it）或英文电话（+39 06 42133 555）沟通，IVASS承诺在**10个工作日**内回复。
 
 ## 常见误区澄清
@@ -115,7 +115,7 @@ draft: false
 A1: 消费者可通过以下渠道投诉：电话 +39 06 4792 2222（周一至周五 9:00-16:00 CET）；电子邮箱 servizio.clienti@bancaditalia.it；或邮寄至 Via Nazionale 91, 00184 Roma。Banca d'Italia承诺在**30个日历日**内对投诉作出初步回应。2025年全年，该机构共处理消费者投诉**12,847件**，平均处理时间为**22个日历日**。
 
 ### Q2: CONSOB的投资服务投诉流程是什么？
-A2: 投资者需先向所涉金融机构内部投诉，若在**60个日历日**内未获满意答复，可向CONSOB提交正式投诉。投诉可通过CONSOB在线门户（www.consob.it/reclami）提交，CONSOB承诺在**45个日历日**内作出决定。2025年CONSOB共受理投诉**3,291件**，其中**68%**在45天内解决。
+A2: 投资者需先向所涉金融机构内部投诉，若在**60个日历日**内未获满意答复，可向CONSOB提交正式投诉。投诉可通过CONSOB在线门户（[www.consob.it/reclami](https://www.consob.it/reclami)）提交，CONSOB承诺在**45个日历日**内作出决定。2025年CONSOB共受理投诉**3,291件**，其中**68%**在45天内解决。
 
 ### Q3: IVASS保险投诉的处理时效是多久？
 A3: IVASS承诺在收到完整投诉材料后**60个日历日**内作出决定。2025年IVASS共受理保险投诉**8,456件**，平均处理时间为**48个日历日**。投诉可通过电子邮件（consumatori@ivass.it）或邮寄方式提交。
@@ -139,10 +139,10 @@ A8: 是的。外国银行在意大利设立分行需向Banca d'Italia申请“�
 A9: 是的。依据CONSOB 2026年第1号决议，所有提供加密货币资产交易、托管、兑换服务的机构需在CONSOB注册。注册截止日期为2026年12月31日。截至2026年5月，已有**127家**机构完成注册，另有**34家**正在审查中。
 
 ### Q10: 中文用户能否通过Banca d'Italia官网获取中文资料？
-A10: 可以。Banca d'Italia官网中文专区（www.bancaditalia.it/chi-siamo/lingua-cinese）提供银行开户、支付服务、汇款及消费者权益保护的PDF指南（2026年3月更新）。中文电话咨询需通过投资者保护热线预约，处理时间约**2个工作日**。
+A10: 可以。Banca d'Italia官网中文专区（[www.bancaditalia.it/chi-siamo/lingua-cinese](https://www.bancaditalia.it/chi-siamo/lingua-cinese)）提供银行开户、支付服务、汇款及消费者权益保护的PDF指南（2026年3月更新）。中文电话咨询需通过投资者保护热线预约，处理时间约**2个工作日**。
 
 ### Q11: CONSOB是否提供中文投诉渠道？
-A11: 是的。CONSOB多语言投资者门户（www.consob.it/multilingua）提供简体中文版投诉指南。中文邮件咨询可发送至 infopoint@consob.it，CONSOB承诺在**5个工作日**内以英文或中文回复。中文在线聊天服务时间为周一至周五 10:00-16:00 CET。
+A11: 是的。CONSOB多语言投资者门户（[www.consob.it/multilingua](https://www.consob.it/multilingua)）提供简体中文版投诉指南。中文邮件咨询可发送至 infopoint@consob.it，CONSOB承诺在**5个工作日**内以英文或中文回复。中文在线聊天服务时间为周一至周五 10:00-16:00 CET。
 
 ### Q12: IVASS是否提供中文服务？
 A12: IVASS未设中文页面或中文电话服务。中文用户需通过英文邮件（consumatori@ivass.it）或英文电话（+39 06 42133 555）沟通，IVASS承诺在**10个工作日**内回复。如需翻译协助，建议提前通过英文邮件申请。

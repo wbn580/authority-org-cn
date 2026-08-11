@@ -187,7 +187,7 @@ Agenzia delle Entrate内部通过 **Sistema Integrato di Gestione (SIG)** 实现
 
 ## 中文服务可用性
 
-Agenzia delle Entrate官方网站（www.agenziaentrate.gov.it）提供意大利语、英语、法语及德语界面，未设中文专版。但以下中文服务可获取：
+Agenzia delle Entrate官方网站（[www.agenziaentrate.gov.it](https://www.agenziaentrate.gov.it)）提供意大利语、英语、法语及德语界面，未设中文专版。但以下中文服务可获取：
 
 - **税务代码申请**：通过驻意大利中国领事馆或意大利驻华使领馆协助提交，中文申请表可从中国外交部网站下载。
 - **申报表格翻译**：税务局发布 **Guida in Lingua Cinese**（中文版指南），涵盖IRPEF、IVA及不动产税基本申报流程，PDF版本于2025年更新。

@@ -64,7 +64,7 @@ draft: false
 
 **A1:** 新西兰移民局提供以下官方联系渠道：
 - **电话咨询**：新西兰境内拨打 0508 558 855（周一至周五 8:00-18:00，新西兰时间）；海外拨打 +64 9 914 4100（国际长途标准资费）。
-- **在线咨询**：通过INZ官网（www.immigration.govt.nz）的“Contact Us”页面提交查询表格，INZ承诺在5个工作日内回复。
+- **在线咨询**：通过INZ官网（[www.immigration.govt.nz](https://www.immigration.govt.nz)）的“Contact Us”页面提交查询表格，INZ承诺在5个工作日内回复。
 - **电子邮件**：针对特定签证类别（如技术移民）的查询可发送至 [skilled.migrant@mbie.govt.nz](mailto:skilled.migrant@mbie.govt.nz)，但INZ建议优先使用在线表格。
 - **邮寄地址**：Immigration New Zealand, PO Box 76895, Auckland 1552, New Zealand。
 - **实体办公室**：INZ在奥克兰、惠灵顿、基督城设有客户服务中心，需提前预约，预约等待时间约为2-4周（2026年数据）。

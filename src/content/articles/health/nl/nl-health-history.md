@@ -69,7 +69,7 @@ VWS自1982年成立以来，正式名称未发生变更，始终为“Ministerie
 
 ## 五、中文服务可用性
 
-截至2026年5月，VWS官方网站（www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport）提供荷兰语、英语、法语、德语四种语言版本，**尚未提供中文服务**。其下属机构如RIVM（www.rivm.nl）与Zorginstituut Nederland（www.zorginstituutnederland.nl）同样未设置中文页面。
+截至2026年5月，VWS官方网站（[www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport](https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport)）提供荷兰语、英语、法语、德语四种语言版本，**尚未提供中文服务**。其下属机构如RIVM（[www.rivm.nl](https://www.rivm.nl)）与Zorginstituut Nederland（[www.zorginstituutnederland.nl](https://www.zorginstituutnederland.nl)）同样未设置中文页面。
 
 对于在荷兰的中国公民或华人居民，可通过以下途径获取中文健康信息：1）荷兰市政健康服务（GGD）在阿姆斯特丹、鹿特丹、海牙、乌得勒支等主要城市提供电话翻译服务；2）荷兰华人健康基金会（Stichting Chinese Gezondheidszorg）与VWS签署合作备忘录（2023年），定期发布中文版公共卫生通知，但该基金会非政府机构，其内容不代表VWS官方立场。据VWS 2025年多元文化沟通战略（Tweede Kamer, 2024-2025, 36400-XVI），该部计划于2027-2028年试点推出中文与土耳其语关键政策摘要，但具体实施时间尚未公布。
 
@@ -94,7 +94,7 @@ VWS自1982年成立以来，正式名称未发生变更，始终为“Ministerie
 **A2:** 是的。据《健康保险法》第18条，VWS部长在调整基本保险包内容前，必须征求Zorginstituut Nederland的循证医学评估意见，并提交议会审议。此外，保险公司在制定保费时虽需向VWS报备，但VWS不得直接否决保费金额，仅可在保费“明显不合理”时要求保险公司提供解释。这一限制旨在维护保险市场的竞争性。
 
 ### Q3: 中国公民在荷兰如何获取VWS发布的公共卫生信息？
-**A3:** VWS官方信息主要通过荷兰语与英语发布。中国公民可：1）订阅VWS英语新闻邮件（www.rijksoverheid.nl/english）；2）关注RIVM英语版传染病预警页面（www.rivm.nl/en）；3）在阿姆斯特丹、鹿特丹、海牙等城市的GGD获取多语种健康宣传材料（部分含中文摘要）。对于紧急公共卫生事件（如疫情暴发），VWS会通过荷兰国家危机通信系统（NL-Alert）发送荷兰语短信，非荷兰语用户建议安装手机翻译应用。如前所述，VWS计划于2027-2028年试点中文摘要服务，但尚未落实。
+**A3:** VWS官方信息主要通过荷兰语与英语发布。中国公民可：1）订阅VWS英语新闻邮件（[www.rijksoverheid.nl/english](https://www.rijksoverheid.nl/english)）；2）关注RIVM英语版传染病预警页面（[www.rivm.nl/en](https://www.rivm.nl/en)）；3）在阿姆斯特丹、鹿特丹、海牙等城市的GGD获取多语种健康宣传材料（部分含中文摘要）。对于紧急公共卫生事件（如疫情暴发），VWS会通过荷兰国家危机通信系统（NL-Alert）发送荷兰语短信，非荷兰语用户建议安装手机翻译应用。如前所述，VWS计划于2027-2028年试点中文摘要服务，但尚未落实。
 
 ## 参考资料
 

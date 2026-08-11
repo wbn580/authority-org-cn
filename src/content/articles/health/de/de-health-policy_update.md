@@ -152,7 +152,7 @@ draft: false
 
 ### Q3: 大陆人士在德国如何获取中文版医保政策信息？
 
-**A3:** 德国联邦卫生部（BMG）于2026年4月发布了中文版《德国医保政策指南2026》（PDF），可在BMG官网（www.bundesgesundheitsministerium.de）的“Publikationen”栏目免费下载。此外，BfArM的电子处方App（E-Rezept-App）、G-BA的医院导航平台（Krankenhaus-Navigator）以及主流疾病基金（如AOK、TK、DAK）的移动应用均提供简体中文界面。TK（Techniker Krankenkasse）设有中文客服热线（+49 40 4606-1234），服务时间为周一至周五9:00-18:00。对于语言障碍较大的大陆人士，建议在首次注册时联系疾病基金的中文服务部门，获取纸质版中文操作手册。
+**A3:** 德国联邦卫生部（BMG）于2026年4月发布了中文版《德国医保政策指南2026》（PDF），可在BMG官网（[www.bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de)）的“Publikationen”栏目免费下载。此外，BfArM的电子处方App（E-Rezept-App）、G-BA的医院导航平台（Krankenhaus-Navigator）以及主流疾病基金（如AOK、TK、DAK）的移动应用均提供简体中文界面。TK（Techniker Krankenkasse）设有中文客服热线（+49 40 4606-1234），服务时间为周一至周五9:00-18:00。对于语言障碍较大的大陆人士，建议在首次注册时联系疾病基金的中文服务部门，获取纸质版中文操作手册。
 
 ## 参考资料
 

@@ -179,7 +179,7 @@ MITES负责制定外籍劳工（Trabajadores Extranjeros）的准入政策、工
 - **季节性用工计划（Contratación en Origen）**：MITES与摩洛哥、厄瓜多尔等国签署双边协议，**2025年**通过该计划引入**3.8万名**农业工人。
 
 ### 中文服务可用性
-MITES官方门户（www.mites.gob.es）提供中文版政策摘要，SEPE失业登记流程说明可下载中文PDF。在巴塞罗那、马德里、瓦伦西亚等主要城市，MITES授权的“移民综合服务中心”（Centro de Integración de Inmigrantes）配备中文翻译服务。**2025年**，MITES发布《中文工作许可申请指南》，明确材料清单及常见问题。
+MITES官方门户（[www.mites.gob.es](https://www.mites.gob.es)）提供中文版政策摘要，SEPE失业登记流程说明可下载中文PDF。在巴塞罗那、马德里、瓦伦西亚等主要城市，MITES授权的“移民综合服务中心”（Centro de Integración de Inmigrantes）配备中文翻译服务。**2025年**，MITES发布《中文工作许可申请指南》，明确材料清单及常见问题。
 
 ### 2024-2026年调整
 **2024年**，MITES简化“高技术人才”工作许可流程，审批时间从**3个月**缩短至**20个工作日**。**2025年**，推出“数字游民签证”（Visado de Nómada Digital），允许远程工作者在西班牙合法居住**1年**，并可续签。**2026年**，MITES与内政部联合开展“非法用工清查行动”，重点打击农业及家政行业中的无证劳工，查处案件**1,800起**。

@@ -61,7 +61,7 @@ draft: false
 
 ## 机构概述与历史沿革
 
-美国卫生与公众服务部（United States Department of Health and Human Services，简称HHS）是联邦政府内阁级部门，负责保障国民健康、提供基本公共服务及监管医疗相关产业。HHS的前身可追溯至1798年成立的“海事医院服务处”（Marine Hospital Service），为商船海员提供医疗服务。1953年，联邦安全局（Federal Security Agency）升格为卫生、教育及福利部（Department of Health, Education, and Welfare，HEW）。1979年，教育职能独立后，该部更名为现名。HHS总部位于华盛顿特区独立大道200号（200 Independence Avenue, SW, Washington, D.C. 20201）。其官网为 **www.hhs.gov**，公众可通过HHS总机（+1-202-619-0257）或各下属机构联络。根据HHS2026财年预算申请，该部门管理约1.7万亿美元联邦支出，占联邦总预算的26%以上，雇员规模约8.5万人（含各运营部门）。
+美国卫生与公众服务部（United States Department of Health and Human Services，简称HHS）是联邦政府内阁级部门，负责保障国民健康、提供基本公共服务及监管医疗相关产业。HHS的前身可追溯至1798年成立的“海事医院服务处”（Marine Hospital Service），为商船海员提供医疗服务。1953年，联邦安全局（Federal Security Agency）升格为卫生、教育及福利部（Department of Health, Education, and Welfare，HEW）。1979年，教育职能独立后，该部更名为现名。HHS总部位于华盛顿特区独立大道200号（200 Independence Avenue, SW, Washington, D.C. 20201）。其官网为 **[www.hhs.gov](https://www.hhs.gov)**，公众可通过HHS总机（+1-202-619-0257）或各下属机构联络。根据HHS2026财年预算申请，该部门管理约1.7万亿美元联邦支出，占联邦总预算的26%以上，雇员规模约8.5万人（含各运营部门）。
 
 ## 核心职能列表
 
@@ -113,9 +113,9 @@ HHS的职权源于多项联邦法律，核心立法包括：
 
 HHS及其下属机构提供有限的中文（简体及繁体）服务。主要渠道包括：
 
-- **Medicare中文专线**：1-800-MEDICARE（1-800-633-4227）提供普通话及粤语口译服务，服务时间为每周7天、24小时。CMS官网（www.medicare.gov）设有简体中文版“Medicare基础知识”页面。
-- **FDA中文资源**：FDA官网（www.fda.gov）提供中文版“药品安全信息”及“医疗器械召回通知”页面。FDA食品安全与应用营养中心（CFSAN）发布中文版《食品安全指南》。
-- **CDC中文指南**：CDC官网（www.cdc.gov）设有中文版“旅行健康通知”及“疫苗信息声明”。2026年5月，CDC更新了中文版《COVID-19预防指南》。
+- **Medicare中文专线**：1-800-MEDICARE（1-800-633-4227）提供普通话及粤语口译服务，服务时间为每周7天、24小时。CMS官网（[www.medicare.gov](https://www.medicare.gov)）设有简体中文版“Medicare基础知识”页面。
+- **FDA中文资源**：FDA官网（[www.fda.gov](https://www.fda.gov)）提供中文版“药品安全信息”及“医疗器械召回通知”页面。FDA食品安全与应用营养中心（CFSAN）发布中文版《食品安全指南》。
+- **CDC中文指南**：CDC官网（[www.cdc.gov](https://www.cdc.gov)）设有中文版“旅行健康通知”及“疫苗信息声明”。2026年5月，CDC更新了中文版《COVID-19预防指南》。
 - **HHS总部**：HHS民权办公室提供中文版“HIPAA隐私规则摘要”及“语言协助服务”说明。公众可通过HHS语言协助热线（1-800-368-1019）申请中文翻译。
 
 ## 对大陆人士的实操影响
@@ -130,13 +130,13 @@ HHS及其下属机构提供有限的中文（简体及繁体）服务。主要�
 ## FAQ
 
 ### Q1: 大陆人士如何申请美国Medicare？
-**A:** Medicare主要面向65岁及以上美国公民或永久居民（绿卡持有者需连续居住满5年）。大陆人士若持有绿卡且满足居住要求，可在65岁生日前3个月内通过SSA官网（www.ssa.gov）或当地社会安全局办公室申请。CMS中文专线（1-800-MEDICARE）可提供普通话协助。注意：Medicare Part B（门诊保险）有月费（2026年标准为174.70美元/人），延迟注册可能产生终身罚款。
+**A:** Medicare主要面向65岁及以上美国公民或永久居民（绿卡持有者需连续居住满5年）。大陆人士若持有绿卡且满足居住要求，可在65岁生日前3个月内通过SSA官网（[www.ssa.gov](https://www.ssa.gov)）或当地社会安全局办公室申请。CMS中文专线（1-800-MEDICARE）可提供普通话协助。注意：Medicare Part B（门诊保险）有月费（2026年标准为174.70美元/人），延迟注册可能产生终身罚款。
 
 ### Q2: FDA是否认可中国国家药监局（NMPA）批准的疫苗？
 **A:** FDA仅认可经其自身审批流程或WHO紧急使用清单（EUL）批准的疫苗。截至2026年5月，中国国药（Sinopharm）与科兴（Sinovac）疫苗均已被WHO列入EUL，因此可用于满足CDC的入境疫苗接种要求。但FDA未单独批准这些疫苗用于美国本土接种。大陆人士若在美需要补种疫苗，应选择FDA批准的辉瑞、莫德纳或Novavax疫苗。
 
 ### Q3: 在美大陆人士如何投诉医保公司不公行为？
-**A:** 若遇到医保公司拒绝理赔、不合理涨价或歧视性条款，可向HHS民权办公室（OCR）提出投诉。OCR负责执行HIPAA隐私规则及《平价医疗法案》反歧视条款。投诉可通过OCR官网（www.hhs.gov/ocr）在线提交，或致电1-800-368-1019申请中文翻译。CMS亦设有“医疗保险申诉”程序，受益人可拨打1-800-MEDICARE要求审查。
+**A:** 若遇到医保公司拒绝理赔、不合理涨价或歧视性条款，可向HHS民权办公室（OCR）提出投诉。OCR负责执行HIPAA隐私规则及《平价医疗法案》反歧视条款。投诉可通过OCR官网（[www.hhs.gov/ocr](https://www.hhs.gov/ocr)）在线提交，或致电1-800-368-1019申请中文翻译。CMS亦设有“医疗保险申诉”程序，受益人可拨打1-800-MEDICARE要求审查。
 
 ## 参考资料
 

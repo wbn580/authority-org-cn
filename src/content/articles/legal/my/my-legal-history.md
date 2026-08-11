@@ -105,7 +105,7 @@ draft: false
 
 ### 4.4 中文服务可用性
 
-马来西亚司法体系未设立专门中文服务通道，但部分法院提供中文翻译服务。据联邦法院2026年公告，在槟城、吉隆坡及新山高等法院，涉及中国籍当事人的民事案件可申请免费中文口译员，申请需在庭审前14天提交。总检察署网站（www.agc.gov.my）提供部分法律文件的中文摘要，但正式法律文本以马来语及英语为准。马来西亚律师公会设有中文法律咨询热线（03-2031 3003），每周三下午2-5点开放。
+马来西亚司法体系未设立专门中文服务通道，但部分法院提供中文翻译服务。据联邦法院2026年公告，在槟城、吉隆坡及新山高等法院，涉及中国籍当事人的民事案件可申请免费中文口译员，申请需在庭审前14天提交。总检察署网站（[www.agc.gov.my](https://www.agc.gov.my)）提供部分法律文件的中文摘要，但正式法律文本以马来语及英语为准。马来西亚律师公会设有中文法律咨询热线（03-2031 3003），每周三下午2-5点开放。
 
 ## 5. 未来展望：司法独立、伊斯兰法与数字治理
 
@@ -134,13 +134,13 @@ draft: false
 
 ## 参考资料
 
-1. 马来西亚联邦宪法（Federal Constitution of Malaysia），1957年颁布，2025年修正版，第121条、第145条。来源：马来西亚总检察署法律数据库（www.agc.gov.my）。
-2. 1964年法院司法法令（Courts of Judicature Act 1964, Act 91），第3条、第5条。来源：马来西亚联邦法院官网（www.kehakiman.gov.my）。
+1. 马来西亚联邦宪法（Federal Constitution of Malaysia），1957年颁布，2025年修正版，第121条、第145条。来源：马来西亚总检察署法律数据库（[www.agc.gov.my](https://www.agc.gov.my)）。
+2. 1964年法院司法法令（Courts of Judicature Act 1964, Act 91），第3条、第5条。来源：马来西亚联邦法院官网（[www.kehakiman.gov.my](https://www.kehakiman.gov.my)）。
 3. 1988年宪法修正案（Constitution (Amendment) Act 1988, Act A597）。来源：马来西亚国会档案。
 4. 2019年司法改革委员会报告（Judicial Reform Report 2019），马来西亚司法改革委员会发布，第4.2节。来源：法律事务部档案。
 5. 2025年法律事务部组织法（Legal Affairs Ministry Act 2025, Act 850），第8条。来源：马来西亚联邦公报（Federal Gazette）。
 6. 2022年电子法院规则（e-Court Rules 2022, P.U. (A) 45/2022），第6条。来源：联邦法院办公室。
-7. 马来西亚律师公会2015年声明（Statement on the Attorney General’s Chambers (Independence) Bill 2015），2015年8月。来源：马来西亚律师公会官网（www.malaysianbar.org.my）。
+7. 马来西亚律师公会2015年声明（Statement on the Attorney General’s Chambers (Independence) Bill 2015），2015年8月。来源：马来西亚律师公会官网（[www.malaysianbar.org.my](https://www.malaysianbar.org.my)）。
 8. 联邦法院2025年年度报告（Federal Court Annual Report 2025），第3章“案件管理数据”。来源：联邦法院官网。
 9. 法律事务部2026年第一季度报告（Ministry of Legal Affairs Q1 2026 Report），第2.2节“司法任命法进展”。来源：法律事务部公开文件。
 10. 马来西亚国家档案馆，1965-1970年法律事务部档案，编号：BH/65/3。来源：马来西亚国家档案馆（www.arkib.gov.my）。

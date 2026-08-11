@@ -69,7 +69,7 @@ draft: false
 - **地址**：Quellenweg 6, 3003 Bern-Wabern, Switzerland
 - **电话**：+41 58 465 11 11（工作日上午9:00-12:00，下午14:00-16:00）
 - **电子邮箱**：info@sem.admin.ch（仅接受德语、法语、意大利语或英语咨询）
-- **官方网站**：www.sem.admin.ch（提供德语、法语、意大利语、英语界面）
+- **官方网站**：[www.sem.admin.ch](https://www.sem.admin.ch)（提供德语、法语、意大利语、英语界面）
 - **办公时间**：周一至周五08:00-12:00，13:30-16:30（公众假期休息）
 
 ### 各州移民办公室（示例）
@@ -114,7 +114,7 @@ draft: false
 
 ## 常见表格清单
 
-据SEM 2026年4月更新，以下为移民与签证领域主要表格。所有表格均可在SEM官网（www.sem.admin.ch）或各州移民办公室网站下载。
+据SEM 2026年4月更新，以下为移民与签证领域主要表格。所有表格均可在SEM官网（[www.sem.admin.ch](https://www.sem.admin.ch)）或各州移民办公室网站下载。
 
 ### 短期签证（C类）表格
 - **表格编号**：SEM-001（Schengen Visa Application Form）

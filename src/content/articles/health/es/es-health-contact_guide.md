@@ -167,7 +167,7 @@ draft: false
 
 **外部申诉**
 - **西班牙卫生部投诉系统**：通过官网“Atención al Ciudadano”提交，或致信Paseo del Prado, 18-20, 28014 Madrid。处理期限60个工作日。
-- **监察专员（Defensor del Pueblo）**：若涉及行政不作为，可向全国监察专员申诉（www.defensordelpueblo.es）。需提供书面材料及证据。
+- **监察专员（Defensor del Pueblo）**：若涉及行政不作为，可向全国监察专员申诉（[www.defensordelpueblo.es](https://www.defensordelpueblo.es)）。需提供书面材料及证据。
 - **法院**：重大医疗纠纷可提起行政诉讼或民事诉讼。建议聘请律师。
 
 **语言协助**：投诉表格仅提供西班牙语及自治区官方语言。据卫生部2026年3月指引，非西语使用者可要求免费翻译，但需提前3个工作日申请。
@@ -178,7 +178,7 @@ draft: false
 
 **第一步：注册社保**
 - 依据2026年社会保障局指令，大陆居民在获得工作合同或自雇注册后，须在30天内向社保局（Tesorería General de la Seguridad Social）注册。注册后获得NASS。
-- 地址：各地社保办公室（可在线办理：www.seg-social.es）。
+- 地址：各地社保办公室（可在线办理：[www.seg-social.es](https://www.seg-social.es)）。
 - 材料：护照、NIE、工作合同（或自雇证明）、住家证明。
 
 **第二步：申请医疗卡**

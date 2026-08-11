@@ -143,7 +143,7 @@ AEP有效期统一为2年（可续签一次），意味着大陆籍员工在菲�
 
 ### 4. 中文服务可用性
 
-DOLE官方网站（www.dole.gov.ph）及NWPC网站（www.nwpc.dole.gov.ph）提供英文及菲律宾语（Tagalog）版本，目前不设中文界面。AEP申请表格、劳工市场测试系统及DOLE Department Order全文均仅以英文发布。在菲大陆人可通过以下渠道获取翻译协助：
+DOLE官方网站（[www.dole.gov.ph](https://www.dole.gov.ph)）及NWPC网站提供英文及菲律宾语（Tagalog）版本，目前不设中文界面。AEP申请表格、劳工市场测试系统及DOLE Department Order全文均仅以英文发布。在菲大陆人可通过以下渠道获取翻译协助：
 
 - **DOLE地区办公室**：部分办公室（如马尼拉、马卡蒂）设有“外国人服务窗口”，提供英文咨询，但未配备中文翻译。
 - **菲律宾中国商会（PCCCII）**：该组织在主要城市设有分会，可协助会员企业进行AEP申请及合规咨询。

@@ -113,7 +113,7 @@ draft: false
 - **Allianz Care**：提供中文在线客服及理赔指引。
 - **Orient Insurance**：在迪拜、阿布扎比设有中文服务柜台。
 
-此外，迪拜卫生局（DHA）官网（www.dha.gov.ae）及阿布扎比卫生部（DoH）官网（www.doh.gov.ae）均提供中文版政策指南。大陆居民可拨打MOHAP中文咨询热线（800 11111）获取政策解读。
+此外，迪拜卫生局（DHA）官网（[www.dha.gov.ae](https://www.dha.gov.ae)）及阿布扎比卫生部（DoH）官网（[www.doh.gov.ae](https://www.doh.gov.ae)）均提供中文版政策指南。大陆居民可拨打MOHAP中文咨询热线（800 11111）获取政策解读。
 
 ### 就医注意事项
 
@@ -152,7 +152,7 @@ Riayati系统预计在2027年实现100%公立医院及90%私立诊所接入。�
 ### Q3: 大陆居民如何查询自己的保险是否合规？
 可通过以下步骤确认：
 1. 联系保险公司客服，要求提供“联邦合规证明”（Federal Compliance Certificate）。
-2. 登录MOHAP官网（www.mohap.gov.ae），输入保单号及个人ID，查询保险状态。
+2. 登录MOHAP官网（[www.mohap.gov.ae](https://www.mohap.gov.ae)），输入保单号及个人ID，查询保险状态。
 3. 拨打MOHAP中文热线（800 11111）咨询。
 若保险不合规，须在30天内更换或升级计划，否则可能影响签证续签。
 

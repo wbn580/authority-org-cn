@@ -108,11 +108,11 @@ hideFromHome: true
 
 对于中国大陆居民或企业，五国税务机关均提供不同程度的英文服务，但中文支持存在显著差异：
 
-- **美国IRS**：提供简体中文官网页面（www.irs.gov/zh-hans），涵盖报税指南、常见问题、表格下载及纳税人权利说明。中文客服热线（1-800-829-1040）提供有限时段服务。**2025年**IRS推出中文版“Direct File”试点说明。
-- **新加坡IRAS**：官网提供中文版（www.iras.gov.sg/zh-hans），包括GST、所得税指南及表格。中文客服专线（+65 6356 3800）工作日9:00-17:00提供服务。IRAS定期举办中文税务研讨会。
-- **德国BZSt**：官网（www.bzst.de）以德语为主，提供英文版“International Tax”指南。地方Finanzamt基本无中文服务。德国税务顾问协会（DStV）提供中文版《德国税务入门》手册（**2025年**更新）。
-- **日本NTA**：官网（www.nta.go.jp）以日文为主，英文版仅覆盖基础税务信息。主要城市（东京、大阪）的NTA分局提供英文咨询，但无中文专线。中文税务指南可通过日本贸易振兴机构（JETRO）获取。
-- **法国DGFiP**：官网（www.impots.gouv.fr）仅法语版本。英文版“Tax Guide for Foreigners”可在国际税务部门获取。无专门中文服务，但巴黎地区可通过法国企业国际发展局（Business France）获得中文税务咨询。
+- **美国IRS**：提供简体中文官网页面（[www.irs.gov/zh-hans](https://www.irs.gov/zh-hans)），涵盖报税指南、常见问题、表格下载及纳税人权利说明。中文客服热线（1-800-829-1040）提供有限时段服务。**2025年**IRS推出中文版“Direct File”试点说明。
+- **新加坡IRAS**：官网提供中文版（[www.iras.gov.sg/zh-hans](https://www.iras.gov.sg/zh-hans)），包括GST、所得税指南及表格。中文客服专线（+65 6356 3800）工作日9:00-17:00提供服务。IRAS定期举办中文税务研讨会。
+- **德国BZSt**：官网（[www.bzst.de](https://www.bzst.de)）以德语为主，提供英文版“International Tax”指南。地方Finanzamt基本无中文服务。德国税务顾问协会（DStV）提供中文版《德国税务入门》手册（**2025年**更新）。
+- **日本NTA**：官网（[www.nta.go.jp](https://www.nta.go.jp)）以日文为主，英文版仅覆盖基础税务信息。主要城市（东京、大阪）的NTA分局提供英文咨询，但无中文专线。中文税务指南可通过日本贸易振兴机构（JETRO）获取。
+- **法国DGFiP**：官网（[www.impots.gouv.fr](https://www.impots.gouv.fr)）仅法语版本。英文版“Tax Guide for Foreigners”可在国际税务部门获取。无专门中文服务，但巴黎地区可通过法国企业国际发展局（Business France）获得中文税务咨询。
 
 建议大陆人跨境时优先选择提供中文服务的税务机关，或委托持牌税务代理（如德国Steuerberater、美国CPA、日本税理士）。
 

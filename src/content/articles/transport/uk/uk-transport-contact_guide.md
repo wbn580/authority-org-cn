@@ -144,7 +144,7 @@ CAA明确要求所有非英文文件（如中国身份证、中国民航局体�
 
 ### 网站中文版本
 
-CAA官网（www.caa.co.uk）及DfT官网（www.gov.uk/dft）均无中文界面。但GOV.UK部分页面（如“Passenger Rights”）可通过浏览器内置翻译功能转为中文，CAA建议申请人优先使用英语界面以获取最新信息。
+CAA官网（[www.caa.co.uk](https://www.caa.co.uk)）及DfT官网（[www.gov.uk/dft](https://www.gov.uk/dft)）均无中文界面。但GOV.UK部分页面（如“Passenger Rights”）可通过浏览器内置翻译功能转为中文，CAA建议申请人优先使用英语界面以获取最新信息。
 
 ## 处理时效
 

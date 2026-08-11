@@ -52,7 +52,7 @@ draft: false
 ### 在线预约
 
 1. **CUP（Centro Unico di Prenotazione）系统**
-   - 访问网址：www.prenotasalute.it（全国统一入口）
+   - 访问网址：[www.prenotasalute.it](https://www.prenotasalute.it)（全国统一入口）
    - 需提供税号（Codice Fiscale）及SSN电子卡（Tessera Sanitaria）号码
    - 可预约：全科医生、专科门诊、体检、疫苗接种等
    - 支持语言：意大利语、英语
@@ -173,7 +173,7 @@ draft: false
 ### 投诉渠道
 
 - **ASL内部投诉**：填写“Reclamo”表格（Modello SSR 008），提交至ASL的Ufficio Relazioni con il Pubblico（URP）
-- **大区卫生局投诉**：通过大区卫生局官网提交（如拉齐奥大区：www.regione.lazio.it/sanita/reclami）
+- **大区卫生局投诉**：通过大区卫生局官网提交（如拉齐奥大区：[www.regione.lazio.it/sanita/reclami](https://www.regione.lazio.it/sanita/reclami)）
 - **全国申诉机构**：意大利卫生部“Tutela del Cittadino”办公室（电话：+39 06 5994 2000，邮箱：tutela.cittadino@sanita.it）
 
 ### 申诉流程

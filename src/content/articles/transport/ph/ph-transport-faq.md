@@ -70,7 +70,7 @@ draft: false
 ### Q1: 如何查询菲律宾交通部（DOTr）的官方联系方式？
 
 **A:** DOTr官方联系方式如下：
-- **官方网站**：www.dotr.gov.ph（提供英文及菲律宾语界面）
+- **官方网站**：[www.dotr.gov.ph](https://www.dotr.gov.ph)（提供英文及菲律宾语界面）
 - **客服热线**：(02) 8790-8300（工作日08:00-17:00，菲律宾标准时间）
 - **电子邮件**：complaints@dotr.gov.ph（投诉与咨询）
 - **总部地址**：DOTr Building, Clark Freeport Zone, Pampanga（自2025年12月起迁至新址）
@@ -111,13 +111,13 @@ draft: false
 - **延误补偿**：国内航班延误超过3小时，航空公司须提供餐食及饮料；延误超过6小时，须提供住宿或交通安排；延误超过12小时，旅客有权获得全额退款或改签
 - **取消补偿**：航空公司取消航班后，须在7个工作日内提供全额退款或免费改签至临近航班
 - **赔偿金额**：对于因航空公司原因导致的延误（非不可抗力），旅客可申请现金赔偿，最高为票面价格的200%（上限PHP 10,000）
-- **投诉途径**：旅客可通过CAAP官网（www.caap.gov.ph）或拨打热线(02) 8790-8300提交投诉，CAAP须在30个工作日内做出裁决
+- **投诉途径**：旅客可通过CAAP官网（[www.caap.gov.ph](https://www.caap.gov.ph)）或拨打热线(02) 8790-8300提交投诉，CAAP须在30个工作日内做出裁决
 据CAAP 2025年年度报告，全年受理航空旅客投诉约2.3万件，平均处理周期为22天。
 
 ### Q6: 如何查询菲律宾航班实时状态？
 
 **A:** 菲律宾主要机场（包括尼诺·阿基诺国际机场、麦克坦-宿务国际机场等）提供以下查询渠道：
-- **CAAP官方航班查询系统**：www.caap.gov.ph/flight-status（实时更新，覆盖全国43个民用机场）
+- **CAAP官方航班查询系统**：[www.caap.gov.ph/flight-status](http://www.caap.gov.ph/flight-status)（实时更新，覆盖全国43个民用机场）
 - **各机场独立网站**：如马尼拉机场（MIAA）官网www.miaa.gov.ph，提供英文及中文界面
 - **手机应用**：CAAP推出“PH Flight Tracker”应用（iOS/Android），支持航班延误、登机口变更推送
 - **客服热线**：MIAA 24小时热线(02) 8777-8888，提供英文及菲律宾语服务
@@ -126,7 +126,7 @@ draft: false
 ### Q7: 菲律宾交通违章如何查询与缴纳罚款？
 
 **A:** 依据LTO 2026年行政备忘录及DOTr数字服务计划：
-- **查询方式**：通过LTO官网（www.lto.gov.ph）的“Violation Inquiry”系统，输入车牌号或驾照号即可查询未处理违章
+- **查询方式**：通过LTO官网（[www.lto.gov.ph](https://www.lto.gov.ph)）的“Violation Inquiry”系统，输入车牌号或驾照号即可查询未处理违章
 - **罚款标准**：常见违章罚款如下：
   - 闯红灯：PHP 2,000-5,000
   - 超速（限速60km/h路段超速20%以上）：PHP 1,500-3,000
@@ -256,9 +256,9 @@ draft: false
 ### Q20: 菲律宾交通主管部门的在线服务有哪些？
 
 **A:** 依据DOTr 2026年数字服务计划：
-- **LTO在线门户**（www.lto.gov.ph）：提供驾照续期、违章查询、车辆注册续期、预约考试等服务
-- **CAAP在线系统**（www.caap.gov.ph）：航班查询、投诉提交、机场服务信息
-- **DOTr电子平台**（www.dotr.gov.ph/e-services）：公共交通投诉、许可证申请、政策查询
+- **LTO在线门户**（[www.lto.gov.ph](https://www.lto.gov.ph)）：提供驾照续期、违章查询、车辆注册续期、预约考试等服务
+- **CAAP在线系统**（[www.caap.gov.ph](https://www.caap.gov.ph)）：航班查询、投诉提交、机场服务信息
+- **DOTr电子平台**（[www.dotr.gov.ph/e-services](https://www.dotr.gov.ph/e-services)）：公共交通投诉、许可证申请、政策查询
 - **移动应用**：“LTMS”（Land Transportation Management System）应用（iOS/Android），支持驾照及车辆管理
 据DOTr 2026年第一季度报告，在线服务使用量占所有交通行政服务的42%，目标在2027年提升至60%。
 

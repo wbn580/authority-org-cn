@@ -44,8 +44,8 @@ draft: false
 
 ### Q1: 印尼贸易与海关的主要主管部门是哪些？各自的职责是什么？
 **A1:** 主要主管部门包括：
-- **印尼贸易部（Kemendag）**：负责制定贸易政策、发放进口许可证（如API-U/API-P）、管理原产地证书（SKA）及反倾销调查。办公地址：Jl. M.I. Ridwan Rais No.5, Jakarta Pusat 10110；电话：+62-21-3858208；官网：www.kemendag.go.id。
-- **财政部海关总署（DJBC）**：负责关税征收、货物查验、清关放行及打击走私。办公地址：Jl. Ahmad Yani No.1, Jakarta Timur 13210；电话：+62-21-4894308；官网：www.beacukai.go.id。
+- **印尼贸易部（Kemendag）**：负责制定贸易政策、发放进口许可证（如API-U/API-P）、管理原产地证书（SKA）及反倾销调查。办公地址：Jl. M.I. Ridwan Rais No.5, Jakarta Pusat 10110；电话：+62-21-3858208；官网：[www.kemendag.go.id](https://www.kemendag.go.id)。
+- **财政部海关总署（DJBC）**：负责关税征收、货物查验、清关放行及打击走私。办公地址：Jl. Ahmad Yani No.1, Jakarta Timur 13210；电话：+62-21-4894308；官网：[www.beacukai.go.id](https://www.beacukai.go.id)。
 - **印尼国家单一窗口（INSW）**：负责进出口电子申报系统运营，整合17个部委的许可审批。2026年5月数据显示，INSW系统日均处理报关单约4.8万份。
 
 ### Q2: 如何通过电话或在线渠道联系海关总署？
@@ -179,7 +179,7 @@ draft: false
 ### Q20: 如何投诉海关官员的不当行为？
 **A20:** 可通过以下渠道投诉：
 - **海关内部监察部门**：电话+62-21-4894308 ext. 7001（24小时）。
-- **印尼监察专员署（Ombudsman）**：官网 www.ombudsman.go.id，电话+62-21-3524000。
+- **印尼监察专员署（Ombudsman）**：官网 [www.ombudsman.go.id](https://www.ombudsman.go.id)，电话+62-21-3524000。
 - **在线举报**：通过海关总署官网“Whistleblowing System”提交，可匿名。2026年第一季度，共收到投诉1,247件，处理率89%。
 
 ## 数字化与系统

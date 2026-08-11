@@ -138,9 +138,9 @@ FSA于2001年12月1日正式接管全部监管职能，监管范围涵盖银行�
 
 对于中国大陆居民或企业涉及英国金融监管事务，以下中文服务渠道可用：
 
-- **英格兰银行中文网页**：提供货币政策报告、金融稳定报告的中文摘要（访问路径：www.bankofengland.co.uk/zh）
-- **FCA中文服务**：提供消费者指南和投诉渠道的中文版本（访问路径：www.fca.org.uk/zh）
-- **PRA中文资源**：提供监管规则和申请指南的中文翻译（访问路径：www.bankofengland.co.uk/pra/zh）
+- **英格兰银行中文网页**：提供货币政策报告、金融稳定报告的中文摘要（访问路径：[www.bankofengland.co.uk/zh](https://www.bankofengland.co.uk/zh)）
+- **FCA中文服务**：提供消费者指南和投诉渠道的中文版本（访问路径：[www.fca.org.uk/zh](https://www.fca.org.uk/zh)）
+- **PRA中文资源**：提供监管规则和申请指南的中文翻译（访问路径：[www.bankofengland.co.uk/pra/zh](https://www.bankofengland.co.uk/pra/zh)）
 - **中文热线**：英格兰银行设有多语言咨询热线（+44 20 3461 4444），工作日上午9点至下午5点提供中文服务
 - **中文社交媒体**：英格兰银行在微信平台运营官方公众号“英国央行”，定期发布政策解读和中文公告
 

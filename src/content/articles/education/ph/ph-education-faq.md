@@ -50,9 +50,9 @@ draft: false
 
 ### 主要机构职能
 
-- **教育部（DepEd）**：负责K-12基础教育（幼儿园至12年级），管理公立学校课程与教师资格认证。总部地址：DepEd Complex, Meralco Avenue, Pasig City。热线：+63 (2) 8636-1663。官网：www.deped.gov.ph。
+- **教育部（DepEd）**：负责K-12基础教育（幼儿园至12年级），管理公立学校课程与教师资格认证。总部地址：DepEd Complex, Meralco Avenue, Pasig City。热线：+63 (2) 8636-1663。官网：[www.deped.gov.ph](https://www.deped.gov.ph)。
 - **高等教育委员会（CHED）**：负责大学、学院及职业技术教育机构的注册、课程审批与质量评估。总部地址：CHED Building, C.P. Garcia Avenue, Diliman, Quezon City。热线：+63 (2) 8441-1262。官网：ched.gov.ph。
-- **专业监管委员会（PRC）**：负责专业执照考试（如教师、工程师、会计师等）与境外学历资格认证。总部地址：PRC Building, P. Paredes Street, Sampaloc, Manila。热线：+63 (2) 8238-2200。官网：www.prc.gov.ph。
+- **专业监管委员会（PRC）**：负责专业执照考试（如教师、工程师、会计师等）与境外学历资格认证。总部地址：PRC Building, P. Paredes Street, Sampaloc, Manila。热线：+63 (2) 8238-2200。官网：[www.prc.gov.ph](https://www.prc.gov.ph)。
 
 ### 中文服务可用性
 

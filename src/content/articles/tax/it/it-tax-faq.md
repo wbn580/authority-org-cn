@@ -62,7 +62,7 @@ draft: false
 
 A1:  
 - **中央客服电话**：+39 06 96668900（意大利语，周一至周五 9:00-17:00；2026年新增英文专线，按2转接）。  
-- **税务援助中心（CAF）**：全国约2500个授权点，提供免费基础申报协助。地址查询：www.agenziaentrate.gov.it/caf。  
+- **税务援助中心（CAF）**：全国约2500个授权点，提供免费基础申报协助。地址查询：[www.agenziaentrate.gov.it/caf](https://www.agenziaentrate.gov.it/caf)。  
 - **在线门户**：Fisconline（需SPID/CIE/CNS数字身份登录），可提交申报、查询缴税状态、下载税务证明。  
 - **电子邮箱**：仅限认证邮件（PEC），格式：[用户名]@[域名].pec.agenziaentrate.it。普通邮件不处理涉税查询。  
 - **社交媒体**：官方Twitter（@AgenziaEntrate）发布公告，不提供个案咨询。

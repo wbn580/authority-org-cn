@@ -110,7 +110,7 @@ draft: false
 ### 4.3 中文服务可用性
 
 - **银行渠道**：意大利主要银行（如UniCredit、Intesa Sanpaolo）在米兰、罗马等地的分行提供中文客户经理服务（需预约）。Banca d’Italia官网提供英文页面，但中文内容有限。
-- **CONSOB注册查询**：CONSOB官网（www.consob.it）提供英文版“注册实体查询”工具，支持按名称检索CASP。
+- **CONSOB注册查询**：CONSOB官网（[www.consob.it](https://www.consob.it)）提供英文版“注册实体查询”工具，支持按名称检索CASP。
 - **合规咨询**：中国大陆居民可通过意大利中国商会（CCCI）获取合规指南，该商会2025年发布了中文版《意大利金融监管合规手册》。
 
 ## 五、未来展望（2027-2028）

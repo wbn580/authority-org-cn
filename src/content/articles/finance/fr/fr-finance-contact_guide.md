@@ -33,7 +33,7 @@ draft: false
 - **邮箱**：contact@banque-france.fr（一般咨询）；surveillance@banque-france.fr（监管事务）  
 - **营业时间**：周一至周五 09:00–16:30（公众假期除外）；部分省级网点周三下午关闭  
 - **预约方式**：  
-  - 线上预约：通过官网（www.banque-france.fr）的“Prendre un rendez-vous”功能，选择服务类型（如账户查询、信用记录申请）。  
+  - 线上预约：通过官网（[www.banque-france.fr](https://www.banque-france.fr)）的“Prendre un rendez-vous”功能，选择服务类型（如账户查询、信用记录申请）。  
   - 电话预约：拨打 +33 (0)1 42 92 42 92，按语音提示选择“Rendez-vous”。  
   - 现场预约：仅限紧急情况（如账户冻结），需携带身份证明文件。  
 
@@ -79,7 +79,7 @@ ACPR是法国央行下属独立机构，负责金融机构监管与消费者保�
 - **邮箱**：acpr@acpr.banque-france.fr  
 - **营业时间**：周一至周五 09:30–17:00；周三下午不对外开放  
 - **预约方式**：  
-  - 线上预约：通过ACPR官网（www.acpr.banque-france.fr）的“Contact”页面，选择“Déposer une réclamation”或“Demande d’information”。  
+  - 线上预约：通过ACPR官网（[www.acpr.banque-france.fr](https://www.acpr.banque-france.fr)）的“Contact”页面，选择“Déposer une réclamation”或“Demande d’information”。  
   - 电话预约：拨打 +33 (0)1 49 95 40 00，按语音提示选择“Réclamation”或“Information”。  
   - 邮件预约：发送至 reclamations@acpr.banque-france.fr，主题注明“Rendez-vous”。  
 
@@ -134,9 +134,9 @@ ACPR是法国央行下属独立机构，负责金融机构监管与消费者保�
 
 ### 2. 外部申诉渠道
 
-- **欧洲银行业管理局（EBA）**：涉及跨境金融纠纷，可通过EBA的FIN-NET网络申诉（www.eba.europa.eu/fin-net）。  
-- **法国金融市场监管局（AMF）**：涉及投资产品纠纷，联系AMF（www.amf-france.org）。  
-- **消费者协会**：如UFC-Que Choisir（www.quechoisir.org），提供免费法律咨询。  
+- **欧洲银行业管理局（EBA）**：涉及跨境金融纠纷，可通过EBA的FIN-NET网络申诉（[www.eba.europa.eu/fin-net](https://www.eba.europa.eu/fin-net)）。  
+- **法国金融市场监管局（AMF）**：涉及投资产品纠纷，联系AMF（[www.amf-france.org](https://www.amf-france.org)）。  
+- **消费者协会**：如UFC-Que Choisir（[www.quechoisir.org](https://www.quechoisir.org)），提供免费法律咨询。  
 
 ---
 
@@ -180,7 +180,7 @@ ACPR是法国央行下属独立机构，负责金融机构监管与消费者保�
 **A3:** 截至**2026年5月**，两家机构均未设立中文热线。部分网点（如巴黎总部）提供电话翻译服务，需提前预约。具体步骤：拨打总机后，要求“Interprète chinois”，等待5-15分钟。翻译服务免费但仅限法语-中文互译，不覆盖其他方言（如粤语、闽南语）。建议使用法语或英语沟通。
 
 ### Q4: 大陆人如何投诉法国银行的违规行为？  
-**A4:** 首先联系银行客户服务部门，若**15个工作日**内未获满意答复，可向ACPR提交投诉。投诉需填写Formulaire REC-01表格，附上银行回复及证据。ACPR接受法语或英语投诉，中文文件需经认证翻译。若涉及跨境问题，可同时通过FIN-NET网络（www.eba.europa.eu/fin-net）申诉。
+**A4:** 首先联系银行客户服务部门，若**15个工作日**内未获满意答复，可向ACPR提交投诉。投诉需填写Formulaire REC-01表格，附上银行回复及证据。ACPR接受法语或英语投诉，中文文件需经认证翻译。若涉及跨境问题，可同时通过FIN-NET网络（[www.eba.europa.eu/fin-net](https://www.eba.europa.eu/fin-net)）申诉。
 
 ### Q5: 法国央行和ACPR的办公时间是否适合大陆人？  
 **A5:** 两家机构办公时间为周一至周五09:00–17:00（法国时间），对应北京时间16:00–次日00:00（夏令时）或15:00–23:00（冬令时）。建议在法国时间上午（北京时间下午）联系，避免周五下午（可能提前关闭）。线上服务24小时可用，但人工回复仅限办公时间。

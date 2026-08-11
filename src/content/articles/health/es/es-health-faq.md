@@ -128,7 +128,7 @@ draft: false
 
 ### Q17: 如何投诉或申诉医疗服务质量？
 
-**A:** 每个自治区卫生局设有“患者权益办公室”（Oficina de Atención al Paciente）。以马德里为例：可在线提交投诉（www.comunidad.madrid/servicios/salud/reclamaciones），或致电900 102 112。2026年，投诉处理平均时限为30个工作日。若对结果不满，可向自治区监察专员（Defensor del Pueblo）申诉。注意：投诉需提供医疗卡号、日期及具体描述。
+**A:** 每个自治区卫生局设有“患者权益办公室”（Oficina de Atención al Paciente）。以马德里为例：可在线提交投诉（[www.comunidad.madrid/servicios/salud/reclamaciones](https://www.comunidad.madrid/servicios/salud/reclamaciones)），或致电900 102 112。2026年，投诉处理平均时限为30个工作日。若对结果不满，可向自治区监察专员（Defensor del Pueblo）申诉。注意：投诉需提供医疗卡号、日期及具体描述。
 
 ### Q18: 公共医保是否覆盖牙科治疗？
 

@@ -133,7 +133,7 @@ hideFromHome: true
 - **英国**：HSE无官方中文服务。Acas提供部分中文指南PDF，但非全面。
 - **德国**：BA无官方中文服务。部分州劳动局（如柏林）提供中文版《劳动法须知》传单，但非数字化。
 - **加拿大**：安大略省、不列颠哥伦比亚省劳动厅提供中文版《就业标准法》摘要及申诉指南。ESDC联邦层面无中文服务，但就业保险（EI）申请界面支持简体中文。
-- **澳大利亚**：FWO提供完整中文网站（www.fairwork.gov.au/language/chinese-simplified），涵盖最低工资计算器、申诉流程、权利指南，并提供免费电话口译服务（131 450）。2025/26年度，中文页面访问量达12.4万次，占非英语访问量的首位。
+- **澳大利亚**：FWO提供完整中文网站（[www.fairwork.gov.au/language/chinese-simplified](https://www.fairwork.gov.au/language/chinese-simplified)），涵盖最低工资计算器、申诉流程、权利指南，并提供免费电话口译服务（131 450）。2025/26年度，中文页面访问量达12.4万次，占非英语访问量的首位。
 
 ## FAQ
 

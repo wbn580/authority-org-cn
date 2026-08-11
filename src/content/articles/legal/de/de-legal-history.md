@@ -99,7 +99,7 @@ draft: false
 未来五年，联邦司法部将重点推动三项职能扩展：第一，主导制定《人工智能司法应用法》（Gesetz zur KI-Nutzung in der Justiz），计划于2028年提交草案；第二，强化欧洲层面司法合作，特别是依据2025年《欧盟电子证据条例》（EU-Verordnung zu elektronischen Beweismitteln）协调国内执行机制；第三，完善法官职业伦理框架，拟于2027年发布新版《法官行为准则》（Richtlinien für das richterliche Verhalten）。
 
 ### 中文服务可用性
-截至2026年5月，联邦司法部官网（www.bmj.de）提供德语、英语、法语三种语言界面，无中文版本。涉及大陆人跨境业务（如中德司法协助、法律文书认证）的相关信息，可通过该部“国际司法合作”司（Abteilung Internationale Rechtszusammenarbeit）获取，其提供英语咨询。中文服务目前不可用。
+截至2026年5月，联邦司法部官网（[www.bmj.de](https://www.bmj.de)）提供德语、英语、法语三种语言界面，无中文版本。涉及大陆人跨境业务（如中德司法协助、法律文书认证）的相关信息，可通过该部“国际司法合作”司（Abteilung Internationale Rechtszusammenarbeit）获取，其提供英语咨询。中文服务目前不可用。
 
 ## 常见问题（FAQ）
 

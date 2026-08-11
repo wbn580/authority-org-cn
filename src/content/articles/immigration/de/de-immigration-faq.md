@@ -160,8 +160,8 @@ A: 据德国外交部2026年指引：
 ### Q12: 德国移民主管部门的官方联系方式是什么？
 
 A: 主要联系方式如下：
-- BAMF总部：地址：Frankenstraße 210, 90461 Nürnberg；电话：+49 911 943-0；官网：www.bamf.de；工作时间：周一至周五9:00-15:00。
-- 德国外交部：地址：Werderscher Markt 1, 10117 Berlin；电话：+49 30 5000-0；官网：www.auswaertiges-amt.de。
+- BAMF总部：地址：Frankenstraße 210, 90461 Nürnberg；电话：+49 911 943-0；官网：[www.bamf.de](https://www.bamf.de)；工作时间：周一至周五9:00-15:00。
+- 德国外交部：地址：Werderscher Markt 1, 10117 Berlin；电话：+49 30 5000-0；官网：[www.auswaertiges-amt.de](https://www.auswaertiges-amt.de)。
 - 德国驻华使领馆：北京领事区电话：010-85329000；上海领事区电话：021-60106000；广州领事区电话：020-83130000；成都领事区电话：028-85288000。
 - 紧急情况（如签证丢失）：拨打外交部24小时热线+49 30 5000-2000。
 

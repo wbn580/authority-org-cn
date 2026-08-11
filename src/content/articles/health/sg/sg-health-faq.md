@@ -80,7 +80,7 @@ draft: false
 
 ### Q3: 如何查询MediSave账户余额？
 **A:** 据中央公积金局（CPF Board）2026年3月公告：
-- 登录CPF网站（www.cpf.gov.sg）或CPF Mobile App
+- 登录CPF网站（[www.cpf.gov.sg](https://www.cpf.gov.sg)）或CPF Mobile App
 - 通过SingPass账户验证
 - 电话查询：1800-227-1188（工作日 8:00-17:00）
 - 余额更新频率：每日自动更新，2026年4月起支持实时查询
@@ -110,7 +110,7 @@ draft: false
 
 ### Q7: 如何注册公立医院门诊？
 **A:** 据SingHealth 2026年4月门诊费用报告：
-- 流程：通过SingPass登录HealthHub（www.healthhub.sg）或拨打医院注册热线
+- 流程：通过SingPass登录HealthHub（[www.healthhub.sg](https://www.healthhub.sg)）或拨打医院注册热线
 - 注册时效：线上注册需1-2个工作日审核，线下柜台即时办理
 - 费用：首次注册费15新加坡元（含电子健康档案创建）
 - 等待时间：非紧急门诊平均等待4-6周（2026年第一季度数据）

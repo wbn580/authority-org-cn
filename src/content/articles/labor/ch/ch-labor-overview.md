@@ -143,13 +143,13 @@ SECO未提供中文版官方网站或中文客服。其劳工政策咨询热线�
 
 ## 参考资料
 
-1. 瑞士联邦宪法（Bundesverfassung der Schweizerischen Eidgenossenschaft），1999年4月18日通过，2024年修订版。第110条（劳动与就业）。来源：瑞士联邦官方法律门户（www.fedlex.admin.ch）。
-2. 瑞士劳动法（Arbeitsgesetz, ArG），1964年3月13日通过，2025年1月1日修订版。第2条（适用范围）、第41条（监察权限）。来源：瑞士联邦官方法律门户（www.fedlex.admin.ch）。
-3. 瑞士失业保险法（Arbeitslosenversicherungsgesetz, AVIG），1982年6月25日通过，2024年修订版。第1条（目的）、第22条（短期工作津贴）。来源：瑞士联邦官方法律门户（www.fedlex.admin.ch）。
-4. 瑞士外国人法律与融合法（Ausländer- und Integrationsgesetz, AIG），2005年12月16日通过，2025年修订版。第21条（优先权审查）、第23条（工作许可）。来源：瑞士联邦官方法律门户（www.fedlex.admin.ch）。
+1. 瑞士联邦宪法（Bundesverfassung der Schweizerischen Eidgenossenschaft），1999年4月18日通过，2024年修订版。第110条（劳动与就业）。来源：瑞士联邦官方法律门户（[www.fedlex.admin.ch](https://www.fedlex.admin.ch)）。
+2. 瑞士劳动法（Arbeitsgesetz, ArG），1964年3月13日通过，2025年1月1日修订版。第2条（适用范围）、第41条（监察权限）。来源：瑞士联邦官方法律门户（[www.fedlex.admin.ch](https://www.fedlex.admin.ch)）。
+3. 瑞士失业保险法（Arbeitslosenversicherungsgesetz, AVIG），1982年6月25日通过，2024年修订版。第1条（目的）、第22条（短期工作津贴）。来源：瑞士联邦官方法律门户（[www.fedlex.admin.ch](https://www.fedlex.admin.ch)）。
+4. 瑞士外国人法律与融合法（Ausländer- und Integrationsgesetz, AIG），2005年12月16日通过，2025年修订版。第21条（优先权审查）、第23条（工作许可）。来源：瑞士联邦官方法律门户（[www.fedlex.admin.ch](https://www.fedlex.admin.ch)）。
 5. SECO 2025年度报告（Jahresbericht 2025 des Staatssekretariats für Wirtschaft）。伯尔尼：SECO，2026年3月发布。第14页（劳动法投诉数据）、第17页（外籍雇员投诉数据）、第22页（经济韧性基金数据）。
 6. SECO 2026年第一季度劳动力市场简报（Arbeitsmarktbulletin Q1 2026）。伯尔尼：SECO，2026年4月发布。短期工作津贴申请量数据、失业率数据。
 7. SECO 2024年职业安全报告（Sicherheitsbericht 2024）。伯尔尼：SECO，2025年4月发布。现场检查次数数据。
 8. SECO 2025年移民就业报告（Migrationsarbeitsmarktbericht 2025）。伯尔尼：SECO，2026年2月发布。中国大陆公民工作许可申请与批准数据。
-9. 瑞士联邦委员会2024年3月新闻稿：“联邦委员会启动经济韧性基金”。2024年3月13日。来源：www.admin.ch/gov/en/start/documentation/media-releases.html。
-10. 瑞士联邦委员会2026年2月预算公告：“技能提升与再培训基金扩容”。2026年2月19日。来源：www.admin.ch/gov/en/start/documentation/media-releases.html。
+9. 瑞士联邦委员会2024年3月新闻稿：“联邦委员会启动经济韧性基金”。2024年3月13日。来源：[www.admin.ch/gov/en/start/documentation/media-releases.html](https://www.admin.ch/gov/en/start/documentation/media-releases.html)。
+10. 瑞士联邦委员会2026年2月预算公告：“技能提升与再培训基金扩容”。2026年2月19日。来源：[www.admin.ch/gov/en/start/documentation/media-releases.html](https://www.admin.ch/gov/en/start/documentation/media-releases.html)。

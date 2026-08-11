@@ -51,7 +51,7 @@ draft: false
 - **地址：** Jabatan Imigresen Malaysia, No. 1, Persiaran Perdana, Presint 2, 62550 Putrajaya, Malaysia.
 - **客服热线：** 03-8000 8000（国内拨打）或 +603-8000 8000（海外拨打），服务时间为周一至周五，上午8:00至下午5:00（马来西亚时间，UTC+8）。
 - **官方电邮：** pro@imi.gov.my（仅限一般咨询，签证类具体问题需通过线上系统提交）。
-- **官方网站：** www.imi.gov.my（提供签证状态查询、表格下载及线上预约服务）。
+- **官方网站：** [www.imi.gov.my](https://www.imi.gov.my)（提供签证状态查询、表格下载及线上预约服务）。
 - **社交媒体：** 官方Facebook（Jabatan Imigresen Malaysia）及Twitter（@Imigresen_MY）发布公告，但不受理具体案件。
 
 ### Q2: 马来西亚移民事务的法律依据是什么？
@@ -76,7 +76,7 @@ draft: false
 
 ### Q5: 如何在线申请马来西亚签证？需要哪些文件？
 **A:** 根据马来西亚移民局2026年指南，在线申请流程如下：
-1. **注册账户：** 访问马来西亚移民局官网（www.imi.gov.my）或签证申请平台（如eVisa Malaysia），创建个人账户。
+1. **注册账户：** 访问马来西亚移民局官网（[www.imi.gov.my](https://www.imi.gov.my)）或签证申请平台（如eVisa Malaysia），创建个人账户。
 2. **填写申请表：** 提供护照信息（有效期至少6个月）、行程安排、住宿证明及护照照片（白底，35mm x 45mm）。
 3. **上传文件：** 必须包括护照首页扫描件、往返机票预订单、酒店预订确认及财务证明（如银行流水，余额不低于RM 3,000或等值外币）。
 4. **支付费用：** 通过信用卡或在线银行支付签证费（e-Visa为RM 200）。

@@ -64,7 +64,7 @@ draft: false
 - **传真**：+64 4 918 8820
 - **邮箱**：info@justice.govt.nz（一般咨询）；media@justice.govt.nz（媒体）
 - **办公时间**：周一至周五 8:30–17:00，周末及公共假日关闭
-- **网站**：www.justice.govt.nz（提供在线表格下载及服务预约）
+- **网站**：[www.justice.govt.nz](https://www.justice.govt.nz)（提供在线表格下载及服务预约）
 
 ### 区域办公室
 司法部在奥克兰、惠灵顿、基督城等主要城市设有区域办公室。以奥克兰为例：
@@ -80,7 +80,7 @@ draft: false
 地方法院处理大部分民事（争议金额不超过35万新西兰元）与刑事案件。据《法院服务指南》2026年数据，全国共有58个地方法院服务点。
 - **通用电话**：+64 4 918 8800（转接至最近法院）
 - **在线查询**：www.justice.govt.nz/courts/district-court
-- **预约方式**：通过司法部在线预约系统（www.justice.govt.nz/online-services）或电话预约。部分法院接受现场排队，但建议提前预约以缩短等待时间。
+- **预约方式**：通过司法部在线预约系统（[www.justice.govt.nz/online-services](https://www.justice.govt.nz/online-services)）或电话预约。部分法院接受现场排队，但建议提前预约以缩短等待时间。
 - **常见表格清单**：
   - 民事索赔申请表（Form 1，用于金额不超过35万新西兰元的索赔）
   - 判决执行申请表（Form 18）
@@ -123,7 +123,7 @@ draft: false
 
 - **翻译服务**：法院可提供免费口译服务（包括普通话和粤语），需在预约或出庭前至少3个工作日申请。申请方式：填写《口译服务申请表》（Form IS01），提交至法院服务台或发送至翻译服务协调处（interpreters@justice.govt.nz）。
 - **文件翻译**：司法部不提供书面文件翻译服务，但接受经认证的翻译件。推荐使用新西兰翻译协会（NZSTI）注册翻译员（名录见www.nzsti.org）。
-- **中文网站**：司法部官网提供部分中文版指南，包括《法院程序简介》（简体中文PDF）和《法律援助申请指引》（简体中文PDF），下载地址：www.justice.govt.nz/chinese-resources。
+- **中文网站**：司法部官网提供部分中文版指南，包括《法院程序简介》（简体中文PDF）和《法律援助申请指引》（简体中文PDF），下载地址：[www.justice.govt.nz/chinese-resources](https://www.justice.govt.nz/chinese-resources)。
 - **电话咨询**：拨打0800 532 532，可要求转接中文口译员（需等待1-3分钟）。
 
 ## 处理时效与投诉申诉
@@ -137,7 +137,7 @@ draft: false
 
 ### 投诉与申诉渠道
 - **对法院工作人员投诉**：提交至司法部客户服务部（complaints@justice.govt.nz），或填写《投诉表》（Form C01），处理期限为15个工作日。
-- **对法官行为投诉**：提交至司法行为委员会（Judicial Conduct Commissioner），地址：PO Box 2847, Wellington 6140；电话：+64 4 918 8800；网站：www.jcc.govt.nz。
+- **对法官行为投诉**：提交至司法行为委员会（Judicial Conduct Commissioner），地址：PO Box 2847, Wellington 6140；电话：+64 4 918 8800；网站：[www.jcc.govt.nz](https://www.jcc.govt.nz)。
 - **对法律援助决定申诉**：填写《法律援助申诉表》（Form LA04），提交至法律援助审查委员会（Legal Aid Review Panel），处理期限为20个工作日。
 
 ## 中国大陆居民实操指南
@@ -147,19 +147,19 @@ draft: false
 - **身份证明**：所有司法程序中，需提供有效护照及新西兰签证。若为无签证者（如逾期滞留），需先联系移民局（Immigration New Zealand）解决身份问题。
 - **授权委托书**：若委托律师或代理人，需提供经公证的授权委托书（Power of Attorney）。中国大陆的公证文件须经新西兰内政部（Department of Internal Affairs）认证，或通过中国驻新西兰使领馆办理领事认证。
 - **语言支持**：如前文所述，可申请免费口译服务。建议在首次联系法院时明确说明“需要中文口译”，并在所有表格中勾选“语言需求”选项。
-- **法律援助**：非新西兰公民或永久居民通常不符合法律援助资格，除非持有难民签证或受保护人员签证。建议自费聘请律师，或咨询社区法律中心（Community Law Centre，免费服务，网址：www.communitylaw.org.nz）。
+- **法律援助**：非新西兰公民或永久居民通常不符合法律援助资格，除非持有难民签证或受保护人员签证。建议自费聘请律师，或咨询社区法律中心（Community Law Centre，免费服务，网址：[www.communitylaw.org.nz](https://www.communitylaw.org.nz)）。
 - **紧急情况**：若面临逮捕或拘留，可拨打法院紧急电话（仅限案件相关）：+64 4 918 8800，或联系中国驻新西兰大使馆（领事保护电话：+64 21 528 663）。
 
 ## FAQ
 
 ### Q1: 如何预约法院服务？
-**A1**: 预约方式分为在线和电话两种。在线预约：访问司法部官网（www.justice.govt.nz/online-services），选择“Court Hearing Booking”或“Appointment Booking”。电话预约：拨打0800 532 532（免费）。部分地方法院接受现场排队，但建议提前至少1个工作日预约。
+**A1**: 预约方式分为在线和电话两种。在线预约：访问司法部官网（[www.justice.govt.nz/online-services](https://www.justice.govt.nz/online-services)），选择“Court Hearing Booking”或“Appointment Booking”。电话预约：拨打0800 532 532（免费）。部分地方法院接受现场排队，但建议提前至少1个工作日预约。
 
 ### Q2: 法律援助申请被拒后如何申诉？
 **A2**: 若法律援助申请被拒，申请人可在收到拒绝通知后的15个工作日内提交申诉。填写《法律援助申诉表》（Form LA04），附上拒绝信副本及补充证据（如收入证明、案件紧迫性说明），邮寄至法律援助审查委员会（地址见上文）。审查委员会将在20个工作日内作出决定。
 
 ### Q3: 中国大陆居民能否在新西兰法院直接起诉？
-**A3**: 可以，但需满足以下条件：1）案件与新西兰有实质联系（如合同履行地、侵权行为发生地在新西兰）；2）提供有效身份证明及签证；3）建议聘请新西兰执业律师（律师名录见新西兰律师协会网站：www.lawsociety.org.nz）。若涉及跨境问题，可咨询中国驻新西兰使领馆。
+**A3**: 可以，但需满足以下条件：1）案件与新西兰有实质联系（如合同履行地、侵权行为发生地在新西兰）；2）提供有效身份证明及签证；3）建议聘请新西兰执业律师（律师名录见新西兰律师协会网站：[www.lawsociety.org.nz](https://www.lawsociety.org.nz)）。若涉及跨境问题，可咨询中国驻新西兰使领馆。
 
 ## 参考资料
 

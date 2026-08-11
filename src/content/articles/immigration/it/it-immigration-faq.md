@@ -52,7 +52,7 @@ draft: false
 
 **A1:**  
 意大利移民与签证事务由两大部门分工管理：
-- **意大利内政部（Ministero dell'Interno）**：负责居留许可（Permesso di Soggiorno）、移民流动配额（Decreto Flussi）及公民身份申请。全国统一客服热线：**+39 06 9818 2026**（周一至周五 08:30-16:30，意大利时间）。官方网站：**www.interno.gov.it**。
+- **意大利内政部（Ministero dell'Interno）**：负责居留许可（Permesso di Soggiorno）、移民流动配额（Decreto Flussi）及公民身份申请。全国统一客服热线：**+39 06 9818 2026**（周一至周五 08:30-16:30，意大利时间）。官方网站：**[www.interno.gov.it](https://www.interno.gov.it)**。
 - **意大利外交部（Ministero degli Affari Esteri）**：负责短期签证（Schengen Visa）、长期签证（National Visa）的审批与发放。签证信息门户：**vistoperitalia.esteri.it**。全球意大利驻外使领馆联系方式可在该门户查询。
 
 ### Q2: 如何在线预约签证申请？流程是什么？
@@ -153,7 +153,7 @@ draft: false
 
 **A11:**  
 **中文服务可用性**：  
-- **意大利内政部**：全国客服热线（+39 06 9818 2026）提供**意大利语、英语**服务，无中文专线。但移民局官网（www.interno.gov.it）有**机器翻译**功能（支持中文）。
+- **意大利内政部**：全国客服热线（+39 06 9818 2026）提供**意大利语、英语**服务，无中文专线。但移民局官网（[www.interno.gov.it](https://www.interno.gov.it)）有**机器翻译**功能（支持中文）。
 - **意大利外交部**：签证门户（vistoperitalia.esteri.it）仅提供意大利语与英语界面。部分驻华使领馆（北京、上海、广州）提供**中文预约指引**与**中文版申请表**（Modello D的中文翻译版）。
 - **签证中心（VFS Global/TLScontact）**：在中国的主要城市（北京、上海、广州、成都等）提供**中文客服**与**中文材料清单**。  
 建议：申请人可通过**意大利驻华大使馆官网**（ambpechino.esteri.it）获取中文版《签证申请指南》。据意大利外交部2026年3月数据，2025年来自中国大陆的签证申请中，约**23%**使用了中文辅助服务。
@@ -204,7 +204,7 @@ draft: false
 
 **A16:**  
 是的，意大利内政部提供居留许可进度在线查询服务：
-- **网站**：**www.portaleimmigrazione.it**（需输入申请编号或居留卡编号）。
+- **网站**：**[www.portaleimmigrazione.it](https://www.portaleimmigrazione.it)**（需输入申请编号或居留卡编号）。
 - **查询范围**：首次申请、延期、补办、转换居留类型。
 - **更新频率**：每周一更新状态（如“正在审查”、“已批准”、“待领取”）。
 - **短信通知**：审批通过后，警察局会发送短信至申请时提供的手机号（意大利号码）。  

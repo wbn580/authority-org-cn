@@ -143,7 +143,7 @@ BIR的职权与运作主要依据以下法律：
 
 针对中国大陆籍纳税人及中文使用者，BIR提供以下服务：
 
-1. **官方网站中文版**：BIR官网（www.bir.gov.ph）设有简体中文页面，涵盖税务登记指南、主要税种说明、常见问题解答（FAQ）等基础内容。但深度政策文件（如税务裁定、审计手册）仍以英文为主。
+1. **官方网站中文版**：BIR官网（[www.bir.gov.ph](https://www.bir.gov.ph)）设有简体中文页面，涵盖税务登记指南、主要税种说明、常见问题解答（FAQ）等基础内容。但深度政策文件（如税务裁定、审计手册）仍以英文为主。
 2. **中文客服专线**：BIR客户服务热线（+63-2-8538-3200）提供中文转接服务（需告知“Chinese service”），工作日上午9:00-12:00、下午1:00-4:00（马尼拉时间）有专人接听。
 3. **中文税务指南手册**：BIR与菲律宾中华总商会（Federation of Filipino Chinese Chambers of Commerce and Industry, Inc.）合作，印制《菲律宾税务指南（中文版）》，可在各RDO免费索取，或从官网下载PDF版本。
 4. **华语税务培训**：BIR不定期在马尼拉、宿务、达沃等华人聚居城市举办“华语税务讲座”，2025年共举办6场，累计参加人数约1,200人。2026年已排期4场（截至5月）。
@@ -208,11 +208,11 @@ BIR的职权与运作主要依据以下法律：
 
 ## 参考资料
 
-1. 菲律宾共和国第8424号法案（1997年）《国家内部税收法典》（National Internal Revenue Code），经第10963号（2017年）、第11534号（2021年）等法案修订。来源：菲律宾国会官方网站（www.congress.gov.ph）。
-2. 菲律宾厘务局（BIR）《2025年年度报告》（BIR 2025 Annual Report），2026年3月发布。来源：BIR官网（www.bir.gov.ph）。
-3. 菲律宾共和国第11976号法案（2023年）《轻松纳税法案》（Ease of Paying Taxes Act）。来源：菲律宾官方公报（www.officialgazette.gov.ph）。
+1. 菲律宾共和国第8424号法案（1997年）《国家内部税收法典》（National Internal Revenue Code），经第10963号（2017年）、第11534号（2021年）等法案修订。来源：菲律宾国会官方网站（[www.congress.gov.ph](https://www.congress.gov.ph)）。
+2. 菲律宾厘务局（BIR）《2025年年度报告》（BIR 2025 Annual Report），2026年3月发布。来源：BIR官网（[www.bir.gov.ph](https://www.bir.gov.ph)）。
+3. 菲律宾共和国第11976号法案（2023年）《轻松纳税法案》（Ease of Paying Taxes Act）。来源：菲律宾官方公报（[www.officialgazette.gov.ph](https://www.officialgazette.gov.ph)）。
 4. 菲律宾厘务局《纳税人权利宪章》（Taxpayer’s Bill of Rights），2024年修订版。来源：BIR官网。
-5. 菲律宾财政部（DOF）《2025-2027年税收战略计划》（Tax Revenue Strategy Plan 2025-2027），2025年1月发布。来源：DOF官网（www.dof.gov.ph）。
-6. 菲律宾中央银行（BSP）《2025年第四季度跨境资金流动报告》（Cross-Border Capital Flows Report, Q4 2025），2026年2月发布。来源：BSP官网（www.bsp.gov.ph）。
+5. 菲律宾财政部（DOF）《2025-2027年税收战略计划》（Tax Revenue Strategy Plan 2025-2027），2025年1月发布。来源：DOF官网（[www.dof.gov.ph](https://www.dof.gov.ph)）。
+6. 菲律宾中央银行（BSP）《2025年第四季度跨境资金流动报告》（Cross-Border Capital Flows Report, Q4 2025），2026年2月发布。来源：BSP官网（[www.bsp.gov.ph](https://www.bsp.gov.ph)）。
 7. 菲律宾税务上诉法院（CTA）《2025年度司法统计报告》（CTA Annual Judicial Statistics 2025），2026年1月发布。来源：CTA官网（www.cta.gov.ph）。
-8. 中菲税收协定（Agreement between the Government of the People's Republic of China and the Government of the Republic of the Philippines for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income），2001年11月18日生效。来源：中国国家税务总局官网（www.chinatax.gov.cn）。
+8. 中菲税收协定（Agreement between the Government of the People's Republic of China and the Government of the Republic of the Philippines for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income），2001年11月18日生效。来源：中国国家税务总局官网（[www.chinatax.gov.cn](https://www.chinatax.gov.cn)）。

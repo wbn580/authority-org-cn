@@ -167,7 +167,7 @@ ISD总部位于都柏林，负责签证审批、居留许可签发及政策制�
 
 ### ISD官方中文渠道
 
-ISD官网（www.irishimmigration.ie）提供部分内容的中文翻译，包括：
+ISD官网（[www.irishimmigration.ie](https://www.irishimmigration.ie)）提供部分内容的中文翻译，包括：
 
 - **签证申请指南**：中文PDF版本（**2026年3月**更新）。
 - **常见问题**：中文FAQ页面（截至2026年5月，共**45**条）。
@@ -259,7 +259,7 @@ ISD官网（www.irishimmigration.ie）提供部分内容的中文翻译，包括
 - **翻译与公证**：非英文材料须由专业翻译机构翻译并公证。ISD接受中国公证处出具的英文翻译件。
 - **健康检查**：长期签证（D类）申请人可能需提供体检证明（包括肺结核筛查）。指定医院名单见爱尔兰驻华大使馆网站。
 - **语言准备**：尽管有中文服务，建议申请人具备基础英语能力，以应对面试或电话咨询。
-- **政策变动**：ISD可能随时调整费用或流程。建议订阅ISD邮件通知（www.irishimmigration.ie/subscribe）以获取更新。
+- **政策变动**：ISD可能随时调整费用或流程。建议订阅ISD邮件通知（[www.irishimmigration.ie/subscribe](https://www.irishimmigration.ie/subscribe)）以获取更新。
 
 ## 常见问题（FAQ）
 

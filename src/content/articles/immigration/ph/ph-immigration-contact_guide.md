@@ -92,7 +92,7 @@ draft: false
 根据 BI 2026 年 3 月发布的 **《在线预约系统操作指南》（Online Appointment System Guidelines, OASG 2026）**，多数业务（如签证延期、ACR I-Card 办理、清关证书）需通过 **BI 在线预约系统（BI Online Appointment System, BOAS）** 提前预约。
 
 ### 预约步骤
-1. 访问 BI 官网（www.immigration.gov.ph），点击“Online Appointment”链接。
+1. 访问 BI 官网（[www.immigration.gov.ph](https://www.immigration.gov.ph)），点击“Online Appointment”链接。
 2. 选择业务类型（如“Extension of Stay”、“ACR I-Card”等）。
 3. 填写个人信息（全名、护照号、出生日期、电子邮件）。
 4. 选择办公点、日期与时段（通常可预约未来 14 天内的时段）。

@@ -91,7 +91,7 @@ SECO成立后，劳动局成为其五大核心局之一。2002年，《联邦劳
 
 ## 中文服务可用性
 
-SECO劳动局通过其官网（www.seco.admin.ch）提供德语、法语、意大利语及英语服务。针对中文使用者，SECO于2023年发布了《瑞士劳动法基本指南》中文版PDF，并在2025年推出了中文版劳动监察投诉在线表格。目前，SECO在日内瓦、苏黎世、伯尔尼的办事处设有中文电话口译服务（需提前预约）。中文使用者可通过SECO国际事务处（international@seco.admin.ch）获取中文咨询。
+SECO劳动局通过其官网（[www.seco.admin.ch](https://www.seco.admin.ch)）提供德语、法语、意大利语及英语服务。针对中文使用者，SECO于2023年发布了《瑞士劳动法基本指南》中文版PDF，并在2025年推出了中文版劳动监察投诉在线表格。目前，SECO在日内瓦、苏黎世、伯尔尼的办事处设有中文电话口译服务（需提前预约）。中文使用者可通过SECO国际事务处（international@seco.admin.ch）获取中文咨询。
 
 ## FAQ
 
@@ -102,7 +102,7 @@ SECO劳动局通过其官网（www.seco.admin.ch）提供德语、法语、意�
 **A2:** 最近一次重大修订于2025年生效。修订内容主要包括：将每周最高工作时长统一为50小时（此前部分行业为45小时）；引入心理社会风险评估义务；明确平台经济工作者适用劳动法保护；以及数字化监察权限扩展。该修订版本编号为ArG 2025（AS 2025 1234）。
 
 ### Q3: 非瑞士居民如何查询或投诉劳动条件问题？
-**A3:** 非瑞士居民可通过以下途径：1）SECO劳动局在线投诉平台（www.seco.admin.ch/arbeitsbedingungen），提供德语、法语、意大利语、英语及中文界面；2）各州劳动监察办公室（Kantonales Arbeitsinspektorat）直接联系；3）拨打SECO免费热线（0800 123 456），提供口译服务。中文使用者可发送邮件至arbeitsbedingungen@seco.admin.ch。
+**A3:** 非瑞士居民可通过以下途径：1）SECO劳动局在线投诉平台（[www.seco.admin.ch/arbeitsbedingungen](https://www.seco.admin.ch/arbeitsbedingungen)），提供德语、法语、意大利语、英语及中文界面；2）各州劳动监察办公室（Kantonales Arbeitsinspektorat）直接联系；3）拨打SECO免费热线（0800 123 456），提供口译服务。中文使用者可发送邮件至arbeitsbedingungen@seco.admin.ch。
 
 ## 参考资料
 

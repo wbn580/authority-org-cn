@@ -45,21 +45,21 @@ draft: false
 - **电话**：+66 2 283 5353（总机），+66 2 280 0444（金融消费者保护热线，提供英语服务）。
 - **工作时间**：周一至周五 08:30–16:30（泰国时间，UTC+7），公众假期除外。2026年公共假期列表可在 BOT 官网“Holiday Calendar”下载。
 - **电子邮件**：通过官网“Contact Us”表单提交，分类为“General Inquiry”“Complaint”及“Regulatory Consultation”。
-- **网站**：www.bot.or.th（泰语/英语，2026年新增部分中文版块）。
+- **网站**：[www.bot.or.th](https://www.bot.or.th)（泰语/英语，2026年新增部分中文版块）。
 
 ### 证券交易委员会（SEC）总部
 
 - **地址**：333/3 Vibhavadi Rangsit Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand。
 - **电话**：+66 2 263 6000（总机），+66 2 263 6099（投资者热线，英语服务）。
 - **工作时间**：周一至周五 08:30–16:30。
-- **网站**：www.sec.or.th（泰语/英语）。
+- **网站**：[www.sec.or.th](https://www.sec.or.th)（泰语/英语）。
 
 ### 反洗钱办公室（AMLO）
 
 - **地址**：90 Vibhavadi Rangsit Road, Chom Phon, Chatuchak, Bangkok 10900, Thailand。
 - **电话**：+66 2 219 3600（总机），+66 2 219 3666（举报热线）。
 - **工作时间**：周一至周五 08:30–16:30。
-- **网站**：www.amlo.go.th（泰语/英语）。
+- **网站**：[www.amlo.go.th](https://www.amlo.go.th)（泰语/英语）。
 
 ## 预约方式与办事流程
 
@@ -130,7 +130,7 @@ draft: false
 
 - **内部申诉**：对 BOT 处理结果不满，可在收到通知后 **30 日**内向 BOT 内部申诉委员会（Internal Appeal Committee）提交书面申诉（地址：273 Samsen Road, Bang Khun Phrom, Phra Nakhon, Bangkok 10200，信封注明“Appeal Committee”）。申诉免费，处理时效 **60 个工作日**。
 - **外部仲裁**：涉及金融纠纷（如银行服务、保险、证券交易），可向泰国金融纠纷调解中心（Financial Dispute Resolution Center, FDRC）申请调解。FDRC 依据《金融纠纷调解法 B.E. 2565（2022）》运作，调解费 **500 泰铢**（2026年标准）。联系方式：www.fdrc.or.th，电话 +66 2 118 8111。
-- **监管举报**：对 BOT 工作人员不当行为，可向泰国国家反腐败委员会（NACC）举报（www.nacc.go.th），或通过 BOT 官网“Whistleblower”栏目匿名提交。
+- **监管举报**：对 BOT 工作人员不当行为，可向泰国国家反腐败委员会（NACC）举报（[www.nacc.go.th](https://www.nacc.go.th)），或通过 BOT 官网“Whistleblower”栏目匿名提交。
 
 ## 大陆人实操指南
 

@@ -114,7 +114,7 @@ draft: false
 第86/2024号法令要求DGCP在2025年底前实现法律援助在线申请全覆盖，据司法部2025年报告，截至2025年12月，在线申请占比达78%。第150/2025号法令将法律援助预算增加至4.5亿欧元，用于扩大覆盖范围（2026年目标覆盖约60万人，2025年为50万人）。2026年，DGCP与欧盟司法门户合作，推出多语言法律援助指引（含中文版）。
 
 ### 中文服务可用性
-意大利司法部官网（www.giustizia.it）未设中文服务，但通过欧盟司法门户（e-Justice）提供中文版基础指引（如“意大利司法体系概述”）。部分地方法院（如米兰、罗马）设有中文翻译服务，需提前向法院行政办公室申请。法律援助申请表中未提供中文版本，但可通过律师协会委托翻译。
+意大利司法部官网（[www.giustizia.it](https://www.giustizia.it)）未设中文服务，但通过欧盟司法门户（e-Justice）提供中文版基础指引（如“意大利司法体系概述”）。部分地方法院（如米兰、罗马）设有中文翻译服务，需提前向法院行政办公室申请。法律援助申请表中未提供中文版本，但可通过律师协会委托翻译。
 
 ---
 
@@ -174,13 +174,13 @@ CSM是独立宪法机构，负责法官任命、晋升与纪律（《意大利�
 
 ## 参考资料
 
-1. 意大利宪法（Costituzione della Repubblica Italiana, 1948年生效，2022年修订），第101-113条。来源：意大利参议院官网（www.senato.it）。
+1. 意大利宪法（Costituzione della Repubblica Italiana, 1948年生效，2022年修订），第101-113条。来源：意大利参议院官网（[www.senato.it](https://www.senato.it)）。
 2. 第12/2020号法令（Decreto Legislativo 19 febbraio 2020, n. 12），重组司法部职能。来源：意大利官方公报（Gazzetta Ufficiale, Serie Generale n. 46, 24 febbraio 2020）。
 3. 第86/2024号法令（Decreto Legislativo 15 maggio 2024, n. 86），司法效率改革。来源：意大利官方公报（Gazzetta Ufficiale, Serie Generale n. 115, 18 maggio 2024）。
 4. 第150/2025号法令（Decreto Legislativo 20 dicembre 2025, n. 150），数字化与组织调整。来源：意大利官方公报（Gazzetta Ufficiale, Serie Generale n. 302, 30 dicembre 2025）。
-5. 意大利司法部2025年度报告（Relazione Annuale del Ministero della Giustizia 2025），2026年3月发布。来源：意大利司法部官网（www.giustizia.it）。
+5. 意大利司法部2025年度报告（Relazione Annuale del Ministero della Giustizia 2025），2026年3月发布。来源：意大利司法部官网（[www.giustizia.it](https://www.giustizia.it)）。
 6. 第354/1975号法律（Legge 26 luglio 1975, n. 354），监狱改革法。来源：意大利官方公报（Gazzetta Ufficiale, Serie Generale n. 201, 1 agosto 1975）。
 7. 第115/2002号法律（Legge 30 luglio 2002, n. 115），国家法律援助法。来源：意大利官方公报（Gazzetta Ufficiale, Serie Generale n. 183, 7 agosto 2002）。
 8. 欧盟司法门户（e-Justice Portal），意大利司法体系概述。来源：欧盟委员会官网（e-justice.europa.eu）。
-9. 意大利司法部《全国监狱容量报告2026》（Rapporto Nazionale sulla Capacità Penitenziaria 2026），2026年3月发布。来源：意大利司法部官网（www.giustizia.it）。
+9. 意大利司法部《全国监狱容量报告2026》（Rapporto Nazionale sulla Capacità Penitenziaria 2026），2026年3月发布。来源：意大利司法部官网（[www.giustizia.it](https://www.giustizia.it)）。
 10. 第86/2024号法令执行情况中期评估（Valutazione Intermedia dell’Attuazione del D.Lgs. 86/2024），2026年4月。来源：意大利司法部内部文件（公开摘要版）。

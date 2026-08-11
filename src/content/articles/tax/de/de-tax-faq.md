@@ -53,7 +53,7 @@ draft: false
 
 ### Q1: 如何查询负责自己税务的当地税务局（Finanzamt）？
 
-A1: 纳税人可通过德国联邦财政部官方网站（www.bundesfinanzministerium.de）的“Finanzamtssuche”功能，输入居住地或公司注册地的邮政编码及城市名称，系统将返回对应税务局地址、电话及办公时间。据BMF 2026年5月更新，全国共设有556个税务局。另可致电BMF全国统一热线：+49 228 99 682-0（周一至周四9:00-16:00，周五9:00-14:00，德语英语服务）。
+A1: 纳税人可通过德国联邦财政部官方网站（[www.bundesfinanzministerium.de](https://www.bundesfinanzministerium.de)）的“Finanzamtssuche”功能，输入居住地或公司注册地的邮政编码及城市名称，系统将返回对应税务局地址、电话及办公时间。据BMF 2026年5月更新，全国共设有556个税务局。另可致电BMF全国统一热线：+49 228 99 682-0（周一至周四9:00-16:00，周五9:00-14:00，德语英语服务）。
 
 ### Q2: ELSTER电子申报系统注册需要哪些材料？
 
@@ -61,7 +61,7 @@ A2: ELSTER（Elektronische Steuererklärung）注册需提供：1）德国身份
 
 ### Q3: 是否有中文服务热线或办公室？
 
-A3: 德国税务机关未设立官方中文服务热线。但以下渠道提供中文辅助：1）BMF多语言信息手册（含中文版）可于官网下载（www.bundesfinanzministerium.de/Web/DE/Service/Downloads/Downloads.html）；2）部分大城市（柏林、慕尼黑、法兰克福）的税务局设有外籍人士服务柜台，需预约，可能提供中文翻译；3）纳税人可委托德国税务顾问（Steuerberater）代为沟通，其费用可部分抵扣。据BMF 2026年1月指南，中文翻译服务不属于法定免费服务，需自费。
+A3: 德国税务机关未设立官方中文服务热线。但以下渠道提供中文辅助：1）BMF多语言信息手册（含中文版）可于官网下载（[www.bundesfinanzministerium.de/Web/DE/Service/Downloads/Downloads.html](https://www.bundesfinanzministerium.de/Web/DE/Service/Downloads/Downloads.html)）；2）部分大城市（柏林、慕尼黑、法兰克福）的税务局设有外籍人士服务柜台，需预约，可能提供中文翻译；3）纳税人可委托德国税务顾问（Steuerberater）代为沟通，其费用可部分抵扣。据BMF 2026年1月指南，中文翻译服务不属于法定免费服务，需自费。
 
 ## 申报流程与时效
 

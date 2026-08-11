@@ -226,7 +226,7 @@ UKVI签证申请中心（VFS Global）在中国大陆设有15个点，提供中�
 
 ### Q1: 大陆人在英国工作，如何证明雇主合法担保？
 
-**A1:** 依据《移民法 1971》第24条，雇主必须持有内政部颁发的“担保资质证书”（Certificate of Sponsorship, CoS）。大陆籍雇员应要求雇主提供CoS编号，并在申请签证时提交。UKVI官网提供担保雇主名单查询（www.gov.uk/check-uk-visa-sponsor）。2026年起，所有担保雇主每年须接受UKVI合规审计，不合规者将被暂停资质。
+**A1:** 依据《移民法 1971》第24条，雇主必须持有内政部颁发的“担保资质证书”（Certificate of Sponsorship, CoS）。大陆籍雇员应要求雇主提供CoS编号，并在申请签证时提交。UKVI官网提供担保雇主名单查询（[www.gov.uk/check-uk-visa-sponsor](https://www.gov.uk/check-uk-visa-sponsor)）。2026年起，所有担保雇主每年须接受UKVI合规审计，不合规者将被暂停资质。
 
 ### Q2: 2026年英国最低工资上调后，对大陆籍低薪岗位有何具体影响？
 

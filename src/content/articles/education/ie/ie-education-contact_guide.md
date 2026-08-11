@@ -37,7 +37,7 @@ DES在科克（Cork）、戈尔韦（Galway）、利默里克（Limerick）设�
 
 ### 在线服务
 
-- **官方网站**：www.gov.ie/en/organisation/department-of-education/（整合至爱尔兰政府服务统一平台gov.ie）。
+- **官方网站**：[www.gov.ie/en/organisation/department-of-education/](https://www.gov.ie/en/organisation/department-of-education/)（整合至爱尔兰政府服务统一平台gov.ie）。
 - **在线表格提交**：通过gov.ie的“Education Services”模块可提交学历认证申请（NARIC Ireland）、教师注册申请（Teaching Council）及学校投诉。
 
 ## 预约方式与办事流程
@@ -160,4 +160,4 @@ A: 首先通过gov.ie的“Complaints”模块提交投诉，DES在**15个工作
 4. DES 2026年《处理时效公告》（Processing Timelines Notice 2026），gov.ie，2026年4月发布。
 5. DES 2026年《多元语言服务报告》（Multilingual Service Report 2026），gov.ie，2026年5月发布。
 6. 中国驻爱尔兰大使馆2025年领事服务公告（第2025-12号），2025年12月。
-7. 爱尔兰政府服务整合平台gov.ie，www.gov.ie，2026年5月访问。
+7. 爱尔兰政府服务整合平台gov.ie，[www.gov.ie](https://www.gov.ie)，2026年5月访问。

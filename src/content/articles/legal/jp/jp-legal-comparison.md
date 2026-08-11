@@ -127,7 +127,7 @@ Transparency International《2025年司法清廉指数》（0-100分）显示：
 
 ### Q1: 大陆人在日本涉及民事纠纷，应优先联系法务省的哪个部门？
 
-A: 应优先联系日本法务省民事局（Civil Affairs Bureau）。该局负责民事程序法、登记制度及司法书士管理。若涉及在留资格相关纠纷，需联系出入国在留管理厅（Immigration Services Agency of Japan）。法务省官网（www.moj.go.jp）提供中英文版“常见法律问题”指南。
+A: 应优先联系日本法务省民事局（Civil Affairs Bureau）。该局负责民事程序法、登记制度及司法书士管理。若涉及在留资格相关纠纷，需联系出入国在留管理厅（Immigration Services Agency of Japan）。法务省官网（[www.moj.go.jp](https://www.moj.go.jp)）提供中英文版“常见法律问题”指南。
 
 ### Q2: 四国中哪个国家的司法申诉处理最快？
 

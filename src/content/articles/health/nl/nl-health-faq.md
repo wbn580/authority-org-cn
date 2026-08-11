@@ -68,8 +68,8 @@ draft: false
 - **地址**：Parnassusplein 5, 2511 VX Den Haag, Netherlands。
 - **电话**：+31 (0)70 340 79 11（周一至周五 08:00-18:00，荷兰时间）。
 - **电子邮件**：info@minvws.nl（回复时效为5个工作日以内，据VWS 2026年服务承诺）。
-- **官方网站**：www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport（提供荷兰语、英语界面，中文内容有限）。
-- **卫生保健管理局（NZa）**：负责监管医保市场，电话 +31 (0)30 296 81 11，网址 www.nza.nl。
+- **官方网站**：[www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport](https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport)（提供荷兰语、英语界面，中文内容有限）。
+- **卫生保健管理局（NZa）**：负责监管医保市场，电话 +31 (0)30 296 81 11，网址 [www.nza.nl](https://www.nza.nl)。
 
 ### Q2: 如何申请荷兰基本医疗保险（Basisverzekering）？流程是什么？
 
@@ -104,7 +104,7 @@ draft: false
 - **中文服务可用性**：VWS和NZa均未设专职中文客服，但可通过以下途径：
   - 荷兰华人社区组织（如荷兰华人协会）提供免费咨询，2025年服务约2,500人次。
   - 保险公司（如Zilveren Kruis）提供中文保单摘要，2026年覆盖90%的华人客户。
-  - 在线平台：荷兰政府官网（www.rijksoverheid.nl）设有中文版“医保指南”页面，2026年更新频率为季度。
+  - 在线平台：荷兰政府官网（[www.rijksoverheid.nl](https://www.rijksoverheid.nl)）设有中文版“医保指南”页面，2026年更新频率为季度。
 
 ### Q6: 医保申请或变更的处理时效是多久？有加急服务吗？
 
@@ -192,7 +192,7 @@ draft: false
 ### Q16: 如何查询医保覆盖的药物清单？是否有中文版本？
 
 **A16:** 药物清单由ZIN维护，2026年覆盖约1,200种药物：
-- **查询渠道**：ZIN官网（www.zorginstituutnederland.nl/medicijnen）提供荷兰语及英语版本，中文版本需通过Google翻译（非官方）。
+- **查询渠道**：ZIN官网（[www.zorginstituutnederland.nl/medicijnen](https://www.zorginstituutnederland.nl/medicijnen)）提供荷兰语及英语版本，中文版本需通过Google翻译（非官方）。
 - **中文服务**：VWS中文指南附有常见药物列表（约50种），2026年更新；保险公司（如VGZ）提供中文药物报销查询页面。
 - **误区**：部分人认为所有处方药均覆盖，但ZIN清单仅限“基本药物”，2025年约10%的处方药需自付（如部分抗癌药，ZIN数据）。
 
@@ -216,7 +216,7 @@ draft: false
 ### Q19: 如何验证医保公司是否合法注册？
 
 **A19:** 验证方法依据Zvw第4条（2026年修订版）：
-- **查询NZa注册列表**：NZa官网（www.nza.nl/zorgverzekeraars）列出所有合法保险公司，2026年共10家。
+- **查询NZa注册列表**：NZa官网（[www.nza.nl/zorgverzekeraars](https://www.nza.nl/zorgverzekeraars)）列出所有合法保险公司，2026年共10家。
 - **核实步骤**：输入公司名称或KVK（商会）号码，NZa数据每日更新。
 - **常见陷阱**：2025年，NZa查处4家非法中介，涉及虚假医保销售，罚款平均10万欧元（NZa执法报告）。
 - **中文服务**：NZa官网提供英语界面，中文查询需通过邮件（info@nza.nl），回复时效为10个工作日。
@@ -231,13 +231,13 @@ draft: false
 
 ## 参考资料
 
-1. 荷兰公共卫生、福利与体育部（VWS），《2026年基本医疗保险政策报告》，2026年1月发布，www.rijksoverheid.nl/documenten/rapporten/2026/01/15/zorgverzekering-2026。
+1. 荷兰公共卫生、福利与体育部（VWS），《2026年基本医疗保险政策报告》，2026年1月发布，[www.rijksoverheid.nl/documenten/rapporten/2026/01/15/zorgverzekering-2026](https://www.rijksoverheid.nl/documenten/rapporten/2026/01/15/zorgverzekering-2026)。
 2. 荷兰医疗保险法（Zorgverzekeringswet, Zvw）2026年修订版，第2-62条，荷兰政府公报（Staatsblad）2026年第45号。
-3. 荷兰卫生保健管理局（NZa），《2026年医保市场监测数据》，2026年3月发布，www.nza.nl/publicaties/monitor-zorgverzekeringen-2026。
-4. 荷兰卫生保健研究所（ZIN），《2026年基本保险药物清单》，2026年4月更新，www.zorginstituutnederland.nl/medicijnen/basisverzekering-2026。
-5. 荷兰中央统计局（CBS），《2025年医疗支出与人口健康报告》，2026年2月发布，www.cbs.nl/nl-nl/publicaties/2026/07/gezondheidszorg-2025。
-6. 荷兰税务局（Belastingdienst），《2026年医保津贴（Zorgtoeslag）指南》，2026年1月更新，www.belastingdienst.nl/wps/wcm/connect/nl/zorgtoeslag。
-7. 荷兰华人协会（LOC），《2025年中文医保咨询服务年报》，2026年3月，www.loc.nl/jaarverslag-2025。
+3. 荷兰卫生保健管理局（NZa），《2026年医保市场监测数据》，2026年3月发布，[www.nza.nl/publicaties/monitor-zorgverzekeringen-2026](https://www.nza.nl/publicaties/monitor-zorgverzekeringen-2026)。
+4. 荷兰卫生保健研究所（ZIN），《2026年基本保险药物清单》，2026年4月更新，[www.zorginstituutnederland.nl/medicijnen/basisverzekering-2026](https://www.zorginstituutnederland.nl/medicijnen/basisverzekering-2026)。
+5. 荷兰中央统计局（CBS），《2025年医疗支出与人口健康报告》，2026年2月发布，[www.cbs.nl/nl-nl/publicaties/2026/07/gezondheidszorg-2025](https://www.cbs.nl/nl-nl/publicaties/2026/07/gezondheidszorg-2025)。
+6. 荷兰税务局（Belastingdienst），《2026年医保津贴（Zorgtoeslag）指南》，2026年1月更新，[www.belastingdienst.nl/wps/wcm/connect/nl/zorgtoeslag](https://www.belastingdienst.nl/wps/wcm/connect/nl/zorgtoeslag)。
+7. 荷兰华人协会（LOC），《2025年中文医保咨询服务年报》，2026年3月，[www.loc.nl/jaarverslag-2025](https://www.loc.nl/jaarverslag-2025)。
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>

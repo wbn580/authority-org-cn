@@ -83,7 +83,7 @@ draft: false
 
 ### 中文服务可用性
 
-印尼贸易部提供**中文版政策摘要**，可通过其官网（www.kemendag.go.id）的“多语言服务”栏目获取。INSW系统技术支持提供**中文热线**（+62-21-XXXX-XXXX），工作日上午9点至下午5点。部分印尼海关办事处设有**中文窗口**，如雅加达丹戎不碌港（Tanjung Priok）海关。大陆企业可委托**印尼中国商会**（China Chamber of Commerce in Indonesia）协助政策解读与合规申报。
+印尼贸易部提供**中文版政策摘要**，可通过其官网（[www.kemendag.go.id](https://www.kemendag.go.id)）的“多语言服务”栏目获取。INSW系统技术支持提供**中文热线**（+62-21-XXXX-XXXX），工作日上午9点至下午5点。部分印尼海关办事处设有**中文窗口**，如雅加达丹戎不碌港（Tanjung Priok）海关。大陆企业可委托**印尼中国商会**（China Chamber of Commerce in Indonesia）协助政策解读与合规申报。
 
 ## 未来展望
 

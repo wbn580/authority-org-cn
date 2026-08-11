@@ -95,7 +95,7 @@ draft: false
 
 BIR于2025年全面推行**e-Appointment系统**，纳税人需通过以下步骤预约：
 
-1. **访问BIR官网**：www.bir.gov.ph，点击“e-Services”栏目下的“e-Appointment”。
+1. **访问BIR官网**：[www.bir.gov.ph](https://www.bir.gov.ph)，点击“e-Services”栏目下的“e-Appointment”。
 2. **注册账户**：使用有效的电子邮箱与手机号码注册。据BIR 2026年公告，注册后需通过OTP验证。
 3. **选择服务类型**：包括税务登记（TIN申请）、表格提交、缴税确认、税务咨询等。
 4. **选择办公地点与时间**：系统显示各分局可预约时段（通常为08:00–16:00，每30分钟一个时段）。

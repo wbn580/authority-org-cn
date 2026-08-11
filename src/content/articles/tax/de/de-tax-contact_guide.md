@@ -116,7 +116,7 @@ draft: false
 6、 **Antrag auf Freistellung vom Steuerabzug** · 用途：申请免预提税（如股息） · 获取途径：BZSt官网下载PDF
 7、 **Einspruch gegen Steuerbescheid** · 用途：对税务决定提出异议 · 获取途径：财政局柜台或Elster
 
-所有表格均可在**Elster**（www.elster.de）在线填写并提交。纸质表格可于财政局领取或从BZSt官网下载PDF（需使用Adobe Acrobat填写）。2026年起，联邦财政部强制要求所有企业使用电子申报，个人仍可选择纸质。
+所有表格均可在**Elster**（[www.elster.de](https://www.elster.de)）在线填写并提交。纸质表格可于财政局领取或从BZSt官网下载PDF（需使用Adobe Acrobat填写）。2026年起，联邦财政部强制要求所有企业使用电子申报，个人仍可选择纸质。
 
 ## 五、费用标准与支付方式
 
@@ -148,7 +148,7 @@ draft: false
 
 - **BZSt多语言热线**：+49 228 406-1200（英语、法语、西班牙语，无中文）。可要求转接至翻译服务（需提前预约，免费）。
 - **地方财政局英语窗口**：柏林、慕尼黑、法兰克福等主要城市的财政局设有英语窗口，需在预约时注明。
-- **第三方翻译/税务顾问**：德国税务顾问协会（DStV）提供中德双语税务顾问名录（官网 www.dstv.de）。费用约**150–300欧元/小时**。
+- **第三方翻译/税务顾问**：德国税务顾问协会（DStV）提供中德双语税务顾问名录（官网 [www.dstv.de](https://www.dstv.de)）。费用约**150–300欧元/小时**。
 - **Elster中文界面**：Elster平台支持简体中文界面（需在设置中切换），但核心法律术语仍为德文。
 - **中国驻德使领馆协助**：在税务纠纷中，可联系中国驻德国大使馆领事部（电话：+49 30 27588-0），但使领馆不介入具体税务程序。
 
@@ -216,7 +216,7 @@ draft: false
 
 ### 9.3 中文服务实操
 
-- **税务顾问选择**：通过“Steuerberaterkammer”官网（www.steuerberaterkammer.de）筛选“Chinesisch”语言标签。柏林、法兰克福有约**20名**中德双语税务顾问。
+- **税务顾问选择**：通过“Steuerberaterkammer”官网（[www.steuerberaterkammer.de](http://www.steuerberaterkammer.de)）筛选“Chinesisch”语言标签。柏林、法兰克福有约**20名**中德双语税务顾问。
 - **自助工具**：推荐“WISO Steuer”或“SteuerSparErklärung”软件（支持中文界面），费用约**30–50欧元/年**。
 - **紧急情况**：若收到税务局催缴信（Mahnung），可拨打BZSt多语言热线要求英语协助，或联系中国驻德使领馆获取翻译志愿者名单。
 
@@ -234,7 +234,7 @@ draft: false
 
 ### Q2: 如何查询自己所属的地方财政局（Finanzamt）？
 
-**A2:** 可通过BZSt官网“Finanzamtssuche”功能（www.bzst.de/finanzamtsuche）输入邮编或城市名查询。或拨打BZSt总机+49 228 406-0，提供住址后工作人员告知。若已收到税号信，信头会注明负责财政局名称和地址。
+**A2:** 可通过BZSt官网“Finanzamtssuche”功能（[www.bzst.de/finanzamtsuche](https://www.bzst.de/finanzamtsuche)）输入邮编或城市名查询。或拨打BZSt总机+49 228 406-0，提供住址后工作人员告知。若已收到税号信，信头会注明负责财政局名称和地址。
 
 ### Q3: 税务异议（Einspruch）提交后多久能有结果？
 

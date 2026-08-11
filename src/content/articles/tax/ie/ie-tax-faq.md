@@ -198,7 +198,7 @@ draft: false
 
 ### Q20: 税务欺诈举报渠道？
 **A:** 据Revenue Commissioners 2026年公告，举报税务欺诈可通过：
-- **在线表格**：www.revenue.ie/en/corporate/report-tax-fraud.aspx。
+- **在线表格**：[www.revenue.ie/en/corporate/report-tax-fraud.aspx](https://www.revenue.ie/en/corporate/report-tax-fraud.aspx)。
 - **电话**：+353 (0)1 738 3700（匿名举报）。
 - **邮件**：reporttaxfraud@revenue.ie。
 2025年数据显示，共收到3,500起举报，其中20%导致调查。
@@ -216,7 +216,7 @@ draft: false
 
 ### Q3: 中文税务指南在哪里下载？
 **A:** 据Revenue Commissioners 2026年网站，中文指南可在以下页面下载：
-- **网址**：www.revenue.ie/en/language-support/chinese.aspx。
+- **网址**：[www.revenue.ie/en/language-support/chinese.aspx](https://www.revenue.ie/en/language-support/chinese.aspx)。
 - **内容**：包括个人所得税、增值税、公司税基础指南，共10个PDF文件。
 - **更新频率**：每年更新一次，2026年版本于1月发布。2025年数据显示，中文指南下载量为8,000次。
 

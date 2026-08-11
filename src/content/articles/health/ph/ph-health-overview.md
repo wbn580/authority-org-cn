@@ -176,7 +176,7 @@ PhilHealth由**总裁兼首席执行官**（President and CEO）领导，董事�
 
 截至2026年5月，菲律宾卫生与医保主管部门的中文服务有限：
 
-- **DOH官方网站**（www.doh.gov.ph）及**PhilHealth官网**（www.philhealth.gov.ph）均无中文界面，主要语言为英语及他加禄语。政策文件、表格及公告仅提供英文版本。
+- **DOH官方网站**（[www.doh.gov.ph](https://www.doh.gov.ph)）及**PhilHealth官网**（[www.philhealth.gov.ph](https://www.philhealth.gov.ph)）均无中文界面，主要语言为英语及他加禄语。政策文件、表格及公告仅提供英文版本。
 - **服务窗口**：DOH及PhilHealth的区域办公室、省级柜台未设中文服务人员，但马尼拉大都会（Metro Manila）部分主要医院（如St. Luke's Medical Center、Makati Medical Center、The Medical City）提供中文翻译服务或设有国际患者服务中心，可协助患者进行PhilHealth报销咨询。
 - **第三方协助**：部分菲律宾华人商会（如菲华商联总会）及中文健康咨询平台（如“菲律宾健康通”微信公众号）提供政策解读及就医协调服务，但此类服务非官方性质。
 - **远程咨询**：DOH于2025年开通的“健康热线”（1555）支持英语及他加禄语，暂未提供中文服务。
@@ -214,7 +214,7 @@ PhilHealth由**总裁兼首席执行官**（President and CEO）领导，董事�
 
 ### Q3: 如何查询菲律宾健康保险的最新费率及福利包？是否有中文渠道？
 
-**A:** 官方渠道为PhilHealth官网（www.philhealth.gov.ph）及DOH官网（www.doh.gov.ph），均提供英文版实时更新。中文渠道方面，部分菲律宾华人社区网站（如“菲龙网”、“博牛社区”）会转载PhilHealth重大政策变动，但信息可能存在延迟或翻译偏差。建议大陆公民通过以下方式获取准确信息：(1) 关注PhilHealth官方Facebook页面（@PhilHealthOfficial），其发布英文公告；(2) 委托菲律宾本地律师或会计师定期查询（费用约500-1000比索/次）；(3) 拨打PhilHealth客服热线（+63-2-8441-7442），要求英语服务。
+**A:** 官方渠道为PhilHealth官网（[www.philhealth.gov.ph](https://www.philhealth.gov.ph)）及DOH官网（[www.doh.gov.ph](https://www.doh.gov.ph)），均提供英文版实时更新。中文渠道方面，部分菲律宾华人社区网站（如“菲龙网”、“博牛社区”）会转载PhilHealth重大政策变动，但信息可能存在延迟或翻译偏差。建议大陆公民通过以下方式获取准确信息：(1) 关注PhilHealth官方Facebook页面（@PhilHealthOfficial），其发布英文公告；(2) 委托菲律宾本地律师或会计师定期查询（费用约500-1000比索/次）；(3) 拨打PhilHealth客服热线（+63-2-8441-7442），要求英语服务。
 
 ## 参考资料
 

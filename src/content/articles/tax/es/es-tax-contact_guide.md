@@ -73,7 +73,7 @@ AEAT在全国50个省均设有省级税务管理办公室（Delegación Provinci
 
 AEAT提供三种主要预约渠道，均需提供纳税人识别号（NIF/NIE）或护照号码：
 
-1. **在线预约（首选方式）**：通过AEAT官网（www.agenciatributaria.es）的“Cita Previa”模块，选择服务类型（如“Declaración de Renta”“Censo de Empresarios”）、办公点及时间段。系统提供西班牙语、加泰罗尼亚语、巴斯克语及英语界面。2026年数据显示，约78%的预约通过该渠道完成。
+1. **在线预约（首选方式）**：通过AEAT官网（[www.agenciatributaria.es](https://www.agenciatributaria.es)）的“Cita Previa”模块，选择服务类型（如“Declaración de Renta”“Censo de Empresarios”）、办公点及时间段。系统提供西班牙语、加泰罗尼亚语、巴斯克语及英语界面。2026年数据显示，约78%的预约通过该渠道完成。
 
 2. **电话预约**：拨打全国统一预约热线 **+34 91 555 55 55**（工作日上午9:00至下午18:00）。电话预约需提供NIF/NIE及联系电话。电话等待时间平均为8分钟（AEAT 2026年第一季度服务报告）。
 
@@ -118,7 +118,7 @@ AEAT目前不提供官方中文服务。据AEAT 2026年5月发布的《多语言
 
 2. **在线表格英文版**：Modelo 100、Modelo 130及Modelo 303等主要表格提供英文版本，可在AEAT官网“English”栏目下载。英文表格的法律效力与西语版本相同，但填写时需使用西语术语（如“Ingresos”对应“Income”）。
 
-3. **第三方中文协助**：中国驻西班牙大使馆经商处（www.es.mofcom.gov.cn）提供税务政策摘要，但不对具体个案提供指导。建议通过注册的西班牙税务代理（Gestoría）获取中文服务，部分代理提供中文沟通。
+3. **第三方中文协助**：中国驻西班牙大使馆经商处提供税务政策摘要，但不对具体个案提供指导。建议通过注册的西班牙税务代理（Gestoría）获取中文服务，部分代理提供中文沟通。
 
 **实操建议**：对于不熟悉西语或英语的大陆居民，强烈建议委托持证税务代理（Asesor Fiscal）处理申报。AEAT官网“Listado de Asesores Fiscales”栏目可查询注册代理名单。费用通常为每份申报50-150欧元。
 
@@ -189,7 +189,7 @@ AEAT不提供官方中文服务，但以下渠道可提供支持：
 1. AEAT 2026年度组织架构与联系方式公告（Resolución de 15 de enero de 2026, BOE nº 16）. 来源：Boletín Oficial del Estado. 2026年1月16日.
 2. 西班牙税法通则（Ley 58/2003, de 17 de diciembre, General Tributaria）. 来源：BOE nº 302, 2003年12月18日.
 3. 西班牙税务管理程序条例（Real Decreto 1065/2007, de 27 de julio）. 来源：BOE nº 180, 2007年7月28日.
-4. 中国国家税务总局与西班牙税务局税收协定（2019年修订版）. 来源：中国国家税务总局官网（www.chinatax.gov.cn）, 2019年12月.
-5. AEAT官方门户网站（www.agenciatributaria.es）. 访问日期：2026年5月23日.
+4. 中国国家税务总局与西班牙税务局税收协定（2019年修订版）. 来源：中国国家税务总局官网（[www.chinatax.gov.cn](https://www.chinatax.gov.cn)）, 2019年12月.
+5. AEAT官方门户网站（[www.agenciatributaria.es](https://www.agenciatributaria.es)）. 访问日期：2026年5月23日.
 6. AEAT 2026年第一季度服务绩效报告（Informe de Rendimiento del Primer Trimestre 2026）. 来源：AEAT内部出版物, 2026年4月.
 7. 西班牙经济行政法院2025年年度报告（Memoria del Tribunal Económico-Administrativo 2025）. 来源：Ministerio de Hacienda, 2026年3月.

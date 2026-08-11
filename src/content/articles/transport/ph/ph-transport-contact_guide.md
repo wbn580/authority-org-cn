@@ -114,7 +114,7 @@ LTO主要办公室（如奎松市中央办公室、马卡蒂市办公室）提�
 - **菲律宾民航局（CAAP）中央办公室**：地址：MIA Road, Pasay City, 1300 Metro Manila。电话：+63 (2) 8794-0000。工作时间：周一至周五 08:00-17:00。
 - **航空安全与标准办公室**：电话：+63 (2) 8794-0012。电子邮件：safety@caap.gov.ph。
 - **机场运营中心（24小时）**：电话：+63 (2) 8794-0001 转 1000（用于航班延误、事故报告等紧急事务）。
-- **CAAP官网**：www.caap.gov.ph。
+- **CAAP官网**：[www.caap.gov.ph](https://www.caap.gov.ph)。
 
 ### 预约方式
 
@@ -176,7 +176,7 @@ CAAP中央办公室及主要机场办公室（如NAIA、克拉克国际机场）
 
 - **陆路运输特许经营与监管委员会（LTFRB）中央办公室**：地址：No. 17 East Avenue, Barangay Pinyahan, Quezon City, 1101 Metro Manila。电话：+63 (2) 8922-9090。工作时间：周一至周五 08:00-17:00。
 - **LTFRB投诉热线（24小时）**：+63 (2) 8922-9090 按9；或通过短信：0908-888-7777（仅限Globe/TM用户）。
-- **LTFRB官网**：www.ltfrb.gov.ph。
+- **LTFRB官网**：[www.ltfrb.gov.ph](https://www.ltfrb.gov.ph)。
 
 ### 预约方式
 

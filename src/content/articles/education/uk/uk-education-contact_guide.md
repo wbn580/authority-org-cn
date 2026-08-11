@@ -62,12 +62,12 @@ draft: false
 ## 预约方式
 
 ### DfE预约流程
-1. **在线预约**：通过DfE官方网站（www.gov.uk/dfe）的“Contact DfE”页面提交预约申请。需提供姓名、联系邮箱、咨询事项简述及首选日期（至少提前5个工作日）。
+1. **在线预约**：通过DfE官方网站（[www.gov.uk/dfe](https://www.gov.uk/dfe)）的“Contact DfE”页面提交预约申请。需提供姓名、联系邮箱、咨询事项简述及首选日期（至少提前5个工作日）。
 2. **电话预约**：拨打DfE咨询专线+44 (0)37 0000 2288，由客服代表登记预约信息。依据DfE 2026年《服务标准》，电话预约确认函将在2个工作日内通过邮件发送。
 3. **预约类型**：仅限“政策咨询”与“资格认定相关问题”。不处理签证、移民或院校招生具体事宜。
 
 ### OfS预约流程
-1. **在线提交**：通过OfS官网（www.officeforstudents.org.uk）的“Complaints and Appeals”专区填写预约表单。需附上案件编号（如有）及支持文件。
+1. **在线提交**：通过OfS官网（[www.officeforstudents.org.uk](https://www.officeforstudents.org.uk)）的“Complaints and Appeals”专区填写预约表单。需附上案件编号（如有）及支持文件。
 2. **邮件预约**：发送邮件至enquiries@officeforstudents.org.uk，标题注明“预约申请”。OfS承诺在5个工作日内回复。
 3. **特殊安排**：对于涉及残疾或语言障碍的申请人，OfS提供远程视频预约（Microsoft Teams），需在申请时注明。
 
@@ -105,7 +105,7 @@ draft: false
 依据DfE 2026年《语言服务政策》，DfE及OfS均不设专职中文服务人员，但通过以下机制提供有限支持：
 - **电话口译**：拨打DfE咨询专线时，可要求通过“LanguageLine”服务转接中文口译。该服务免费，但需额外等待5–10分钟。OfS同样使用LanguageLine。
 - **书面翻译**：DfE官网关键页面（如“学生资助指南”）提供简体中文PDF版本。OfS的投诉表格仅提供英文版，但申请人可附中文说明，OfS将安排免费翻译。
-- **中文服务可用性**：中国大陆申请人可优先使用DfE官网的中文页面（www.gov.uk/dfe/chinese）获取基本信息。对于复杂问题，建议通过电子邮件以英文提出，或委托英国境内持牌顾问（如OISC注册移民顾问）代为沟通。
+- **中文服务可用性**：中国大陆申请人可优先使用DfE官网的中文页面（[www.gov.uk/dfe/chinese](https://www.gov.uk/dfe/chinese)）获取基本信息。对于复杂问题，建议通过电子邮件以英文提出，或委托英国境内持牌顾问（如OISC注册移民顾问）代为沟通。
 
 ## 处理时效
 
@@ -148,7 +148,7 @@ draft: false
 ## FAQ
 
 ### Q1: 中国大陆学生如何直接联系英国教育部？
-**A1:** 中国大陆学生可通过DfE官网（www.gov.uk/dfe）的“Contact DfE”页面提交英文电子邮件，或拨打+44 (0)37 0000 2288（要求中文口译）。建议在邮件标题注明“Enquiry from Mainland China”以加速处理。DfE不处理签证或院校申请问题，此类问题应联系UKVI或院校。
+**A1:** 中国大陆学生可通过DfE官网（[www.gov.uk/dfe](https://www.gov.uk/dfe)）的“Contact DfE”页面提交英文电子邮件，或拨打+44 (0)37 0000 2288（要求中文口译）。建议在邮件标题注明“Enquiry from Mainland China”以加速处理。DfE不处理签证或院校申请问题，此类问题应联系UKVI或院校。
 
 ### Q2: 投诉英国大学质量，应联系OfS还是OIA？
 **A2:** 应先通过OfS的“Complaints and Appeals”程序提交立案（免费）。若OfS在30个工作日内未解决或认为超出其管辖范围，可向高等教育独立裁决办公室（OIA）申诉。OIA处理时效通常为90个工作日。依据OfS 2026年《监管框架》，OfS仅受理涉及院校注册或质量标准的投诉，不处理个人学术纠纷。

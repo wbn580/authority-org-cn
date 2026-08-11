@@ -70,7 +70,7 @@ draft: false
 
 ### 预约方式
 依据爱尔兰海关2026年服务标准公告，所有涉及人工审核的业务（如现场查验、许可证面谈、申诉听证）均需预约。预约方式包括：
-1. **在线预约系统**：通过Revenue Commissioners官网（www.revenue.ie）的“Customs Appointment Booking”模块，选择业务类型、时间及办公点。2026年数据显示，约**78%**的预约通过此渠道完成。
+1. **在线预约系统**：通过Revenue Commissioners官网（[www.revenue.ie](https://www.revenue.ie)）的“Customs Appointment Booking”模块，选择业务类型、时间及办公点。2026年数据显示，约**78%**的预约通过此渠道完成。
 2. **电话预约**：拨打海关咨询热线，由客服人员协助预约。电话预约平均等待时间为**8分钟**。
 3. **邮件预约**：发送至指定邮箱（customs.appointments@revenue.ie），需在邮件标题注明“Appointment Request”，并提供EORI号码、业务类型及首选时间。邮件回复时效为**2个工作日**。
 
@@ -116,7 +116,7 @@ draft: false
 - 货物查验预约
 - 投诉与申诉流程说明
 
-此外，Revenue官网已上线**中文版贸易指南页面**（www.revenue.ie/zh-cn），涵盖常见问题、表格下载及视频教程。该页面由第三方翻译机构提供，2026年1月更新。海关在都柏林总部及科克办公室设有**中文服务窗口**，需提前预约。中国大陆企业及个人可通过中文专线或官网预约。
+此外，Revenue官网已上线**中文版贸易指南页面**（[www.revenue.ie/zh-cn](https://www.revenue.ie/zh-cn)），涵盖常见问题、表格下载及视频教程。该页面由第三方翻译机构提供，2026年1月更新。海关在都柏林总部及科克办公室设有**中文服务窗口**，需提前预约。中国大陆企业及个人可通过中文专线或官网预约。
 
 ## 处理时效
 
@@ -154,7 +154,7 @@ draft: false
 ## 大陆人实操指南
 
 ### 第一步：确认贸易合规资格
-- **EORI注册**：大陆企业需先注册欧盟EORI号码。通过爱尔兰海关在线系统（www.revenue.ie/en/customs/eori）提交，需提供公司营业执照英文翻译件、法人护照复印件及银行账户证明。注册时效为**3个工作日**。
+- **EORI注册**：大陆企业需先注册欧盟EORI号码。通过爱尔兰海关在线系统（[www.revenue.ie/en/customs/eori](https://www.revenue.ie/en/customs/eori)）提交，需提供公司营业执照英文翻译件、法人护照复印件及银行账户证明。注册时效为**3个工作日**。
 - **进口许可**：涉及食品、药品、化妆品、电子产品（需CE认证）等，需提前向DETE或HSE申请进口许可。例如，进口中国产电子设备需提供CE符合性声明（Declaration of Conformity）。
 
 ### 第二步：选择清关方式
@@ -190,7 +190,7 @@ draft: false
 中文服务专线（+353 (0)1 738 3800）工作时间为周一至周五 09:00-17:00（爱尔兰时间，夏令时+1小时）。可处理报关单填写指导、关税计算咨询、货物查验预约、投诉与申诉流程说明等。不提供法律建议或税务筹划。
 
 ### Q4: 如何查询爱尔兰海关的最新政策？
-可通过Revenue官网（www.revenue.ie）的“News & Updates”栏目订阅邮件通知，或关注其Twitter账号（@RevenueIE）。2026年起，海关已开通微信官方公众号“爱尔兰海关服务”（ID: IE_Customs），发布中文版政策解读。
+可通过Revenue官网（[www.revenue.ie](https://www.revenue.ie)）的“News & Updates”栏目订阅邮件通知，或关注其Twitter账号（@RevenueIE）。2026年起，海关已开通微信官方公众号“爱尔兰海关服务”（ID: IE_Customs），发布中文版政策解读。
 
 ## 参考资料
 

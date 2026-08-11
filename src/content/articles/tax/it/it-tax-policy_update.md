@@ -134,7 +134,7 @@ draft: false
 
 ## H2: 中文服务可用性
 
-意大利税务局官方网站（www.agenziaentrate.gov.it）提供意大利语和英语界面，未设专门中文页面。但税务局在2025年1月发布了《外国纳税人税务指南》（Guida per Contribuenti Stranieri）的中文翻译版（PDF格式），涵盖个人所得税、增值税、房产税（IMU）及申报流程。该指南可通过税务局官网“多语言资源”栏目下载。此外，税务局在米兰、罗马、佛罗伦萨三地设有“国际纳税人服务窗口”（Sportello per Contribuenti Internazionali），提供中文电话咨询（+39 06 9666 1234，工作时间：周一至周五9:00-13:00）。据意大利华人税务协会（Associazione Fiscale Cinese）2026年4月发布的调查，约65%的在意大陆纳税人通过中文税务顾问完成申报，税务局未对中文服务进行额外收费。
+意大利税务局官方网站（[www.agenziaentrate.gov.it](https://www.agenziaentrate.gov.it)）提供意大利语和英语界面，未设专门中文页面。但税务局在2025年1月发布了《外国纳税人税务指南》（Guida per Contribuenti Stranieri）的中文翻译版（PDF格式），涵盖个人所得税、增值税、房产税（IMU）及申报流程。该指南可通过税务局官网“多语言资源”栏目下载。此外，税务局在米兰、罗马、佛罗伦萨三地设有“国际纳税人服务窗口”（Sportello per Contribuenti Internazionali），提供中文电话咨询（+39 06 9666 1234，工作时间：周一至周五9:00-13:00）。据意大利华人税务协会（Associazione Fiscale Cinese）2026年4月发布的调查，约65%的在意大陆纳税人通过中文税务顾问完成申报，税务局未对中文服务进行额外收费。
 
 ## H2: 未来展望
 

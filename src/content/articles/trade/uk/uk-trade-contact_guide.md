@@ -83,7 +83,7 @@ draft: false
 
 - **总部地址**：Old Admiralty Building, Admiralty Place, London, SW1A 2DY, United Kingdom。
 - **贸易咨询热线**：+44 20 7215 5000。**工作时间**：周一至周五 09:00–17:00（英国时间）。该热线提供英语、法语、西班牙语、阿拉伯语服务。
-- **面对面办公点**：DBT在伦敦、伯明翰、曼彻斯特、利兹、爱丁堡、贝尔法斯特设有区域办公室。**预约要求**：必须通过DBT官网（www.gov.uk/dbt）提前至少5个工作日预约，无预约不接待。
+- **面对面办公点**：DBT在伦敦、伯明翰、曼彻斯特、利兹、爱丁堡、贝尔法斯特设有区域办公室。**预约要求**：必须通过DBT官网（[www.gov.uk/dbt](https://www.gov.uk/dbt)）提前至少5个工作日预约，无预约不接待。
 
 ### 英国边境部队（UK Border Force）
 
@@ -97,7 +97,7 @@ draft: false
 
 HMRC不设面对面预约柜台。所有海关事务（报关、关税查询、许可申请）须通过以下渠道：
 
-- **在线系统**：使用HMRC在线服务（www.gov.uk/hmrc）。注册Government Gateway账户后，可提交电子报关单（CDS系统）、查询关税税率、申请延期缴税。
+- **在线系统**：使用HMRC在线服务（[www.gov.uk/hmrc](https://www.gov.uk/hmrc)）。注册Government Gateway账户后，可提交电子报关单（CDS系统）、查询关税税率、申请延期缴税。
 - **电话咨询**：拨打海关热线（+44 300 322 9434）。建议提前准备EORI编号（英国经济运营商注册识别号）、报关单号。
 - **书面信函**：将申请或查询邮寄至HMRC BX9 1AS地址。HMRC承诺在15个工作日内回复书面信函。
 
@@ -116,7 +116,7 @@ HMRC不设面对面预约柜台。所有海关事务（报关、关税查询、�
 
 1、 C88 (Single Administrative Document) · 用途：海关报关单（进出口货物） · 获取渠道：HMRC在线服务（CDS系统）下载
 2、 C21 (Customs Clearance Request) · 用途：货物放行申请 · 获取渠道：报关行系统生成
-3、 C&E 81 (Customs Warrant) · 用途：关税缓缴申请 · 获取渠道：HMRC官网（www.gov.uk/hmrc）
+3、 C&E 81 (Customs Warrant) · 用途：关税缓缴申请 · 获取渠道：HMRC官网（[www.gov.uk/hmrc](https://www.gov.uk/hmrc)）
 4、 VAT 421 (VAT on Import) · 用途：进口增值税申报 · 获取渠道：HMRC VAT在线服务
 5、 SP 50 (Preference Claim) · 用途：优惠关税申请（如原产地证） · 获取渠道：DBT官网
 6、 EORI Application Form · 用途：申请EORI编号 · 获取渠道：HMRC官网在线填写
@@ -138,14 +138,14 @@ HMRC不设面对面预约柜台。所有海关事务（报关、关税查询、�
 7、 电话咨询（非免费热线） · 费用：**按运营商标准收费** · 说明：0300号码在英国境内按本地话费计
 8、 书面信函处理 · 费用：**免费** · 说明：但需自行承担邮资
 
-**附加费用**：关税、进口增值税、消费税等按商品类别及价值计征，非固定服务费。具体税率可通过HMRC Tariff工具（www.gov.uk/trade-tariff）查询。
+**附加费用**：关税、进口增值税、消费税等按商品类别及价值计征，非固定服务费。具体税率可通过HMRC Tariff工具（[www.gov.uk/trade-tariff](https://www.gov.uk/trade-tariff)）查询。
 
 ## 中文服务可用性
 
 据HMRC 2026年语言服务政策，中文（普通话）服务情况如下：
 
 - **电话热线**：HMRC海关热线（+44 300 322 9434）不提供中文翻译。如需中文协助，可要求转接至“Language Line”第三方翻译服务。该服务免费，但可能增加等待时间（约10–15分钟）。
-- **在线服务**：HMRC官网及CDS系统界面仅支持英语。部分关键表格（如C88填表指南）提供中文PDF版本，于“Guidance in Chinese”页面（www.gov.uk/hmrc/chinese）下载。
+- **在线服务**：HMRC官网及CDS系统界面仅支持英语。部分关键表格（如C88填表指南）提供中文PDF版本，于“Guidance in Chinese”页面（[www.gov.uk/hmrc/chinese](https://www.gov.uk/hmrc/chinese)）下载。
 - **书面信函**：HMRC接受中文信函，但回复将以英语进行。建议将中文材料附英文翻译件。
 - **DBT贸易咨询热线**：+44 20 7215 5000提供英语服务，不设中文专线。但DBT与“中国英国商会”（China-Britain Business Council）合作，可转介至中文咨询窗口。
 - **中文服务可用性评级**：有限。建议大陆人优先使用英语沟通，或委托持有英国报关行执照的中文代理人。
@@ -171,7 +171,7 @@ HMRC不设面对面预约柜台。所有海关事务（报关、关税查询、�
 
 据HMRC 2026年《投诉处理指南》（Complaints Procedure Guide），投诉分三级：
 
-1. **第一级（初步处理）**：致电海关热线或填写在线投诉表（www.gov.uk/hmrc/complaints）。HMRC承诺在15个工作日内回复。
+1. **第一级（初步处理）**：致电海关热线或填写在线投诉表（[www.gov.uk/hmrc/complaints](https://www.gov.uk/hmrc/complaints)）。HMRC承诺在15个工作日内回复。
 2. **第二级（升级）**：如对第一级回复不满，可要求“Complaints Resolution Team”复核。提交书面申诉至：HMRC Complaints Resolution Team, BX9 1AS, UK。处理时效：20个工作日。
 3. **第三级（独立审查）**：如仍不满意，可向“Adjudicator’s Office”申诉。地址：Adjudicator’s Office, 8th Floor, Piccadilly Gate, Manchester, M1 2WD, UK。该机构独立于HMRC，审查结果具约束力。
 
@@ -195,12 +195,12 @@ HMRC不设面对面预约柜台。所有海关事务（报关、关税查询、�
 
 ### 第二步：选择报关方式
 
-- **自行申报**：使用CDS系统提交电子报关单。需具备HS编码知识、关税计算能力。建议初次申报者参加HMRC免费线上培训（www.gov.uk/hmrc/training）。
+- **自行申报**：使用CDS系统提交电子报关单。需具备HS编码知识、关税计算能力。建议初次申报者参加HMRC免费线上培训（[www.gov.uk/hmrc/training](https://www.gov.uk/hmrc/training)）。
 - **委托报关行**：据HMRC 2026年名录，英国有约1,200家持牌报关行。其中约15家提供中文服务（如“China Customs Solutions Ltd”、“UK-China Trade Services”）。费用通常为£50–£150/单。
 
 ### 第三步：关税与增值税缴纳
 
-- **关税**：按商品HS编码及原产地计算。可通过HMRC Tariff工具（www.gov.uk/trade-tariff）查询。
+- **关税**：按商品HS编码及原产地计算。可通过HMRC Tariff工具（[www.gov.uk/trade-tariff](https://www.gov.uk/trade-tariff)）查询。
 - **进口增值税**：标准税率20%（部分商品5%或0%）。大陆企业如无英国VAT注册号，需在进口时缴纳。如有VAT注册号，可申请缓缴。
 - **支付方式**：通过CDS系统直接扣款（需英国银行账户）或通过第三方支付平台（如PayPal、WorldPay）。HMRC不接受现金。
 

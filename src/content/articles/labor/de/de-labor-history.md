@@ -133,7 +133,7 @@ draft: false
 
 ### 中文服务可用性
 
-对于在德中国籍劳动者及中资企业，BMAS通过其下属的“联邦就业局国际服务”（BA International）提供多语言信息，包括中文版《德国劳动法基础指南》（PDF版本，更新至2025年）。此外，BA官网（www.arbeitsagentur.de）设有机器翻译功能，可部分支持中文界面。BMAS自身不设专门中文窗口，但各州“就业中心”通常配备电话口译服务（需预约）。中资企业如需批量咨询，可联系德国工商总会（DIHK）北京代表处或BMAS“外国劳工事务协调办公室”（Koordinierungsstelle für ausländische Fachkräfte, KOSA）。
+对于在德中国籍劳动者及中资企业，BMAS通过其下属的“联邦就业局国际服务”（BA International）提供多语言信息，包括中文版《德国劳动法基础指南》（PDF版本，更新至2025年）。此外，BA官网（[www.arbeitsagentur.de](https://www.arbeitsagentur.de)）设有机器翻译功能，可部分支持中文界面。BMAS自身不设专门中文窗口，但各州“就业中心”通常配备电话口译服务（需预约）。中资企业如需批量咨询，可联系德国工商总会（DIHK）北京代表处或BMAS“外国劳工事务协调办公室”（Koordinierungsstelle für ausländische Fachkräfte, KOSA）。
 
 ## 未来展望
 
@@ -161,7 +161,7 @@ BMAS是联邦政府部委，负责制定劳动与社会政策法律框架，并�
 
 ### Q3: 外国公民在德国如何通过BMAS体系获取就业服务？
 
-外国公民首先需在居住地所属的“就业中心”（Jobcenter）或联邦就业局地方分支机构注册。BMAS下属的“联邦就业局国际服务”提供多语言信息，包括英文版《德国就业指南》。对于非欧盟公民，需额外联系外国人管理局（Ausländerbehörde）获取工作许可。BA官网设有“外国劳工”专题页面（www.arbeitsagentur.de/fachkraefteeinwanderung），提供中文、英文、土耳其文等多语种信息。
+外国公民首先需在居住地所属的“就业中心”（Jobcenter）或联邦就业局地方分支机构注册。BMAS下属的“联邦就业局国际服务”提供多语言信息，包括英文版《德国就业指南》。对于非欧盟公民，需额外联系外国人管理局（Ausländerbehörde）获取工作许可。BA官网设有“外国劳工”专题页面（[www.arbeitsagentur.de/fachkraefteeinwanderung](https://www.arbeitsagentur.de/fachkraefteeinwanderung)），提供中文、英文、土耳其文等多语种信息。
 
 ### Q4: BMAS的名称经历了哪些变更？
 

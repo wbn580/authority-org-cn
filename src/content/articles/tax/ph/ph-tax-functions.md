@@ -175,7 +175,7 @@ draft: false
 
 ## 中文服务可用性
 
-BIR自2024年起在首都区（NCR）及宿务市（Cebu）的税务服务中心（Revenue District Office, RDO）提供中文书面指南及电话咨询。2025年，BIR官网（www.bir.gov.ph）上线“中文服务专区”，提供常见税务问答（FAQ）及申报表填写指南（涵盖BIR Form 1702、2551M等）。2026年，BIR与菲律宾中华总商会（FCCCI）合作，在华人聚居区（如马尼拉中国城）设立“中文税务窗口”，每月第一个周六提供面对面咨询。此外，BIR在“e-Protest”系统及“e-Audit Portal”中提供中文界面选项，但核心法律文件（如RR、RMO）仍以英文发布，中文翻译版本由DOF审核后作为非官方参考。
+BIR自2024年起在首都区（NCR）及宿务市（Cebu）的税务服务中心（Revenue District Office, RDO）提供中文书面指南及电话咨询。2025年，BIR官网（[www.bir.gov.ph](https://www.bir.gov.ph)）上线“中文服务专区”，提供常见税务问答（FAQ）及申报表填写指南（涵盖BIR Form 1702、2551M等）。2026年，BIR与菲律宾中华总商会（FCCCI）合作，在华人聚居区（如马尼拉中国城）设立“中文税务窗口”，每月第一个周六提供面对面咨询。此外，BIR在“e-Protest”系统及“e-Audit Portal”中提供中文界面选项，但核心法律文件（如RR、RMO）仍以英文发布，中文翻译版本由DOF审核后作为非官方参考。
 
 ## FAQ
 

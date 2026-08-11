@@ -107,7 +107,7 @@ AEAT成立初期整合了原DGAT的1.2万名雇员及18个中央部门。据AEAT
 AEAT负责全国统一税种（如个人所得税、增值税、公司税）的征收与稽查，而巴斯克地区（País Vasco）与纳瓦拉（Navarra）依据《经济协定》（Concierto Económico）拥有独立税务管理权，自行征收并上缴部分收入给中央政府。其他16个自治区仅参与地方税（如财产税）的管理，但数据需与AEAT共享。据AEAT 2025年年度报告，2025年自治区税务部门向AEAT传输了约420万条数据记录。
 
 ### Q2: 中国公民或企业在西班牙纳税时，AEAT是否提供中文服务？
-目前AEAT官方网站（www.agenciatributaria.es）仅提供西班牙语、加泰罗尼亚语、巴斯克语、加利西亚语及英语版本，未设置中文界面。但AEAT于2024年推出“多语言纳税指南”（Guía Multilingüe del Contribuyente），其中包含中文摘要版（PDF格式），涵盖主要税种申报流程与常见问题。据AEAT纳税人服务部2025年统计，中文摘要版年下载量约1.8万次。如需中文协助，建议通过西班牙税务代理（Gestoría）办理，此类服务在西班牙华人社区中较为常见。
+目前AEAT官方网站（[www.agenciatributaria.es](https://www.agenciatributaria.es)）仅提供西班牙语、加泰罗尼亚语、巴斯克语、加利西亚语及英语版本，未设置中文界面。但AEAT于2024年推出“多语言纳税指南”（Guía Multilingüe del Contribuyente），其中包含中文摘要版（PDF格式），涵盖主要税种申报流程与常见问题。据AEAT纳税人服务部2025年统计，中文摘要版年下载量约1.8万次。如需中文协助，建议通过西班牙税务代理（Gestoría）办理，此类服务在西班牙华人社区中较为常见。
 
 ### Q3: 西班牙税务主管部门的英文名称及其缩写是什么？
 英文全称为“State Tax Administration Agency”，缩写为AEAT（源自西班牙语：Agencia Estatal de Administración Tributaria）。该名称自1992年成立以来未变更。在英文官方文件（如OECD报告）中，常直接使用AEAT指代。历史上，其前身“税务管理局”英文曾译为“Directorate General of Tax Administration”（DGAT），但现已不再使用。

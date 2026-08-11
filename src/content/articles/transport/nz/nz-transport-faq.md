@@ -68,11 +68,11 @@ draft: false
 
 ### Q1: 如何联系NZTA或CAA？是否有中文服务热线？
 
-**A:** NZTA客户服务热线为0800 108 809（新西兰境内），运营时间为周一至周五07:30–18:00（新西兰时间）。CAA客户服务热线为0508 222 234，运营时间为周一至周五08:30–17:00。据NZTA 2026年3月公告，两家机构均提供中文（普通话）电话口译服务，用户可要求接入Language Line（免费），平均等待时间约3–5分钟。NZTA官网（www.nzta.govt.nz）设有简体中文页面，覆盖驾照转换、车辆注册等核心流程。CAA官网（www.caa.govt.nz）当前英文为主，中文服务需通过电话口译或邮件（info@caa.govt.nz）联系。
+**A:** NZTA客户服务热线为0800 108 809（新西兰境内），运营时间为周一至周五07:30–18:00（新西兰时间）。CAA客户服务热线为0508 222 234，运营时间为周一至周五08:30–17:00。据NZTA 2026年3月公告，两家机构均提供中文（普通话）电话口译服务，用户可要求接入Language Line（免费），平均等待时间约3–5分钟。NZTA官网（[www.nzta.govt.nz](https://www.nzta.govt.nz)）设有简体中文页面，覆盖驾照转换、车辆注册等核心流程。CAA官网（[www.caa.govt.nz](https://www.caa.govt.nz)）当前英文为主，中文服务需通过电话口译或邮件（info@caa.govt.nz）联系。
 
 ### Q2: 办理业务（如驾照申请、车辆注册）需要提前预约吗？流程是什么？
 
-**A:** 据NZTA 2026年公告，办理驾照笔试（理论考试）和路考（实践考试）须通过其合作机构VTNZ（Vehicle Testing New Zealand）或AA（Automobile Association）预约，通常提前2–4周可获空位。车辆注册（首次或续费）无需预约，可直接前往NZTA服务点或在线办理。流程：在线填写申请表（www.nzta.govt.nz/online）→ 支付费用 → 收到确认信或电子凭证。CAA飞行执照申请需通过CAA在线系统（MyCAA）提交，处理周期为10–15个工作日。
+**A:** 据NZTA 2026年公告，办理驾照笔试（理论考试）和路考（实践考试）须通过其合作机构VTNZ（Vehicle Testing New Zealand）或AA（Automobile Association）预约，通常提前2–4周可获空位。车辆注册（首次或续费）无需预约，可直接前往NZTA服务点或在线办理。流程：在线填写申请表（[www.nzta.govt.nz/online](https://www.nzta.govt.nz/online)）→ 支付费用 → 收到确认信或电子凭证。CAA飞行执照申请需通过CAA在线系统（MyCAA）提交，处理周期为10–15个工作日。
 
 ### Q3: 中文服务在哪些场景可用？是否支持中文文件提交？
 

@@ -171,4 +171,4 @@ BOC与菲律宾知识产权局（IPOPHL）协作，在边境环节扣押涉嫌�
 
 ---
 
-*本文信息基于菲律宾官方公开文件，更新至2026年5月23日。如需最新操作指南，请访问DTI官网（www.dti.gov.ph）或BOC官网（www.customs.gov.ph）。*
+*本文信息基于菲律宾官方公开文件，更新至2026年5月23日。如需最新操作指南，请访问DTI官网（[www.dti.gov.ph](https://www.dti.gov.ph)）或BOC官网（[www.customs.gov.ph](https://www.customs.gov.ph)）。*
