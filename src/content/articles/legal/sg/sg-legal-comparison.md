@@ -36,7 +36,6 @@ keywords:
   - "中文法律服务"
   - "2026 司法数据"
 chineseServiceAvailable: true
-ogImage: /images/comparison/sg-legal-comparison-2026.png
 draft: false
 hideFromHome: true
 

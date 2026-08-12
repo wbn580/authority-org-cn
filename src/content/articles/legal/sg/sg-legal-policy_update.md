@@ -26,7 +26,6 @@ keywords:
   - "大陆人士法律影响"
   - "新加坡跨境法律事务"
 chineseServiceAvailable: true
-ogImage: /images/sg-legal-policy-2024-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "跨国对比"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: /images/comparison/my-transport-civil-aviation-comparison-og.jpg
 draft: false
 hideFromHome: true
 

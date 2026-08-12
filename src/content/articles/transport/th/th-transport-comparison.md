@@ -33,7 +33,6 @@ keywords:
   - "民航局对比"
   - "制度差异分析"
 chineseServiceAvailable: true
-ogImage: /images/comparison-th-transport-2026.jpg
 draft: false
 hideFromHome: true
 

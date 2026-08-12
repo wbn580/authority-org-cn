@@ -26,7 +26,6 @@ keywords:
   - "大陆人加拿大飞行"
   - "CATSA安检新规"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-kr-legal-2026.jpg"
 draft: false
 
 ---

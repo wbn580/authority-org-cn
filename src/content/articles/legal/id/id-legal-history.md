@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"印尼司法部\", \"法律改革\", \"机构沿革\", \"Kemenkumham\", \"印尼法律\", \"司法行政\"]"
 keywords: "[\"印尼司法部\", \"法务主管部门\", \"机构历史\", \"法律基础\", \"改革事件\", \"Kemenkumham\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Indonesia+Legal+History"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

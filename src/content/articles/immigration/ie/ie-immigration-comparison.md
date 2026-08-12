@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[爱尔兰移民, 澳大利亚内政部, 加拿大移民部, 英国内政部, 跨国对比, 签证效率, 数字化政府, 申诉机制]"
 keywords: "[爱尔兰移民局, INIS, 澳大利亚内政部, 加拿大IRCC, 英国内政部UKVI, 签证审理时间, 移民监管对比, 透明度, 大陆申请人, 中文服务]"
 chineseServiceAvailable: true
-ogImage: /images/ie-immigration-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

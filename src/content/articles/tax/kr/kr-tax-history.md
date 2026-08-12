@@ -13,6 +13,7 @@ keywords: "[\"韩国国税厅\", \"NTS历史\", \"税务机构重组\", \"韩国
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/kr-tax-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

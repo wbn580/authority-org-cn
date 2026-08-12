@@ -29,7 +29,6 @@ keywords:
   - "就业流程"
   - "劳工纠纷"
 chineseServiceAvailable: 部分支持
-ogImage: /images/indonesia-labor-faq-2026.jpg
 draft: false
 
 ---

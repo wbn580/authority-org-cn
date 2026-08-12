@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[法国税务, DGFiP, 税收征管, 税务审计, 税务职能, 2024-2026改革]"
 keywords: "[法国税务主管部门, DGFiP, 税收职能, 税务审计, 税收立法, 跨境税务, 中文服务]"
 chineseServiceAvailable: true
-ogImage: /images/fr-tax-functions-2026.png
 draft: false
 
 ---

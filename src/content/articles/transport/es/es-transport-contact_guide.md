@@ -25,7 +25,6 @@ keywords:
   - "西班牙民航局地址"
   - "中国公民西班牙驾照"
 chineseServiceAvailable: true
-ogImage: "/images/ae-trade-customs-guide-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙教育\", \"MEFPD\", \"教育职能\", \"西班牙法律\", \"教育政策\"]"
 keywords: "[\"西班牙教育主管部门\", \"MEFPD职能\", \"西班牙教育法\", \"教育政策2026\", \"西班牙教育部\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/es-tax-authority-comparison-2026.jpg"
 draft: false
 
 ---

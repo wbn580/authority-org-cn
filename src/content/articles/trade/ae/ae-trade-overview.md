@@ -24,7 +24,6 @@ keywords:
   - "中文服务阿联酋"
   - "大陆企业阿联酋清关"
 chineseServiceAvailable: true
-ogImage: /images/ae-trade-overview-2026.jpg
 draft: false
 
 ---

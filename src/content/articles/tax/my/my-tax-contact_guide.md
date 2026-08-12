@@ -21,7 +21,6 @@ keywords:
   - "马来西亚税务申报"
   - "大陆人士马来西亚税务"
 chineseServiceAvailable: true
-ogImage: /images/my-tax-guide-2026.jpg
 draft: false
 
 ---

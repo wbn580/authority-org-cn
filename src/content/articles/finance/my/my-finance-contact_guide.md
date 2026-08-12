@@ -26,7 +26,6 @@ keywords:
   - "BNM表格"
   - "马来西亚金融申诉"
 chineseServiceAvailable: 是（部分柜台及热线提供普通话服务）
-ogImage: "/images/og/italy-health-comparison-2026.png"
 draft: false
 
 ---

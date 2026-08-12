@@ -28,7 +28,6 @@ keywords:
   - "健康记录"
   - "海外访客"
 chineseServiceAvailable: true
-ogImage: /images/au-health-policy-2024-2026-og.jpg
 draft: false
 
 ---

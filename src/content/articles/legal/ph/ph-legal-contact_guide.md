@@ -23,7 +23,6 @@ keywords:
   - "中文服务菲律宾"
   - "2026年菲律宾法律费用"
 chineseServiceAvailable: 部分
-ogImage: /images/ph-legal-guide-2026.jpg
 draft: false
 
 ---

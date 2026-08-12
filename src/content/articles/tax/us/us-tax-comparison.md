@@ -27,7 +27,6 @@ keywords:
   - "税务透明度"
   - "大陆人群税务合规"
 chineseServiceAvailable: true
-ogImage: /images/og-tax-comparison-us-hmrc-nta-ato.jpg
 draft: false
 hideFromHome: true
 

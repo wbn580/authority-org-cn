@@ -26,7 +26,6 @@ keywords:
   - "大陆人医疗接触度"
   - "医疗制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/comparison-mo-sg-pt-hk-health.jpg
 draft: false
 hideFromHome: true
 

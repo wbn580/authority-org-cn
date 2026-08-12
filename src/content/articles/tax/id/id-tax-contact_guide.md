@@ -13,6 +13,7 @@ keywords: "[印尼税务总局, DJP联系方式, NPWP申请, 税务申报, 中�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/id-tax-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 有限
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/es-education-overview-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

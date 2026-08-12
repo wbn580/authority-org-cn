@@ -13,6 +13,7 @@ keywords: "[\"日本卫生主管部门\", \"厚生劳动省职能\", \"日本医
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-health-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

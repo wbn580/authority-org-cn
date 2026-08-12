@@ -23,7 +23,6 @@ keywords:
   - "以色列海关数字化转型"
   - "大陆企业以色列通关"
 chineseServiceAvailable: true
-ogImage: /images/il-customs-policy-2026.jpg
 draft: false
 
 ---

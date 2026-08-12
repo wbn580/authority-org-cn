@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 是（部分服务提供中文界面与咨询）
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/fr-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

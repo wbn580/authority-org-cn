@@ -25,7 +25,6 @@ keywords:
   - "陆路运输厅中文服务"
   - "泰国国际驾照"
 chineseServiceAvailable: true
-ogImage: /images/th-transport-faq-2026-og.png
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "中文医疗服务"
   - "菲律宾FDA注册"
 chineseServiceAvailable: true
-ogImage: /images/ph-health-faq-2026.jpg
 draft: false
 
 ---

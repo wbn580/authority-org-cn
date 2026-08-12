@@ -27,7 +27,6 @@ keywords:
   - "OSFI指引"
   - "开放式银行"
 chineseServiceAvailable: 加拿大主要金融机构（如RBC、TD、BMO、Scotiabank、CIBC）均提供中文（普通话/粤语）客服专线及中文版产品说明。OSFI与FCAC官网提供机器翻译中文版关键指引，但法定文本以英文/法文为准。部分中文服务可通过银行分行或电话银行获取。
-ogImage: /images/ca-finance-functions-2026.jpg
 draft: false
 
 ---

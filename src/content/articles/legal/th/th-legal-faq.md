@@ -13,6 +13,7 @@ keywords: "[\"泰国司法部\", \"法务流程\", \"费用标准\", \"中文服
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/th-legal-faq-2026-1880x1255.jpg"
 ---
 
 

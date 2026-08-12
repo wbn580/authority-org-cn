@@ -13,6 +13,7 @@ keywords: "[\"马来西亚司法部\", \"法务部联系方式\", \"案件时效
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/my-legal-faq-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->

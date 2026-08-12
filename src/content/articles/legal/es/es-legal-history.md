@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/es-legal-history-2026-1880x1255.jpg"
 ---
 
 

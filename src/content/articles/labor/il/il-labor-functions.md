@@ -31,7 +31,6 @@ keywords:
   - "2024-2026以色列劳动政策"
   - "以色列劳动法执行"
 chineseServiceAvailable: true
-ogImage: /images/il-labor-functions-2026.jpg
 draft: false
 
 ---

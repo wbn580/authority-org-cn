@@ -36,6 +36,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/hk-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

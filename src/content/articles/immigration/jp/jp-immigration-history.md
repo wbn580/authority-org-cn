@@ -13,6 +13,7 @@ keywords: "[\"日本出入国在留管理厅沿革\", \"日本签证主管部门
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

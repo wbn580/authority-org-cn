@@ -23,7 +23,6 @@ keywords:
   - "法国2025教育改革"
   - "法国教育立法"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/jp-labor-2026-05-23.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "以色列劳动合同法"
   - "以色列劳动法庭"
 chineseServiceAvailable: 是（部分官方文件提供英文摘要，中文服务有限，建议通过雇主或中介获取翻译协助）
-ogImage: /images/il-labor-policy-2024-2026.jpg
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"澳门法务局\", \"法院费用\", \"司法援助\", \"公证服
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-legal-faq-2026-1880x1255.jpg"
 ---
 
 

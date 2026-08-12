@@ -22,7 +22,6 @@ keywords:
   - "瑞士增值税标准税率"
   - "瑞士税务罚款"
 chineseServiceAvailable: true
-ogImage: /images/faq-swiss-tax-2026.jpg
 draft: false
 
 ---

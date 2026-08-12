@@ -24,7 +24,6 @@ keywords:
   - "香港卫生投诉"
   - "香港中文服务"
 chineseServiceAvailable: true
-ogImage: /images/hk-health-guide-2026.jpg
 draft: false
 
 ---

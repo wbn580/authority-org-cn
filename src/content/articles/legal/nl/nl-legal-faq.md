@@ -31,7 +31,6 @@ keywords:
   - "荷兰司法常见问题"
   - "荷兰法律误区"
 chineseServiceAvailable: true
-ogImage: /images/netherlands-legal-faq-og.jpg
 draft: false
 
 ---

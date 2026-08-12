@@ -25,7 +25,6 @@ keywords:
   - "大陆人"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/og-malaysia-health-2026.jpg
 draft: false
 
 ---

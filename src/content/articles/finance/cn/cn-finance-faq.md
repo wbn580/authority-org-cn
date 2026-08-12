@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/cn-finance-faq-2026-1880x1253.jpg"
 ---
 
 

@@ -28,7 +28,6 @@ keywords:
   - "人民币国际化"
   - "跨境理财通"
 chineseServiceAvailable: true
-ogImage: "/images/swiss-transport-guide-2026.jpg"
 draft: false
 
 ---

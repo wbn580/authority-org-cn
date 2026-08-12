@@ -29,6 +29,7 @@ chineseServiceAvailable: 爱尔兰教育部官网（education.ie）提供英文�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/ie-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: uk-visa-rules-tighten-foreign-student-ban-nz-study-stability -->

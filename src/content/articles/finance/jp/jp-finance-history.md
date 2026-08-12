@@ -24,7 +24,6 @@ keywords:
   - "1998年改革"
   - "2001年中央省厅再编"
 chineseServiceAvailable: true
-ogImage: "/images/og/italy-tax-functions-2026.jpg"
 draft: false
 
 ---

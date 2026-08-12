@@ -29,7 +29,7 @@ keywords:
   - "职能交叉"
   - "2024-2026改革"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Philippine+Transport+Authorities+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

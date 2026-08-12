@@ -13,6 +13,7 @@ keywords: "[\"以色列司法部\", \"法务主管部门\", \"法律程序\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-legal-faq-2026-1880x1255.jpg"
 ---
 
 

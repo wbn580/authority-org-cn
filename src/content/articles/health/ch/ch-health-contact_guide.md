@@ -21,7 +21,6 @@ keywords:
   - "瑞士中文医疗服务"
   - "瑞士大陆人医保指南"
 chineseServiceAvailable: true
-ogImage: /images/ch-health-guide-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "数字化法院"
   - "申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/nl-legal-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

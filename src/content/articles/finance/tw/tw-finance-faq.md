@@ -35,7 +35,6 @@ keywords:
   - "证券开户"
   - "金融法规"
 chineseServiceAvailable: true
-ogImage: /images/tw-finance-faq-og.png
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "费用标准"
   - "投诉申诉"
 chineseServiceAvailable: 是
-ogImage: /images/au-legal-guide-2026.jpg
 draft: false
 
 ---

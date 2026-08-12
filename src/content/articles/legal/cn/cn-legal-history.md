@@ -23,7 +23,6 @@ keywords:
   - "司法行政 职能"
   - "依法治国 历史"
 chineseServiceAvailable: true
-ogImage: "/images/hk-health-guide-2026.jpg"
 draft: false
 
 ---

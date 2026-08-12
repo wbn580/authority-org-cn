@@ -13,6 +13,7 @@ keywords: "[\"意大利移民局\", \"移民主管部门\", \"机构变迁\", \"
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

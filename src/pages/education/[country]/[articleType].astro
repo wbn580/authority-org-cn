@@ -51,9 +51,11 @@ const entry = allArticles.find(a =>
 );
 const article = entry?.data;
 const { Content } = (entry ? await entry.render().catch(() => ({ Content: null })) : { Content: null }) || { Content: null };
+const _ogImageProp = article?.ogImage || article?.heroImage || article?.featured_image || article?.featuredImage || article?.coverImage || article?.image || undefined; /* og-wiring */
+
 ---
 
-<BaseLayout title={article ? article.title + ' — 全球主管部门信息汇编' : `${zh}${d.zh} — 全球主管部门信息汇编`} description={article ? article.description : d.desc}>
+<BaseLayout ogImage={_ogImageProp} title={article ? article.title + ' — 全球主管部门信息汇编' : `${zh}${d.zh} — 全球主管部门信息汇编`} description={article ? article.description : d.desc}>
   <div class="max-w-4xl mx-auto px-4 py-10">
 
     <nav class="text-sm text-ink-500 mb-6">

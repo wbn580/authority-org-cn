@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/fr-legal-functions-2026-1880x1255.jpg"
 ---
 # 法国司法与法务主管部门核心职能详解（2026-2026年调整）
 

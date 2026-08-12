@@ -29,7 +29,6 @@ keywords:
   - "政策更新"
   - "劳工法修订"
 chineseServiceAvailable: true
-ogImage: /images/italy-labor-policy-2026.jpg
 draft: false
 
 ---

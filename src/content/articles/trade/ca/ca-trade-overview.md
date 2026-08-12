@@ -26,7 +26,6 @@ keywords:
   - "跨境贸易"
   - "中文服务可用性"
 chineseServiceAvailable: 是
-ogImage: /images/ca-trade-overview-og.png
 draft: false
 
 ---

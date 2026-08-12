@@ -27,7 +27,6 @@ keywords:
   - "申诉程序"
   - "跨境贸易效率"
 chineseServiceAvailable: true
-ogImage: /images/comparison-kr-trade-customs-2026.jpg
 draft: false
 hideFromHome: true
 

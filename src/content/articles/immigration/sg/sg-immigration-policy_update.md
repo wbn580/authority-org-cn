@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡移民政策\", \"ICA公告\", \"MOM更新\", \"COMPASS框架\", \"PR申请调整\", \"学生签证\", \"大陆申请人\"]"
 keywords: "[\"新加坡移民政策2026\", \"ICA 2024-2026\", \"MOM 2025公告\", \"COMPASS框架更新\", \"PR申请条件\", \"学生签证IPA\", \"大陆人新加坡移民\"]"
 chineseServiceAvailable: true
-ogImage: "/images/ae-legal-comparison-2026.jpg"
 draft: false
 
 ---

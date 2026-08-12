@@ -23,7 +23,6 @@ keywords:
   - "意大利居留许可"
   - "移民与警察总局分工"
 chineseServiceAvailable: true
-ogImage: /images/italy-immigration-functions-2026.jpg
 draft: false
 
 ---

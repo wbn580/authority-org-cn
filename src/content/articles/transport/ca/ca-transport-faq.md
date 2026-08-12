@@ -13,6 +13,7 @@ keywords: "[加拿大交通部, 民航局, 飞行员执照申请, 航空器注�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-transport-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

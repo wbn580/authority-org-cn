@@ -25,7 +25,6 @@ keywords:
   - "金融监管表格"
   - "处理时效"
 chineseServiceAvailable: 是（部分关键文件提供中文摘要；电话口译服务需预约）
-ogImage: /images/ie-cbi-contact-guide-2026.webp
 draft: false
 
 ---

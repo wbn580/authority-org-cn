@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门金融管理局\", \"AMCM\", \"金融监管\", \"澳门金融\", \"央行\", \"中葡平台\", \"金融科技\", \"数字货币\"]"
 keywords: "[\"澳门金融管理局\", \"AMCM\", \"澳门央行\", \"金融监管\", \"澳门金融体系\", \"大陆人士投资澳门\", \"跨境金融\", \"澳门金融法\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-fr-finance-regulators-2026.jpg"
 draft: false
 
 ---

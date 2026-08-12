@@ -22,7 +22,6 @@ keywords:
   - "税务改革事件"
   - "税务机构沿革"
 chineseServiceAvailable: true
-ogImage: /images/og/ph-tax-history.jpg
 draft: false
 
 ---

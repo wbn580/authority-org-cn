@@ -32,7 +32,6 @@ keywords:
   - "制度差异"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/og/us-trade-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

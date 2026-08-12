@@ -31,7 +31,6 @@ keywords:
   - "申诉流程"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: /images/sg-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

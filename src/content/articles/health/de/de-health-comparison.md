@@ -31,7 +31,6 @@ keywords:
   - "患者申诉渠道"
   - "制度差异分析"
 chineseServiceAvailable: true
-ogImage: "/images/es-tax-contact-guide-2026.png"
 draft: false
 hideFromHome: true
 

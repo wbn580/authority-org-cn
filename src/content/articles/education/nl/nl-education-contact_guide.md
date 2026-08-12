@@ -27,7 +27,6 @@ keywords:
   - "荷兰投诉申诉"
   - "大陆人荷兰留学"
 chineseServiceAvailable: true
-ogImage: /images/og/nl-education-guide-2026.jpg
 draft: false
 
 ---

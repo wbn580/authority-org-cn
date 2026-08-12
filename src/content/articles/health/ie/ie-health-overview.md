@@ -30,7 +30,6 @@ keywords:
   - "电子健康记录 爱尔兰"
   - "2024-2026 爱尔兰 医疗改革"
 chineseServiceAvailable: 有限。HSE官网提供机器翻译中文版本，部分关键文件有中文摘要，但电话及现场服务无专职中文人员。中国大陆居民可通过HSE官网英文界面或委托在爱亲友办理多数业务。
-ogImage: /images/ie-health-og.jpg
 draft: false
 
 ---

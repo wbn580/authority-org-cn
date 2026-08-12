@@ -25,7 +25,6 @@ keywords:
   - "旅客权益"
   - "中国大陆旅客"
 chineseServiceAvailable: true
-ogImage: /images/fr-transport-policy-2026.jpg
 draft: false
 
 ---

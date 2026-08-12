@@ -23,7 +23,6 @@ keywords:
   - "职业培训"
   - "法国政府机构"
 chineseServiceAvailable: false
-ogImage: "/images/ch-finance-2026-og.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "失业保险"
   - "劳工纠纷"
 chineseServiceAvailable: 是（部分机构提供中文书面材料及电话翻译）
-ogImage: /images/france-labor-faq-2026.jpg
 draft: false
 
 ---

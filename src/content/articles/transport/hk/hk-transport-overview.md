@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

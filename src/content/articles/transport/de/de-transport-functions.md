@@ -25,7 +25,7 @@ keywords:
   - "2026年航空法"
   - "德国交通治理"
 chineseServiceAvailable: 是
-ogImage: "https://www.bmdv.bund.de/SharedDocs/Bilder/DE/Header/header-logo.svg"
+ogImage: "https://authority.org.cn/og-default.svg"
 draft: false
 
 ---

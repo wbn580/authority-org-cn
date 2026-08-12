@@ -24,7 +24,6 @@ keywords:
   - "2024-2026"
   - "中文服务"
 chineseServiceAvailable: 是
-ogImage: /images/italy-trade-customs-functions-2026.jpg
 draft: false
 
 ---

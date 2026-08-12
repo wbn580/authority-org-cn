@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"美国贸易代表办公室\", \"海关与边境保护局\", \"商务部\", \"贸易政策\", \"海关执法\", \"2026\"]"
 keywords: "[\"USTR\", \"CBP\", \"商务部工业与安全局\", \"Section 301\", \"关税执行\", \"贸易救济\", \"海关合规\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=US+Trade+Authorities+Functions+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

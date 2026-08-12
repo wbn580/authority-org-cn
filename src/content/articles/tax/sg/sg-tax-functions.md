@@ -13,6 +13,7 @@ keywords: "[新加坡税务局, IRAS职能, 税务合规, 税收政策执行, 20
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/sg-tax-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

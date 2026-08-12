@@ -25,7 +25,6 @@ keywords:
   - "最低工资条例第608章"
   - "雇员补偿条例第282章"
 chineseServiceAvailable: true
-ogImage: "/images/ph-immigration-history-og.png"
 draft: false
 
 ---

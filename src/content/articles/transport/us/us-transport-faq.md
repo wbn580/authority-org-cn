@@ -26,7 +26,6 @@ keywords:
   - "误机赔偿"
   - "TSA安检规则"
 chineseServiceAvailable: true
-ogImage: /images/us-transport-faq-og.png
 draft: false
 
 ---

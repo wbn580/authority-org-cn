@@ -28,7 +28,6 @@ keywords:
   - "医保基金监管"
   - "健康中国行动"
 chineseServiceAvailable: true
-ogImage: "/images/ch-health-guide-2026.jpg"
 draft: false
 
 ---

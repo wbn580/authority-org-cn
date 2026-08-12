@@ -25,7 +25,7 @@ keywords:
   - "MOFAIC"
   - "联邦法令"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=UAE+Immigration+Functions+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

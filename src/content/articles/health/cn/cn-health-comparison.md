@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[中国医保局, 美国HHS, 英国DHSC, 德国BMG, 日本厚生劳动省, 卫生监管, 跨国比较, 医保体系]"
 keywords: "[卫生主管部门, 医保监管, 制度差异, 效率对比, 透明度, 中国大陆, 美国, 英国, 德国, 日本]"
 chineseServiceAvailable: true
-ogImage: /images/og-health-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

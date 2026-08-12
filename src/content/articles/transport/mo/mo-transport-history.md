@@ -24,7 +24,6 @@ keywords:
   - "澳门机场管理"
   - "港珠澳大桥协调"
 chineseServiceAvailable: true
-ogImage: "/images/ca-trade-overview-og.png"
 draft: false
 
 ---

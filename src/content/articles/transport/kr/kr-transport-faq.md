@@ -27,7 +27,6 @@ keywords:
   - "外国人驾驶"
   - "韩国交通法规"
 chineseServiceAvailable: true
-ogImage: /images/kr-transport-faq-2026.jpg
 draft: false
 
 ---

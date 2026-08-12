@@ -27,7 +27,6 @@ keywords:
   - "CMEC"
   - "加拿大教育概况"
 chineseServiceAvailable: true
-ogImage: "/images/og/ae-tax-comparison-2026.jpg"
 draft: false
 
 ---

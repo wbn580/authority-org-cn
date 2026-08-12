@@ -27,7 +27,6 @@ keywords:
   - "日本金融制度"
   - "2026年日本金融"
 chineseServiceAvailable: true
-ogImage: /images/jp-finance-overview-2026.jpg
 draft: false
 
 ---

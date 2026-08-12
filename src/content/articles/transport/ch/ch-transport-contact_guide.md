@@ -30,7 +30,6 @@ keywords:
   - "航空许可"
   - "处理时效"
 chineseServiceAvailable: true
-ogImage: /images/swiss-transport-guide-2026.jpg
 draft: false
 
 ---

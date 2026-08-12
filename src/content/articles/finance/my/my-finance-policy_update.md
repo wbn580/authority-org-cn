@@ -26,7 +26,6 @@ keywords:
   - "跨境资金流动"
   - "大陆人开户"
 chineseServiceAvailable: true
-ogImage: "/images/og/ca-health-overview.jpg"
 draft: false
 
 ---

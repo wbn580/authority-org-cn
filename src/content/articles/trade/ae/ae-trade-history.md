@@ -31,7 +31,6 @@ keywords:
   - "阿联酋贸易主管部门"
   - "海关法律基础"
 chineseServiceAvailable: 阿联酋联邦海关管理局（FCA）及各大酋长国海关（如迪拜海关、阿布扎比海关）均提供中文服务，包括中文官网界面、中文报关系统支持及中文客户服务热线。具体服务覆盖范围可通过FCA官网或各酋长国海关官网查询。
-ogImage: "/images/og-nl-transport-comparison-2026.jpg"
 draft: false
 
 ---

@@ -32,7 +32,6 @@ keywords:
   - "申诉渠道"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: /images/hk-caa-comparison-2026.png
 draft: false
 hideFromHome: true
 

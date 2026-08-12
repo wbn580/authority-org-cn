@@ -27,7 +27,6 @@ keywords:
   - "劳工投诉"
   - "劳动合同"
 chineseServiceAvailable: true
-ogImage: /images/faq-my-labor-2026.jpg
 draft: false
 
 ---

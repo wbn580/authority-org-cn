@@ -20,7 +20,6 @@ keywords:
   - "中文服务可用性"
   - "西班牙移民误区"
 chineseServiceAvailable: true
-ogImage: /images/es-immigration-faq-2026.jpg
 draft: false
 
 ---

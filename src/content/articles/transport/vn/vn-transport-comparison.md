@@ -26,7 +26,6 @@ keywords:
   - "监管职能"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: "/images/og-uk-health-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

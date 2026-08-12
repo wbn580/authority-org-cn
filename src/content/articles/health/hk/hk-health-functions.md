@@ -13,6 +13,7 @@ keywords: "[\"香港卫生署职能\",\"医院管理局\",\"医务卫生局\",\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-health-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目 -->

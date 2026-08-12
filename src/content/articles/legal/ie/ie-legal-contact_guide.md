@@ -24,7 +24,6 @@ keywords:
   - "投诉"
   - "申诉"
 chineseServiceAvailable: true
-ogImage: /images/ie-legal-guide-2026.jpg
 draft: false
 
 ---

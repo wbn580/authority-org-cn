@@ -26,7 +26,6 @@ keywords:
   - "西班牙交通基础设施改革"
   - "西班牙空域管理"
 chineseServiceAvailable: false
-ogImage: /images/es-transport-history-og.jpg
 draft: false
 
 ---

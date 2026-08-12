@@ -28,7 +28,6 @@ keywords:
   - "大陆人士"
   - "政策追踪"
 chineseServiceAvailable: true
-ogImage: /images/nl-financial-regulatory-update-2024-2026.jpg
 draft: false
 
 ---

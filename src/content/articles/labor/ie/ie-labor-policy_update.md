@@ -22,7 +22,6 @@ keywords:
   - "爱尔兰公共假期法案"
   - "大陆人爱尔兰就业"
 chineseServiceAvailable: 是（部分公共信息提供中文摘要，但官方流程以英文为主）
-ogImage: /images/ie-labor-2026-policy-update.png
 draft: false
 
 ---

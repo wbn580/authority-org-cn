@@ -31,7 +31,6 @@ keywords:
   - "泰国银行账户"
   - "泰国SEC"
 chineseServiceAvailable: true
-ogImage: "/images/fr-tax-functions-2026.png"
 draft: false
 
 ---

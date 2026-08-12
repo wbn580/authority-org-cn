@@ -13,6 +13,7 @@ keywords: "[\"海关总署\", \"GAC\", \"进出口关税\", \"贸易便利化\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/cn-trade-overview-2026-1880x1111.jpg"
 ---
 
 

@@ -26,7 +26,6 @@ keywords:
   - "泰国驾照更新"
   - "中国大陆旅客泰国交通"
 chineseServiceAvailable: true
-ogImage: "/images/sg-transport-comparison-2026.jpg"
 draft: false
 
 ---

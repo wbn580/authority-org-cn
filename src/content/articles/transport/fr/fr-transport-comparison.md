@@ -26,7 +26,6 @@ keywords:
   - "大陆人接触度"
   - "申诉机制"
 chineseServiceAvailable: 法国交通主管部门官网提供英语服务，部分内容支持法语自动翻译；中文服务有限，但可通过第三方代理或使馆协助。
-ogImage: /images/fr-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

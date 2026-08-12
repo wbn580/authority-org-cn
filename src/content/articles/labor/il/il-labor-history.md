@@ -26,7 +26,6 @@ keywords:
   - "劳工部历史"
   - "以色列劳动法"
 chineseServiceAvailable: true
-ogImage: /images/israel-labor-ministry-history-og.jpg
 draft: false
 
 ---

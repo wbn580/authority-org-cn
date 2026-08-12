@@ -26,7 +26,6 @@ keywords:
   - "退伍军人就业权利"
   - "2026 DOL调整"
 chineseServiceAvailable: true
-ogImage: /images/us-dol-functions-2026.jpg
 draft: false
 
 ---

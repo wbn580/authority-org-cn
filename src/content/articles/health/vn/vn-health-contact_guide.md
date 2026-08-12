@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: 部分机构提供中文服务，详见正文。
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/vn-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

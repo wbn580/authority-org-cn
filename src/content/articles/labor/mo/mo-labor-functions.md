@@ -13,6 +13,7 @@ keywords: "[\"澳门劳工局\", \"劳动监察\", \"就业配对\", \"职业安
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-labor-functions-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

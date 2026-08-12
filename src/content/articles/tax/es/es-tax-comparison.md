@@ -32,7 +32,6 @@ keywords:
   - "英国税务管理"
   - "新加坡税务管理"
 chineseServiceAvailable: 是
-ogImage: /images/comparison/es-tax-authority-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

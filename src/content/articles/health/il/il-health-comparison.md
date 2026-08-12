@@ -25,7 +25,6 @@ keywords:
   - "跨境医疗"
   - "大陆人接触度"
 chineseServiceAvailable: 有限
-ogImage: /images/il-health-comparison-2026.png
 draft: false
 hideFromHome: true
 

@@ -26,7 +26,6 @@ keywords:
   - "2025年改革"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/il-health-functions-2026.jpg
 draft: false
 
 ---

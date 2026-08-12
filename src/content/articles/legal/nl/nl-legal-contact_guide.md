@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nl-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 

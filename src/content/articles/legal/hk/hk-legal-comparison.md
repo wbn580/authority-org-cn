@@ -32,7 +32,6 @@ keywords:
   - "司法数字化"
   - "申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/comparison-hk-legal-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

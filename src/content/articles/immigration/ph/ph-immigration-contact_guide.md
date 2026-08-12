@@ -26,7 +26,6 @@ keywords:
   - "菲律宾长期签证"
   - "菲律宾入境手续"
 chineseServiceAvailable: 部分
-ogImage: "/images/og-de-legal-overview-2026.jpg"
 draft: false
 
 ---

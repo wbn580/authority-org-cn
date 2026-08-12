@@ -25,7 +25,6 @@ keywords:
   - "澳门交通投诉"
   - "澳门行政申诉"
 chineseServiceAvailable: 是（粤语、普通话书面及口头服务全覆盖）
-ogImage: /images/og/mo-transport-guide-2026.jpg
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "教育申诉机制"
   - "大陆人意大利教育服务"
 chineseServiceAvailable: true
-ogImage: /images/comparison/edu-authorities-it-de-fr-es-uk.webp
 draft: false
 tags:
   - "DfE"

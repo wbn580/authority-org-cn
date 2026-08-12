@@ -23,7 +23,6 @@ keywords:
   - "新加坡税务申诉"
   - "大陆人新加坡报税"
 chineseServiceAvailable: true
-ogImage: /images/sg-tax-contact-guide-2026.jpg
 draft: false
 
 ---

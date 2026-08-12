@@ -23,7 +23,6 @@ keywords:
   - "中文服务以色列"
   - "大陆人以色列金融"
 chineseServiceAvailable: 是（部分主要银行及ISA提供中文文件翻译协助）
-ogImage: /images/il-finance-guide-og.png
 draft: false
 
 ---

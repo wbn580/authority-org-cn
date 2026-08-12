@@ -13,6 +13,7 @@ keywords: "[\"美国贸易主管部门沿革\", \"USTR成立背景\", \"ITA职�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/us-trade-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

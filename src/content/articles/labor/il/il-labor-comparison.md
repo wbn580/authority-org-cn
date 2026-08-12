@@ -29,7 +29,6 @@ keywords:
   - "外国劳工服务"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/comparison-il-labor-2026.jpg
 draft: false
 hideFromHome: true
 

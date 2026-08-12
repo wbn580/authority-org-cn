@@ -30,7 +30,6 @@ keywords:
   - "PUMA"
   - "法国社保号"
 chineseServiceAvailable: true
-ogImage: "/images/tw-education-history-og.jpg"
 draft: false
 
 ---

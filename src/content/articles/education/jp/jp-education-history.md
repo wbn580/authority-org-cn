@@ -13,6 +13,7 @@ keywords: "[\"日本文部科学省沿革\", \"日本教育主管部门历史\",
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-education-history-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

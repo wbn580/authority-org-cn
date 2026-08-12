@@ -13,6 +13,7 @@ keywords: "[\"运输及物流局\", \"民航处\", \"核心职能\", \"香港民
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

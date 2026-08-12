@@ -27,7 +27,6 @@ keywords:
   - "中文服务"
   - "大陆人医保"
 chineseServiceAvailable: true
-ogImage: /images/kr-health-authority-2026.jpg
 draft: false
 
 ---

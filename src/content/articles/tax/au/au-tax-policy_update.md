@@ -26,7 +26,6 @@ keywords:
   - "中国大陆跨境税务"
   - "税务合规"
 chineseServiceAvailable: true
-ogImage: /images/au-tax-policy-update-2024-26.png
 draft: false
 
 ---

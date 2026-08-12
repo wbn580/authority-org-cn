@@ -25,7 +25,6 @@ keywords:
   - "监管效率"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/og/italy-health-comparison-2026.png
 draft: false
 hideFromHome: true
 

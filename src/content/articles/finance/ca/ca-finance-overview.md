@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大央行\", \"OSFI\", \"FCAC\", \"CDIC\", \"金融监管\", \"加拿大金融\", \"跨境金融\"]"
 keywords: "[\"加拿大银行\", \"金融机构监管局\", \"金融消费者保护局\", \"加拿大存款保险公司\", \"2026年加拿大利率\", \"OSFI B-20\", \"FCAC 投诉\"]"
 chineseServiceAvailable: true
-ogImage: /images/ca-finance-overview-2026.jpg
 draft: false
 
 ---

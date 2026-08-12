@@ -31,7 +31,6 @@ keywords:
   - "技能创前程"
   - "2026年教育政策"
 chineseServiceAvailable: true
-ogImage: "/images/ie-legal-faq-2026.jpg"
 draft: false
 
 ---

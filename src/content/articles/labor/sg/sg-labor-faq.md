@@ -25,7 +25,6 @@ keywords:
   - "外籍员工权益"
   - "中文服务热线"
 chineseServiceAvailable: true
-ogImage: "/images/kr-trade-faq-2026-og.png"
 draft: false
 
 ---

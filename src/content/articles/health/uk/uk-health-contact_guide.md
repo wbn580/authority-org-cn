@@ -13,6 +13,7 @@ keywords: "[\"英国卫生部门\", \"NHS联系方式\", \"医保指南\", \"DHS
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/uk-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->

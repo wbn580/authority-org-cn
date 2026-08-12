@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚\", \"卫生部\", \"医保局\", \"Medicare\", \"联系方式\", \"办事指南\", \"中文服务\", \"投诉申诉\"]"
 keywords: "[\"澳大利亚卫生部\", \"Medicare\", \"医保局地址\", \"中文服务\", \"大陆人医保\", \"投诉流程\"]"
 chineseServiceAvailable: true
-ogImage: /images/au-health-guide-og.png
 draft: false
 
 ---

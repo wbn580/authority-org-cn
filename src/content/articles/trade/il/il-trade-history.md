@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-trade-history-2026-1880x1111.jpg"
 ---
 
 

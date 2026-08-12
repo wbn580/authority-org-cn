@@ -27,7 +27,6 @@ keywords:
   - "跨部门协作"
   - "2024-2026改革"
 chineseServiceAvailable: true
-ogImage: /images/og/mo-tax-functions-2026.jpg
 draft: false
 
 ---

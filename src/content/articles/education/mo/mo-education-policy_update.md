@@ -26,7 +26,6 @@ keywords:
   - "非高等教育课程改革"
   - "澳门学历认证"
 chineseServiceAvailable: true
-ogImage: "/images/og-swiss-health-authority-history.jpg"
 draft: false
 
 ---

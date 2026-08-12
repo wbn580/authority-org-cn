@@ -29,7 +29,6 @@ keywords:
   - "意大利医保误区"
   - "大区卫生局"
 chineseServiceAvailable: true
-ogImage: /images/italy-health-faq-2026.webp
 draft: false
 
 ---

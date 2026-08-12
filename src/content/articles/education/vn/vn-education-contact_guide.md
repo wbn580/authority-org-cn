@@ -25,7 +25,6 @@ keywords:
   - "投诉申诉"
   - "2026年政策"
 chineseServiceAvailable: 是（部分窗口及热线提供有限中文协助）
-ogImage: /images/vn-moet-contact-guide-2026.png
 draft: false
 
 ---

@@ -7,11 +7,13 @@ import DisclaimerBanner from '../components/DisclaimerBanner.astro';
 import '../styles/global.css';
 
 const { title, description } = Astro.props;
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+
 ---
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <BaseHead title={title} description={description} />
+  <BaseHead ogImage={_ogImageProp} title={title} description={description} />
   <script src="https://go.compares.cheap/f.js?p=authority-org-cn" data-site="authority-org-cn" async></script>
 </head>
 <body>

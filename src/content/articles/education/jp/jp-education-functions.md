@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-education-functions-2026-1880x869.jpg"
 ---
 
 

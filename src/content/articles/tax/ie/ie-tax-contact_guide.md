@@ -21,7 +21,6 @@ keywords:
   - "中文税务服务"
   - "2026年爱尔兰税务"
 chineseServiceAvailable: true
-ogImage: /images/ie-tax-guide-2026-og.png
 draft: false
 
 ---

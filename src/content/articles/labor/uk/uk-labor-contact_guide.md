@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/uk-labor-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-ucl-2026-fees-scholarships--career-outco -->

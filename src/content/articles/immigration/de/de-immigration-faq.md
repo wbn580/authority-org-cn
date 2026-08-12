@@ -23,7 +23,6 @@ keywords:
   - "费用"
   - "误区"
 chineseServiceAvailable: true
-ogImage: /images/de-immigration-faq-2026.jpg
 draft: false
 
 ---

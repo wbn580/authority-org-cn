@@ -20,7 +20,6 @@ keywords:
   - "中文法律服务"
   - "西班牙法院表格"
 chineseServiceAvailable: true
-ogImage: /images/og-es-legal-guide-2026.jpg
 draft: false
 
 ---

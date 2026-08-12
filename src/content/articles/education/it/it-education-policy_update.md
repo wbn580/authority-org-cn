@@ -28,7 +28,6 @@ keywords:
   - "Universitaly"
   - "2026年政策"
 chineseServiceAvailable: true
-ogImage: "/images/ca-tax-functions-2026.jpg"
 draft: false
 
 ---

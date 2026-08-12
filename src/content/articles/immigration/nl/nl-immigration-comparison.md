@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[荷兰移民, IND, 跨国对比, 移民政策, 签证效率, 数字化, 透明度]"
 keywords: "[荷兰IND, 德国BAMF, 加拿大IRCC, 澳大利亚Home Affairs, 新加坡ICA, 移民主管部门对比, 签证处理时间, 申诉机制, 大陆人签证]"
 chineseServiceAvailable: true
-ogImage: "/images/ae-legal-functions-2026.jpg"
 draft: false
 hideFromHome: true
 

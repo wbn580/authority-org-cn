@@ -21,7 +21,6 @@ keywords:
   - "药品供应稳定"
   - "远距医疗法规"
 chineseServiceAvailable: true
-ogImage: "/images/og-mo-trade-customs-overview.png"
 draft: false
 
 ---

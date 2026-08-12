@@ -30,7 +30,6 @@ keywords:
   - "制度差异"
   - "2026年数据"
 chineseServiceAvailable: true
-ogImage: /images/comparison-my-immigration-2026.jpg
 draft: false
 hideFromHome: true
 

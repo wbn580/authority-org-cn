@@ -28,7 +28,6 @@ keywords:
   - "双减"
   - "双一流"
 chineseServiceAvailable: true
-ogImage: /images/cn-education-functions-2026.jpg
 draft: false
 
 ---

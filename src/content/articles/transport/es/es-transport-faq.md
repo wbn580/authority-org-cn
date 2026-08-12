@@ -26,7 +26,6 @@ keywords:
   - "ITV年检"
   - "民航延误赔偿"
 chineseServiceAvailable: true
-ogImage: /images/es-transport-faq-2026.webp
 draft: false
 
 ---

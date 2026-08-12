@@ -13,6 +13,7 @@ keywords: "[\"菲律宾劳工与就业部\", \"DOLE\", \"劳工法改革\", \"�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

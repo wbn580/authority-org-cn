@@ -28,7 +28,6 @@ keywords:
   - "职业训练"
   - "劳动事件法"
 chineseServiceAvailable: 是
-ogImage: /images/tw-labor-history.jpg
 draft: false
 
 ---

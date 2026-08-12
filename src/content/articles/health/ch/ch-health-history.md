@@ -27,7 +27,6 @@ keywords:
   - "瑞士公共卫生"
   - "联邦与州卫生权责"
 chineseServiceAvailable: 是（联邦卫生局提供中文版网页及部分信息材料，但官方文件以德、法、意、罗曼什语为准）
-ogImage: /images/og-swiss-health-authority-history.jpg
 draft: false
 
 ---

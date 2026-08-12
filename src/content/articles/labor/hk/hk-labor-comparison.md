@@ -27,7 +27,6 @@ keywords:
   - "大陆人就业"
   - "劳动监察效率"
 chineseServiceAvailable: true
-ogImage: /images/hk-labor-comparison-og.png
 draft: false
 hideFromHome: true
 

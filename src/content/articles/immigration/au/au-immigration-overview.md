@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/au-immigration-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲485毕业生工签续签条件与时长变化 -->

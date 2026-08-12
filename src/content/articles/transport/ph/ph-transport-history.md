@@ -25,7 +25,6 @@ keywords:
   - "机构名称变更"
   - "未来展望"
 chineseServiceAvailable: true
-ogImage: "/images/vn-labor-comparison-2026.png"
 draft: false
 
 ---

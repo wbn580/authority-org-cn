@@ -25,7 +25,6 @@ keywords:
   - "大陆籍飞行员"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/og-es-legal-guide-2026.jpg"
 draft: false
 
 ---

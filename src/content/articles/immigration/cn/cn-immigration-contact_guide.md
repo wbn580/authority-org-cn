@@ -21,7 +21,6 @@ keywords:
   - "出入境预约"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/sg-mas-contact-guide-2026.jpg"
 draft: false
 
 ---

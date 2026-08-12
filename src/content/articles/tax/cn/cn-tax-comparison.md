@@ -31,7 +31,6 @@ keywords:
   - "税务申诉"
   - "数字化税务"
 chineseServiceAvailable: true
-ogImage: /images/tax-comparison-cn.jpg
 draft: false
 hideFromHome: true
 

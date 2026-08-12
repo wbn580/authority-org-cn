@@ -24,7 +24,6 @@ keywords:
   - "中文服务"
   - "大陆人金融监管"
 chineseServiceAvailable: true
-ogImage: /images/sg-mas-contact-guide-2026.jpg
 draft: false
 
 ---

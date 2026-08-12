@@ -25,7 +25,6 @@ keywords:
   - "大陆学生法国留学"
   - "法国教育部公告"
 chineseServiceAvailable: true
-ogImage: "/images/us-trade-contact-guide-2026.webp"
 draft: false
 
 ---

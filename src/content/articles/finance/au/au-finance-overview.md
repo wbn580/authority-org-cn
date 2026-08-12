@@ -29,7 +29,6 @@ keywords:
   - "跨境金融"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "/images/es-legal-comparison-2026-og.png"
 draft: false
 
 ---

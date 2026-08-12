@@ -13,6 +13,7 @@ keywords: "[\"德国司法部沿革\", \"联邦司法部历史\", \"德国法律
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-legal-history-2026-1880x1255.jpg"
 ---
 
 

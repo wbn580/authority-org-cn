@@ -21,7 +21,6 @@ keywords:
   - "中文服务德国司法"
   - "大陆人德国司法流程"
 chineseServiceAvailable: 部分州法院提供中文翻译服务，需提前申请。
-ogImage: /images/de-legal-contact-guide-2026.jpg
 draft: false
 
 ---

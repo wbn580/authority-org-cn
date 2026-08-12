@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本移民\", \"在留资格\", \"特定技能\", \"永住许可\", \"高度人才\", \"政策更新\", \"出入国在留管理厅\"]"
 keywords: "[\"日本签证政策\", \"在留资格变更\", \"特定技能签证\", \"永住申请\", \"大陆人日本移民\", \"日本移民局公告\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og/de-finance-faq-2026.jpg"
 draft: false
 
 ---

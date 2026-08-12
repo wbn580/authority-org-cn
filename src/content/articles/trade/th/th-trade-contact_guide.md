@@ -13,6 +13,7 @@ keywords: "[\"泰国海关厅地址\", \"泰国贸易部联系方式\", \"泰国
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/th-trade-contact_guide-2026-1880x1111.jpg"
 ---
 
 

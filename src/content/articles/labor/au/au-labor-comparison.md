@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[澳大利亚, 劳工, 就业, 跨国比较, 公平工作委员会, FWC, 美国劳工部, DOL, 德国BMAS, 新加坡MOM, 劳动监管, 数字化, 透明度, 申诉机制]"
 keywords: "[澳大利亚劳工, 公平工作委员会, 美国劳工部, 德国劳动与社会事务部, 新加坡人力部, 劳动法比较, 劳动监管效率, 数字化劳动服务, 劳动透明度, 劳动申诉, 大陆人劳动权益, 中文服务]"
 chineseServiceAvailable: true
-ogImage: /images/comparison-au-labor-2026.jpg
 draft: false
 hideFromHome: true
 

@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "新西兰法律体系"
 chineseServiceAvailable: true
-ogImage: "/images/us-transport-policy-2026-og.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "费用标准"
   - "误区"
 chineseServiceAvailable: true
-ogImage: /images/nz-transport-faq-og.jpg
 draft: false
 
 ---

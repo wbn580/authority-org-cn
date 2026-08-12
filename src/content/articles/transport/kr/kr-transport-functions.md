@@ -13,6 +13,7 @@ keywords: "[\"韩国国土交通部\", \"韩国民航局\", \"交通职能\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/kr-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

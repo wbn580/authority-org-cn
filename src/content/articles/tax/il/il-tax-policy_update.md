@@ -29,7 +29,6 @@ keywords:
   - "碳税"
   - "中国大陆税务居民"
 chineseServiceAvailable: true
-ogImage: "/images/og-malaysia-health-2026.jpg"
 draft: false
 
 ---

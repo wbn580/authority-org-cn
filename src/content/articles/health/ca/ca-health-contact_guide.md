@@ -21,7 +21,6 @@ keywords:
   - "中文服务加拿大"
   - "大陆人医保指南"
 chineseServiceAvailable: 是（部分省份提供中文电话口译及书面翻译服务）
-ogImage: /images/ca-health-guide-2026.jpg
 draft: false
 
 ---

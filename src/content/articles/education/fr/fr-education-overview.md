@@ -27,7 +27,6 @@ keywords:
   - "法国教育部门联系方式"
   - "法国教育部官网"
 chineseServiceAvailable: 是
-ogImage: /images/og/fr-education-overview.jpg
 draft: false
 
 ---

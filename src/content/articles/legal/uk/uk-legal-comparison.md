@@ -31,7 +31,6 @@ keywords:
   - "司法申诉"
   - "大陆人法律接触"
 chineseServiceAvailable: true
-ogImage: /images/comparison-uk-justice-2026.jpg
 draft: false
 hideFromHome: true
 

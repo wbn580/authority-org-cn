@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"菲律宾移民局\", \"BI\", \"移民法沿革\", \"机构改革\", \"Commonwealth Act No. 613\", \"RA No. 11864\", \"边境管理\"]"
 keywords: "[\"菲律宾移民局历史\", \"移民局改组\", \"菲律宾签证政策\", \"移民法修订\", \"BI职能\"]"
 chineseServiceAvailable: false
-ogImage: /images/ph-immigration-history-og.png
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"阿联酋交通政策\", \"GCAA 2026\", \"FTA 2024\", \"大陆人�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ae-transport-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

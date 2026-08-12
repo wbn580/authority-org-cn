@@ -26,7 +26,6 @@ keywords:
   - "中文服务"
   - "大陆人指南"
 chineseServiceAvailable: true
-ogImage: /images/ae-trade-customs-guide-2026.jpg
 draft: false
 
 ---

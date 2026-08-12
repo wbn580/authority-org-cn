@@ -13,6 +13,7 @@ keywords: "[\"德国海关\", \"海关申报流程\", \"进口关税税率\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-trade-faq-2026-1880x1111.jpg"
 ---
 
 

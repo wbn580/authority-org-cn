@@ -24,7 +24,6 @@ keywords:
   - "中文服务荷兰"
   - "大陆人荷兰金融监管"
 chineseServiceAvailable: 部分机构提供中文电话口译服务，需提前预约
-ogImage: /images/netherlands-financial-regulator-guide-2026.jpg
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "中国公民服务"
   - "制度差异分析"
 chineseServiceAvailable: true
-ogImage: /images/ae-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

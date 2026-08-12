@@ -26,7 +26,6 @@ keywords:
   - "移民投诉渠道"
   - "美国签证处理时间"
 chineseServiceAvailable: true
-ogImage: /images/us-immigration-guide-2026.jpg
 draft: false
 
 ---

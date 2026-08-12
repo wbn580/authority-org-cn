@@ -26,7 +26,6 @@ keywords:
   - "MiFID II 西班牙实施"
   - "大陆居民 西班牙金融合规"
 chineseServiceAvailable: true
-ogImage: "/images/es-transport-history-og.jpg"
 draft: false
 
 ---

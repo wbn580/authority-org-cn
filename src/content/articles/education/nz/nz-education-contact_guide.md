@@ -24,7 +24,6 @@ keywords:
   - "中文服务新西兰"
   - "大陆学历认证新西兰"
 chineseServiceAvailable: true
-ogImage: /images/og/nz-education-guide-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "日本移民局地址"
   - "日本签证费用"
 chineseServiceAvailable: true
-ogImage: /images/jp-immigration-guide-2026.jpg
 draft: false
 
 ---

@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->

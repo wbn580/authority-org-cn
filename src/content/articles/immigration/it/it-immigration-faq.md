@@ -13,6 +13,7 @@ keywords: "[\"意大利签证申请流程\", \"居留许可延期\", \"中文服
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

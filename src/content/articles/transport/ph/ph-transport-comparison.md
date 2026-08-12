@@ -29,7 +29,6 @@ keywords:
   - "透明度"
   - "申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/ph-transport-comparison-2026.png
 draft: false
 hideFromHome: true
 

@@ -25,7 +25,6 @@ keywords:
   - "社会法典"
   - "职能重组"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/it-de-fr-es-immigration-2026.png"
 draft: false
 
 ---

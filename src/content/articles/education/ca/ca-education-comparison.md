@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大教育\", \"教育监管\", \"跨国比较\", \"加拿大就业与社会发展部\", \"澳大利亚教育部\", \"英国教育部\", \"新加坡教育部\"]"
 keywords: "[\"加拿大教育主管部门\", \"教育监管比较\", \"ESDC\", \"教育部职能\", \"教育质量保证\"]"
 chineseServiceAvailable: true
-ogImage: "/images/sg-tax-contact-guide-2026.jpg"
 draft: false
 hideFromHome: true
 

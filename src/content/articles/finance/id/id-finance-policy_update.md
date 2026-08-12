@@ -33,7 +33,6 @@ keywords:
   - "印尼反洗钱新规"
   - "印尼金融展望2026"
 chineseServiceAvailable: true
-ogImage: /images/id-finance-policy-2024-2026-og.jpg
 draft: false
 
 ---

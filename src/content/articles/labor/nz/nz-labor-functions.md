@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nz-labor-functions-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新西兰留学毕业后工签时长是多久 -->

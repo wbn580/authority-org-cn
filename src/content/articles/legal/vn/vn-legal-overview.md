@@ -13,6 +13,7 @@ keywords: "[\"越南司法部\", \"Bộ Tư pháp\", \"越南司法改革\", \"2
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/vn-legal-overview-2026-1880x1255.jpg"
 ---
 
 

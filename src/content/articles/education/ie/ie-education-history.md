@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"教育部\", \"继续与高等教育\", \"机构沿革\", \"教育改革\", \"法律基础\"]"
 keywords: "[\"爱尔兰教育部\", \"Department of Education\", \"Department of Further and Higher Education\", \"爱尔兰教育史\", \"《教育法》1998\", \"《大学法》1997\", \"机构改革\"]"
 chineseServiceAvailable: false
-ogImage: "/images/og/fr-education-overview.jpg"
 draft: false
 
 ---

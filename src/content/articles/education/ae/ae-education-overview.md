@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋教育\", \"教育部\", \"高等教育\", \"课程评估\", \"MOE\", \"CAA\", \"学校监管\"]"
 keywords: "[\"阿联酋教育部\", \"高等教育与科学研究部\", \"课程与评估机构\", \"学校分类\", \"学历认证\", \"大陆人留学\"]"
 chineseServiceAvailable: true
-ogImage: /images/ae-education-overview-og.png
 draft: false
 
 ---

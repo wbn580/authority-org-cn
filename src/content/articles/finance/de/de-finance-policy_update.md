@@ -29,7 +29,6 @@ keywords:
   - "德国支付服务法"
   - "德国加密资产"
 chineseServiceAvailable: true
-ogImage: "/images/og-kr-legal-contact-2026.jpg"
 draft: false
 
 ---

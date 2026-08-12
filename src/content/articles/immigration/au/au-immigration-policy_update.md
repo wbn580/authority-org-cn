@@ -25,7 +25,6 @@ keywords:
   - "大陆申请人影响"
   - "2026年政策更新"
 chineseServiceAvailable: true
-ogImage: /images/au-immigration-2024-2026-policy-update.png
 draft: false
 
 ---

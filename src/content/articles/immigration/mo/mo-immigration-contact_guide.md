@@ -23,7 +23,6 @@ keywords:
   - "澳门中文服务"
   - "澳门大陆人移民"
 chineseServiceAvailable: true
-ogImage: /images/guides/mo-immigration-og.jpg
 draft: false
 
 ---

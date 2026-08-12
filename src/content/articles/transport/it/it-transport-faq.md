@@ -29,7 +29,6 @@ keywords:
   - "2026年法规"
   - "欧洲航空安全局"
 chineseServiceAvailable: true
-ogImage: /images/og/it-transport-faq-2026.jpg
 draft: false
 
 ---

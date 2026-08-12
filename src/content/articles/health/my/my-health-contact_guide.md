@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"卫生部\", \"KKM\", \"医保\", \"办事指南\", \"中文服务\"]"
 keywords: "[\"马来西亚卫生部\", \"KKM联系\", \"马来西亚医保\", \"大陆人医疗\", \"中文服务马来西亚\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-kr-immigration-2026.jpg"
 draft: false
 
 ---

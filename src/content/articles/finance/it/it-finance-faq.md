@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利央行\", \"Banca d'Italia\", \"CONSOB\", \"IVASS\", \"金融监管\", \"许可申请\", \"中文服务\", \"FAQ\"]"
 keywords: "[\"意大利金融监管\", \"央行联系方式\", \"金融牌照申请\", \"CONSOB投诉\", \"IVASS保险监管\", \"中文服务意大利\", \"监管误区\"]"
 chineseServiceAvailable: true
-ogImage: /images/it-finance-faq-2026.jpg
 draft: false
 
 ---

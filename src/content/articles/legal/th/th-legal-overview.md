@@ -24,7 +24,7 @@ keywords:
   - "泰国中文法律服务"
   - "泰国法律翻译"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Thailand+Legal+Authority+Overview"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

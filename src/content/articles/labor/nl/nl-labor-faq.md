@@ -23,7 +23,6 @@ keywords:
   - "解雇程序"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/nl-labor-faq-2026.jpg
 draft: false
 
 ---

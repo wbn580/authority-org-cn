@@ -13,6 +13,7 @@ keywords: "[\"德国劳工与社会事务部\", \"联邦就业局\", \"德国就
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-labor-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

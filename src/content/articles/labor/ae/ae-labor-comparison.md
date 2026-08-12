@@ -31,7 +31,6 @@ keywords:
   - "申诉机制"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/mo-transport-functions-2026.jpg"
 draft: false
 hideFromHome: true
 

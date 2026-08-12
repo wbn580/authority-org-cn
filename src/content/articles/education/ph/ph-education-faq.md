@@ -13,6 +13,7 @@ keywords: "[\"菲律宾教育部联系方式\", \"CHED认证流程\", \"菲律�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

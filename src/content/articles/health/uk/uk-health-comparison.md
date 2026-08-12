@@ -27,7 +27,6 @@ keywords:
   - "大陆人接触度"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/og-uk-health-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

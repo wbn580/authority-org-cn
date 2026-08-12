@@ -37,7 +37,6 @@ keywords:
   - "金融稳定监督委员会"
   - "美国央行职能变迁"
 chineseServiceAvailable: true
-ogImage: /images/us-finance-history-og.jpg
 draft: false
 
 ---

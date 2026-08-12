@@ -25,7 +25,6 @@ keywords:
   - "司法透明度"
   - "大陆人接触度"
 chineseServiceAvailable: true
-ogImage: /images/ie-legal-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

@@ -13,6 +13,7 @@ keywords: "[\"瑞士司法部\", \"FDJP\", \"联邦司法与警察部\", \"瑞�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ch-legal-history-2026-1880x1255.jpg"
 ---
 
 

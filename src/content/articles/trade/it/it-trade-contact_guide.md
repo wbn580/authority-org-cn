@@ -13,6 +13,7 @@ keywords: "[\"意大利海关\", \"意大利对外贸易委员会\", \"ICE\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-trade-contact_guide-2026-1880x1111.jpg"
 ---
 
 

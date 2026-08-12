@@ -24,7 +24,6 @@ keywords:
   - "中文服务可用性"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: /images/og-nz-trade-faq-2026.jpg
 draft: false
 
 ---

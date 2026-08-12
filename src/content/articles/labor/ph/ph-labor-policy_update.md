@@ -26,7 +26,6 @@ keywords:
   - "菲律宾劳动合同"
   - "大陆人菲律宾就业"
 chineseServiceAvailable: true
-ogImage: /images/ph-labor-policy-2026.jpg
 draft: false
 
 ---

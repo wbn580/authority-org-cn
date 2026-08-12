@@ -33,7 +33,6 @@ keywords:
   - "大陆人法律接触度"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/comparison-vn-legal-2026.jpg
 draft: false
 hideFromHome: true
 

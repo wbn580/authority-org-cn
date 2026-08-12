@@ -13,6 +13,7 @@ keywords: "[日本医保主管部门, 厚生劳动省联系方式, 国民健康�
 chineseServiceAvailable: 部分窗口提供中文电话翻译服务，主要城市（东京、大阪、福冈）的国民健康保险课配备中文书面指南。
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

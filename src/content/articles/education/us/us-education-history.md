@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国教育部\",\"机构沿革\",\"教育政策\",\"联邦教育法\",\"历史改革\"]"
 keywords: "[\"美国教育部成立\",\"教育部组织法\",\"每个学生都成功法\",\"教育职能调整\",\"联邦教育机构改革\"]"
 chineseServiceAvailable: false
-ogImage: "/images/th-immigration-functions-2026.jpg"
 draft: false
 
 ---

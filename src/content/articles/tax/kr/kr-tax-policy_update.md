@@ -24,7 +24,6 @@ keywords:
   - "税收抵免"
   - "数字平台增值税"
 chineseServiceAvailable: true
-ogImage: "/images/hk-trade-comparison-og.png"
 draft: false
 
 ---

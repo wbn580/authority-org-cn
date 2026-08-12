@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-legal-functions-2026-1880x1255.jpg"
 ---
 # 以色列司法/法务主管部门核心职能详解（2026-2026年调整）
 

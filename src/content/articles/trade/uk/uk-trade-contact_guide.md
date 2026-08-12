@@ -28,7 +28,6 @@ keywords:
   - "英国进出口指南"
   - "HMRC fees 2026"
 chineseServiceAvailable: true
-ogImage: /images/uk-trade-guide-2026-og.png
 draft: false
 
 ---

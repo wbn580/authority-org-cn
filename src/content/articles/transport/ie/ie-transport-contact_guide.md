@@ -25,7 +25,6 @@ keywords:
   - "投诉申诉交通"
   - "大陆人实操指南"
 chineseServiceAvailable: true
-ogImage: /images/ie-transport-guide-2026.jpg
 draft: false
 
 ---

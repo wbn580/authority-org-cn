@@ -29,7 +29,6 @@ keywords:
   - "中文服务"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: "/images/fr-legal-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

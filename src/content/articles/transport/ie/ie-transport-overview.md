@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰交通部\", \"Department of Transport\", \"爱尔兰民�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

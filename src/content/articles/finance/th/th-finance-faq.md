@@ -13,6 +13,7 @@ keywords: "[\"泰国央行联系方式\", \"泰国外汇管制\", \"非居民泰
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/th-finance-faq-2026-1880x1253.jpg"
 ---
 
 

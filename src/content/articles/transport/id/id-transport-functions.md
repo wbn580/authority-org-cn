@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"Indonesia\", \"civil aviation\", \"DGCA\", \"Ministry of Transportation\", \"aviation regulation\", \"safety oversight\", \"air navigation\"]"
 keywords: "[\"Indonesia civil aviation authority\", \"DGCA Indonesia functions\", \"Indonesian aviation law\", \"air transport regulation Indonesia\", \"Kementerian Perhubungan Udara\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Indonesia+Civil+Aviation+Functions"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

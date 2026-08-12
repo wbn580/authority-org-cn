@@ -36,7 +36,7 @@ keywords:
   - "中国大陆人接触度"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=US+Transport+Authority+Comparison+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 hideFromHome: true
 

@@ -22,7 +22,6 @@ keywords:
   - "药物注册"
   - "粤港澳大湾区医疗协作"
 chineseServiceAvailable: true
-ogImage: /images/og-mo-health-functions-2026.jpg
 draft: false
 
 ---

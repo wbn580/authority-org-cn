@@ -24,7 +24,6 @@ keywords:
   - "法律改革"
   - "职能详解"
 chineseServiceAvailable: 部分中文服务（如法律翻译、领事协助）
-ogImage: /images/my-legal-functions-2026.jpg
 draft: false
 
 ---

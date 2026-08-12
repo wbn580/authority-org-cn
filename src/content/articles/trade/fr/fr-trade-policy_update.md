@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国海关\", \"DGDDI\", \"EU海关改革\", \"CBAM\", \"贸易政策\", \"2026\"]"
 keywords: "[\"法国海关2026\", \"DGDDI公告\", \"EU海关改革2024\", \"CBAM法国执行\", \"大陆人法国贸易\", \"法国进口管控\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-th-legal-2026.jpg"
 draft: false
 
 ---

@@ -35,7 +35,6 @@ keywords:
   - "金融申诉"
   - "跨境金融"
 chineseServiceAvailable: true
-ogImage: "/images/il-labor-functions-2026.jpg"
 draft: false
 hideFromHome: true
 

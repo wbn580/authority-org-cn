@@ -38,7 +38,6 @@ keywords:
   - "申诉流程"
   - "2026比较"
 chineseServiceAvailable: true
-ogImage: /images/comparison-id-immigration-2026.jpg
 draft: false
 hideFromHome: true
 

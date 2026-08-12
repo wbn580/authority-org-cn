@@ -25,7 +25,6 @@ keywords:
   - "大健康产业"
   - "横琴粤澳深度合作区"
 chineseServiceAvailable: true
-ogImage: "/images/uk-legal-faq-2026.png"
 draft: false
 
 ---

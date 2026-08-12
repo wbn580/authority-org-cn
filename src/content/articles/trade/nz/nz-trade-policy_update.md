@@ -22,7 +22,6 @@ keywords:
   - "碳边境调整"
   - "中新FTA升级"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-kr-legal-2026.jpg"
 draft: false
 
 ---

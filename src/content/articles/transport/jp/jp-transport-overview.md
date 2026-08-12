@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "大陆人实操"
 chineseServiceAvailable: true
-ogImage: "/images/th-transport-faq-2026-og.png"
 draft: false
 
 ---

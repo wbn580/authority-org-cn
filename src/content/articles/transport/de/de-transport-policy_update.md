@@ -21,7 +21,6 @@ keywords:
   - "大陆人德国驾照"
   - "申根航空"
 chineseServiceAvailable: 部分服务支持中文界面或中文翻译，具体见各章节标注
-ogImage: /images/de-transport-2026.jpg
 draft: false
 
 ---

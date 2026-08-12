@@ -28,7 +28,6 @@ keywords:
   - "大陆人接触度"
   - "司法制度差异原因"
 chineseServiceAvailable: 是
-ogImage: /images/comparison-th-legal-2026.jpg
 draft: false
 hideFromHome: true
 

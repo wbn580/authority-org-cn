@@ -36,7 +36,6 @@ keywords:
   - "申诉机制"
   - "2026年金融数据"
 chineseServiceAvailable: true
-ogImage: /images/comparison/il-fed-ecb-mas-2026.webp
 draft: false
 hideFromHome: true
 

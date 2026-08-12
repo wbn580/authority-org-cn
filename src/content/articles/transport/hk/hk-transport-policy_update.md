@@ -22,7 +22,6 @@ keywords:
   - "2024-2026"
   - "大陆人士影响"
 chineseServiceAvailable: true
-ogImage: /images/hk-transport-policy-2026.jpg
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国海关政策\", \"关税调整\", \"RCEP\", \"跨境电商\", \"出口管制\", \"海关稽查\", \"贸易合规\"]"
 keywords: "[\"海关总署公告2024-2026\", \"国务院关税税则委员会\", \"RCEP原产地规则\", \"跨境电商零售进口\", \"出口管制法\", \"海关稽查条例\", \"大陆企业合规\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og-it-labor-2026.jpg"
 draft: false
 
 ---

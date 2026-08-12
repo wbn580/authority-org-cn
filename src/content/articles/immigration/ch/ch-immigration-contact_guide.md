@@ -25,7 +25,6 @@ keywords:
   - "瑞士申诉程序"
   - "瑞士签证处理时效"
 chineseServiceAvailable: true
-ogImage: /images/ch-immigration-contact-guide-2026.jpg
 draft: false
 
 ---

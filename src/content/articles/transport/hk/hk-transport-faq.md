@@ -23,7 +23,6 @@ keywords:
   - "中文服务选项"
   - "申请流程时效"
 chineseServiceAvailable: true
-ogImage: /images/hk-transport-faq-2026.jpg
 draft: false
 
 ---

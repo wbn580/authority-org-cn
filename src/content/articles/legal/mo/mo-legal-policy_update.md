@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳门司法改革\", \"网络安全法\", \"跨境司法协作\", \"仲裁调解\", \"大陆人影响\", \"政策更新\"]"
 keywords: "[\"澳门法务局\", \"司法警察局\", \"第XX/2026号法律\", \"区际司法协助\", \"网络安全\", \"仲裁法修订\"]"
 chineseServiceAvailable: true
-ogImage: "/images/au-health-guide-og.png"
 draft: false
 
 ---

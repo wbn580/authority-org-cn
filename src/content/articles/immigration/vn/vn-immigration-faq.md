@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/vn-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲it移民acs职业评估与就业前景 -->

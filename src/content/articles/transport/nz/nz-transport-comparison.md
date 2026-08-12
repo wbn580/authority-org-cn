@@ -37,7 +37,6 @@ keywords:
   - "跨境业务"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/comparison-nz-caa-multi-country-2026.jpg
 draft: false
 hideFromHome: true
 

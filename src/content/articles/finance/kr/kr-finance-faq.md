@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国央行\", \"金融监督院\", \"外汇管制\", \"中文服务\", \"FAQ\"]"
 keywords: "[\"韩国金融监管\", \"BOK\", \"FSS\", \"外汇申报\", \"中文服务可用性\"]"
 chineseServiceAvailable: true
-ogImage: "/images/indonesia-labor-guide-2026.jpg"
 draft: false
 
 ---

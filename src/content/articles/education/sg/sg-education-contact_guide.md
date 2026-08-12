@@ -22,7 +22,6 @@ keywords:
   - "学生签证申诉"
   - "中文服务新加坡"
 chineseServiceAvailable: true
-ogImage: /images/og-sg-education-guide-2026.jpg
 draft: false
 
 ---

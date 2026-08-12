@@ -25,7 +25,6 @@ keywords:
   - "政策动态"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/og-es-immigration-overview-2026.jpg
 draft: false
 
 ---

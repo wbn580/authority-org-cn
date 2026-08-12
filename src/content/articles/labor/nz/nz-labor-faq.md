@@ -24,7 +24,6 @@ keywords:
   - "公共假期工资"
   - "解雇补偿"
 chineseServiceAvailable: true
-ogImage: /images/faq-nz-labor-2026.jpg
 draft: false
 
 ---

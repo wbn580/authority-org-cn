@@ -31,7 +31,6 @@ keywords:
   - "申诉机制"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: /images/comparison-ch-transport-2026.jpg
 draft: false
 hideFromHome: true
 

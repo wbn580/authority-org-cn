@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: 部分联邦州税务局（如柏林、巴伐利亚、北威州）提供中文税务表格填写指导服务，但非普遍性。联邦中央税务局（BZSt）不设中文专线。建议通过税务师（Steuerberater）或州税务局多语种热线（部分支持英语）获取协助。
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-tax-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

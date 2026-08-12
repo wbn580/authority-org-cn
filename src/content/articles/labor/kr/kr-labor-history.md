@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国劳动部\", \"雇佣劳动部\", \"机构沿革\", \"劳动基准法\", \"劳动委员会\", \"就业保险\", \"最低工资\", \"劳动改革\", \"韩国劳工政策\"]"
 keywords: "[\"韩国劳动部沿革\", \"雇佣劳动部历史\", \"韩国劳动基准法\", \"韩国就业保险制度\", \"韩国最低工资委员会\", \"韩国劳动委员会\", \"尹锡悦政府劳动改革\", \"韩国劳动法演变\"]"
 chineseServiceAvailable: true
-ogImage: /images/kr-labor-ministry-history-og.png
 draft: false
 
 ---

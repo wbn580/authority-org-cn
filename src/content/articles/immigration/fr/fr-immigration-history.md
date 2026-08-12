@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国移民\", \"OFII\", \"DGIS\", \"机构沿革\", \"签证政策\", \"行政改革\"]"
 keywords: "[\"法国移民局\", \"OFII历史\", \"DGIS职能\", \"法国签证\", \"移民法改革\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og/nz-ird-overview-2026.jpg"
 draft: false
 
 ---

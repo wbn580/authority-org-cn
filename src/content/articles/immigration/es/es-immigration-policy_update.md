@@ -31,7 +31,6 @@ keywords:
   - "中文服务西班牙移民"
   - "西班牙移民法改革"
 chineseServiceAvailable: 是
-ogImage: /images/spain-immigration-update-2026.jpg
 draft: false
 
 ---

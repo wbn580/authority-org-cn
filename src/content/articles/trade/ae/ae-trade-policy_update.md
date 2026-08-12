@@ -25,7 +25,6 @@ keywords:
   - "阿联酋数字化通关"
   - "大陆企业阿联酋"
 chineseServiceAvailable: true
-ogImage: "/images/tw-finance-guide-2026.png"
 draft: false
 
 ---

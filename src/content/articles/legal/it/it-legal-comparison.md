@@ -28,7 +28,6 @@ keywords:
   - "申诉机制"
   - "2026年数据"
 chineseServiceAvailable: 部分
-ogImage: /images/italy-legal-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

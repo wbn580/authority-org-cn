@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋央行\", \"CBUAE\", \"SCA\", \"支付代币\", \"反洗钱\", \"金融监管\", \"政策更新\", \"中国大陆人士\"]"
 keywords: "[\"阿联酋金融监管\", \"CBUAE 2025\", \"支付代币监管\", \"AML 阿联酋\", \"阿联酋消费者保护\", \"数字资产 SCA\", \"大陆人 阿联酋 银行\"]"
 chineseServiceAvailable: true
-ogImage: "/images/netherlands-financial-regulator-guide-2026.jpg"
 draft: false
 
 ---

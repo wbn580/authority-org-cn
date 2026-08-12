@@ -31,7 +31,6 @@ keywords:
   - "税务制度差异 原因"
   - "欧洲税务机构 透明度"
 chineseServiceAvailable: true
-ogImage: /images/comparison-eu-tax-authorities-2026.png
 draft: false
 hideFromHome: true
 

@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "2026年数据"
 chineseServiceAvailable: 部分（德国BAMF提供中文版网站摘要；加拿大IRCC提供中文申请指南；澳大利亚内政部无中文服务；日本出入国在留管理厅无中文服务）
-ogImage: /images/de-immigration-comparison-2026.png
 draft: false
 hideFromHome: true
 

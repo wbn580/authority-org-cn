@@ -31,7 +31,6 @@ keywords:
   - "外国劳动者雇佣"
   - "韩国劳动监督"
 chineseServiceAvailable: true
-ogImage: "/images/us-immigration-guide-2026.jpg"
 draft: false
 
 ---

@@ -30,7 +30,6 @@ keywords:
   - "透明度"
   - "大陆人接触度"
 chineseServiceAvailable: true
-ogImage: /images/comparison-ch-immigration-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

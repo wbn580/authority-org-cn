@@ -30,7 +30,6 @@ keywords:
   - "费用标准"
   - "处理时效"
 chineseServiceAvailable: true
-ogImage: /images/cn-tax-guide-2026.jpg
 draft: false
 
 ---

@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/au-tax-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340 -->

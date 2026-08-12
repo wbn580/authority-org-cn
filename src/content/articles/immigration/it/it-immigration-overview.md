@@ -24,7 +24,6 @@ keywords:
   - "中国大陆申请人"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/og-uk-transport-overview.jpg"
 draft: false
 
 ---

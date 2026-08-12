@@ -25,7 +25,6 @@ keywords:
   - "制度差异原因"
   - "大陆人接触度"
 chineseServiceAvailable: true
-ogImage: /images/es-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

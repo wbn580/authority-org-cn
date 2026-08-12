@@ -25,7 +25,6 @@ keywords:
   - "印尼中文服务"
   - "印尼劳工表格清单"
 chineseServiceAvailable: 部分（雅加达总部及主要城市分局提供中文咨询或翻译协助，非官方标配）
-ogImage: /images/indonesia-labor-guide-2026.jpg
 draft: false
 
 ---

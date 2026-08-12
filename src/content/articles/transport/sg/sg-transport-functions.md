@@ -13,6 +13,7 @@ keywords: "[\"新加坡交通主管部门职能\", \"MOT职责\", \"LTA职能\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/sg-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

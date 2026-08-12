@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋\", \"卫生部门\", \"医保改革\", \"卫生部\", \"阿布扎比卫生部\", \"迪拜卫生局\", \"机构沿革\", \"卫生政策\", \"医疗监管\"]"
 keywords: "[\"阿联酋卫生部\", \"阿联酋卫生与预防部\", \"阿布扎比卫生部\", \"迪拜卫生局\", \"医保监管\", \"联邦卫生法\", \"阿联酋医疗改革\", \"强制医保\"]"
 chineseServiceAvailable: true
-ogImage: "/images/us-financial-regulatory-framework-2026.jpg"
 draft: false
 
 ---

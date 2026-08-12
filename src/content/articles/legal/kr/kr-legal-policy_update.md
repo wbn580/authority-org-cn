@@ -25,7 +25,6 @@ keywords:
   - "刑事裁判数字化"
   - "外国公民合规"
 chineseServiceAvailable: true
-ogImage: /images/kr-legal-policy-update-2024-26-og.jpg
 draft: false
 
 ---

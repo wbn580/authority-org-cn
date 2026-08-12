@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"菲律宾教育\", \"教育部沿革\", \"高等教育委员会\", \"教育法\", \"公共教育\", \"K-12改革\", \"菲律宾教育史\"]"
 keywords: "[\"菲律宾教育部\", \"DepEd\", \"CHED\", \"教育法\", \"菲律宾教育历史\", \"教育机构改组\", \"K-12计划\", \"1987年宪法\", \"共和国第9155号法\", \"菲律宾教育治理\"]"
 chineseServiceAvailable: false
-ogImage: "/images/tw-tax-authority-overview-2026.jpg"
 draft: false
 
 ---

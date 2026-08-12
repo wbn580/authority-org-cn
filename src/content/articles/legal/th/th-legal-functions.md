@@ -24,7 +24,6 @@ keywords:
   - "法务委员会"
   - "泰国法律执行机制"
 chineseServiceAvailable: 部分法院及司法部下属机构提供中文翻译服务，需提前申请。
-ogImage: /images/th-legal-functions-2026.jpg
 draft: false
 
 ---

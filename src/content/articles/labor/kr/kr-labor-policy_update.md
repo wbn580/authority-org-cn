@@ -24,7 +24,6 @@ keywords:
   - "大陆人韩国就业"
   - "韩国劳动法更新"
 chineseServiceAvailable: 部分可用
-ogImage: /images/kr-labor-policy-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "大陆人开户指南"
   - "2026年法规"
 chineseServiceAvailable: true
-ogImage: "/images/vn-trade-customs-overview-2026.jpg"
 draft: false
 
 ---

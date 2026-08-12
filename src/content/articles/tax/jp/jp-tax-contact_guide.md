@@ -27,7 +27,6 @@ keywords:
   - "申诉渠道"
   - "中国大陆居民"
 chineseServiceAvailable: true
-ogImage: /images/jp-tax-guide-2026-og.png
 draft: false
 
 ---

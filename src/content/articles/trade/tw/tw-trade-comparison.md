@@ -37,7 +37,7 @@ keywords:
   - "数字化海关"
   - "2026"
 chineseServiceAvailable: 部分
-ogImage: "https://picsum.photos/seed/trade-compare-tw-2026/1200/630"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 hideFromHome: true
 

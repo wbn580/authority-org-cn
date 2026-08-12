@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰中央银行\", \"金融监管机构沿革\", \"爱尔兰
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-finance-history-2026-1880x1253.jpg"
 ---
 
 

@@ -22,7 +22,6 @@ keywords:
   - "香港法律援助申请"
   - "香港费用标准"
 chineseServiceAvailable: true
-ogImage: /images/hk-legal-guide-2026.webp
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"荷兰司法部\", \"机构沿革\", \"法律改革\", \"司法行政\", \"荷兰法律史\", \"Ministerie van Justitie en Veiligheid\"]"
 keywords: "[\"荷兰司法部历史\", \"荷兰法务部改组\", \"荷兰司法改革\", \"荷兰法律体系演变\", \"荷兰司法部名称变更\"]"
 chineseServiceAvailable: true
-ogImage: "/images/au-health-policy-2024-2026-og.jpg"
 draft: false
 
 ---

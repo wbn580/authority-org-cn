@@ -29,7 +29,6 @@ keywords:
   - "透明度指数"
   - "申诉流程"
 chineseServiceAvailable: 部分
-ogImage: /images/th-education-comparison-2026.png
 draft: false
 hideFromHome: true
 

@@ -31,7 +31,6 @@ keywords:
   - "申诉处理时间"
   - "制度差异原因"
 chineseServiceAvailable: 是（FCAC提供中文资料；BoC无中文服务；FCA、APRA、MAS均提供中文或简体中文界面/文件）
-ogImage: /images/ca-finance-comparison-og.png
 draft: false
 hideFromHome: true
 

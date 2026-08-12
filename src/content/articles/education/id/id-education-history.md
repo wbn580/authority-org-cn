@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印尼教育\", \"Kemendikbudristek\", \"教育机构沿革\", \"教育法\", \"印尼政府机构\"]"
 keywords: "[\"印尼教育部\", \"Kemendikbud\", \"印尼教育史\", \"教育改革\", \"印尼教育法\"]"
 chineseServiceAvailable: false
-ogImage: "/images/th-transport-faq-2026-og.png"
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚移民局历史\", \"移民部改组\", \"移民法变
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/au-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

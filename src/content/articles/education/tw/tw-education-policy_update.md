@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-education-policy_update-2026-1880x869.jpg"
 ---
 
 

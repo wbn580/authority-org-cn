@@ -29,7 +29,6 @@ keywords:
   - "2026年政策"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-nl-health-multi-country-2026.jpg"
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "新西兰学历认证局"
   - "新加坡私立教育理事会"
 chineseServiceAvailable: true
-ogImage: /images/au-education-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

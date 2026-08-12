@@ -25,7 +25,6 @@ keywords:
   - "爱尔兰医疗体系"
   - "健康法2025"
 chineseServiceAvailable: true
-ogImage: "/images/og-netherlands-education-2026.jpg"
 draft: false
 
 ---

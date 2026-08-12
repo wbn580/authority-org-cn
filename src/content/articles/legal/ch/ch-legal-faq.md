@@ -29,7 +29,6 @@ keywords:
   - "律师费用瑞士"
   - "公证服务"
 chineseServiceAvailable: true
-ogImage: /images/og-swiss-legal-faq-2026.jpg
 draft: false
 
 ---

@@ -22,7 +22,6 @@ keywords:
   - "中文服务"
   - "移民误区"
 chineseServiceAvailable: true
-ogImage: /images/us-immigration-faq-2026.webp
 draft: false
 
 ---

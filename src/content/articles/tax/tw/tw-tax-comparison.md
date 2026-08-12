@@ -24,7 +24,6 @@ keywords:
   - "税务申诉机制"
   - "中国大陆纳税人接触度"
 chineseServiceAvailable: true
-ogImage: /images/tw-tax-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

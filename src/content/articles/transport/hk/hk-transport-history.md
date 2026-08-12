@@ -38,7 +38,6 @@ keywords:
   - "香港三跑道系统监管"
   - "香港航空安全监管"
 chineseServiceAvailable: true
-ogImage: /images/hk-transport-history-og.jpg
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"瑞士劳工主管部门\", \"SECO\", \"国家经济事务秘书�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ch-labor-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

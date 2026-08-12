@@ -31,7 +31,6 @@ keywords:
   - "英语授课"
   - "NVAO认证"
 chineseServiceAvailable: true
-ogImage: "/images/og-nl-transport-comparison-2026.jpg"
 draft: false
 
 ---

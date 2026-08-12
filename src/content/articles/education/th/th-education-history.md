@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国教育部\", \"机构沿革\", \"教育改革\", \"教育法\", \"MOE Thailand\", \"历史\"]"
 keywords: "[\"泰国教育部\", \"教育机构沿革\", \"泰国教育法\", \"教育管理改革\", \"泰国教育史\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og-kr-legal-contact-2026.jpg"
 draft: false
 
 ---

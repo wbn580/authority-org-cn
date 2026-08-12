@@ -29,7 +29,6 @@ keywords:
   - "工作场所歧视"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/au-labor-faq-og.png
 draft: false
 
 ---

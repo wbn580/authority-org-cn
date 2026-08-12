@@ -29,7 +29,6 @@ keywords:
   - "中文服务"
   - "实操影响"
 chineseServiceAvailable: true
-ogImage: /images/uk-education-overview-og.png
 draft: false
 
 ---

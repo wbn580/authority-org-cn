@@ -21,7 +21,6 @@ keywords:
   - "行政协调"
   - "2024-2026改革"
 chineseServiceAvailable: true
-ogImage: /images/es-immigration-functions-2026.png
 draft: false
 
 ---

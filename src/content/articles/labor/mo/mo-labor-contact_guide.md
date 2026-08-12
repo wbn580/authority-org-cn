@@ -24,7 +24,6 @@ keywords:
   - "澳门投诉电话"
   - "大陆人澳门工作"
 chineseServiceAvailable: true
-ogImage: /images/mo-labor-contact-guide-2026.jpg
 draft: false
 
 ---

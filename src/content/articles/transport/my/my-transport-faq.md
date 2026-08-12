@@ -29,7 +29,6 @@ keywords:
   - "中文服务"
   - "马来西亚"
 chineseServiceAvailable: true
-ogImage: "/images/tax-comparison-th.jpg"
 draft: false
 
 ---

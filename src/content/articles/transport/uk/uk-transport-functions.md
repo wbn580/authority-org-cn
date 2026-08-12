@@ -26,7 +26,6 @@ keywords:
   - "2026改革"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/uk-transport-authority-functions-2026.jpg
 draft: false
 
 ---

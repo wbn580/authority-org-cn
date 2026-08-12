@@ -13,6 +13,7 @@ keywords: "[\"法国移民主管部门\", \"法国移民与融合局\", \"OFII\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/fr-immigration-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

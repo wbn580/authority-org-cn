@@ -31,7 +31,7 @@ keywords:
   - "跨国比较"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630/2c3e50/ffffff?text=Education+Authority+Comparison+MY+SG+AU+UK"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 hideFromHome: true
 

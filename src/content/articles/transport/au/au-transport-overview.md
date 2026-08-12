@@ -25,7 +25,6 @@ keywords:
   - "跨境飞行"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/og/ca-tax-update-2024-2026.jpg"
 draft: false
 
 ---

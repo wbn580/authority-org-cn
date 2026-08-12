@@ -28,7 +28,6 @@ keywords:
   - "大陆人接触度"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/comparison/ie-labor-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

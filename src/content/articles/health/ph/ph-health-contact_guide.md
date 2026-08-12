@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

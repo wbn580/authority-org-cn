@@ -29,7 +29,6 @@ keywords:
   - "贸易便利化"
   - "泰国法律"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-cn-labor-authorities-2026.jpg"
 draft: false
 
 ---

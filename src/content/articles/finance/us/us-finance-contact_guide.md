@@ -24,7 +24,6 @@ keywords:
   - "金融监管中文服务"
   - "大陆人美国金融合规"
 chineseServiceAvailable: true
-ogImage: /images/us-finance-contact-guide-2026.webp
 draft: false
 
 ---

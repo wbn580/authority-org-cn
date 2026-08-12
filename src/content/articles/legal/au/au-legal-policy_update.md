@@ -25,7 +25,6 @@ keywords:
   - "法律改革"
   - "政策更新"
 chineseServiceAvailable: true
-ogImage: /images/au-legal-policy-2024-26.jpg
 draft: false
 
 ---

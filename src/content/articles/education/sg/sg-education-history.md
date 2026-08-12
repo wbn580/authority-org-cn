@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"新加坡教育部\", \"MOE\", \"机构沿革\", \"教育改革\", \"技能创前程\", \"教育法\"]"
 keywords: "[\"新加坡教育部历史\", \"MOE改组\", \"教育法修订\", \"分流制度\", \"SkillsFuture\", \"双语政策\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630/png?text=MOE+History+SG"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

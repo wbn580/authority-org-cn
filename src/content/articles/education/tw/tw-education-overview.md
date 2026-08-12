@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-education-overview-2026-1880x869.jpg"
 ---
 # 中国台湾教育主管部门概况：机构沿革、职能架构与2026-2026年动态
 

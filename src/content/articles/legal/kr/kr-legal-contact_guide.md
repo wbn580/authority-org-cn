@@ -25,7 +25,6 @@ keywords:
   - "再入境许可"
   - "中文服务电话"
 chineseServiceAvailable: true
-ogImage: /images/og-kr-legal-contact-2026.jpg
 draft: false
 
 ---

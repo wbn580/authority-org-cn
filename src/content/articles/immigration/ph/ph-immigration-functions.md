@@ -29,7 +29,6 @@ keywords:
   - "2024-26年调整"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-au-tax-authorities-2026.jpg"
 draft: false
 
 ---

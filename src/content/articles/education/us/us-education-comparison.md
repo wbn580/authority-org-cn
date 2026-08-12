@@ -25,7 +25,6 @@ keywords:
   - "高等教育认证"
   - "国际学生政策"
 chineseServiceAvailable: true
-ogImage: /images/comparison/us-education-authority-comparison-og.png
 draft: false
 hideFromHome: true
 

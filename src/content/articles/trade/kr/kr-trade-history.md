@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国贸易\", \"海关\", \"机构沿革\", \"产业通商资源部\", \"关税厅\", \"贸易政策\", \"FTA\"]"
 keywords: "[\"韩国贸易主管部门\", \"韩国海关历史\", \"产业通商资源部沿革\", \"关税厅成立\", \"韩国FTA政策\", \"贸易法修订\", \"韩国经济企划院\"]"
 chineseServiceAvailable: true
-ogImage: "/images/au-legal-overview-og.png"
 draft: false
 
 ---

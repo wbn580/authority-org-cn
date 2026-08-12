@@ -15,8 +15,10 @@ const allCountries = [
   { code: 'it', zh: '意大利' }, { code: 'ae', zh: '阿联酋' }, { code: 'il', zh: '以色列' },
   { code: 'cn', zh: '中国大陆' }, { code: 'tw', zh: '中国台湾' }, { code: 'mo', zh: '中国澳门' },
 ];
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+
 ---
-<BaseLayout title={`${domainZh} — 全球主管部门信息汇编`} description={description}>
+<BaseLayout ogImage={_ogImageProp} title={`${domainZh} — 全球主管部门信息汇编`} description={description}>
   <div class="max-w-6xl mx-auto px-4 py-10">
     <h1 class="text-2xl font-serif font-bold text-primary-900 mb-2">{domainZh}</h1>
     <p class="text-ink-500 mb-8">{description}</p>

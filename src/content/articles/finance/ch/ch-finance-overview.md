@@ -33,7 +33,6 @@ keywords:
   - "瑞士反洗钱"
   - "瑞士金融科技"
 chineseServiceAvailable: true
-ogImage: /images/og-switzerland-finance-overview.jpg
 draft: false
 
 ---

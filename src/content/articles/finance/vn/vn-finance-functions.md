@@ -29,7 +29,6 @@ keywords:
   - "2024年修订"
   - "外汇管理条例"
 chineseServiceAvailable: true
-ogImage: /images/vn-sbv-functions-2026.jpg
 draft: false
 
 ---

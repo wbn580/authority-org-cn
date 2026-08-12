@@ -33,6 +33,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-trade-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

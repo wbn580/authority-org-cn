@@ -22,7 +22,6 @@ keywords:
   - "台湾税务中文服务"
   - "台湾税务误区"
 chineseServiceAvailable: true
-ogImage: /images/tw-tax-faq-2026.jpg
 draft: false
 
 ---

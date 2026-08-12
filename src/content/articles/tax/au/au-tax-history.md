@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚税务局\", \"ATO\", \"机构沿革\", \"税务改革\", \"法律基础\", \"数字化转型\"]"
 keywords: "[\"澳大利亚税务局历史\", \"ATO改组\", \"税务法律基础\", \"GST改革\", \"Single Touch Payroll\", \"税务数字化\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "/images/au-health-comparison-2026.png"
 draft: false
 
 ---

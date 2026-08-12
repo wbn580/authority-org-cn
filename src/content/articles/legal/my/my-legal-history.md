@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"马来西亚司法\", \"机构沿革\", \"法律改革\", \"联邦法院\", \"总检察署\", \"司法独立\", \"法律事务部\"]"
 keywords: "[\"马来西亚司法历史\", \"联邦法院成立\", \"总检察署职能\", \"法律改革事件\", \"马来西亚宪法\", \"司法委员会\", \"伊斯兰司法\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Malaysia+Legal+Authority+History"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

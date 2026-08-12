@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[德国税务, 机构沿革, 税务改革, Finanzamt, 财税史]"
 keywords: "[德国税务局, Finanzamt, 税务机构历史, 财政改革, 数字化税务]"
 chineseServiceAvailable: false
-ogImage: /images/og/de-tax-history.jpg
 draft: false
 
 ---

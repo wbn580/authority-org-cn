@@ -23,7 +23,6 @@ keywords:
   - "大陆人德国就业"
   - "专业人才移民"
 chineseServiceAvailable: true
-ogImage: /images/de-labor-policy-2026-og.jpg
 draft: false
 
 ---

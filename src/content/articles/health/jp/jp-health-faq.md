@@ -21,7 +21,6 @@ keywords:
   - "中文医疗服务"
   - "医药审批流程"
 chineseServiceAvailable: true
-ogImage: /images/jp-health-faq-2026.jpg
 draft: false
 
 ---

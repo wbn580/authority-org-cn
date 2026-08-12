@@ -26,7 +26,6 @@ keywords:
   - "透明度"
   - "大陆人接触度"
 chineseServiceAvailable: 韩国雇佣劳动部下属外国人雇佣支援中心提供中文电话咨询（+82-1644-0644），部分地方雇佣中心提供中文书面材料及在线翻译服务；德国联邦劳动局提供英文/德文服务，无中文专项；日本厚生劳动省无中文专线，但部分公共职业安定所（Hello Work）配备中文翻译机；美国劳工部提供多语言热线（含中文），但覆盖面有限；新加坡人力部官网提供简体中文版及中文电话热线。
-ogImage: /images/comparison-kr-labor-2026.jpg
 draft: false
 hideFromHome: true
 

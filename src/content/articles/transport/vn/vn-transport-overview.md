@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"越南\", \"交通运输\", \"民航\", \"CAAV\", \"MOT\", \"监管机构\"]"
 keywords: "[\"越南交通运输部\", \"越南民用航空局\", \"越南航空法\", \"航空安全监管\", \"中文服务\", \"大陆人士\"]"
 chineseServiceAvailable: true
-ogImage: "/images/faq-swiss-tax-2026.jpg"
 draft: false
 
 ---

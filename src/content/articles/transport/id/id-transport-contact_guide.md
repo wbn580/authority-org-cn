@@ -24,7 +24,6 @@ keywords:
   - "印尼办事流程"
   - "印尼交通法规"
 chineseServiceAvailable: true
-ogImage: /images/id-transport-guide-2026.jpg
 draft: false
 
 ---

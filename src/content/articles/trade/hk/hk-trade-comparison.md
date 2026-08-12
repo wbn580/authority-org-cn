@@ -28,7 +28,6 @@ keywords:
   - "海关申诉机制"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/hk-trade-comparison-og.png
 draft: false
 hideFromHome: true
 

@@ -28,7 +28,6 @@ keywords:
   - "瑞士跨境税务合规"
   - "中国大陆人士瑞士税务"
 chineseServiceAvailable: true
-ogImage: /images/og/ch-tax-policy-2024-26.jpg
 draft: false
 
 ---

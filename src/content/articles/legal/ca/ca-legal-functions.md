@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大司法部\", \"法务职能\", \"立法服务\", \"刑事起诉\", \"法律政策\", \"部门协调\", \"2026调整\"]"
 keywords: "[\"加拿大司法部职能\", \"Department of Justice Canada\", \"加拿大法律体系\", \"法务主管部门\", \"加拿大立法执行\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: /images/ca-legal-functions-2026.jpg
 draft: false
 
 ---

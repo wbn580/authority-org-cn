@@ -25,7 +25,7 @@ keywords:
   - "泰国工资委员会"
   - "泰国劳动关系法"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Thailand+Labor+History"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

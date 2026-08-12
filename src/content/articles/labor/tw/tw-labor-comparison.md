@@ -29,7 +29,6 @@ keywords:
   - "申诉机制"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/tw-labor-comparison-2026.png
 draft: false
 hideFromHome: true
 

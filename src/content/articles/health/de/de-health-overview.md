@@ -29,7 +29,6 @@ keywords:
   - "中文服务"
   - "中国公民医保"
 chineseServiceAvailable: true
-ogImage: "/images/sg-legal-policy-2024-2026.jpg"
 draft: false
 
 ---

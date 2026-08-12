@@ -24,7 +24,6 @@ keywords:
   - "处理时效"
   - "大陆人税务指南"
 chineseServiceAvailable: true
-ogImage: /images/og/it-tax-guide-2026.jpg
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "投诉申诉"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/tw-immigration-guide-2026.jpg
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "电子处方2026"
   - "大陆人德国医保"
 chineseServiceAvailable: true
-ogImage: /images/de-health-2026-update.jpg
 draft: false
 
 ---

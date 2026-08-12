@@ -27,7 +27,6 @@ keywords:
   - "越南仲裁中心"
   - "法律咨询中文"
 chineseServiceAvailable: true
-ogImage: /images/vn-legal-faq-2026.png
 draft: false
 
 ---

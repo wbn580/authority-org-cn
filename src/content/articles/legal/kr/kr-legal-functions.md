@@ -13,6 +13,7 @@ keywords: "[\"韩国法务部职能\", \"检察指挥权\", \"韩国出入境政
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/kr-legal-functions-2026-1880x1255.jpg"
 ---
 
 

@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-legal-policy_update-2026-1880x1255.jpg"
 ---
 
 

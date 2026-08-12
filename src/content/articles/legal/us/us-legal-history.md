@@ -13,6 +13,7 @@ keywords: "[\"美国司法部历史\", \"1789年司法部法案\", \"司法部�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/us-legal-history-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

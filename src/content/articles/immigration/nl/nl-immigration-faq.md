@@ -29,7 +29,6 @@ keywords:
   - "常见误区"
   - "联系方式"
 chineseServiceAvailable: true
-ogImage: /images/netherlands-ind-faq-2026.jpg
 draft: false
 
 ---

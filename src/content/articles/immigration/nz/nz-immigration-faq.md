@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nz-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新西兰留学签证资金担保要存多少 -->

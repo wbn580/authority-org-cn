@@ -25,7 +25,6 @@ keywords:
   - "大陆人接触度"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: /images/ph-health-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

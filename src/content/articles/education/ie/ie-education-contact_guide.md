@@ -13,6 +13,7 @@ keywords: "[爱尔兰教育部地址, DES电话, 预约方式, 费用标准, 中
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-education-contact_guide-2026-1880x869.jpg"
 ---
 
 

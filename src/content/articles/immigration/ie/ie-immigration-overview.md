@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "大陆申请人"
 chineseServiceAvailable: 有限
-ogImage: /images/ie-immigration-overview-2026.jpg
 draft: false
 
 ---

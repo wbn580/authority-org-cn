@@ -27,7 +27,6 @@ keywords:
   - "中文税务服务"
   - "税务误区"
 chineseServiceAvailable: true
-ogImage: /images/vn-tax-faq-2026.png
 draft: false
 
 ---

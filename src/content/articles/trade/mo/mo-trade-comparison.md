@@ -23,7 +23,6 @@ keywords:
   - "数字化海关"
   - "跨境贸易便利化"
 chineseServiceAvailable: true
-ogImage: /images/comparison-mo-trade-authorities-2026.png
 draft: false
 hideFromHome: true
 

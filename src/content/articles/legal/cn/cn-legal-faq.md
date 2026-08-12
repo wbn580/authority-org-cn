@@ -27,7 +27,6 @@ keywords:
   - "人民调解"
   - "行政复议"
 chineseServiceAvailable: true
-ogImage: /images/cn-legal-faq-2026.jpg
 draft: false
 
 ---

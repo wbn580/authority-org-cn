@@ -24,7 +24,6 @@ keywords:
   - "大陆人阿联酋就业"
   - "中文服务可用性"
 chineseServiceAvailable: 是（部分窗口及电话支持中文，但以阿拉伯语/英语为主）
-ogImage: "/images/og/es-immigration-guide-2026.jpg"
 draft: false
 
 ---

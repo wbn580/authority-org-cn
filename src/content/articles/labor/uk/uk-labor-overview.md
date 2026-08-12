@@ -24,7 +24,6 @@ keywords:
   - "工作签证"
   - "2026年"
 chineseServiceAvailable: true
-ogImage: /images/uk-labor-overview-2026.jpg
 draft: false
 
 ---

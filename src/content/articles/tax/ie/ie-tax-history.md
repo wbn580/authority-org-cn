@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"爱尔兰税务\", \"Revenue Commissioners\", \"机构沿革\", \"税制改革\", \"数字税务\"]"
 keywords: "[\"爱尔兰税务局\", \"Revenue Commissioners 历史\", \"爱尔兰税制改革\", \"数字税务治理\", \"税务机构改组\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=IE+Tax+Authority+History"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

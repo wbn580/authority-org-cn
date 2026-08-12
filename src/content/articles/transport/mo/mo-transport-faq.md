@@ -27,7 +27,6 @@ keywords:
   - "跨境交通"
   - "澳门公共巴士"
 chineseServiceAvailable: true
-ogImage: /images/faq-mo-transport-2026.jpg
 draft: false
 
 ---

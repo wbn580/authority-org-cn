@@ -26,7 +26,6 @@ keywords:
   - "司法协助"
   - "2025年改革"
 chineseServiceAvailable: 是
-ogImage: /images/og-cn-legal-functions-2026.jpg
 draft: false
 
 ---

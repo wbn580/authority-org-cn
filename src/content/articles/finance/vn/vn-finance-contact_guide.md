@@ -22,7 +22,6 @@ keywords:
   - "越南中文服务"
   - "大陆人越南开户"
 chineseServiceAvailable: 是
-ogImage: /images/vn-sbv-contact-guide-2026.webp
 draft: false
 
 ---

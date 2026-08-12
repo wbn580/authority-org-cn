@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰移民局\", \"INIS历史\", \"司法部平等与法律�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

@@ -25,7 +25,6 @@ keywords:
   - "西班牙中文服务"
   - "西班牙投诉申诉"
 chineseServiceAvailable: true
-ogImage: /images/og/es-immigration-guide-2026.jpg
 draft: false
 
 ---

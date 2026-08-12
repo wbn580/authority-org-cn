@@ -13,6 +13,7 @@ keywords: "[阿联酋移民局, ICP, 签证办理, 迪拜移民局, 阿布扎比
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ae-immigration-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

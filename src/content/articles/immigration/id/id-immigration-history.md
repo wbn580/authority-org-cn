@@ -27,7 +27,6 @@ keywords:
   - "雅加达移民局"
   - "移民历史"
 chineseServiceAvailable: true
-ogImage: /images/og-id-immigration-history.jpg
 draft: false
 
 ---

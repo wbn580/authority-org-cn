@@ -23,7 +23,6 @@ keywords:
   - "电子通关"
   - "大陆企业合规"
 chineseServiceAvailable: true
-ogImage: "/images/og/nz-education-guide-2026.jpg"
 draft: false
 
 ---

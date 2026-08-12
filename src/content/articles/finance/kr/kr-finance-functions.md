@@ -13,6 +13,7 @@ keywords: "[\"韩国金融监管体系\", \"BOK职能\", \"FSC职能\", \"FSS职
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/kr-finance-functions-2026-1880x1253.jpg"
 ---
 
 

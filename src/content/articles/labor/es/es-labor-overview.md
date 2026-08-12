@@ -24,7 +24,6 @@ keywords:
   - "西班牙社保"
   - "西班牙劳工政策"
 chineseServiceAvailable: 部分
-ogImage: /images/og-es-labor.jpg
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰教育部\", \"爱尔兰学历认证\", \"爱尔兰学生
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

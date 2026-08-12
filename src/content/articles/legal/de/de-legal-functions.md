@@ -21,7 +21,6 @@ keywords:
   - "法律执行机制"
   - "司法协调"
 chineseServiceAvailable: false
-ogImage: /images/de-legal-functions-2026.jpg
 draft: false
 
 ---

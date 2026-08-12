@@ -31,7 +31,6 @@ keywords:
   - "瑞士 联邦理工学院 录取"
   - "瑞士 国际学生 配额"
 chineseServiceAvailable: true
-ogImage: /images/swiss-education-policy-2026.jpg
 draft: false
 
 ---

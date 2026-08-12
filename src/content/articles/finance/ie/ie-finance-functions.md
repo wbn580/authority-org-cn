@@ -24,7 +24,6 @@ keywords:
   - "金融监管立法"
   - "2024-2026年调整"
 chineseServiceAvailable: true
-ogImage: /images/ie-central-bank-functions-2026.jpg
 draft: false
 
 ---

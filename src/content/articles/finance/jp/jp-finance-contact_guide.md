@@ -25,7 +25,6 @@ keywords:
   - "投诉申诉渠道"
   - "大陆人开户实操"
 chineseServiceAvailable: true
-ogImage: /images/jp-finance-contact-2026.jpg
 draft: false
 
 ---

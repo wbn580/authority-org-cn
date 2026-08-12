@@ -23,7 +23,6 @@ keywords:
   - "税收法定原则"
   - "增值税改革"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-ch-transport-2026.jpg"
 draft: false
 
 ---

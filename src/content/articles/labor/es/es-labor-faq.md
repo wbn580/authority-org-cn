@@ -27,7 +27,6 @@ keywords:
   - "西班牙工时规定"
   - "西班牙解雇补偿"
 chineseServiceAvailable: 是，部分服务可通过SEPE线上系统或电话翻译服务获得中文支持，但主要文书与官方语言为西班牙语。
-ogImage: "/images/jp-transport-2026-policy-update.jpg"
 draft: false
 
 ---

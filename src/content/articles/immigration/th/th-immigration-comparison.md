@@ -28,7 +28,6 @@ keywords:
   - "中文服务可用性"
   - "移民制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/comparison-th-immigration-2026.png
 draft: false
 hideFromHome: true
 

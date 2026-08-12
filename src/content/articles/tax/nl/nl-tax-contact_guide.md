@@ -24,7 +24,6 @@ keywords:
   - "荷兰税务投诉"
   - "荷兰税务处理时效"
 chineseServiceAvailable: true
-ogImage: /images/nl-tax-contact-guide-2026.jpg
 draft: false
 
 ---

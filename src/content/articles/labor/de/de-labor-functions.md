@@ -30,7 +30,6 @@ keywords:
   - "德国社会保障"
   - "德国劳动监察"
 chineseServiceAvailable: 是
-ogImage: /images/de-labor-functions-og.jpg
 draft: false
 
 ---

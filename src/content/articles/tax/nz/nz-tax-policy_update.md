@@ -22,7 +22,6 @@ keywords:
   - "大陆人士新西兰税务"
   - "IRD2026公告"
 chineseServiceAvailable: 是（IRD官网提供中文翻译摘要，部分表格含中文注释；税务代理可在中文社区获取服务）
-ogImage: "/images/comparison/ie-labor-comparison-2026.jpg"
 draft: false
 
 ---

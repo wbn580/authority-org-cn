@@ -40,7 +40,6 @@ keywords:
   - "监管沙盒"
   - "金融申诉专员"
 chineseServiceAvailable: true
-ogImage: /images/au-finance-comparison-2026-og.png
 draft: false
 hideFromHome: true
 

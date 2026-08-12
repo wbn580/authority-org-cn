@@ -13,6 +13,7 @@ keywords: "[\"韩国劳动部联系方式\", \"韩国劳工投诉电话\", \"韩
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/kr-labor-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲it移民acs职业评估与就业前景 -->

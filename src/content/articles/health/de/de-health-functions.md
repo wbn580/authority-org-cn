@@ -25,7 +25,6 @@ keywords:
   - "医保基金监管"
   - "职能协调"
 chineseServiceAvailable: true
-ogImage: /images/de-health-authority-functions-2026.jpg
 draft: false
 
 ---

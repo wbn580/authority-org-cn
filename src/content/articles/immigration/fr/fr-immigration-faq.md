@@ -25,7 +25,6 @@ keywords:
   - "工作许可"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/france-immigration-faq-2026.jpg
 draft: false
 
 ---

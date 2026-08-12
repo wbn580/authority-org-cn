@@ -25,7 +25,6 @@ keywords:
   - "税务数字化"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/comparison-sg-tax-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

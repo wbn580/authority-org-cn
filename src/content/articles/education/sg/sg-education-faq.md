@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/sg-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新加坡国立大学本科申请雅思要求多少分 -->

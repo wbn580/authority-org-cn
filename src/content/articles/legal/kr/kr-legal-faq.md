@@ -26,7 +26,6 @@ keywords:
   - "韩国法律咨询费用"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/og/kr-legal-faq-2026.jpg
 draft: false
 
 ---

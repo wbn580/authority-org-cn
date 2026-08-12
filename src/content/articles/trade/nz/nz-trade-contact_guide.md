@@ -22,7 +22,7 @@ keywords:
   - "中文热线"
   - "大陆人新西兰贸易流程"
 chineseServiceAvailable: true
-ogImage: "https://picsum.photos/seed/nz-trade/1200/630"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

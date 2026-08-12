@@ -26,7 +26,6 @@ keywords:
   - "劳工职能"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/uk-labor-functions-2026.jpg
 draft: false
 
 ---

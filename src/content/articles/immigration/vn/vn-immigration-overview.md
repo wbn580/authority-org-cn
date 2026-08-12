@@ -25,7 +25,6 @@ keywords:
   - "越南外国人管理"
   - "越南移民局官网"
 chineseServiceAvailable: true
-ogImage: "/images/ie-central-bank-functions-2026.jpg"
 draft: false
 
 ---

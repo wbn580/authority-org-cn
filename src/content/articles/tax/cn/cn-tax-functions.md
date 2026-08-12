@@ -36,7 +36,6 @@ keywords:
   - "部门边界"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/hk-legal-guide-2026.webp"
 draft: false
 
 ---

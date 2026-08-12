@@ -29,7 +29,6 @@ keywords:
   - "泰国工作签证"
   - "泰国劳动监察"
 chineseServiceAvailable: true
-ogImage: /images/th-faq-og.jpg
 draft: false
 
 ---

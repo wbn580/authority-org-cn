@@ -22,7 +22,6 @@ keywords:
   - "投诉申诉"
   - "中国大陆申请人"
 chineseServiceAvailable: true
-ogImage: /images/au-immigration-contact-guide-2026.jpg
 draft: false
 
 ---

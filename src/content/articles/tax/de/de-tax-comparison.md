@@ -29,7 +29,6 @@ keywords:
   - "税务合规"
   - "纳税人权利"
 chineseServiceAvailable: true
-ogImage: /images/comparison-de-tax-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 部分支持，见正文
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-trade-contact_guide-2026-1880x1111.jpg"
 ---
 
 

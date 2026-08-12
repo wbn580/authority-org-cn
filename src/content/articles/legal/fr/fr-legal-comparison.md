@@ -28,7 +28,6 @@ keywords:
   - "申诉机制"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/fr-legal-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

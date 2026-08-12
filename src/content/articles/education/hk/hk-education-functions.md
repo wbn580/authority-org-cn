@@ -21,7 +21,6 @@ keywords:
   - "教师注册"
   - "高等教育"
 chineseServiceAvailable: true
-ogImage: /images/hk-edu-functions-2026.jpg
 draft: false
 
 ---

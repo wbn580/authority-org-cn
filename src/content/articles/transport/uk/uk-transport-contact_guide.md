@@ -23,7 +23,7 @@ keywords:
   - "英国民航投诉"
   - "中文服务英国"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=UK+Transport+Authority+Guide+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

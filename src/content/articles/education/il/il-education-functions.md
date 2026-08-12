@@ -26,7 +26,6 @@ keywords:
   - "2026以色列教育调整"
   - "以色列教育部与国防部协调"
 chineseServiceAvailable: false
-ogImage: "/images/es-labor-policy-2024-2026.jpg"
 draft: false
 
 ---

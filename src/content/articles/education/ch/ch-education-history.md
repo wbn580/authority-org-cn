@@ -33,6 +33,7 @@ keywords:
 chineseServiceAvailable: 瑞士联邦教育、研究与创新秘书局（SERI）官方网站提供英文、法文、德文、意大利文版本，未设专门中文服务页面。部分关键政策文件（如《瑞士职业教育与培训法》）有非官方中文译本，可通过瑞士驻华大使馆或瑞士贸易与投资处获取。
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ch-education-history-2026-1880x869.jpg"
 ---
 
 

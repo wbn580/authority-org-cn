@@ -13,6 +13,7 @@ keywords: "[\"澳门贸易主管部门\", \"澳门海关历史\", \"IPIM改革\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-trade-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

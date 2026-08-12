@@ -13,6 +13,7 @@ keywords: "[\"荷兰司法与安全部\", \"核心职能\", \"法律执行\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nl-legal-functions-2026-1880x1255.jpg"
 ---
 
 

@@ -13,6 +13,7 @@ keywords: "[\"西班牙交通部\", \"西班牙民航局\", \"AESA\", \"MITMS\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/es-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

@@ -22,7 +22,6 @@ keywords:
   - "费用标准"
   - "预约流程"
 chineseServiceAvailable: true
-ogImage: "/images/og-it-labor-2026.jpg"
 draft: false
 
 ---

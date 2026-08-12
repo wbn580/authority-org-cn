@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"意大利民航局\",\"ENAC\",\"MIT\",\"航空监管\",\"交通法规\",\"意大利交通\",\"民用航空\",\"跨境合规\"]"
 keywords: "[\"意大利民航局\",\"ENAC\",\"基础设施与交通部\",\"意大利航空法规\",\"无人机法规\",\"EASA\",\"中文服务\",\"大陆人签证\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Italy+Transport+Authority+Overview"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

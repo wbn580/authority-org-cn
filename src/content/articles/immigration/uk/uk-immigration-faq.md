@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: /images/uk-immigration-faq-og.jpg
 draft: false
 
 ---

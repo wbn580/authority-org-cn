@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"爱尔兰\", \"劳动法\", \"就业政策\", \"DETE\", \"工作许可\", \"劳动监察\"]"
 keywords: "[\"爱尔兰就业事务与社会保障部\", \"DETE\", \"爱尔兰劳动法\", \"工作许可\", \"劳动监察\", \"中文服务\", \"中国大陆\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og/nz-education-guide-2026.jpg"
 draft: false
 
 ---

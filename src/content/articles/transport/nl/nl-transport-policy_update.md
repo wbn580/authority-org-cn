@@ -23,7 +23,6 @@ keywords:
   - "欧盟排放交易体系"
   - "大陆人士交通影响"
 chineseServiceAvailable: true
-ogImage: /images/nl-transport-policy-2026.jpg
 draft: false
 
 ---

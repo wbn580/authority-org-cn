@@ -25,7 +25,6 @@ keywords:
   - "数字货币"
   - "监管协调"
 chineseServiceAvailable: true
-ogImage: /images/jp-finance-functions-2026.jpg
 draft: false
 
 ---

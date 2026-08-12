@@ -29,7 +29,6 @@ keywords:
   - "意大利教育动态"
   - "意大利教育中文服务"
 chineseServiceAvailable: true
-ogImage: /images/og/italy-education-authority-overview.jpg
 draft: false
 
 ---

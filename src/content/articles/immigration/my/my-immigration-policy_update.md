@@ -31,6 +31,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/my-immigration-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年马来西亚留学一年学费生活费大概多少 -->

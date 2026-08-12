@@ -24,7 +24,6 @@ keywords:
   - "投诉申诉"
   - "大陆人实操"
 chineseServiceAvailable: true
-ogImage: /images/indonesia-immigration-guide-2026.jpg
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "中文医疗咨询"
   - "医保误区"
 chineseServiceAvailable: 是（部分公立医院及卫生局提供）
-ogImage: /images/il-health-faq-og.png
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"新加坡司法体系\", \"最高法院职能\", \"总检察署职
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/sg-legal-functions-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

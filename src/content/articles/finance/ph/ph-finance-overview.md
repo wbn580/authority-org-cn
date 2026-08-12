@@ -32,7 +32,6 @@ keywords:
   - "2025 BSP 政策"
   - "菲律宾电子支付"
 chineseServiceAvailable: 是（部分银行及BSP官网提供有限中文）
-ogImage: /images/ph-finance-overview-2026.png
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "H-1B工资标准"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/us-labor-policy-2026-og.jpg
 draft: false
 
 ---

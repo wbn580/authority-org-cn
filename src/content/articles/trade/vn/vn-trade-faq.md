@@ -23,7 +23,6 @@ keywords:
   - "关税计算"
   - "误区"
 chineseServiceAvailable: true
-ogImage: /images/vn-trade-faq-2026.png
 draft: false
 
 ---

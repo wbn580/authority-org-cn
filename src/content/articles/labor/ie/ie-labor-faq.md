@@ -22,7 +22,6 @@ keywords:
   - "雇佣争议"
   - "公共就业服务"
 chineseServiceAvailable: true
-ogImage: /images/ie-labor-faq-og.png
 draft: false
 
 ---

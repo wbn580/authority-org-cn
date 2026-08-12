@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-legal-overview-2026-1880x1255.jpg"
 ---
 
 

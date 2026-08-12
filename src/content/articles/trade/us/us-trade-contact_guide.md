@@ -26,7 +26,6 @@ keywords:
   - "中文服务热线"
   - "大陆人通关指南"
 chineseServiceAvailable: true
-ogImage: /images/us-trade-contact-guide-2026.webp
 draft: false
 
 ---

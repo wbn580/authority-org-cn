@@ -29,7 +29,6 @@ keywords:
   - "常见误区"
   - "2026年"
 chineseServiceAvailable: true
-ogImage: /images/og-mo-trade-faq-2026.jpg
 draft: false
 
 ---

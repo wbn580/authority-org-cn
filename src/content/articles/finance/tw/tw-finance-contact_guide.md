@@ -25,7 +25,6 @@ keywords:
   - "服务时间"
   - "预约方式"
 chineseServiceAvailable: true
-ogImage: /images/tw-finance-guide-2026.png
 draft: false
 
 ---

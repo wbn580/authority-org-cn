@@ -22,7 +22,6 @@ keywords:
   - "中文服务"
   - "投诉渠道"
 chineseServiceAvailable: true
-ogImage: /images/thailand-moe-contact-guide-2026.jpg
 draft: false
 
 ---

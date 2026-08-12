@@ -13,6 +13,7 @@ keywords: "[\"卫生福利部\", \"台湾卫生主管部门\", \"台湾医保\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-health-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

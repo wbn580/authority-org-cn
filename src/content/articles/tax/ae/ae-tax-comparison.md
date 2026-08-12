@@ -26,7 +26,6 @@ keywords:
   - "增值税"
   - "企业所得税"
 chineseServiceAvailable: true
-ogImage: /images/og/ae-tax-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国卫生部\", \"医保改革\", \"机构沿革\", \"公共卫生\", \"卫生治理\"]"
 keywords: "[\"法国卫生主管部门\", \"Ministère de la Santé\", \"ANSM\", \"HAS\", \"Sécurité sociale\"]"
 chineseServiceAvailable: false
-ogImage: /images/fr-health-org-history-og.png
 draft: false
 
 ---

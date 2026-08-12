@@ -25,7 +25,6 @@ keywords:
   - "中文服务印尼央行"
   - "大陆人印尼金融注册"
 chineseServiceAvailable: 部分
-ogImage: /images/id-finance-contact-guide-2026.jpg
 draft: false
 
 ---

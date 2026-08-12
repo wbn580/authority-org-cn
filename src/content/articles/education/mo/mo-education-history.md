@@ -26,7 +26,6 @@ keywords:
   - "澳门课程框架"
   - "澳门基本法教育条款"
 chineseServiceAvailable: 本机构提供中文（繁体及简体）服务，所有公告及申请表格均具中文版本，并设有普通话及粤语咨询热线。
-ogImage: /images/og-mo-education-history.jpg
 draft: false
 
 ---

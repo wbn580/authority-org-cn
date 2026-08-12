@@ -26,7 +26,6 @@ keywords:
   - "系统性风险"
   - "银行监管"
 chineseServiceAvailable: true
-ogImage: /images/us-financial-regulatory-framework-2026.jpg
 draft: false
 
 ---

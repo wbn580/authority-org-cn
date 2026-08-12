@@ -22,7 +22,6 @@ keywords:
   - "泰国航空安全"
   - "跨境交通许可"
 chineseServiceAvailable: 是
-ogImage: /images/th-transport-functions-2026.jpg
 draft: false
 
 ---

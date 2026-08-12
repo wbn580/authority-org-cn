@@ -28,7 +28,6 @@ keywords:
   - "数字化"
   - "申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/comparison/il-immigration-comparison-2026.png
 draft: false
 hideFromHome: true
 

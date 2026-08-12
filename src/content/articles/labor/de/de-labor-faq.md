@@ -26,7 +26,6 @@ keywords:
   - "劳动监察投诉"
   - "2026德国劳工政策"
 chineseServiceAvailable: true
-ogImage: /images/de-labor-faq-2026-og.png
 draft: false
 
 ---

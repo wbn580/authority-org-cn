@@ -24,7 +24,6 @@ keywords:
   - "大陆人 阿联酋 法律政策"
   - "中文服务 阿联酋 司法"
 chineseServiceAvailable: true
-ogImage: "/images/fr-health-org-history-og.png"
 draft: false
 
 ---

@@ -21,7 +21,6 @@ keywords:
   - "工作许可"
   - "大陆人士就业"
 chineseServiceAvailable: true
-ogImage: /images/tw-labor-guide-2026.jpg
 draft: false
 
 ---

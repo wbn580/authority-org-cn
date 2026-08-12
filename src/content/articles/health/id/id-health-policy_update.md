@@ -27,7 +27,6 @@ keywords:
   - "2024"
   - "2025"
 chineseServiceAvailable: true
-ogImage: "/images/ca-trade-overview-og.png"
 draft: false
 
 ---

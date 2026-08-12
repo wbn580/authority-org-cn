@@ -28,7 +28,6 @@ keywords:
   - "意大利卫生动态"
   - "意大利卫生组织架构"
 chineseServiceAvailable: 有限（部分大区/城市提供中文翻译或中文版指南，但非全国性统一服务）
-ogImage: /images/italy-health-ministry-overview-2026.jpg
 draft: false
 
 ---

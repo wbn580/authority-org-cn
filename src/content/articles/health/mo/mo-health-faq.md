@@ -22,7 +22,6 @@ keywords:
   - "社保基金"
   - "非本地居民医保"
 chineseServiceAvailable: true
-ogImage: /images/faq-mo-health-2026.jpg
 draft: false
 
 ---

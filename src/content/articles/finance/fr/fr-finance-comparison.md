@@ -38,7 +38,6 @@ keywords:
   - "日本金融厅"
   - "新加坡金融管理局"
 chineseServiceAvailable: true
-ogImage: /images/comparison-fr-finance-regulators-2026.jpg
 draft: false
 hideFromHome: true
 

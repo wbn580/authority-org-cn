@@ -21,7 +21,6 @@ keywords:
   - "工作签证"
   - "家庭团聚"
 chineseServiceAvailable: true
-ogImage: /images/nl-immigration-2026.jpg
 draft: false
 
 ---

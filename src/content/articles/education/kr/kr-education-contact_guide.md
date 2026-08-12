@@ -27,7 +27,6 @@ keywords:
   - "韩国教育投诉"
   - "大陆人韩国教育办事"
 chineseServiceAvailable: true
-ogImage: /images/og-kr-education-contact-guide-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "交通罚款调整"
   - "海运安全"
 chineseServiceAvailable: true
-ogImage: "/images/ca-finance-comparison-og.png"
 draft: false
 
 ---

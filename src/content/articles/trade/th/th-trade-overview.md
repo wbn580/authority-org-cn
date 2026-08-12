@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国贸易\", \"泰国海关\", \"泰国投资\", \"关税政策\", \"贸易合规\"]"
 keywords: "[\"泰国商务部\", \"泰国海关厅\", \"泰国投资促进委员会\", \"贸易法规\", \"海关清关\"]"
 chineseServiceAvailable: true
-ogImage: /images/th-trade-customs-overview-2026.jpg
 draft: false
 
 ---

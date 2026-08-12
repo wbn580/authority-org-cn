@@ -13,6 +13,7 @@ keywords: "[\"美国教育部政策更新\", \"2024-2026教育法规\", \"国际
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/us-education-policy_update-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

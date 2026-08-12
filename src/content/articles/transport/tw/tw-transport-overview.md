@@ -25,7 +25,6 @@ keywords:
   - "组织架构"
   - "立法基础"
 chineseServiceAvailable: true
-ogImage: "/images/ch-immigration-contact-guide-2026.jpg"
 draft: false
 
 ---

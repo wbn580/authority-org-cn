@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"法国劳工\", \"就业指导\", \"Direccte\", \"France Travail\", \"URSSAF\", \"CPAM\", \"中文服务\"]"
 keywords: "[\"法国劳工局地址\", \"法国就业中心电话\", \"法国工作许可\", \"法国社保登记\", \"外国人就业法国\", \"中文服务法国\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/il-immigration-comparison-2026.png"
 draft: false
 
 ---

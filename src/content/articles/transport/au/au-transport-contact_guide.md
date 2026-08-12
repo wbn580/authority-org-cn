@@ -27,7 +27,7 @@ keywords:
   - "大陆居民交通事务"
   - "2026 收费标准"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=AU+Transport+Guide+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

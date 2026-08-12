@@ -13,6 +13,7 @@ keywords: "[\"意大利司法部\", \"意大利法院\", \"司法部职能\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-legal-overview-2026-1880x1255.jpg"
 ---
 
 

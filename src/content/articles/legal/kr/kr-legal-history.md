@@ -13,6 +13,7 @@ keywords: "[\"韩国法务部历史\", \"法务部改组\", \"检察厅改革\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/kr-legal-history-2026-1880x1255.jpg"
 ---
 
 

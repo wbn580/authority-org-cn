@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-labor-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年加拿大硕士申请co-op实习项目值得选吗 -->

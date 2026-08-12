@@ -20,7 +20,6 @@ keywords:
   - "马来西亚法律服务中文"
   - "大陆人马来西亚司法指南"
   - "马来西亚司法费用"
-ogImage: /images/my-legal-guide-2026.png
 draft: false
 
 ---

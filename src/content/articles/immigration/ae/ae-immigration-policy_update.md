@@ -25,7 +25,6 @@ keywords:
   - "阿联酋签证罚款豁免 2024"
   - "中国大陆申请人 阿联酋签证"
 chineseServiceAvailable: true
-ogImage: /images/ae-immigration-2024-2026-policy-update.jpg
 draft: false
 
 ---

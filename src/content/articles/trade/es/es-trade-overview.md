@@ -13,6 +13,7 @@ keywords: "[\"西班牙贸易主管部门\", \"西班牙海关\", \"MCC\", \"AEA
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/es-trade-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

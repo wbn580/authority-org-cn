@@ -13,6 +13,7 @@ keywords: "[\"阿联酋贸易主管部门\", \"阿联酋海关职能\", \"联邦
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ae-trade-functions-2026-1880x1111.jpg"
 ---
 
 

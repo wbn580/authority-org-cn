@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[瑞士, 劳工, 就业, 主管部门, 办事指南, 中文服务, 工作许可, 社会保障]"
 keywords: "[瑞士劳工局, 瑞士工作许可, 瑞士社保, 瑞士中文服务, 瑞士就业指南, 瑞士劳动法, 瑞士移民劳工]"
 chineseServiceAvailable: true
-ogImage: "/images/ae-trade-overview-2026.jpg"
 draft: false
 
 ---

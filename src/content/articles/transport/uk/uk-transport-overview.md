@@ -26,7 +26,6 @@ keywords:
   - "中国大陆人士英国飞行执照"
   - "英国交通立法"
 chineseServiceAvailable: true
-ogImage: /images/og-uk-transport-overview.jpg
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "大陆人泰国就医"
   - "泰国医保政策变化"
 chineseServiceAvailable: true
-ogImage: "/images/faq-mo-health-2026.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "西班牙教育费用2026"
   - "中文服务西班牙教育"
 chineseServiceAvailable: true
-ogImage: /images/es-education-contact-2026.jpg
 draft: false
 
 ---

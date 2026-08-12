@@ -31,7 +31,6 @@ keywords:
   - "中文服务"
   - "德国教育主管部门"
 chineseServiceAvailable: 部分提供
-ogImage: /images/og/de-education-authority-overview.jpg
 draft: false
 
 ---

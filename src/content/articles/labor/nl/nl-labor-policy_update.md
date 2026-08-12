@@ -30,7 +30,6 @@ keywords:
   - "中国大陆籍员工"
   - "劳动监察"
 chineseServiceAvailable: true
-ogImage: "/images/us-dol-functions-2026.jpg"
 draft: false
 
 ---

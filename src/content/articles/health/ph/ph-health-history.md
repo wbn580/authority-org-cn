@@ -13,6 +13,7 @@ keywords: "[\"菲律宾卫生部历史\", \"DOH职能调整\", \"菲律宾医保
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-health-history-2026-1880x1253.jpg"
 ---
 
 

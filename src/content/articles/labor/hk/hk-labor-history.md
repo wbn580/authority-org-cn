@@ -13,6 +13,7 @@ keywords: "[\"香港劳工处历史\", \"劳工处职能\", \"香港劳工法例
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

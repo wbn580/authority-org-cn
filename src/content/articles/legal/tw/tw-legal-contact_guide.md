@@ -24,7 +24,6 @@ keywords:
   - "中文服务"
   - "大陆人诉讼指南"
 chineseServiceAvailable: true
-ogImage: /images/tw-legal-guide-2026-og.png
 draft: false
 
 ---

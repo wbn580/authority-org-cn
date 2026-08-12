@@ -22,7 +22,6 @@ keywords:
   - "英国TSP申请"
   - "英国海关误区"
 chineseServiceAvailable: true
-ogImage: /images/uk-trade-faq-2026.jpg
 draft: false
 
 ---

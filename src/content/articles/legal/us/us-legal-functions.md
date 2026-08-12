@@ -25,7 +25,6 @@ keywords:
   - "资产罚没"
   - "2024-2026司法改革"
 chineseServiceAvailable: true
-ogImage: /images/us-doj-functions-2026.jpg
 draft: false
 
 ---

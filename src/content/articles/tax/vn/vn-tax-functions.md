@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[越南税务, 税务总局, 税务管理, 税收征管, 税务检查, 税务服务, 数字化转型]"
 keywords: "[越南税务职能, 税务总局, 税务管理法, 税收征管, 税务检查, 税务服务, 2026]"
 chineseServiceAvailable: true
-ogImage: /images/vn-tax-functions-2026.jpg
 draft: false
 
 ---

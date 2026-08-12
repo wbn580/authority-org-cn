@@ -36,7 +36,6 @@ keywords:
   - "反倾销"
   - "原产地规则"
 chineseServiceAvailable: true
-ogImage: /images/og/us-trade-faq-2026.jpg
 draft: false
 
 ---

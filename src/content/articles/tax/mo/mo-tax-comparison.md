@@ -30,7 +30,6 @@ keywords:
   - "制度差异"
   - "大陆人税务"
 chineseServiceAvailable: 是
-ogImage: /images/comparison/tax-mo-vs-others-2026.jpg
 draft: false
 hideFromHome: true
 

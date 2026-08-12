@@ -13,6 +13,7 @@ keywords: "[\"美国劳工部\", \"DOL\", \"劳动法\", \"FLSA\", \"OSHA\", \"F
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/us-labor-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

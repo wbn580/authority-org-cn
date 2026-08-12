@@ -29,7 +29,6 @@ keywords:
   - "跨境支付合规"
   - "大陆人金融服务"
 chineseServiceAvailable: true
-ogImage: /images/us-finance-policy-2024-26.jpg
 draft: false
 
 ---

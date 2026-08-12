@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚税务\", \"LHDN\", \"机构沿革\", \"税务改革\", \"税收史\"]"
 keywords: "[\"马来西亚内陆税收局\", \"LHDN历史\", \"1967年所得税法\", \"税务机构改革\", \"中文服务\"]"
 chineseServiceAvailable: true
-ogImage: "/images/italy-health-ministry-overview-2026.jpg"
 draft: false
 
 ---

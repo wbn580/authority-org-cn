@@ -25,7 +25,6 @@ keywords:
   - "法国反洗钱新规"
   - "大陆人法国银行开户"
 chineseServiceAvailable: true
-ogImage: "/images/nz-transport-faq-og.jpg"
 draft: false
 
 ---

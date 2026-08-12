@@ -21,7 +21,6 @@ keywords:
   - "中文医疗翻译服务"
   - "医保卡补办时效"
 chineseServiceAvailable: true
-ogImage: /images/au-health-faq-og.jpg
 draft: false
 
 ---

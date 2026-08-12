@@ -29,7 +29,6 @@ keywords:
   - "长期居留卡"
   - "移民积分制"
 chineseServiceAvailable: true
-ogImage: /images/fr-immigration-2026-update.jpg
 draft: false
 
 ---

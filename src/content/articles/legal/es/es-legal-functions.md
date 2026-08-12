@@ -25,7 +25,6 @@ keywords:
   - "西班牙司法职能交叉"
   - "西班牙司法与行政边界"
 chineseServiceAvailable: true
-ogImage: /images/spain-legal-functions-2026.jpg
 draft: false
 
 ---

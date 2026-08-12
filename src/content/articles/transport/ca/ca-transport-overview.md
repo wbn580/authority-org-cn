@@ -13,6 +13,7 @@ keywords: "[\"加拿大交通部\", \"Transport Canada\", \"加拿大民航局\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-transport-overview-2026-1880x1058.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比 -->

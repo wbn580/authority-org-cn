@@ -27,7 +27,6 @@ keywords:
   - "大陆人士驾照"
   - "新加坡交通法规更新"
 chineseServiceAvailable: true
-ogImage: /images/og-sg-transport-2026.jpg
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"日本所得税率\", \"日本税务申报流程\", \"日本消费
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-tax-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

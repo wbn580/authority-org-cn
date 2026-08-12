@@ -28,7 +28,7 @@ keywords:
   - "劳动监察"
   - "2026年劳工政策"
 chineseServiceAvailable: true
-ogImage: "https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_44/assets/wmms-blk.svg"
+ogImage: "https://authority.org.cn/og-default.svg"
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "中国大陆人在越南开户"
   - "中文服务"
 chineseServiceAvailable: 部分
-ogImage: "/images/og-ph-tax-comparison-2026.jpg"
 draft: false
 
 ---

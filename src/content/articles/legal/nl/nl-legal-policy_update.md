@@ -27,7 +27,6 @@ keywords:
   - "中国大陆公民荷兰"
   - "荷兰法律中文服务"
 chineseServiceAvailable: true
-ogImage: /images/nl-legal-policy-2024-2026.jpg
 draft: false
 
 ---

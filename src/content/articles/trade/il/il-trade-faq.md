@@ -25,7 +25,6 @@ keywords:
   - "中文服务"
   - "贸易合规"
 chineseServiceAvailable: true
-ogImage: /images/il-trade-faq-2026-og.png
 draft: false
 
 ---

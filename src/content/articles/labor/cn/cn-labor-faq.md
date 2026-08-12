@@ -24,7 +24,6 @@ keywords:
   - "外国人工作许可"
   - "12333"
 chineseServiceAvailable: true
-ogImage: /images/faq/cn-labor-faq-2026.jpg
 draft: false
 
 ---

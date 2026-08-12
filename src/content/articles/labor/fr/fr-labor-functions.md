@@ -13,6 +13,7 @@ keywords: "[\"法国劳动部职能\", \"Code du Travail\", \"法国就业局\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/fr-labor-functions-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

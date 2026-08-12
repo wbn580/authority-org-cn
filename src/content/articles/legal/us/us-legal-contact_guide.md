@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 部分机构（如FBI、司法部民事权利司）提供中文电话口译；联邦法院一般无中文专线，需自带翻译。
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/us-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

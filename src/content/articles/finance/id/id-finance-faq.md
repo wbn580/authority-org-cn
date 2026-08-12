@@ -25,7 +25,6 @@ keywords:
   - "金融科技注册"
   - "中文服务 印尼"
 chineseServiceAvailable: true
-ogImage: /images/og-id-finance-faq-2026.jpg
 draft: false
 
 ---

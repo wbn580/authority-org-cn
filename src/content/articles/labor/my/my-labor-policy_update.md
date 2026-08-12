@@ -23,7 +23,6 @@ keywords:
   - "大陆人马来西亚工作"
   - "马来西亚工作准证"
 chineseServiceAvailable: true
-ogImage: "/images/nl-tax-contact-guide-2026.jpg"
 draft: false
 
 ---

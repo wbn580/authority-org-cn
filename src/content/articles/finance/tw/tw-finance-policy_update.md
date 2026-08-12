@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国台湾金融监管\", \"央行政策\", \"FSC\", \"CBC\", \"金融科技\", \"反洗钱\", \"外资管理\", \"2024-2026\"]"
 keywords: "[\"中国台湾金融监管政策更新\", \"央行利率政策\", \"FSC公告\", \"大陆人士金融业务\", \"金融科技法规\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og-ph-tax-comparison-2026.jpg"
 draft: false
 
 ---

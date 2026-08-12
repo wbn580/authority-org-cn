@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[香港教育局, 新加坡教育部, 英国教育部, 澳大利亚教育部, 教育监管, 跨国对比, 教育政策]"
 keywords: "[香港教育局, 新加坡教育部, 英国教育部, 澳大利亚教育部, 教育监管对比, 教育制度差异, 教育数字化, 教育透明度, 申诉机制, 大陆人接触度]"
 chineseServiceAvailable: true
-ogImage: /images/comparison-hk-education-authorities.jpg
 draft: false
 hideFromHome: true
 

@@ -27,7 +27,6 @@ keywords:
   - "中文服务可用性"
   - "中国大陆企业菲律宾实务"
 chineseServiceAvailable: 有限
-ogImage: /images/ph-trade-authority-overview-2026.jpg
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "中意贸易合规"
   - "意大利海关法"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/it-de-fr-es-immigration-2026.png"
 draft: false
 
 ---

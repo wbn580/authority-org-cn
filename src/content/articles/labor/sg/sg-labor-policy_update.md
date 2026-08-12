@@ -24,7 +24,7 @@ keywords:
   - "中国大陆申请人"
   - "2024-2026政策"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=SG+Labor+Policy+Update+2024-2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

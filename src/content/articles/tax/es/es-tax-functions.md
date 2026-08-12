@@ -23,7 +23,6 @@ keywords:
   - "西班牙税务争议"
   - "西班牙税务教育"
 chineseServiceAvailable: true
-ogImage: /images/es-tax-functions-2026.jpg
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙\", \"海关\", \"贸易\", \"AEAT\", \"清关\", \"关税\", \"进出口\"]"
 keywords: "[\"西班牙海关\", \"西班牙贸易\", \"AEAT\", \"西班牙清关流程\", \"西班牙关税\", \"中文服务\", \"西班牙进口商\"]"
 chineseServiceAvailable: true
-ogImage: "/images/nz-education-comparison-og.jpg"
 draft: false
 
 ---

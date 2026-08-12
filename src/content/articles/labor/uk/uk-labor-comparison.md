@@ -31,7 +31,6 @@ keywords:
   - "数字化服务"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/og-uk-labor-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

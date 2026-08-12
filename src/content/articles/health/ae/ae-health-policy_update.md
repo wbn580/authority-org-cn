@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"阿联酋\", \"医保\", \"卫生政策\", \"2024-2026\", \"健康保险\", \"公共卫生\"]"
 keywords: "[\"阿联酋医保改革\", \"迪拜强制健康保险\", \"阿布扎比健康保险\", \"大陆居民医保\", \"2026阿联酋卫生政策\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/es-health-comparison-og.png"
 draft: false
 
 ---

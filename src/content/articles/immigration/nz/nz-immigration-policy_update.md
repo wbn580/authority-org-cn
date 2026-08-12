@@ -28,7 +28,6 @@ keywords:
   - "访客签证"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/nz-immigration-policy-update-2024-2026.jpg
 draft: false
 
 ---

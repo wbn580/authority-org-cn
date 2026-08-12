@@ -25,7 +25,6 @@ keywords:
   - "跨国对比"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/comparison-ca-transport-2026.jpg
 draft: false
 hideFromHome: true
 

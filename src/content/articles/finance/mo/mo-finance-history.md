@@ -13,6 +13,7 @@ keywords: "[\"澳门金融管理局成立\", \"AMCM职能调整\", \"澳门金�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-finance-history-2026-1880x1253.jpg"
 ---
 # 中国澳门特别行政区金融监管主管部门机构沿革（近年-2026）
 

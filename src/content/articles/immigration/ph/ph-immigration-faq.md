@@ -28,7 +28,6 @@ keywords:
   - "费用标准"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "/images/ph-education-contact-guide-2026.jpg"
 draft: false
 
 ---

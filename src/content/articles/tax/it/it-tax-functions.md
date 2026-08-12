@@ -25,7 +25,6 @@ keywords:
   - "税务合规"
   - "2024年财政改革"
 chineseServiceAvailable: true
-ogImage: /images/og/italy-tax-functions-2026.jpg
 draft: false
 
 ---

@@ -27,7 +27,6 @@ keywords:
   - "司法申诉机制"
   - "制度差异分析"
 chineseServiceAvailable: true
-ogImage: /images/comparison-kr-legal-2026.jpg
 draft: false
 hideFromHome: true
 

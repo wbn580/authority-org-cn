@@ -51,7 +51,6 @@ keywords:
   - "税务合规"
   - "税务比较分析"
 chineseServiceAvailable: true
-ogImage: /images/comparison/tax-authority-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

@@ -21,7 +21,7 @@ keywords:
   - "瑞士大学申请"
   - "中文服务瑞士"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Swiss+Education+FAQ"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

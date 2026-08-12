@@ -26,7 +26,6 @@ keywords:
   - "特别学生签证"
   - "大陆人留学菲律宾"
 chineseServiceAvailable: true
-ogImage: /images/ph-education-overview-2026.jpg
 draft: false
 
 ---

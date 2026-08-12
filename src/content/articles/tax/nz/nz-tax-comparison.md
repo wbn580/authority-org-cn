@@ -26,7 +26,6 @@ keywords:
   - "税务效率"
   - "大陆人税务服务"
 chineseServiceAvailable: true
-ogImage: /images/comparison-nz-tax-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

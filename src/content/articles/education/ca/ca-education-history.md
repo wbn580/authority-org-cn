@@ -33,7 +33,6 @@ keywords:
   - "教育历史"
   - "机构沿革"
 chineseServiceAvailable: true
-ogImage: "/images/il-health-functions-2026.jpg"
 draft: false
 
 ---

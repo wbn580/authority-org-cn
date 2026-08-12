@@ -25,7 +25,6 @@ keywords:
   - "制度差异"
   - "大陆人金融接触"
 chineseServiceAvailable: true
-ogImage: /images/kr-financial-regulation-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

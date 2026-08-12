@@ -27,7 +27,6 @@ keywords:
   - "BIR办公时间"
   - "税务投诉"
 chineseServiceAvailable: true
-ogImage: /images/ph-bir-guide-2026.jpg
 draft: false
 
 ---

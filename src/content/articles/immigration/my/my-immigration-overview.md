@@ -28,7 +28,6 @@ keywords:
   - "马来西亚移民局核心职能"
   - "马来西亚移民局2024动态"
 chineseServiceAvailable: true
-ogImage: "/images/au-finance-guide-2026.jpg"
 draft: false
 
 ---

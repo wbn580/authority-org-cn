@@ -23,7 +23,6 @@ keywords:
   - "2024年越南交通改革"
   - "越南空中交通管理"
 chineseServiceAvailable: true
-ogImage: /images/vn-transport-2026.jpg
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[泰国卫生, 医保, NHSO, SSO, 公共卫生, 联系方式, 办事指南]"
 keywords: "[泰国公共卫生部, 医保局, 健康保险, 外国人医保, 中文服务, 投诉渠道, 办事流程]"
 chineseServiceAvailable: 部分
-ogImage: /images/th-health-guide-2026.jpg
 draft: false
 
 ---

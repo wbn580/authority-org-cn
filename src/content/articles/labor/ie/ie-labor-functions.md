@@ -28,7 +28,6 @@ keywords:
   - "最低工资"
   - "跨境雇员"
 chineseServiceAvailable: true
-ogImage: /images/ie-labor-functions-2026.jpg
 draft: false
 
 ---

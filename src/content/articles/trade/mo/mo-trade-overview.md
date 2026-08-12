@@ -23,7 +23,6 @@ keywords:
   - "澳门进出口规定"
   - "大陆人澳门贸易"
 chineseServiceAvailable: true
-ogImage: /images/og-mo-trade-customs-overview.png
 draft: false
 
 ---

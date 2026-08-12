@@ -13,6 +13,7 @@ keywords: "[\"泰国交通部 MOT\", \"泰国民航局 CAAT\", \"泰国交通法
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/th-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

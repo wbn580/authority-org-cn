@@ -30,7 +30,6 @@ keywords:
   - "欧洲银行监管"
   - "法国金融法"
 chineseServiceAvailable: true
-ogImage: "/images/og-uk-labor-comparison-2026.jpg"
 draft: false
 
 ---

@@ -29,7 +29,6 @@ keywords:
   - "跨境医疗"
   - "大陆人医疗服务"
 chineseServiceAvailable: true
-ogImage: /images/comparison-nl-health-multi-country-2026.jpg
 draft: false
 hideFromHome: true
 

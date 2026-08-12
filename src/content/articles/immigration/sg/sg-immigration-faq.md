@@ -34,6 +34,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/sg-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新加坡公立大学硕士申请需要工作经验吗 -->

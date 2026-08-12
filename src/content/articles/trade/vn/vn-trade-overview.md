@@ -24,7 +24,6 @@ keywords:
   - "中文服务"
   - "大陆人实操"
 chineseServiceAvailable: 有限
-ogImage: /images/vn-trade-customs-overview-2026.jpg
 draft: false
 
 ---

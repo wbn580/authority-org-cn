@@ -23,7 +23,6 @@ keywords:
   - "越南教育政策"
   - "2026年越南教育"
 chineseServiceAvailable: 部分服务可通过电子邮件及官网英文界面获取，中文界面尚未推出。
-ogImage: "/images/og/ch-tax-policy-2024-26.jpg"
 draft: false
 
 ---

@@ -28,7 +28,6 @@ keywords:
   - "申诉机制"
   - "大陆人接触度"
 chineseServiceAvailable: true
-ogImage: /images/og-nl-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

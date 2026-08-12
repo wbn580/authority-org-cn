@@ -26,7 +26,6 @@ keywords:
   - "加拿大公共卫生局"
   - "加拿大医疗费用"
   - "中国大陆居民加拿大医疗"
-ogImage: /images/og/ca-health-overview.jpg
 draft: false
 
 ---

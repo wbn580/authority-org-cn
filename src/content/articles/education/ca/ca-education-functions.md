@@ -26,7 +26,6 @@ keywords:
   - "原住民教育"
   - "官方语言教育"
 chineseServiceAvailable: true
-ogImage: "/images/th-faq-og.jpg"
 draft: false
 
 ---

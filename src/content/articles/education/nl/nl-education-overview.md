@@ -25,7 +25,6 @@ keywords:
   - "WHW法案"
   - "荷兰教育立法"
 chineseServiceAvailable: true
-ogImage: /images/og-netherlands-education-2026.jpg
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国移民\", \"机构沿革\", \"出入境管理\", \"移民厅\", \"法务部\"]"
 keywords: "[\"韩国移民主管部门\", \"韩国移民厅\", \"出入境管理法\", \"签证改革\", \"机构沿革\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og-ph-tax-comparison-2026.jpg"
 draft: false
 
 ---

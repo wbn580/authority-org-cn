@@ -27,7 +27,6 @@ keywords:
   - "劳工执法机制"
   - "2026年劳工政策"
 chineseServiceAvailable: 1
-ogImage: /images/ph-labor-2026.jpg
 draft: false
 
 ---

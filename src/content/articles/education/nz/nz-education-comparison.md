@@ -34,7 +34,6 @@ keywords:
   - "教育申诉机制"
   - "大陆人接触度"
 chineseServiceAvailable: 新西兰教育部官网提供中文版部分页面与指南；NZQA学历评估接受中文材料翻译件；澳大利亚教育部无专门中文页面；英国OfS无中文服务；加拿大CMEC官网无中文；新加坡教育部官网无中文。
-ogImage: /images/nz-education-comparison-og.jpg
 draft: false
 hideFromHome: true
 

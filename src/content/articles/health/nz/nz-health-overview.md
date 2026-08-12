@@ -26,7 +26,6 @@ keywords:
   - "中文服务"
   - "大陆人就医"
 chineseServiceAvailable: true
-ogImage: "/images/fr-labor-policy-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国教育\", \"教育部\", \"机构沿革\", \"文教部\", \"教育改革\", \"教育法\"]"
 keywords: "[\"韩国教育部\", \"文教部\", \"教育政策\", \"机构改组\", \"教育法修订\", \"韩国教育史\"]"
 chineseServiceAvailable: true
-ogImage: "/images/faq-my-health-2026.jpg"
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚贸易委员会\", \"澳大利亚边境执法局\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/au-trade-functions-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->

@@ -13,6 +13,7 @@ keywords: "[\"国家卫健委\", \"医保局\", \"办事指南\", \"预约方式
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/cn-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

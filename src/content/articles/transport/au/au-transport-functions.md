@@ -23,7 +23,6 @@ keywords:
   - "运输监管"
   - "2026改革"
 chineseServiceAvailable: true
-ogImage: /images/au-transport-functions-2026.jpg
 draft: false
 
 ---

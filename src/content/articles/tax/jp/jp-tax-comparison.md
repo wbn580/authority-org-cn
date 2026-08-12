@@ -31,6 +31,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/jp-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340 -->

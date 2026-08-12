@@ -21,7 +21,6 @@ keywords:
   - "劳动合同越南"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/faq-my-labor-2026.jpg"
 draft: false
 
 ---

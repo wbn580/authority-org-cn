@@ -26,7 +26,6 @@ keywords:
   - "大陆人法律接触"
   - "司法效率指标"
 chineseServiceAvailable: 日本法务省不设中文服务专窗，但部分出入境及在留手续可通过法务省入国管理局官网（日/英/中/韩）提交；韩国法务部出入境外国人政策本部提供中文版表格；德国联邦司法部无中文服务；新加坡律政部官网仅英文。
-ogImage: /images/og-jp-legal-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

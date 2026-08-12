@@ -13,6 +13,7 @@ keywords: "[\"加拿大教育部\", \"加拿大教育主管部门\", \"办公地
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-education-contact_guide-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

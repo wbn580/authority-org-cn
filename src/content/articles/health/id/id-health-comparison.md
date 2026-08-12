@@ -31,7 +31,6 @@ keywords:
   - "中国公民就医"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/indonesia-health-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

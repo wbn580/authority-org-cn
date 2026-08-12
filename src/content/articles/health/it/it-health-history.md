@@ -13,6 +13,7 @@ keywords: "[\"意大利卫生部\", \"Ministero della Salute\", \"SSN\", \"医�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-health-history-2026-1880x1253.jpg"
 ---
 
 

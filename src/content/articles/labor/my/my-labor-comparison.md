@@ -27,7 +27,6 @@ keywords:
   - "大陆人接触度"
   - "劳动法执行差异"
 chineseServiceAvailable: true
-ogImage: /images/comparison-my-labor-departments-2026.jpg
 draft: false
 hideFromHome: true
 

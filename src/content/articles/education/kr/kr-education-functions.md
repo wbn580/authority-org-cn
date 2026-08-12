@@ -24,7 +24,6 @@ keywords:
   - "教育政策执行"
   - "跨部门协调"
 chineseServiceAvailable: true
-ogImage: "/images/fr-legal-guide-2026.jpg"
 draft: false
 
 ---

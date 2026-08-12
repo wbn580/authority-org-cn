@@ -31,7 +31,6 @@ keywords:
   - "透明度"
   - "制度差异"
 chineseServiceAvailable: 越南MOLISA部分业务提供中文服务；新加坡MOM提供中文服务；韩国MOEL部分业务提供中文服务；德国BMAS无中文服务；澳大利亚FWC无中文服务。
-ogImage: /images/vn-labor-comparison-2026.png
 draft: false
 hideFromHome: true
 

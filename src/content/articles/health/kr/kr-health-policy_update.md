@@ -25,7 +25,6 @@ keywords:
   - "2026政策"
   - "大陆人医保"
 chineseServiceAvailable: true
-ogImage: /images/kr-health-2026-policy-update.webp
 draft: false
 
 ---

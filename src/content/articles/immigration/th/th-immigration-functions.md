@@ -27,7 +27,6 @@ keywords:
   - "泰国移民执法机制"
   - "中文服务"
 chineseServiceAvailable: 是
-ogImage: /images/th-immigration-functions-2026.jpg
 draft: false
 
 ---

@@ -25,7 +25,6 @@ keywords:
   - "投诉申诉"
   - "大陆申请人"
 chineseServiceAvailable: true
-ogImage: /images/og/ca-immigration-guide-2026.jpg
 draft: false
 
 ---

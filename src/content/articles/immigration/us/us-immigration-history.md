@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国移民局\", \"USCIS\", \"机构沿革\", \"签证政策\", \"移民法改革\"]"
 keywords: "[\"美国移民局历史\", \"USCIS成立\", \"移民法演变\", \"签证主管部门\", \"国土安全部\"]"
 chineseServiceAvailable: true
-ogImage: "/images/es-legal-comparison-2026-og.png"
 draft: false
 
 ---

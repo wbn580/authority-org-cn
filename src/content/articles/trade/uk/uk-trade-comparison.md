@@ -30,6 +30,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/uk-trade-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

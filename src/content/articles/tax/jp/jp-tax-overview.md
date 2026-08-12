@@ -25,7 +25,6 @@ keywords:
   - "中文税务服务"
   - "在日中国人税务"
 chineseServiceAvailable: true
-ogImage: "/images/og/ca-immigration-guide-2026.jpg"
 draft: false
 
 ---

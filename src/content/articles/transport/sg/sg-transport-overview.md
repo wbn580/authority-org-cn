@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新加坡交通\", \"新加坡民航\", \"陆路交通管理局\", \"新加坡民航局\", \"LTA\", \"CAAS\", \"交通管理\", \"民航监管\"]"
 keywords: "[\"新加坡交通主管部门\", \"新加坡民航主管部门\", \"陆路交通管理局 LTA\", \"新加坡民航局 CAAS\", \"新加坡交通法规\", \"新加坡驾照\", \"新加坡航空安全\", \"新加坡公共交通\"]"
 chineseServiceAvailable: true
-ogImage: "/images/il-finance-2026-og.jpg"
 draft: false
 
 ---

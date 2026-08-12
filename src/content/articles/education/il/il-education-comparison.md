@@ -32,6 +32,7 @@ chineseServiceAvailable: 以色列教育部官方网站提供英文界面，部�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/il-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

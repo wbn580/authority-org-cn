@@ -23,8 +23,10 @@ if (Array.isArray(_d.tags) && _d.tags.length) { _articleSchema.keywords = _d.tag
 const _websiteSchema = { "@context": "https://schema.org", "@type": "WebSite", name: _SITE_NAME, url: _siteUrl };
 const title = frontmatter.title;
 const description = frontmatter.description;
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+
 ---
-<BaseLayout title={title} description={description}>
+<BaseLayout ogImage={_ogImageProp} title={title} description={description}>
   <script type="application/ld+json" set:html={JSON.stringify(_articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(_websiteSchema)} />
   <article class="max-w-article mx-auto px-4 py-10">

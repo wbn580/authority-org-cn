@@ -25,7 +25,6 @@ keywords:
   - "跨境电商合规"
   - "支付机构监管"
 chineseServiceAvailable: 是
-ogImage: /images/og/de-finance-faq-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "航空申诉机制"
   - "大陆人接触度"
 chineseServiceAvailable: true
-ogImage: /images/comparison-cn-transport-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

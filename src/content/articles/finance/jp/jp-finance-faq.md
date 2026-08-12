@@ -13,6 +13,7 @@ keywords: "[\"日本央行联系方式\", \"金融厅中文服务\", \"外汇报
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-finance-faq-2026-1880x1253.jpg"
 ---
 
 

@@ -27,7 +27,6 @@ keywords:
   - "台湾教育制度"
   - "教育部职能"
 chineseServiceAvailable: false
-ogImage: /images/tw-education-history-og.jpg
 draft: false
 
 ---

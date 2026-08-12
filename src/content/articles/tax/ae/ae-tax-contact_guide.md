@@ -27,7 +27,6 @@ keywords:
   - "税务罚款减免"
   - "大陆人阿联酋税务"
 chineseServiceAvailable: true
-ogImage: "/images/hk-transport-history-og.jpg"
 draft: false
 
 ---

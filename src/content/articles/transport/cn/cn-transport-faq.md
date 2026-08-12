@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[民航, 交通, FAQ, 中国, CAAC, 航班延误, 空域管理, 投诉流程, 费用标准, 2026]"
 keywords: "[中国民航, 航班延误赔偿, 空域管理, CAAC投诉, 行李限额, 飞行安全, 中文服务, 2026]"
 chineseServiceAvailable: true
-ogImage: "/images/og/de-tax-overview.jpg"
 draft: false
 
 ---

@@ -31,7 +31,6 @@ keywords:
   - "供应链审查"
   - "海关合规"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/id-finance-multilateral-2026.jpg"
 draft: false
 
 ---

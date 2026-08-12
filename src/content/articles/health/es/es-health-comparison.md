@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙卫生系统\", \"德国卫生系统\", \"法国卫生系统\", \"英国NHS\", \"意大利卫生系统\", \"跨国比较\", \"卫生监管\", \"数字化医疗\"]"
 keywords: "[\"西班牙卫生部\", \"德国联邦卫生部\", \"法国卫生与预防部\", \"英国卫生与社会保障部\", \"意大利卫生部\", \"卫生系统比较\", \"大陆人接触度\", \"申诉机制\"]"
 chineseServiceAvailable: true
-ogImage: /images/comparison/es-health-comparison-og.png
 draft: false
 hideFromHome: true
 

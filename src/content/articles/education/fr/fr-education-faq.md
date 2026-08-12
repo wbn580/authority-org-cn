@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/fr-education-faq-2026-1880x869.jpg"
 ---
 
 

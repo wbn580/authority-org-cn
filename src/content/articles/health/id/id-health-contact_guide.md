@@ -25,7 +25,7 @@ keywords:
   - "印尼医保费用2026"
   - "大陆人印尼医保"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Indonesia+Health+Authority+Guide+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

@@ -35,7 +35,6 @@ keywords:
   - "金融申诉机制"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/comparison-ch-finance-2026.jpg
 draft: false
 hideFromHome: true
 

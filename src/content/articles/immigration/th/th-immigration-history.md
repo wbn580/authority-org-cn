@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国移民局\", \"Immigration Bureau\", \"泰国签证\", \"机构沿革\", \"皇家警察厅\", \"外国人管理\", \"泰国法律\"]"
 keywords: "[\"泰国移民局历史\", \"泰国签证政策改革\", \"移民局职能\", \"外国人登记\", \"泰国入境法\"]"
 chineseServiceAvailable: true
-ogImage: "/images/uk-education-overview-og.png"
 draft: false
 
 ---

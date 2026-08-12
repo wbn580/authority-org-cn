@@ -26,7 +26,6 @@ keywords:
   - "公立医院费用"
   - "药品注册"
 chineseServiceAvailable: true
-ogImage: /images/faq-my-health-2026.jpg
 draft: false
 
 ---

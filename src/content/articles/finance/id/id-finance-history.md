@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印度尼西亚\", \"中央银行\", \"金融监管\", \"机构沿革\", \"OJK\", \"Bank Indonesia\", \"法律改革\"]"
 keywords: "[\"印度尼西亚中央银行沿革\", \"印尼金融监管机构改组\", \"OJK成立\", \"1999年印尼央行法\", \"金融改革事件\"]"
 chineseServiceAvailable: false
-ogImage: "/images/faq-mo-transport-2026.jpg"
 draft: false
 
 ---

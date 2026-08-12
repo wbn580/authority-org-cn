@@ -25,7 +25,6 @@ keywords:
   - "跨境电商监管"
   - "大陆企业影响"
 chineseServiceAvailable: true
-ogImage: /images/indonesia-trade-policy-2026.jpg
 draft: false
 
 ---

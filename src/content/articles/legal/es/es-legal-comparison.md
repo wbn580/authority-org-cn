@@ -33,7 +33,6 @@ keywords:
   - "司法问责"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/es-legal-comparison-2026-og.png
 draft: false
 hideFromHome: true
 

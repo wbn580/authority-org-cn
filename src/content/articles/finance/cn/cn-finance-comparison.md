@@ -31,7 +31,6 @@ keywords:
   - "监管透明度"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: "/images/kr-moel-overview-2026.png"
 draft: false
 hideFromHome: true
 

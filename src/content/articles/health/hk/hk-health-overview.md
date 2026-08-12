@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-health-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目 -->

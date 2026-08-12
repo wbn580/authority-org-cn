@@ -22,7 +22,6 @@ keywords:
   - "数字治理"
   - "未来展望"
 chineseServiceAvailable: true
-ogImage: /images/us-dol-history-og.png
 draft: false
 
 ---

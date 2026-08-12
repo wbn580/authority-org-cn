@@ -25,7 +25,6 @@ keywords:
   - "误区澄清"
   - "2026年"
 chineseServiceAvailable: true
-ogImage: /images/kr-education-faq-og.jpg
 draft: false
 
 ---

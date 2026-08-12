@@ -24,7 +24,6 @@ keywords:
   - "泰国中文服务"
   - "泰国劳动法"
 chineseServiceAvailable: true
-ogImage: "/images/ph-finance-overview-2026.png"
 draft: false
 
 ---

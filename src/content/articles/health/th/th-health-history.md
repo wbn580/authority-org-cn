@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国\", \"公共卫生\", \"医保\", \"机构沿革\", \"MOPH\", \"NHSO\", \"全民健康覆盖\"]"
 keywords: "[\"泰国公共卫生部\", \"泰国医保\", \"MOPH\", \"NHSO\", \"泰国健康体系改革\"]"
 chineseServiceAvailable: true
-ogImage: "/images/nl-financial-regulatory-update-2024-2026.jpg"
 draft: false
 
 ---

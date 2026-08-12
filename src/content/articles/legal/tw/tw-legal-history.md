@@ -13,6 +13,7 @@ keywords: "[\"中国台湾司法\", \"法务主管部门\", \"机构改革\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-legal-history-2026-1880x1255.jpg"
 ---
 
 

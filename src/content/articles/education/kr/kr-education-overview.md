@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "中国大陆"
 chineseServiceAvailable: true
-ogImage: /images/og/kr-education-overview.png
 draft: false
 
 ---

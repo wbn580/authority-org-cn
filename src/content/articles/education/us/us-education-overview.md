@@ -26,7 +26,6 @@ keywords:
   - "Title IV"
   - "2026教育预算"
 chineseServiceAvailable: 有限
-ogImage: /images/og/us-education-overview.jpg
 draft: false
 
 ---

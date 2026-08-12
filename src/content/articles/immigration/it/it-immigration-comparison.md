@@ -27,7 +27,6 @@ keywords:
   - "跨国对比"
   - "行政透明度"
 chineseServiceAvailable: true
-ogImage: /images/comparison/it-de-fr-es-immigration-2026.png
 draft: false
 hideFromHome: true
 

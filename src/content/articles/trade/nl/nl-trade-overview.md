@@ -13,6 +13,7 @@ keywords: "[\"荷兰企业局\", \"荷兰海关\", \"贸易主管部门\", \"海
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nl-trade-overview-2026-1880x1111.jpg"
 ---
 
 

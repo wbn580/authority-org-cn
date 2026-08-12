@@ -24,7 +24,6 @@ keywords:
   - "教育数字化"
   - "教育透明度"
 chineseServiceAvailable: true
-ogImage: /images/og-education-compare-cn.jpg
 draft: false
 hideFromHome: true
 

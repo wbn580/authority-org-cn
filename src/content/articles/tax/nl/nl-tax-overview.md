@@ -30,7 +30,6 @@ keywords:
   - "30% ruling"
   - "荷兰税务动态"
 chineseServiceAvailable: true
-ogImage: /images/nl-tax-authority-overview-2026.jpg
 draft: false
 
 ---

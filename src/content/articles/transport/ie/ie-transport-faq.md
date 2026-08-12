@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰交通主管部门\", \"爱尔兰民航局\", \"爱尔兰
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-transport-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年日本留学一年学费加生活费要多少钱 -->

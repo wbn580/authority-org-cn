@@ -13,6 +13,7 @@ keywords: "[\"中国台湾教育主管部门\", \"教育部核心职能\", \"台
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-education-functions-2026-1880x869.jpg"
 ---
 
 

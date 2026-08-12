@@ -29,7 +29,6 @@ keywords:
   - "越南最低工资标准2026"
   - "劳动荣军社会部"
 chineseServiceAvailable: true
-ogImage: /images/vn-labor-policy-2024-2026.jpg
 draft: false
 
 ---

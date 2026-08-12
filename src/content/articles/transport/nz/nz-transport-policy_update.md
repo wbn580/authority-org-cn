@@ -21,7 +21,6 @@ keywords:
   - "航空安全"
   - "大陆人出行"
 chineseServiceAvailable: true
-ogImage: /images/og-nz-transport-2026.jpg
 draft: false
 
 ---

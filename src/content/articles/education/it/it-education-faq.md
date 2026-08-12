@@ -13,6 +13,7 @@ keywords: "[\"意大利教育部FAQ\", \"意大利学历认证流程\", \"意大
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

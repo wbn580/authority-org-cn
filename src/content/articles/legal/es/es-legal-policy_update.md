@@ -13,6 +13,7 @@ keywords: "[\"西班牙司法部\", \"LOPDGDD\", \"电子司法\", \"数据保�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/es-legal-policy_update-2026-1880x1255.jpg"
 ---
 # 西班牙司法与法务主管部门政策更新追踪（2026-2026）
 

@@ -28,7 +28,6 @@ keywords:
   - "商业法院"
   - "家庭法院"
 chineseServiceAvailable: true
-ogImage: /images/ae-legal-functions-2026.jpg
 draft: false
 
 ---

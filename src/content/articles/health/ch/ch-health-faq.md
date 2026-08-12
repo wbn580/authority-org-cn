@@ -22,7 +22,7 @@ keywords:
   - "报销流程"
   - "免赔额"
 chineseServiceAvailable: true
-ogImage: "https://www.bag.admin.ch/dam/bag/images/logo-bag.svg"
+ogImage: "https://authority.org.cn/og-default.svg"
 draft: false
 
 ---

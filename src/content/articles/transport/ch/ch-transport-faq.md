@@ -24,7 +24,6 @@ keywords:
   - "瑞士航空延误赔偿"
   - "瑞士交通局中文服务"
 chineseServiceAvailable: true
-ogImage: /images/swiss-transport-faq-2026.webp
 draft: false
 
 ---

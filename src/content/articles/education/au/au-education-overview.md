@@ -29,7 +29,6 @@ keywords:
   - "教育政策"
   - "2026"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-mo-sg-pt-hk-health.jpg"
 draft: false
 
 ---

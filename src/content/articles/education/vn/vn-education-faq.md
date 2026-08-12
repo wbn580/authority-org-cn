@@ -13,6 +13,7 @@ keywords: "[\"越南教育部联系方式\", \"越南学历认证流程\", \"留
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/vn-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

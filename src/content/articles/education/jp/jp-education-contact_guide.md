@@ -21,7 +21,6 @@ keywords:
   - "中文服务日本教育"
   - "留学生申诉"
 chineseServiceAvailable: true
-ogImage: /images/jp-education-guide-2026.jpg
 draft: false
 
 ---

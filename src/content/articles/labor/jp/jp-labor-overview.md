@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"日本\", \"厚生劳动省\", \"MHLW\", \"劳动法\", \"就业政策\", \"外国人雇佣\", \"工作签证\"]"
 keywords: "[\"日本厚生劳动省\", \"日本劳动法\", \"日本就业政策\", \"外国人劳动者\", \"技能实习\", \"特定技能\", \"2026年日本劳动改革\", \"中国大陆人士日本就业\"]"
 chineseServiceAvailable: true
-ogImage: "/images/il-finance-2026-og.jpg"
 draft: false
 
 ---

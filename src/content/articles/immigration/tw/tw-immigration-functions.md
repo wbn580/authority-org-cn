@@ -29,7 +29,6 @@ keywords:
   - "2025年修正"
   - "中文服务"
 chineseServiceAvailable: 是
-ogImage: /images/tw-immigration-functions-2026.jpg
 draft: false
 
 ---

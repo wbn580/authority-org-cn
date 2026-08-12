@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"瑞士\", \"司法部\", \"联邦司法警察部\", \"FDJP\", \"法律体系\", \"立法\"]"
 keywords: "[\"瑞士司法部\", \"FDJP\", \"瑞士法律\", \"联邦司法警察部\", \"瑞士法院\", \"瑞士立法\"]"
 chineseServiceAvailable: true
-ogImage: "https://www.admin.ch/gov/en/start/federal-authorities/departments/federal-department-of-justice-and-police.html"
+ogImage: "https://authority.org.cn/og-default.svg"
 draft: false
 
 ---

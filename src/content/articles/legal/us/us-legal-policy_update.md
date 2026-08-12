@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/us-legal-policy_update-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

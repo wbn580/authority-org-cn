@@ -33,7 +33,6 @@ keywords:
   - "数字经济税"
   - "税务优惠"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-de-labor-authorities-2026.jpg"
 draft: false
 
 ---

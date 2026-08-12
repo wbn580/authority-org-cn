@@ -25,7 +25,6 @@ keywords:
   - "菲律宾航空法规"
   - "中文服务"
 chineseServiceAvailable: 是
-ogImage: /images/ph-transport-guide-2026.jpg
 draft: false
 
 ---

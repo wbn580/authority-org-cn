@@ -23,7 +23,6 @@ keywords:
   - "CMS规则"
   - "通胀削减法案"
 chineseServiceAvailable: true
-ogImage: /images/us-health-policy-2026-og.jpg
 draft: false
 
 ---

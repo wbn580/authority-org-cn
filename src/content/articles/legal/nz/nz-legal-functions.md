@@ -25,7 +25,6 @@ keywords:
   - "法律援助改革"
   - "2026年司法调整"
 chineseServiceAvailable: true
-ogImage: /images/nz-legal-functions-2026.jpg
 draft: false
 
 ---

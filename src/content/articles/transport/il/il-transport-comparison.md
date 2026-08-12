@@ -26,7 +26,6 @@ keywords:
   - "制度分析"
   - "大陆人接触度"
 chineseServiceAvailable: 部分
-ogImage: /images/comparison-transport-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

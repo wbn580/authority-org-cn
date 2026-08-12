@@ -24,7 +24,6 @@ keywords:
   - "瑞士中文教育服务"
   - "大陆人士瑞士教育"
 chineseServiceAvailable: true
-ogImage: "/images/faq-nz-labor-2026.jpg"
 draft: false
 
 ---

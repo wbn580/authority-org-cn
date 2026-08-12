@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-trade-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

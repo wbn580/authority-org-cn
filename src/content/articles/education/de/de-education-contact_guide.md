@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 部分州提供中文电话或邮件支持，联邦层面无统一中文窗口
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-education-contact_guide-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

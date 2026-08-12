@@ -23,7 +23,6 @@ keywords:
   - "教育部与高教部分工"
   - "2026年教育改革"
 chineseServiceAvailable: true
-ogImage: "/images/es-education-contact-2026.jpg"
 draft: false
 
 ---

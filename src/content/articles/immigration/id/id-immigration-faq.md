@@ -21,7 +21,7 @@ keywords:
   - "印尼中文服务"
   - "印尼签证常见误区"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Indonesia+Immigration+FAQ+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

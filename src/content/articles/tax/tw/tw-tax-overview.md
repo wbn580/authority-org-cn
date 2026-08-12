@@ -25,7 +25,6 @@ keywords:
   - "两岸租税协议"
   - "2026年台湾税务动态"
 chineseServiceAvailable: true
-ogImage: /images/tw-tax-authority-overview-2026.jpg
 draft: false
 
 ---

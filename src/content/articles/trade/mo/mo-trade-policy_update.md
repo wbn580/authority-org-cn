@@ -24,7 +24,6 @@ keywords:
   - "跨境电子商务"
   - "大陆居民澳门通关"
 chineseServiceAvailable: true
-ogImage: "/images/es-immigration-faq-2026.jpg"
 draft: false
 
 ---

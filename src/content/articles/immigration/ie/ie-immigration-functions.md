@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: 是（有限度）
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-immigration-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

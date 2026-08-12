@@ -27,7 +27,6 @@ keywords:
   - "就业服务改革"
   - "荷兰劳工法"
 chineseServiceAvailable: true
-ogImage: /images/nl-labor-history-og.png
 draft: false
 
 ---

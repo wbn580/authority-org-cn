@@ -13,6 +13,7 @@ keywords: "[\"日本教育主管部门\", \"文部科学省FAQ\", \"日本留学
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

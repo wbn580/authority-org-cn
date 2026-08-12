@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国贸易\", \"韩国海关\", \"产业通商资源部\", \"关税厅\", \"贸易救济\", \"FTA执行\"]"
 keywords: "[\"韩国贸易主管部门\", \"韩国海关职能\", \"产业通商资源部\", \"关税法\", \"对外贸易法\", \"贸易救济\", \"FTA原产地管理\", \"2026韩国贸易政策\"]"
 chineseServiceAvailable: true
-ogImage: /images/kr-trade-customs-functions-2026.jpg
 draft: false
 
 ---

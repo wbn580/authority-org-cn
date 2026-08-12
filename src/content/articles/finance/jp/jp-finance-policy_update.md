@@ -13,6 +13,7 @@ keywords: "[\"日本央行政策\",\"金融厅监管\",\"2024-2026\",\"利率变
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->

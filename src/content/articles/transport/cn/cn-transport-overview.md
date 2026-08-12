@@ -13,6 +13,7 @@ keywords: "[\"中国民用航空局\", \"CAAC职能\", \"民航法规\", \"2026�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/cn-transport-overview-2026-1880x1253.jpg"
 ---
 
 

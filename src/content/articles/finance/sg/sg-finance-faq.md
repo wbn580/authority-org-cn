@@ -13,6 +13,7 @@ keywords: "[\"新加坡央行\", \"MAS联系方式\", \"金融监管机构\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/sg-finance-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

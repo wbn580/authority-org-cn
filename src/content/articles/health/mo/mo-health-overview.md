@@ -26,7 +26,6 @@ keywords:
   - "SSM contact"
   - "澳门医疗体系"
 chineseServiceAvailable: true
-ogImage: /images/og/mo-health-ssm-overview-2026.jpg
 draft: false
 
 ---

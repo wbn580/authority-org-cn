@@ -26,7 +26,6 @@ keywords:
   - "透明度"
   - "大陆人接触度"
 chineseServiceAvailable: 爱尔兰交通部及民航局官方网站提供英文服务，未设中文界面；部分道路安全资料可通过第三方机构获取中文摘要。
-ogImage: /images/ie-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

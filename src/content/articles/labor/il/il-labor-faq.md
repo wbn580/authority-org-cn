@@ -25,7 +25,6 @@ keywords:
   - "劳动投诉"
   - "中文服务以色列"
 chineseServiceAvailable: true
-ogImage: /images/faq-il-labor-2026.png
 draft: false
 
 ---

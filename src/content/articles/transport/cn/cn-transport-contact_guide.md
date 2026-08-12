@@ -28,7 +28,6 @@ keywords:
   - "12326"
   - "大陆人办事"
 chineseServiceAvailable: true
-ogImage: "/images/cn-education-policy-2024-2026.jpg"
 draft: false
 
 ---

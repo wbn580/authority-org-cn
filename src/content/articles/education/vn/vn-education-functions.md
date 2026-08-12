@@ -23,7 +23,6 @@ keywords:
   - "越南教育行政"
   - "2026年越南教育"
 chineseServiceAvailable: 是
-ogImage: "/images/ie-cbi-contact-guide-2026.webp"
 draft: false
 
 ---

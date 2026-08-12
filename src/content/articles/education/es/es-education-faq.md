@@ -13,6 +13,7 @@ keywords: "[\"西班牙教育部\", \"学历认证\", \"留学西班牙\", \"UNE
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/es-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

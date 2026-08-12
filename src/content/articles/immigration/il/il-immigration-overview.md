@@ -28,7 +28,6 @@ keywords:
   - "以色列法律"
   - "以色列国籍"
 chineseServiceAvailable: 是
-ogImage: /images/og-israel-immigration-authority-overview-2026.jpg
 draft: false
 
 ---

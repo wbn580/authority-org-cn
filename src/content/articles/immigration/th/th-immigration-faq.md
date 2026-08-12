@@ -13,6 +13,7 @@ keywords: "[\"泰国签证费用\", \"泰国移民局联系方式\", \"泰国签
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/th-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

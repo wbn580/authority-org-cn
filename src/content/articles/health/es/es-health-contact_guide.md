@@ -25,7 +25,6 @@ keywords:
   - "投诉申诉"
   - "语言协助"
 chineseServiceAvailable: true
-ogImage: /images/es-health-guide-2026.jpg
 draft: false
 
 ---

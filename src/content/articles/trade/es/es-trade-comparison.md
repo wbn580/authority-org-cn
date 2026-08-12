@@ -14,6 +14,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/es-trade-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->

@@ -25,7 +25,6 @@ keywords:
   - "大陆人韩国报税"
   - "韩国税务处理时效"
 chineseServiceAvailable: true
-ogImage: "/images/faq-my-labor-2026.jpg"
 draft: false
 
 ---

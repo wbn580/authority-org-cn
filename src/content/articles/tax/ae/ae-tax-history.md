@@ -26,7 +26,6 @@ keywords:
   - "税务机构演变"
   - "阿联酋税务未来"
 chineseServiceAvailable: 是
-ogImage: /images/ae-fta-history-og.png
 draft: false
 
 ---

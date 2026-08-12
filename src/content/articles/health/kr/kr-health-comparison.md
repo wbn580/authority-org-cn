@@ -26,7 +26,6 @@ keywords:
   - "数字化医疗"
   - "申诉机制"
 chineseServiceAvailable: 韩国保健福祉部提供中文服务，包括网站中文版、电话咨询及部分文件翻译；美国卫生与公众服务部、日本厚生劳动省、德国联邦卫生部及英国卫生与社会保障部均提供有限中文服务，主要依赖第三方翻译或大使馆协助。
-ogImage: /images/health-comparison-kr-2026.jpg
 draft: false
 hideFromHome: true
 

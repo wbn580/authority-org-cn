@@ -26,7 +26,6 @@ keywords:
   - "泰国签证表格"
   - "泰国移民局投诉"
 chineseServiceAvailable: true
-ogImage: /images/th-immigration-guide-2026.jpg
 draft: false
 
 ---

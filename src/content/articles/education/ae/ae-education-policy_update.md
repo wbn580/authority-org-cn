@@ -29,7 +29,6 @@ keywords:
   - "未来展望"
   - "教育主管部门"
 chineseServiceAvailable: true
-ogImage: "/images/faq-nz-labor-2026.jpg"
 draft: false
 
 ---

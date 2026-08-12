@@ -26,7 +26,6 @@ keywords:
   - "税务投诉"
   - "大陆居民澳洲税务"
 chineseServiceAvailable: true
-ogImage: "/images/og-es-immigration-overview-2026.jpg"
 draft: false
 
 ---

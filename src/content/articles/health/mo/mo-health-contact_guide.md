@@ -23,7 +23,6 @@ keywords:
   - "澳门卫生中心预约"
   - "澳门投诉医疗"
 chineseServiceAvailable: true
-ogImage: /images/mo-health-guide-2026.jpg
 draft: false
 
 ---

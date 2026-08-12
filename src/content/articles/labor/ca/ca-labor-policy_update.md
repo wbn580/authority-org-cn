@@ -29,7 +29,6 @@ keywords:
   - "临时外劳计划"
   - "就业保险改革"
 chineseServiceAvailable: true
-ogImage: "/images/uk-trade-faq-2026.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "大陆居民澳门金融业务"
   - "澳门金融监管费用"
 chineseServiceAvailable: 是
-ogImage: /images/og-mo-finance-guide-2026.jpg
 draft: false
 
 ---

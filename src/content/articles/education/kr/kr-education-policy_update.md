@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"韩国教育部\", \"国际学生政策\", \"Study in Korea\", \"签证改革\", \"财政支持\"]"
 keywords: "[\"韩国教育政策更新\", \"国际学生招生\", \"D-2签证\", \"财政支持\", \"中国大陆学生影响\"]"
 chineseServiceAvailable: true
-ogImage: "/images/us-health-policy-2026-og.jpg"
 draft: false
 
 ---

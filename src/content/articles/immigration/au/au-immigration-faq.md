@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚签证\",\"移民FAQ\",\"内政部\",\"处理时间\",\"费用\",\"中文服务\"]"
 keywords: "[\"澳大利亚移民局联系方式\",\"签证处理时间2026\",\"签证费用2026\",\"中文服务\",\"常见误区\"]"
 chineseServiceAvailable: true
-ogImage: /images/au-immigration-faq-2026.jpg
 draft: false
 
 ---

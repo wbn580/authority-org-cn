@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙\", \"交通\", \"民航\", \"MITMA\", \"AESA\", \"ENAIRE\", \"职能\"]"
 keywords: "[\"西班牙交通部\", \"民航局\", \"AESA\", \"ENAIRE\", \"交通职能\", \"2024-2026调整\"]"
 chineseServiceAvailable: false
-ogImage: /images/es-transport-functions-2026.jpg
 draft: false
 
 ---

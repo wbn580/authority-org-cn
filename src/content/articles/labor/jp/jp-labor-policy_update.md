@@ -26,7 +26,6 @@ keywords:
   - "外国人就业政策日本"
   - "大陆人日本工作"
 chineseServiceAvailable: true
-ogImage: /images/japan-labor-policy-2024-2026.jpg
 draft: false
 
 ---

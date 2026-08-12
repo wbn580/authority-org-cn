@@ -25,7 +25,7 @@ keywords:
   - "阿联酋车辆年检费用"
   - "中国大陆居民阿联酋驾照"
 chineseServiceAvailable: true
-ogImage: "https://www.u.ae/-/media/images/uae/uae-map.ashx"
+ogImage: "https://authority.org.cn/og-default.svg"
 draft: false
 
 ---

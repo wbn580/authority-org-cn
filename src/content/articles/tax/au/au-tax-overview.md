@@ -21,7 +21,6 @@ keywords:
   - "大陆居民澳洲税务"
   - "税务代理"
 chineseServiceAvailable: true
-ogImage: "/images/us-trade-contact-guide-2026.webp"
 draft: false
 
 ---

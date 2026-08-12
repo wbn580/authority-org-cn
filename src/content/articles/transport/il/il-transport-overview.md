@@ -25,7 +25,6 @@ keywords:
   - "以色列2024交通改革"
   - "以色列2025民航安全"
 chineseServiceAvailable: 有限
-ogImage: /images/il-transport-overview-og.jpg
 draft: false
 
 ---

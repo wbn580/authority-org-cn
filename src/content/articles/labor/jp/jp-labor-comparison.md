@@ -27,7 +27,6 @@ keywords:
   - "劳动部门透明度比较"
   - "劳动监察数字化"
 chineseServiceAvailable: true
-ogImage: /images/comparison/jp-labor-2026-05-23.jpg
 draft: false
 hideFromHome: true
 

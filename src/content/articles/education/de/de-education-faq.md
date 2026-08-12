@@ -13,6 +13,7 @@ keywords: "[\"德国教育主管部门FAQ\", \"德国留学申请流程\", \"德
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

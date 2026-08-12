@@ -27,7 +27,6 @@ keywords:
   - "跨境税务协调"
   - "2026 CRA调整"
 chineseServiceAvailable: true
-ogImage: /images/ca-tax-functions-2026.jpg
 draft: false
 
 ---

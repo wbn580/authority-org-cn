@@ -38,7 +38,6 @@ keywords:
   - "跨国对比"
   - "制度差异"
 chineseServiceAvailable: false
-ogImage: "/images/comparison-kr-immigration-2026.jpg"
 draft: false
 hideFromHome: true
 

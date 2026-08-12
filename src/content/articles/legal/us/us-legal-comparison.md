@@ -23,7 +23,6 @@ keywords:
   - "数字化司法"
   - "申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/comparison/us-legal-multi-country-2026.png
 draft: false
 hideFromHome: true
 

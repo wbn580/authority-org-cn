@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"中国移民\", \"机构沿革\", \"出入境管理\", \"国家移民管理局\", \"公安出入境\", \"签证政策\", \"移民改革\"]"
 keywords: "[\"中国移民主管部门\", \"国家移民管理局历史\", \"出入境管理局\", \"机构改革\", \"外国人永久居留\", \"签证政策演变\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og/indonesia-labor-policy-2026.jpg"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[西班牙, 劳工部门, 就业服务, SEPE, TGSS, 办事指南, 2026]"
 keywords: "[西班牙劳工局, SEPE联系方式, TGSS地址, 西班牙就业服务, 大陆人西班牙工作, 中文服务西班牙]"
 chineseServiceAvailable: true
-ogImage: /images/es-labor-guide-2026.jpg
 draft: false
 
 ---

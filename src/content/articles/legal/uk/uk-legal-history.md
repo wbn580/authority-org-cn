@@ -13,6 +13,7 @@ keywords: "[\"英国司法部沿革\", \"大法官部历史\", \"2005年宪法�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/uk-legal-history-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->

@@ -25,7 +25,6 @@ keywords:
   - "中文服务可用性"
   - "大陆人实操影响"
 chineseServiceAvailable: true
-ogImage: /images/us-dot-faa-overview-2026.jpg
 draft: false
 
 ---

@@ -33,6 +33,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-trade-overview-2026-1880x1111.jpg"
 ---
 
 

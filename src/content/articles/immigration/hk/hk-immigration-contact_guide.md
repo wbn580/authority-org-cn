@@ -24,7 +24,6 @@ keywords:
   - "费用标准"
   - "投诉申诉"
 chineseServiceAvailable: true
-ogImage: /images/hk-immigration-guide-2026.jpg
 draft: false
 
 ---

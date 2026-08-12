@@ -25,7 +25,6 @@ keywords:
   - "居留许可延期"
   - "签证逾期罚款"
 chineseServiceAvailable: true
-ogImage: /images/ae-immigration-faq-2026.jpg
 draft: false
 
 ---

@@ -26,7 +26,6 @@ keywords:
   - "制度差异"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/uk-transport-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

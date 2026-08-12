@@ -13,6 +13,7 @@ keywords: "[\"以色列教育部\", \"高等教育委员会\", \"课程改革\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-education-policy_update-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

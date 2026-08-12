@@ -13,6 +13,7 @@ keywords: "[\"香港入境事务处\", \"香港移民局\", \"香港签证\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->

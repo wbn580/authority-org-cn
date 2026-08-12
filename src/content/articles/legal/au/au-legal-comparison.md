@@ -34,6 +34,7 @@ chineseServiceAvailable: 澳大利亚司法部官网提供简体中文版关键�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/au-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

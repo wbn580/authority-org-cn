@@ -27,7 +27,6 @@ keywords:
   - "韩国移民法"
   - "韩国法律中文服务"
 chineseServiceAvailable: true
-ogImage: /images/og-kr-legal-overview.jpg
 draft: false
 
 ---

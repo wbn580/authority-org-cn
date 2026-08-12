@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[德国央行, 德国金融监管, BaFin, 银行开户, 金融牌照, 投诉申诉, 中文服务]"
 keywords: "[德国央行联系方式, BaFin地址, 金融监管预约, 表格清单, 费用标准, 中文服务, 大陆人指南]"
 chineseServiceAvailable: true
-ogImage: /images/de-finance-guide-2026.png
 draft: false
 
 ---

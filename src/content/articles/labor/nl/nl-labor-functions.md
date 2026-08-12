@@ -24,7 +24,6 @@ keywords:
   - "社会保障"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/og-nl-labor-2026.jpg
 draft: false
 
 ---

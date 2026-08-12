@@ -27,7 +27,6 @@ keywords:
   - "中文服务"
   - "移民制度差异"
 chineseServiceAvailable: true
-ogImage: /images/comparison/uk-visa-authorities-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

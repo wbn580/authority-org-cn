@@ -23,7 +23,6 @@ keywords:
   - "中文驾照考试"
   - "以色列交通罚款"
 chineseServiceAvailable: true
-ogImage: /images/il-transport-faq-2026.jpg
 draft: false
 
 ---

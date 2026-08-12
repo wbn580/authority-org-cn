@@ -13,6 +13,7 @@ keywords: "[\"香港入境事务处职能\", \"香港签证审批\", \"香港入
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-immigration-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->

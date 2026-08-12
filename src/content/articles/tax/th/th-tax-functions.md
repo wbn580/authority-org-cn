@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国税务\", \"Revenue Department\", \"企业所得税\", \"个人所得税\", \"增值税\", \"税收征管\", \"税收协定\"]"
 keywords: "[\"泰国税务厅\", \"Revenue Code\", \"税收职能\", \"泰国税法\", \"税务审计\", \"泰国2026\"]"
 chineseServiceAvailable: true
-ogImage: "/images/us-dol-functions-2026.jpg"
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "工资拖欠申诉"
   - "中文劳动咨询"
 chineseServiceAvailable: true
-ogImage: /images/og-kr-labor-faq-2026.jpg
 draft: false
 
 ---

@@ -31,7 +31,6 @@ keywords:
   - "以色列银行监管局"
   - "以色列金融稳定"
 chineseServiceAvailable: 以色列央行、证券局、资本市场管理局均提供英文网站及部分中文文件；中文服务有限，建议通过授权代理或律师事务所获取中文协助。
-ogImage: /images/il-finance-2026-og.jpg
 draft: false
 
 ---

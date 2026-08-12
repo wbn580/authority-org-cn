@@ -13,6 +13,7 @@ keywords: "[\"以色列央行政策\", \"以色列金融监管\", \"2024年政�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 

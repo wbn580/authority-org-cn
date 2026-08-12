@@ -23,7 +23,6 @@ keywords:
   - "电子税务服务"
   - "2026年菲律宾税法"
 chineseServiceAvailable: 是
-ogImage: /images/ph-bir-functions-2026.jpg
 draft: false
 
 ---

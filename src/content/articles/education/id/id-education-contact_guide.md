@@ -25,7 +25,7 @@ keywords:
   - "印尼教育投诉渠道"
   - "中国大陆人士 印尼教育"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=ID+Education+Contact+Guide+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

@@ -22,7 +22,6 @@ keywords:
   - "菲律宾学生签证"
   - "大陆人教育事务"
 chineseServiceAvailable: 部分中文服务
-ogImage: /images/ph-education-contact-guide-2026.jpg
 draft: false
 
 ---

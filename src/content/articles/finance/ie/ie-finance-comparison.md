@@ -27,7 +27,6 @@ keywords:
   - "金融数字化服务"
   - "金融申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/comparison-ie-finance-regulators-2026.jpg
 draft: false
 hideFromHome: true
 

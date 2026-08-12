@@ -23,7 +23,6 @@ keywords:
   - "外国人金融业务办理"
   - "韩国银行中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/health-comparison-kr-2026.jpg"
 draft: false
 
 ---

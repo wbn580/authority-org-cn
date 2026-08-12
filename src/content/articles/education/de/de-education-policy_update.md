@@ -13,6 +13,7 @@ keywords: "[\"德国教育\", \"政策更新\", \"2024\", \"2025\", \"2026\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-education-policy_update-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "大陆人税务影响"
 chineseServiceAvailable: true
-ogImage: "/images/il-finance-2026-og.jpg"
 draft: false
 
 ---

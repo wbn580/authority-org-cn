@@ -13,6 +13,7 @@ keywords: "[\"新西兰税务局\", \"IRD联系方式\", \"税务居民测试\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nz-tax-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

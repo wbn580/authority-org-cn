@@ -25,7 +25,6 @@ keywords:
   - "组织架构"
   - "中文服务"
 chineseServiceAvailable: 有限
-ogImage: /images/ie-education-overview-og.png
 draft: false
 
 ---

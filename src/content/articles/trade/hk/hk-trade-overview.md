@@ -13,6 +13,7 @@ keywords: "[\"香港工业贸易署\", \"香港海关\", \"贸易管制\", \"进
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-trade-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

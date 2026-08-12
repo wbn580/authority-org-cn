@@ -29,7 +29,6 @@ keywords:
   - "2024年金融监管法案"
   - "荷兰金融监管改革"
 chineseServiceAvailable: true
-ogImage: /images/nl-financial-regulators-2026.jpg
 draft: false
 
 ---

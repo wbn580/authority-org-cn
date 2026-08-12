@@ -28,7 +28,6 @@ keywords:
   - "申诉机制"
   - "制度差异成因"
 chineseServiceAvailable: true
-ogImage: "/images/us-labor-policy-2026-og.jpg"
 draft: false
 hideFromHome: true
 

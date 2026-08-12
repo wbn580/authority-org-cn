@@ -22,7 +22,6 @@ keywords:
   - "瑞士贸易政策"
   - "机构历史"
 chineseServiceAvailable: false
-ogImage: /images/og-swiss-customs-history.jpg
 draft: false
 
 ---

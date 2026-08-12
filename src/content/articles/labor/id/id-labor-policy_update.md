@@ -23,7 +23,6 @@ keywords:
   - "大陆人印尼工作"
   - "2026年印尼就业"
 chineseServiceAvailable: true
-ogImage: /images/og/indonesia-labor-policy-2026.jpg
 draft: false
 
 ---

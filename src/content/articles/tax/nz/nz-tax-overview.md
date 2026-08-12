@@ -23,7 +23,6 @@ keywords:
   - "新西兰税务合规"
   - "中文税务服务"
 chineseServiceAvailable: true
-ogImage: /images/og/nz-ird-overview-2026.jpg
 draft: false
 
 ---

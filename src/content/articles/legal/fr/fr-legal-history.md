@@ -13,6 +13,7 @@ keywords: "[\"法国司法部\", \"Ministère de la Justice\", \"机构历史\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/fr-legal-history-2026-1880x1255.jpg"
 ---
 
 

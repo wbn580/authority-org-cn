@@ -23,7 +23,6 @@ keywords:
   - "中文服务"
   - "金融监管误区"
 chineseServiceAvailable: true
-ogImage: /images/ch-finance-faq-2026.jpg
 draft: false
 
 ---

@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-trade-contact_guide-2026-1880x1111.jpg"
 ---
 
 

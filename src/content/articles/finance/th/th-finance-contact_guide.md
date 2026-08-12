@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 是（部分热线及在线表格提供中文选项）
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/th-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 

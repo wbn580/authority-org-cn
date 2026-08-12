@@ -24,7 +24,6 @@ keywords:
   - "出口管制清单 修订"
   - "原产地证明 电子化"
 chineseServiceAvailable: true
-ogImage: "/images/il-labor-functions-2026.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "电子签证系统"
   - "大陆人印尼签证"
 chineseServiceAvailable: true
-ogImage: /images/id-immigration-2026-update.jpg
 draft: false
 
 ---

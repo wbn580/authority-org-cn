@@ -13,6 +13,7 @@ keywords: "[\"台湾劳动部FAQ\", \"劳工保险给付\", \"就业服务申请
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-labor-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新西兰留学毕业后工签时长是多久 -->

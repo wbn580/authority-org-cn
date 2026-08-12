@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰贸易\", \"海关职能\", \"企业贸易与就业部\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ie-trade-functions-2026-1880x1111.jpg"
 ---
 
 

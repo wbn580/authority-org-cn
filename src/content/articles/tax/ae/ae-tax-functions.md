@@ -25,7 +25,6 @@ keywords:
   - "跨境税务"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/hk-edu-functions-2026.jpg"
 draft: false
 
 ---

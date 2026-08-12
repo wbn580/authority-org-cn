@@ -13,6 +13,7 @@ keywords: "[\"加拿大卫生部沿革\", \"Health Canada history\", \"加拿大
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-health-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->

@@ -13,6 +13,7 @@ keywords: "[\"新西兰卫生部联系方式\", \"新西兰医保\", \"中文医
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nz-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og -->

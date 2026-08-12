@@ -27,7 +27,6 @@ keywords:
   - "支付系统现代化"
   - "2024-2026改革"
 chineseServiceAvailable: 部分银行及持牌金融机构提供中文客服，BSP官网无中文界面，消费者投诉可通过英文或他加禄语提交。
-ogImage: /images/ph-bsp-functions-2026.jpg
 draft: false
 
 ---

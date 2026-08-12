@@ -13,6 +13,7 @@ keywords: "[\"日本签证FAQ\", \"在留资格变更\", \"永住申请条件\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

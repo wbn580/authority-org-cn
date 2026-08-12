@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"意大利教育\",\"意大利教育部\",\"MIM\",\"机构沿革\",\"教育改革\",\"公共教育部\",\"教育史\",\"意大利教育体系\"]"
 keywords: "[\"意大利教育部\",\"MIM\",\"MPI\",\"教育机构改革\",\"意大利教育历史\",\"教育法律\",\"Gelmini改革\",\"Buona Scuola\",\"自治学校\"]"
 chineseServiceAvailable: false
-ogImage: "/images/og/nl-education-guide-2026.jpg"
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"教育部历史\", \"教育部改组\", \"教育法修订\", \"双
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/cn-education-history-2026-1880x869.jpg"
 ---
 
 

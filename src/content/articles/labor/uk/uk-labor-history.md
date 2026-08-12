@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[英国, 劳工, 就业, 机构沿革, 贸易委员会, 就业部, 就业与养老金部, 劳工法, 福利改革]"
 keywords: "[英国劳工部, 就业部, 就业与养老金部, DWP, 机构沿革, 劳工法改革, 福利制度, 贸易委员会]"
 chineseServiceAvailable: true
-ogImage: /images/uk-labor-department-history-og.jpg
 draft: false
 
 ---

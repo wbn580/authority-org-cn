@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大\", \"卫生\", \"医保\", \"跨国对比\", \"Health Canada\", \"NHS\", \"澳大利亚卫生部\", \"德国联邦卫生部\"]"
 keywords: "[\"加拿大卫生主管部门\", \"Health Canada\", \"跨国对比\", \"职能\", \"监管\", \"效率\", \"数字化\", \"透明度\", \"申诉机制\"]"
 chineseServiceAvailable: true
-ogImage: "/images/sg-mas-contact-guide-2026.jpg"
 draft: false
 hideFromHome: true
 

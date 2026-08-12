@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"交通部\", \"民航局\", \"陆路交通局\", \"联系方式\", \"办事指南\", \"中文服务\"]"
 keywords: "[\"马来西亚交通部地址\", \"马来西亚民航局电话\", \"JPJ预约\", \"驾照转换\", \"中文服务马来西亚\"]"
 chineseServiceAvailable: true
-ogImage: "/images/au-immigration-2024-2026-policy-update.png"
 draft: false
 
 ---

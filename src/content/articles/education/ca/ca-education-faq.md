@@ -13,6 +13,7 @@ keywords: "[\"加拿大教育主管部门\", \"留学申请\", \"学签\", \"费
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年加拿大留学担保金要存多少 -->

@@ -25,7 +25,6 @@ keywords:
   - "大陆居民"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/hk-labor-guide-2026-og.jpg
 draft: false
 
 ---

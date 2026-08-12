@@ -27,7 +27,7 @@ keywords:
   - "中文服务可用性"
   - "2026年金融监管数据"
 chineseServiceAvailable: 部分
-ogImage: "https://placehold.co/1200x630?text=VN+Central+Bank+Comparison+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 hideFromHome: true
 

@@ -29,7 +29,6 @@ keywords:
   - "跨国比较"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/comparison/legal-authorities-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

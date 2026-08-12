@@ -28,7 +28,6 @@ keywords:
   - "中文服务"
   - "阿联酋金融法规"
 chineseServiceAvailable: true
-ogImage: "/images/italy-immigration-functions-2026.jpg"
 draft: false
 
 ---

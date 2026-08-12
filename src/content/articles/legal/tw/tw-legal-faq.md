@@ -34,7 +34,6 @@ keywords:
   - "民事起诉"
   - "法律扶助"
 chineseServiceAvailable: true
-ogImage: /images/tw-legal-faq-2026.jpg
 draft: false
 
 ---

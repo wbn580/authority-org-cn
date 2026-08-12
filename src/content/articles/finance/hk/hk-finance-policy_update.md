@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[香港, 金融监管, 政策更新, 金管局, 证监会, 银行, 证券, 虚拟资产, 大湾区, 跨境理财]"
 keywords: "[香港金融管理局, 证券及期货事务监察委员会, 2024-2026政策更新, 虚拟资产监管, 跨境理财通, 银行资本要求, 金融科技, 大陆人香港开户, 中文服务]"
 chineseServiceAvailable: true
-ogImage: "/images/tw-tax-faq-2026.jpg"
 draft: false
 
 ---

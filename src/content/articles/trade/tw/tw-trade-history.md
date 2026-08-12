@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"台湾贸易\", \"海关机构\", \"关税总局\", \"国际贸易署\", \"机构沿革\", \"贸易法规\"]"
 keywords: "[\"台湾贸易主管部门\", \"财政部关税总局\", \"经济部国际贸易署\", \"海关组织法\", \"贸易法\", \"通关改革\", \"自由贸易港区\"]"
 chineseServiceAvailable: true
-ogImage: "/images/ch-health-guide-2026.jpg"
 draft: false
 
 ---

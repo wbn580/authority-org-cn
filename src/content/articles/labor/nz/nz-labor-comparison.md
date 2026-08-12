@@ -27,6 +27,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/nz-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

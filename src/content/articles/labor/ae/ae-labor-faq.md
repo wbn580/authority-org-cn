@@ -24,7 +24,6 @@ keywords:
   - "离职"
   - "劳动合同"
 chineseServiceAvailable: true
-ogImage: /images/ae-labor-faq-2026-og.png
 draft: false
 
 ---

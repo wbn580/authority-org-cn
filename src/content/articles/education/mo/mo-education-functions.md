@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[澳门, 教育职能, 教育及青年发展局, 非高等教育, 高等教育, 青年事务, 教育法规]"
 keywords: "[澳门教育主管部门, 教育及青年发展局职能, 澳门教育制度, 非高等教育制度, 高等教育制度, 教育立法, 教育执行机制, 2024-2026教育改革, 澳门青年政策, 粤港澳大湾区教育合作]"
 chineseServiceAvailable: true
-ogImage: /images/og/macau-education-functions-2026.jpg
 draft: false
 
 ---

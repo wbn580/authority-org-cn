@@ -28,7 +28,6 @@ keywords:
   - "误区"
   - "中文"
 chineseServiceAvailable: true
-ogImage: /images/og-us-health-faq-2026.jpg
 draft: false
 
 ---

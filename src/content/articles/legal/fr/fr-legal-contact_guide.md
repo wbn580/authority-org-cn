@@ -24,7 +24,6 @@ keywords:
   - "大陆人"
   - "法国法律程序"
 chineseServiceAvailable: 部分机构提供中文电话翻译或书面材料翻译服务，但无专职中文窗口
-ogImage: /images/fr-legal-guide-2026.jpg
 draft: false
 
 ---

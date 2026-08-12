@@ -24,7 +24,6 @@ keywords:
   - "教育部长会议"
   - "教育援助"
 chineseServiceAvailable: false
-ogImage: "/images/ae-education-overview-og.png"
 draft: false
 
 ---

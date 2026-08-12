@@ -27,7 +27,6 @@ keywords:
   - "申诉机制"
   - "数字化监管"
 chineseServiceAvailable: 是
-ogImage: /images/comparison/it-finance-comparison-2026.png
 draft: false
 hideFromHome: true
 

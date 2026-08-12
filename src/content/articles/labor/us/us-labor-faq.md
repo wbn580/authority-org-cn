@@ -22,7 +22,6 @@ keywords:
   - "失业保险申请"
   - "中文服务美国劳工部"
 chineseServiceAvailable: true
-ogImage: /images/us-labor-faq-2026.jpg
 draft: false
 
 ---

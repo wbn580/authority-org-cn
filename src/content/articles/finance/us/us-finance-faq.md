@@ -25,7 +25,6 @@ keywords:
   - "CFPB中文服务"
   - "美国金融监管费用"
 chineseServiceAvailable: true
-ogImage: "/images/tw-education-history-og.jpg"
 draft: false
 
 ---

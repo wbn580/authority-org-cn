@@ -25,7 +25,6 @@ keywords:
   - "外籍劳工管理"
   - "就业服务"
 chineseServiceAvailable: true
-ogImage: /images/th-labor-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

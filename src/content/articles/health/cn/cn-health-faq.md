@@ -29,7 +29,6 @@ keywords:
   - "投诉渠道"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/cn-health-faq-2026.jpg
 draft: false
 
 ---

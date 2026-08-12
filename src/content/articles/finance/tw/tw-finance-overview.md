@@ -23,7 +23,6 @@ keywords:
   - "两岸金融监管"
   - "2026金融动态"
 chineseServiceAvailable: true
-ogImage: /images/og-tw-finance-overview-2026.jpg
 draft: false
 
 ---

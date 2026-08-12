@@ -23,7 +23,6 @@ keywords:
   - "澳门民事登记局"
   - "澳门诉讼指南"
 chineseServiceAvailable: true
-ogImage: /images/og/macao-legal-guide-2026.jpg
 draft: false
 
 ---

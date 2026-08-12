@@ -24,7 +24,6 @@ keywords:
   - "东南亚税务"
   - "税务申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/og-ph-tax-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

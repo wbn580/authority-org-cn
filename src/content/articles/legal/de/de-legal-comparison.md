@@ -28,7 +28,6 @@ keywords:
   - "跨国对比"
   - "2026"
 chineseServiceAvailable: true
-ogImage: /images/comparison-de-legal-2026.jpg
 draft: false
 hideFromHome: true
 

@@ -13,6 +13,7 @@ keywords: "[\"中国台湾贸易部门\", \"经济部国际贸易署\", \"财政
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-trade-overview-2026-1880x1111.jpg"
 ---
 
 

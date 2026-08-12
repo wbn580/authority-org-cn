@@ -13,6 +13,7 @@ keywords: "[\"马来西亚移民局\", \"MM2H\", \"签证申请\", \"居留许�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/my-immigration-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->

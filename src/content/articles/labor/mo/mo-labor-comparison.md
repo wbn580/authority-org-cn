@@ -28,7 +28,6 @@ keywords:
   - "劳动监察效率"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/comparison-mo-labor-2026.png
 draft: false
 hideFromHome: true
 

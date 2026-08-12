@@ -32,7 +32,6 @@ keywords:
   - "2026澳门移民政策"
   - "中文服务可用性"
 chineseServiceAvailable: 是
-ogImage: /images/mo-immigration-functions-og.jpg
 draft: false
 
 ---

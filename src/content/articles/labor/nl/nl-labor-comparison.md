@@ -44,6 +44,7 @@ chineseServiceAvailable: 荷兰UWV提供中文电话口译服务（通过Tolk- e
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.authority.org.cn/authority/nl-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

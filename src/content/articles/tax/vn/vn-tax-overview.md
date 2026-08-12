@@ -24,7 +24,6 @@ keywords:
   - "越南税务中文服务"
   - "大陆人在越南税务"
 chineseServiceAvailable: true
-ogImage: "/images/fr-legal-comparison-2026.jpg"
 draft: false
 
 ---

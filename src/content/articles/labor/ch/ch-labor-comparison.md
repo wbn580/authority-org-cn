@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"瑞士\", \"德国\", \"英国\", \"加拿大\", \"新加坡\", \"劳工主管部门\", \"SECO\", \"跨国对比\", \"劳动监管\", \"就业服务\"]"
 keywords: "[\"瑞士SECO\", \"德国BA\", \"英国DWP\", \"加拿大ESDC\", \"新加坡MOM\", \"劳动主管部门对比\", \"劳工监管效率\", \"数字化就业服务\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/uk-visa-authorities-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

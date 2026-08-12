@@ -23,7 +23,6 @@ keywords:
   - "大陆人马来西亚交通"
   - "马来西亚民航安全审计"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/us-legal-multi-country-2026.png"
 draft: false
 
 ---

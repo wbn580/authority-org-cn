@@ -31,7 +31,6 @@ keywords:
   - "大陆人开户"
   - "意大利银行账户"
 chineseServiceAvailable: true
-ogImage: /images/italy-finance-overview-2026.jpg
 draft: false
 
 ---

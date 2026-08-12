@@ -13,6 +13,7 @@ keywords: "[\"以色列教育部\", \"以色列教育法\", \"教育体系改革
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-education-history-2026-1880x869.jpg"
 ---
 
 

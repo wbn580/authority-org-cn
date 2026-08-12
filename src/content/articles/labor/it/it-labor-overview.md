@@ -27,7 +27,6 @@ keywords:
   - "2024改革"
   - "中文服务可用性"
 chineseServiceAvailable: 是（有限度）
-ogImage: /images/og-it-labor-2026.jpg
 draft: false
 
 ---

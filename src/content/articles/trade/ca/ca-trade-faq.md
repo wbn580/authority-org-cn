@@ -13,6 +13,7 @@ keywords: "[\"加拿大海关\", \"CBSA\", \"贸易合规\", \"清关流程\", \
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-trade-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->

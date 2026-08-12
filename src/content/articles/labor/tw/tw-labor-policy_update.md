@@ -24,7 +24,6 @@ keywords:
   - "就业保险"
   - "中高龄就业"
 chineseServiceAvailable: true
-ogImage: "/images/uk-labor-overview-2026.jpg"
 draft: false
 
 ---

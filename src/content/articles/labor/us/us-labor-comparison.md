@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国劳工部\", \"德国劳动部\", \"日本厚生劳动省\", \"新加坡人力部\", \"巴西劳动部\", \"跨国对比\", \"劳工监管\", \"数字化\"]"
 keywords: "[\"美国劳工部职能\", \"德国劳动法\", \"日本劳动基准法\", \"新加坡雇佣法令\", \"巴西CLT\"]"
 chineseServiceAvailable: true
-ogImage: /images/comparison-labor-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

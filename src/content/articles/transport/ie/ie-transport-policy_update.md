@@ -26,7 +26,6 @@ keywords:
   - "大陆人士驾驶许可"
   - "公共交通票价改革"
 chineseServiceAvailable: true
-ogImage: "/images/ca-finance-comparison-og.png"
 draft: false
 
 ---

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[中国台湾, 中央银行, 金融监管, 金管会, 货币政策, 金融稳定, 2026]"
 keywords: "[台湾央行职能, 台湾金融监管, 中央银行法, 金管会组织法, 金融稳定, 2024-2026调整]"
 chineseServiceAvailable: true
-ogImage: /images/tw-central-bank-functions-2026.png
 draft: false
 
 ---

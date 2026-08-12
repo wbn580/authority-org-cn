@@ -13,6 +13,7 @@ keywords: "[\"德国法院联系方式\", \"诉讼时效\", \"司法费用2026\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/de-legal-faq-2026-1880x1255.jpg"
 ---
 
 

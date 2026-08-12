@@ -25,7 +25,6 @@ keywords:
   - "瑞士交通法律"
   - "机构重组"
 chineseServiceAvailable: false
-ogImage: /images/og/ch-transport-history.jpg
 draft: false
 
 ---

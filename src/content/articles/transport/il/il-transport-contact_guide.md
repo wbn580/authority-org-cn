@@ -25,7 +25,6 @@ keywords:
   - "以色列航空许可证"
   - "中文服务以色列"
 chineseServiceAvailable: 部分
-ogImage: /images/il-transport-guide-2026.jpg
 draft: false
 
 ---

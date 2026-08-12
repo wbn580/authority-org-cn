@@ -27,7 +27,6 @@ keywords:
   - "法律咨询"
   - "2026"
   - "立法"
-ogImage: /images/og-de-legal-overview-2026.jpg
 draft: false
 
 ---

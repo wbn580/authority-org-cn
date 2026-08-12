@@ -29,7 +29,6 @@ keywords:
   - "税务透明度"
   - "跨境税务服务"
 chineseServiceAvailable: true
-ogImage: /images/tax-comparison-ie-hmrc-ato-iras-2026.jpg
 draft: false
 hideFromHome: true
 

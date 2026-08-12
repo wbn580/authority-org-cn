@@ -28,7 +28,6 @@ keywords:
   - "大陆人接触度"
   - "教育制度差异"
 chineseServiceAvailable: true
-ogImage: "/images/ch-health-guide-2026.jpg"
 draft: false
 hideFromHome: true
 

@@ -13,6 +13,7 @@ keywords: "[\"台湾交通部\", \"台湾民航局\", \"交通主管部门沿革
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-transport-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

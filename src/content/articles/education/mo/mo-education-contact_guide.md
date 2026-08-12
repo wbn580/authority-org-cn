@@ -13,6 +13,7 @@ keywords: "[\"澳门教育及青年发展局\", \"DSEDJ地址\", \"澳门学历�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-education-contact_guide-2026-1880x869.jpg"
 ---
 
 

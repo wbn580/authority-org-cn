@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"马来西亚\", \"贸易\", \"海关\", \"MITI\", \"RMCD\", \"办事指南\", \"联系方式\"]"
 keywords: "[\"马来西亚贸易部门\", \"马来西亚海关\", \"MITI\", \"RMCD\", \"进出口手续\", \"中文服务\", \"大陆人\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Malaysia+Trade+Customs+Guide"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

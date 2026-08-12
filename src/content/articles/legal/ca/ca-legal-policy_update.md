@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-legal-policy_update-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年加拿大留学担保金要存多少 -->

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"劳动部\", \"人力资源社会保障部\", \"机构沿革\", \"劳动法\", \"社会保障\", \"就业政策\", \"中国劳工\"]"
 keywords: "[\"中国大陆劳工主管部门\", \"劳动部历史\", \"人社部职能\", \"劳动法修订\", \"机构改革\"]"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-kr-legal-2026.jpg"
 draft: false
 
 ---

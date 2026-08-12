@@ -28,7 +28,6 @@ keywords:
   - "投诉申诉"
   - "大陆人实操指南"
 chineseServiceAvailable: 部分
-ogImage: /images/il-education-contact-guide-2026.jpg
 draft: false
 
 ---

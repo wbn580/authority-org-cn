@@ -25,7 +25,6 @@ keywords:
   - "大陆人接触度"
   - "制度差异原因"
 chineseServiceAvailable: true
-ogImage: /images/au-health-comparison-2026.png
 draft: false
 hideFromHome: true
 

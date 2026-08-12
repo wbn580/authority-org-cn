@@ -24,7 +24,6 @@ keywords:
   - "印尼劳动就业主管部门"
   - "中文服务可用性"
 chineseServiceAvailable: 印尼劳工部官方网站（kemnaker.go.id）提供印尼语和英语版本，未设专门中文频道。部分政策文件（如《综合就业法》英文版）可通过官方渠道获取。中文服务需求可咨询印尼驻华使馆或商业咨询机构。
-ogImage: "/images/italy-health-ministry-overview-2026.jpg"
 draft: false
 
 ---

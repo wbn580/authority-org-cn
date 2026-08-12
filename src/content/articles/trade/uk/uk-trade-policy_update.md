@@ -28,7 +28,6 @@ keywords:
   - "大陆企业合规"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/ae-trade-overview-2026.jpg"
 draft: false
 
 ---

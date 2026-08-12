@@ -24,7 +24,6 @@ keywords:
   - "CFC制度"
   - "大陆居民税务申报"
 chineseServiceAvailable: 是
-ogImage: /images/tw-tax-policy-2026.jpg
 draft: false
 
 ---

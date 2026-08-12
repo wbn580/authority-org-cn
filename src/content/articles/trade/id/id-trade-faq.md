@@ -28,7 +28,6 @@ keywords:
   - "常见误区"
   - "2026"
 chineseServiceAvailable: 是
-ogImage: "/images/il-trade-faq-2026-og.png"
 draft: false
 
 ---

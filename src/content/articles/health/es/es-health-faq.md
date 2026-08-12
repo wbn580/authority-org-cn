@@ -22,7 +22,6 @@ keywords:
   - "西班牙中文医疗服务"
   - "西班牙医保误区"
 chineseServiceAvailable: true
-ogImage: /images/og-es-health-faq-2026.jpg
 draft: false
 
 ---

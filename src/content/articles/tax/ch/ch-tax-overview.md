@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"瑞士税务\", \"ESTV\", \"联邦税务局\", \"瑞士税法\", \"跨境税务\", \"OECD标准\"]"
 keywords: "[\"瑞士联邦税务管理局\", \"ESTV\", \"AFC\", \"瑞士税法\", \"税务合规\", \"中文服务\", \"大陆人税务影响\"]"
 chineseServiceAvailable: true
-ogImage: "/images/de-immigration-faq-2026.jpg"
 draft: false
 
 ---

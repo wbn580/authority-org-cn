@@ -22,7 +22,6 @@ keywords:
   - "中文服务印尼教育"
   - "Kemendikbudristek 2024公告"
 chineseServiceAvailable: true
-ogImage: "/images/og/ae-tax-comparison-2026.jpg"
 draft: false
 
 ---

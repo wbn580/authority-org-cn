@@ -30,7 +30,6 @@ keywords:
   - "数字化政府"
   - "行政透明度"
 chineseServiceAvailable: 德国BA部分服务提供英语咨询，中文服务有限；法国、英国、加拿大、新加坡均提供多语言服务，中文支持程度各异。
-ogImage: /images/comparison-de-labor-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

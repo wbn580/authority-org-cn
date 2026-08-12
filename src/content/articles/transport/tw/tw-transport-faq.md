@@ -13,6 +13,7 @@ keywords: "[\"台湾驾照换发\", \"民航局\", \"交通部\", \"行车执照
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/tw-transport-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

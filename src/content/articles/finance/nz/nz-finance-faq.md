@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"新西兰央行\", \"RBNZ\", \"FMA\", \"金融监管\", \"FAQ\", \"中文服务\"]"
 keywords: "[\"新西兰金融监管\", \"RBNZ联系方式\", \"FMA投诉流程\", \"金融牌照申请\", \"中文服务新西兰\", \"金融监管费用\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og-kr-labor-faq-2026.jpg"
 draft: false
 
 ---

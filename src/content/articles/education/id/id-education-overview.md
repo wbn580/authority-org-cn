@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"Kemendikbudristek\", \"印尼教育部\", \"印尼教育政策\", \"Kampus Merdeka\", \"2024-2026\"]"
 keywords: "[\"印尼教育主管部门中文服务\", \"大陆人留学印尼\", \"印尼教育立法\", \"Kemendikbudristek 2026\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=ID+Education+Authority+Overview"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

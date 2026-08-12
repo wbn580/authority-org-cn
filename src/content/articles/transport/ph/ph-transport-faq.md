@@ -29,7 +29,6 @@ keywords:
   - "马尼拉机场投诉"
   - "菲律宾交通法规"
 chineseServiceAvailable: 部分机构（如LTO部分分局、马尼拉机场服务台）配备中文翻译或中文书面指引，但非全境覆盖。建议通过持证翻译或授权代办机构协助办理。
-ogImage: /images/ph-transport-faq-2026.jpg
 draft: false
 
 ---

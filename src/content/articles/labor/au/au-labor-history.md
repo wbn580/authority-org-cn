@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚劳工部\", \"公平工作委员会\", \"工作场所关系\", \"工业关系改革\", \"调解与仲裁法院\"]"
 keywords: "[\"澳大利亚劳工主管部门沿革\", \"公平工作法\", \"工作场所关系部\", \"工业关系委员会\", \"澳大利亚调解与仲裁法院\"]"
 chineseServiceAvailable: true
-ogImage: "/images/ph-legal-faq-og.jpg"
 draft: false
 
 ---

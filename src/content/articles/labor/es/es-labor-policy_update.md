@@ -29,7 +29,6 @@ keywords:
   - "工作许可"
   - "社保缴费"
 chineseServiceAvailable: true
-ogImage: /images/es-labor-policy-2024-2026.jpg
 draft: false
 
 ---

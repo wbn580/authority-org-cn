@@ -28,7 +28,6 @@ keywords:
   - "英国税务 预约"
   - "HMRC 办事指南"
 chineseServiceAvailable: true
-ogImage: /images/uk-tax-contact-guide-2026.jpg
 draft: false
 
 ---

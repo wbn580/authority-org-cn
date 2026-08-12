@@ -22,7 +22,6 @@ keywords:
   - "大陆申请人签证"
   - "数字化移民"
 chineseServiceAvailable: true
-ogImage: /images/comparison-kr-immigration-2026.jpg
 draft: false
 hideFromHome: true
 

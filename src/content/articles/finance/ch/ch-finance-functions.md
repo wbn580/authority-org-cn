@@ -25,7 +25,6 @@ keywords:
   - "金融稳定"
   - "2026年瑞士金融监管"
 chineseServiceAvailable: true
-ogImage: /images/ch-finance-2026-og.jpg
 draft: false
 
 ---

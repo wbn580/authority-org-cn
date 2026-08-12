@@ -28,7 +28,6 @@ keywords:
   - "司法费用表"
   - "常见误区澄清"
 chineseServiceAvailable: true
-ogImage: /images/hk-legal-faq-2026-og.jpg
 draft: false
 
 ---

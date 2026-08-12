@@ -30,7 +30,6 @@ keywords:
   - "申诉渠道"
   - "制度原因"
 chineseServiceAvailable: true
-ogImage: "/images/th-faq-og.jpg"
 draft: false
 hideFromHome: true
 

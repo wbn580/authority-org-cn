@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚\", \"高等教育\", \"政策更新\", \"国际学生\", \"EMGS\", \"MQA\", \"签证\"]"
 keywords: "[\"马来西亚教育政策\", \"马来西亚留学\", \"中国大陆学生\", \"EMGS签证\", \"MQA认证\", \"2024-2026\"]"
 chineseServiceAvailable: true
-ogImage: "/images/us-health-policy-2026-og.jpg"
 draft: false
 
 ---

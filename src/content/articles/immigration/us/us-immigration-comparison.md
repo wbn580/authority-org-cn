@@ -31,7 +31,6 @@ keywords:
   - "中文服务"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: "/images/il-health-faq-og.png"
 draft: false
 hideFromHome: true
 

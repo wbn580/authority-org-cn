@@ -27,7 +27,6 @@ keywords:
   - "国际司法协助"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/uk-legal-policy-2024-26.jpg
 draft: false
 
 ---

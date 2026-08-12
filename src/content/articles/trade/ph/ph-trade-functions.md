@@ -13,6 +13,7 @@ keywords: "[\"菲律宾贸易与工业部\", \"菲律宾海关局\", \"贸易政
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-trade-functions-2026-1880x1111.jpg"
 ---
 
 

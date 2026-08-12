@@ -34,7 +34,6 @@ keywords:
   - "法律传统"
   - "跨境合规"
 chineseServiceAvailable: true
-ogImage: "/images/og-mo-trade-faq-2026.jpg"
 draft: false
 hideFromHome: true
 

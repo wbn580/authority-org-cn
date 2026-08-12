@@ -13,6 +13,7 @@ keywords: "[\"荷兰卫生、福利与体育部\", \"VWS\", \"2006年健康保�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nl-health-history-2026-1880x1253.jpg"
 ---
 
 

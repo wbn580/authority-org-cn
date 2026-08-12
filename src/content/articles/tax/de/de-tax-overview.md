@@ -27,7 +27,6 @@ keywords:
   - "德国税务中文服务"
   - "德国税务主管部门"
 chineseServiceAvailable: true
-ogImage: /images/og/de-tax-overview.jpg
 draft: false
 
 ---

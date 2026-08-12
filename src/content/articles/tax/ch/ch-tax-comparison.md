@@ -23,7 +23,6 @@ keywords:
   - "税务透明度"
   - "大陆人士税务服务"
 chineseServiceAvailable: 部分国家（新加坡、日本）提供中文界面或中文协助；瑞士、德国、美国以官方语言（德/法/意/英/日）为主，无专门中文服务。
-ogImage: /images/swiss-tax-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

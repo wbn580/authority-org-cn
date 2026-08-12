@@ -13,6 +13,7 @@ keywords: "[\"荷兰劳工部\", \"SZW\", \"UWV\", \"荷兰劳动法\", \"荷兰
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nl-labor-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

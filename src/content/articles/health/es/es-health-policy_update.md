@@ -24,7 +24,6 @@ keywords:
   - "药品定价改革"
   - "2025年卫生法"
 chineseServiceAvailable: true
-ogImage: /images/es-health-policy-2024-2026.jpg
 draft: false
 
 ---

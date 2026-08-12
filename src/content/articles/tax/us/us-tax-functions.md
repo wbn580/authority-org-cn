@@ -25,7 +25,6 @@ keywords:
   - "税务合规"
   - "2026年税务改革"
 chineseServiceAvailable: true
-ogImage: "/images/de-transport-2026.jpg"
 draft: false
 
 ---

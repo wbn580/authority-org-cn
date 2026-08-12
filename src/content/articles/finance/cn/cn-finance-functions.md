@@ -24,7 +24,6 @@ keywords:
   - "2025金融监管改革"
   - "双支柱调控框架"
 chineseServiceAvailable: true
-ogImage: "/images/og-ph-immigration-comparison-2026.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "2025年道路安全目标"
   - "特拉维夫机场扩建"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-fr-de-uk-ca-labor-2026.jpg"
 draft: false
 
 ---

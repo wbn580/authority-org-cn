@@ -27,7 +27,6 @@ keywords:
   - "反洗钱监管"
   - "金融稳定报告"
 chineseServiceAvailable: true
-ogImage: /images/nz-finance-regulators-2026.jpg
 draft: false
 
 ---

@@ -22,7 +22,6 @@ keywords:
   - "国际学生政策"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/il-education-overview-og.jpg
 draft: false
 
 ---

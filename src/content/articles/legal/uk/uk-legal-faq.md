@@ -28,7 +28,6 @@ keywords:
   - "常见法律误区"
   - "司法部公告"
 chineseServiceAvailable: true
-ogImage: /images/uk-legal-faq-2026.png
 draft: false
 
 ---

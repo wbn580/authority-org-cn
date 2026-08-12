@@ -30,7 +30,6 @@ keywords:
   - "中文服务"
   - "申诉机制"
 chineseServiceAvailable: true
-ogImage: /images/immigration-comparison-hk-sg-uk-ca-au-2026.jpg
 draft: false
 hideFromHome: true
 

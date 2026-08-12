@@ -25,7 +25,6 @@ keywords:
   - "中文服务"
   - "投诉申诉"
 chineseServiceAvailable: true
-ogImage: /images/au-finance-guide-2026.jpg
 draft: false
 
 ---

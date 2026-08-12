@@ -25,7 +25,6 @@ keywords:
   - "德国联邦航空局"
   - "德国交通法规"
 chineseServiceAvailable: true
-ogImage: /images/de-transport-faq-2026.jpg
 draft: false
 
 ---

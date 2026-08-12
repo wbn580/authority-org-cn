@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印尼税务\", \"DJP\", \"机构沿革\", \"税制改革\", \"OECD\", \"BEPS\"]"
 keywords: "[\"印尼税务总署\", \"机构历史\", \"税制改革\", \"法律基础\", \"核心税收征管系统\"]"
 chineseServiceAvailable: true
-ogImage: "/images/es-legal-comparison-2026-og.png"
 draft: false
 
 ---

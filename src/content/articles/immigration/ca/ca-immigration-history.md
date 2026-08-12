@@ -13,6 +13,7 @@ keywords: "[\"加拿大移民局历史\", \"IRCC沿革\", \"移民法修订\", \
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年加拿大留学担保金要存多少 -->

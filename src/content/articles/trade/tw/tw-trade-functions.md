@@ -28,7 +28,6 @@ keywords:
   - "跨部门协调"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/tw-trade-functions-2026.jpg
 draft: false
 
 ---

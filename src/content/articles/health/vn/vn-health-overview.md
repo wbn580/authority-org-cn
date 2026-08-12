@@ -22,7 +22,6 @@ keywords:
   - "大陆人越南就医"
   - "2025年越南药品法"
 chineseServiceAvailable: true
-ogImage: "/images/hhs-functions-2026.jpg"
 draft: false
 
 ---

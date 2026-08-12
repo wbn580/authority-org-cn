@@ -22,7 +22,6 @@ keywords:
   - "法律改革"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/au-legal-overview-og.png
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚卫生与老年护理部\", \"Department of Health and
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/au-health-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目 -->

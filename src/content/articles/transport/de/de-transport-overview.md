@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"德国交通部\", \"BMDV\", \"德国联邦航空局\", \"LBA\", \"德国空中交通管制\", \"DFS\", \"交通法规\", \"民航监管\", \"德国2026\"]"
 keywords: "[\"德国交通主管部门\", \"BMDV职能\", \"LBA飞行员执照\", \"DFS空域管理\", \"德国航空法\", \"LuftVG\", \"欧洲航空安全局\", \"EASA\", \"中文服务德国交通\"]"
 chineseServiceAvailable: true
-ogImage: "/images/indonesia-health-comparison-2026.jpg"
 draft: false
 
 ---

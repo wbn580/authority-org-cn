@@ -28,7 +28,6 @@ keywords:
   - "交通领域国际比较"
   - "大陆人交通服务"
 chineseServiceAvailable: true
-ogImage: "/images/ca-labor-comparison-2026.jpg"
 draft: false
 hideFromHome: true
 

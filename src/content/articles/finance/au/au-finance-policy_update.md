@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"澳大利亚金融监管\", \"RBA\", \"APRA\", \"ASIC\", \"货币政策\", \"审慎监管\", \"2024-2026\"]"
 keywords: "[\"澳大利亚央行政策\", \"APRA资本新规\", \"ASIC执法行动\", \"大陆人澳洲金融影响\", \"RBA利率决策\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og-it-transport-comparison-2026.jpg"
 draft: false
 
 ---

@@ -22,7 +22,6 @@ keywords:
   - "中文服务意大利司法"
   - "大陆人意大利司法"
 chineseServiceAvailable: 部分机构提供中文翻译协助，需提前预约
-ogImage: /images/italy-legal-guide-2026.jpg
 draft: false
 
 ---

@@ -24,7 +24,6 @@ keywords:
   - "大陆居民出行"
   - "2024-2026政策"
 chineseServiceAvailable: true
-ogImage: "/images/th-health-guide-2026.jpg"
 draft: false
 
 ---

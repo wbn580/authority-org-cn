@@ -22,7 +22,6 @@ keywords:
   - "劳动纠纷"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/es-transport-comparison-2026.jpg"
 draft: false
 
 ---

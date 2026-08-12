@@ -24,7 +24,7 @@ keywords:
   - "印尼法律体系"
   - "2026年修订"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630/1a1a2e/e0e0e0?text=Indonesia+Legal+Authority+Functions+2024-2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

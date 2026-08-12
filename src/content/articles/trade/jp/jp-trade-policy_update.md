@@ -26,7 +26,6 @@ keywords:
   - "海关手续数字化"
   - "2024-2026"
 chineseServiceAvailable: true
-ogImage: "/images/og-swiss-health-authority-history.jpg"
 draft: false
 
 ---

@@ -23,7 +23,6 @@ keywords:
   - "国际学校"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/id-immigration-2026-update.jpg"
 draft: false
 
 ---

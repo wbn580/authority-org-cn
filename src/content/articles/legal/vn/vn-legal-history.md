@@ -21,7 +21,6 @@ keywords:
   - "法律基础变化"
   - "司法行政职能"
 chineseServiceAvailable: false
-ogImage: "/images/uk-finance-regulatory-functions-2026.jpg"
 draft: false
 
 ---

@@ -31,7 +31,6 @@ keywords:
   - "申诉机制"
   - "制度原因分析"
 chineseServiceAvailable: true
-ogImage: /images/comparison-cn-labor-authorities-2026.jpg
 draft: false
 hideFromHome: true
 

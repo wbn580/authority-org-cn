@@ -28,7 +28,6 @@ keywords:
   - "监管透明度"
   - "制度差异分析"
 chineseServiceAvailable: true
-ogImage: /images/comparison-uk-finance-regulators-2026.jpg
 draft: false
 hideFromHome: true
 

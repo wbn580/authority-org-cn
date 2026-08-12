@@ -27,7 +27,6 @@ keywords:
   - "欧盟海关同盟"
   - "爱尔兰贸易法"
 chineseServiceAvailable: true
-ogImage: "/images/comparison/jp-labor-2026-05-23.jpg"
 draft: false
 
 ---

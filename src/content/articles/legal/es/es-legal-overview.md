@@ -22,7 +22,6 @@ keywords:
   - "中文服务"
   - "数字司法"
 chineseServiceAvailable: 部分可用
-ogImage: /images/og-spain-justice.jpg
 draft: false
 
 ---

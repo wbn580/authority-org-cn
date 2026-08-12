@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"马来西亚卫生部\", \"MOH\", \"新加坡卫生部\", \"MOH Singapore\", \"泰国卫生部\", \"MOPH\", \"澳大利亚卫生部\", \"Department of Health\", \"英国卫生与社会保障部\", \"DHSC\", \"跨国对比\", \"卫生监管\", \"医保体系\"]"
 keywords: "[\"马来西亚卫生部\", \"新加坡卫生部\", \"泰国卫生部\", \"澳大利亚卫生部\", \"英国卫生与社会保障部\", \"卫生系统对比\", \"医保监管\", \"数字化医疗\", \"患者申诉\"]"
 chineseServiceAvailable: true
-ogImage: "/images/cn-education-policy-2024-2026.jpg"
 draft: false
 hideFromHome: true
 

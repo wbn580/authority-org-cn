@@ -33,7 +33,6 @@ keywords:
   - "联邦移民局"
   - "联邦警察"
 chineseServiceAvailable: true
-ogImage: /images/swiss-legal-functions-2026.jpg
 draft: false
 
 ---

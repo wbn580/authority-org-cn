@@ -28,7 +28,6 @@ keywords:
   - "表格清单"
   - "大陆人指南"
 chineseServiceAvailable: 是
-ogImage: /images/es-finance-contact-2026.jpg
 draft: false
 
 ---

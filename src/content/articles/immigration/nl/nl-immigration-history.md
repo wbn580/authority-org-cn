@@ -13,6 +13,7 @@ keywords: "[\"荷兰移民局历史\", \"IND成立\", \"荷兰签证政策演变
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/nl-immigration-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

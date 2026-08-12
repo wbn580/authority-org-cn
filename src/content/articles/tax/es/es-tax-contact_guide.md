@@ -23,7 +23,6 @@ keywords:
   - "西班牙税务投诉"
   - "大陆人西班牙税务"
 chineseServiceAvailable: true
-ogImage: /images/es-tax-contact-guide-2026.png
 draft: false
 
 ---

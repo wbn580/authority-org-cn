@@ -21,7 +21,6 @@ keywords:
   - "越南外国人医保"
   - "越南医保中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/ca-health-guide-2026.jpg"
 draft: false
 
 ---

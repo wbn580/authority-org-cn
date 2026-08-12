@@ -23,7 +23,6 @@ keywords:
   - "法国工作许可"
   - "法国职业技能发展计划"
 chineseServiceAvailable: true
-ogImage: /images/fr-labor-policy-2026.jpg
 draft: false
 
 ---

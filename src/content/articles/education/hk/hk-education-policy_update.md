@@ -13,6 +13,7 @@ keywords: "[\"香港教育局\",\"2024-2026教育政策\",\"国民教育\",\"教
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-education-policy_update-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

@@ -24,7 +24,6 @@ keywords:
   - "法律援助"
   - "跨境法务"
 chineseServiceAvailable: true
-ogImage: /images/legal-guide-cn-2026.jpg
 draft: false
 
 ---

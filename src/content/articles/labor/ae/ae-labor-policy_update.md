@@ -11,7 +11,7 @@ readingTime: 15
 tags: "[\"阿联酋劳动法\", \"MoHRE\", \"工作签证\", \"失业保险\", \"劳动合同\", \"大陆人就业\"]"
 keywords: "[\"阿联酋劳动法2026\", \"MoHRE公告\", \"失业保险制度\", \"绿色签证\", \"劳动合同终止\", \"大陆人阿联酋工作\"]"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=UAE+Labor+Policy+Update+2024-26"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

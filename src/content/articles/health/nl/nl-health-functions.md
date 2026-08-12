@@ -27,7 +27,6 @@ keywords:
   - "荷兰医疗质量法"
   - "荷兰卫生2026"
 chineseServiceAvailable: true
-ogImage: "/images/guides/mo-immigration-og.jpg"
 draft: false
 
 ---

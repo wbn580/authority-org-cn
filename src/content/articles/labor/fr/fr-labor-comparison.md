@@ -27,7 +27,6 @@ keywords:
   - "申诉机制"
   - "制度差异分析"
 chineseServiceAvailable: true
-ogImage: /images/comparison-fr-de-uk-ca-labor-2026.jpg
 draft: false
 hideFromHome: true
 

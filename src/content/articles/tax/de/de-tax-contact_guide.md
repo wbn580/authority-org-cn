@@ -27,7 +27,6 @@ keywords:
   - "德国税务地址"
   - "德国税务联系方式"
 chineseServiceAvailable: true
-ogImage: "/images/id-immigration-2026-update.jpg"
 draft: false
 
 ---

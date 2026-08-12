@@ -13,6 +13,7 @@ keywords: "[\"香港教育局\", \"教育局FAQ\", \"学校注册流程\", \"学
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/hk-education-faq-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->

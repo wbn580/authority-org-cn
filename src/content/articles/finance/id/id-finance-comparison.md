@@ -25,7 +25,6 @@ keywords:
   - "金融监管比较"
   - "印尼金融监管"
 chineseServiceAvailable: 是
-ogImage: /images/comparison/id-finance-multilateral-2026.jpg
 draft: false
 hideFromHome: true
 

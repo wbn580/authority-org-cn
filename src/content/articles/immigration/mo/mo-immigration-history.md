@@ -21,7 +21,6 @@ keywords:
   - "澳门逗留许可"
   - "澳门移民法"
 chineseServiceAvailable: true
-ogImage: /images/og-mo-immigration-history.jpg
 draft: false
 
 ---

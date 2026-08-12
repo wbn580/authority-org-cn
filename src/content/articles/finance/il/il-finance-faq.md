@@ -13,6 +13,7 @@ keywords: "[\"以色列央行联系方式\", \"以色列银行开户流程\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/il-finance-faq-2026-1880x1253.jpg"
 ---
 
 

@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 是（部分窗口及在线平台提供中文界面，但正式文件均以意大利语为主，中文电话服务有限）
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-education-contact_guide-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

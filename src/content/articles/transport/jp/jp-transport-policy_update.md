@@ -23,7 +23,6 @@ keywords:
   - "大陆人签证政策"
   - "羽田机场容量"
 chineseServiceAvailable: true
-ogImage: /images/jp-transport-2026-policy-update.jpg
 draft: false
 
 ---

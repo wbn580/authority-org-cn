@@ -24,7 +24,6 @@ keywords:
   - "美国卫生监管"
   - "跨部门协调"
 chineseServiceAvailable: true
-ogImage: /images/hhs-functions-2026.jpg
 draft: false
 
 ---

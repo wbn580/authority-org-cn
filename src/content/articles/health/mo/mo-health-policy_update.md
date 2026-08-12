@@ -22,7 +22,6 @@ keywords:
   - "药品注册"
   - "电子健康记录"
 chineseServiceAvailable: true
-ogImage: "/images/vn-tax-faq-2026.png"
 draft: false
 
 ---

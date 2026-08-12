@@ -13,6 +13,7 @@ keywords: "[英国教育部, DfE, OfS, 办公地址, 电话, 预约, 表格, 费
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/uk-education-contact_guide-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->

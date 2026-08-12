@@ -25,7 +25,6 @@ keywords:
   - "菲律宾移民局服务"
   - "菲律宾中文法律服务"
 chineseServiceAvailable: true
-ogImage: /images/ph-legal-faq-og.jpg
 draft: false
 
 ---

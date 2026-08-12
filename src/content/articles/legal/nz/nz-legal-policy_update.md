@@ -26,7 +26,6 @@ keywords:
   - "中文服务可用性"
   - "政策影响分析"
 chineseServiceAvailable: true
-ogImage: /images/nz-legal-policy-update-2026.jpg
 draft: false
 
 ---

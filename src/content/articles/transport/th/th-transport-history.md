@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"泰国交通部\", \"泰国民航局\", \"CAAT\", \"机构沿革\", \"航空改革\", \"陆运厅\", \"港务局\"]"
 keywords: "[\"泰国交通部历史\", \"CAAT成立\", \"泰国航空法\", \"民航改革\", \"陆运厅职能\"]"
 chineseServiceAvailable: true
-ogImage: "/images/og/mo-health-ssm-overview-2026.jpg"
 draft: false
 
 ---

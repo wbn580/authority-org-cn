@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/au-transport-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: navigating-uk-university-accommodation-contracts-key-clauses -->

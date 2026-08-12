@@ -20,7 +20,7 @@ keywords:
   - "Merdeka Belajar"
   - "印尼教育体系"
 chineseServiceAvailable: true
-ogImage: "https://placehold.co/1200x630?text=Indonesia+Education+Functions+2026"
+ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
 
 ---

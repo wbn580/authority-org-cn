@@ -26,7 +26,6 @@ keywords:
   - "生物识别 机场"
   - "中文服务 可用性"
 chineseServiceAvailable: 部分
-ogImage: /images/us-transport-policy-2026-og.jpg
 draft: false
 
 ---

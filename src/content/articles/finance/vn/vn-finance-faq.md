@@ -22,7 +22,6 @@ keywords:
   - "外资银行牌照"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/vn-finance-faq-og.png
 draft: false
 
 ---

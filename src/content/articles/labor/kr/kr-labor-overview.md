@@ -31,7 +31,6 @@ keywords:
   - "中文服务"
   - "中国大陆人士就业"
 chineseServiceAvailable: 是
-ogImage: /images/kr-moel-overview-2026.png
 draft: false
 
 ---

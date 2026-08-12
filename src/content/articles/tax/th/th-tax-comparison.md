@@ -27,7 +27,6 @@ keywords:
   - "税务数字化"
   - "税务效率排名"
 chineseServiceAvailable: true
-ogImage: /images/tax-comparison-th.jpg
 draft: false
 hideFromHome: true
 

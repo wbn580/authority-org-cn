@@ -28,7 +28,6 @@ keywords:
   - "贸易FAQ"
   - "韩国进出口"
 chineseServiceAvailable: 是
-ogImage: /images/kr-trade-faq-2026-og.png
 draft: false
 
 ---

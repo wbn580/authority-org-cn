@@ -26,7 +26,6 @@ keywords:
   - "泰国教育动态"
   - "泰国教育中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/ae-education-overview-og.png"
 draft: false
 
 ---

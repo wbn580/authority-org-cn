@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国税务\", \"IRS\", \"机构沿革\", \"税务改革\", \"财政部\"]"
 keywords: "[\"IRS历史\", \"美国国税局\", \"税务管理改革\", \"1862年收入法\", \"1998年IRS重组法案\"]"
 chineseServiceAvailable: true
-ogImage: "/images/ie-legal-guide-2026.jpg"
 draft: false
 
 ---

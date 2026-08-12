@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ph-trade-policy_update-2026-1880x1111.jpg"
 ---
 
 

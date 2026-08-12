@@ -26,7 +26,6 @@ keywords:
   - "申诉机制"
   - "制度差异"
 chineseServiceAvailable: true
-ogImage: /images/comparison/tw-caa-global-comparison-2026.png
 draft: false
 hideFromHome: true
 

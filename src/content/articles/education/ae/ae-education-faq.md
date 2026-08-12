@@ -25,7 +25,6 @@ keywords:
   - "中文服务可用性"
   - "常见误区"
 chineseServiceAvailable: true
-ogImage: "/images/au-legal-guide-2026.jpg"
 draft: false
 
 ---

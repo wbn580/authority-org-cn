@@ -26,7 +26,6 @@ keywords:
   - "以色列税收协定"
   - "以色列税务中文服务"
 chineseServiceAvailable: true
-ogImage: "/images/og/kr-legal-faq-2026.jpg"
 draft: false
 
 ---

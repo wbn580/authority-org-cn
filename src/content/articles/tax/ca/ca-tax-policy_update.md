@@ -27,7 +27,6 @@ keywords:
   - "跨境税务合规"
   - "大陆人税务影响"
 chineseServiceAvailable: true
-ogImage: /images/og/ca-tax-update-2024-2026.jpg
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"日本经济产业省\", \"METI\", \"日本海关\", \"贸易管�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/jp-trade-overview-2026-1880x1111.jpg"
 ---
 
 

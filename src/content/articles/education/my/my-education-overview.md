@@ -37,7 +37,6 @@ keywords:
   - "FAQ"
   - "参考资料"
 chineseServiceAvailable: 是
-ogImage: "/images/es-transport-history-og.jpg"
 draft: false
 
 ---

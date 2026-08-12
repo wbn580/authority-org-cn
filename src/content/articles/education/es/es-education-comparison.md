@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"西班牙\", \"教育监管\", \"国际比较\", \"教育部\", \"数字化\", \"透明度\"]"
 keywords: "[\"西班牙教育部\", \"德国文化部长会议\", \"法国国民教育\", \"英国教育部\", \"澳大利亚教育部\", \"教育监管效率\", \"申诉机制\", \"数字化教育\"]"
 chineseServiceAvailable: true
-ogImage: "/images/de-health-authority-functions-2026.jpg"
 draft: false
 hideFromHome: true
 

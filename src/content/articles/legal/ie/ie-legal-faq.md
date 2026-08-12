@@ -25,7 +25,6 @@ keywords:
   - "法律援助资格"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/ie-legal-faq-2026.jpg
 draft: false
 
 ---

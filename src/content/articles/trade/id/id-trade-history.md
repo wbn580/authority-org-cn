@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"印尼贸易部\", \"海关总局\", \"机构沿革\", \"法律基础\", \"职能重组\", \"改革事件\", \"名称变更\"]"
 keywords: "[\"印尼贸易部沿革\", \"海关总局历史\", \"1945年宪法\", \"贸易法\", \"海关法\", \"机构改革\"]"
 chineseServiceAvailable: true
-ogImage: /images/og-id-trade-history.jpg
 draft: false
 
 ---

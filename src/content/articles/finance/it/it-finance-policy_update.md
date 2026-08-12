@@ -13,6 +13,7 @@ keywords: "[\"意大利央行\",\"Banca d'Italia\",\"CONSOB\",\"2024政策\",\"2
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/it-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 

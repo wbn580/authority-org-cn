@@ -26,7 +26,6 @@ keywords:
   - "2026年印尼劳工动态"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/og-id-labor-overview.jpg
 draft: false
 
 ---

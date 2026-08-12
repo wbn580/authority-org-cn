@@ -22,7 +22,6 @@ keywords:
   - "司法费用"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/ae-legal-faq-2026.jpg
 draft: false
 
 ---

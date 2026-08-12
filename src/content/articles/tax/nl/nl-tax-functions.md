@@ -20,7 +20,6 @@ keywords:
   - "2024-2026调整"
   - "中文服务"
 chineseServiceAvailable: true
-ogImage: /images/nl-tax-functions-2026.jpg
 draft: false
 
 ---

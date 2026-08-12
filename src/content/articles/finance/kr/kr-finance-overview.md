@@ -28,7 +28,6 @@ keywords:
   - "大陆人韩国开户"
   - "2026年韩国金融政策"
 chineseServiceAvailable: true
-ogImage: "/images/nz-finance-regulators-2026.jpg"
 draft: false
 
 ---

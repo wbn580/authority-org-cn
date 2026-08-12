@@ -27,7 +27,6 @@ keywords:
   - "综合交通运输体系"
   - "机构职能调整"
 chineseServiceAvailable: true
-ogImage: "/images/comparison-transport-authorities-2026.jpg"
 draft: false
 
 ---

@@ -13,6 +13,7 @@ keywords: "[\"越南贸易主管部门\", \"越南海关职能\", \"工贸部核
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/vn-trade-functions-2026-1880x1111.jpg"
 ---
 
 

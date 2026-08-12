@@ -23,7 +23,6 @@ keywords:
   - "越南出入境管理"
   - "大陆人越南签证"
 chineseServiceAvailable: true
-ogImage: /images/vn-immigration-policy-update-2026.jpg
 draft: false
 
 ---

@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-finance-functions-2026-1880x1253.jpg"
 ---
 
 

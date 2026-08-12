@@ -29,7 +29,6 @@ keywords:
   - "主管部门"
   - "机构沿革"
 chineseServiceAvailable: true
-ogImage: /images/og-spain-immigration-history.jpg
 draft: false
 
 ---

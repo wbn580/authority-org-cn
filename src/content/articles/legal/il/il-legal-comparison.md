@@ -23,7 +23,6 @@ keywords:
   - "大陆人法律接触度"
   - "司法效率指标"
 chineseServiceAvailable: true
-ogImage: /images/og/il-legal-comparison-2026.jpg
 draft: false
 hideFromHome: true
 

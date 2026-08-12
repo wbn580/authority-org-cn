@@ -13,6 +13,7 @@ keywords: "[\"澳门金融管理局\", \"AMCM\", \"2026年金融政策\", \"反�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/mo-finance-policy_update-2026-1880x1253.jpg"
 ---
 # 中国澳门金融监管当局2026-2026年政策更新追踪
 

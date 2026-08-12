@@ -29,7 +29,6 @@ keywords:
   - "英国金融监管交叉协调"
   - "中文服务可用性"
 chineseServiceAvailable: 是
-ogImage: /images/uk-finance-regulatory-functions-2026.jpg
 draft: false
 
 ---

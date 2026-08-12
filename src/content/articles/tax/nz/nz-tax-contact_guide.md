@@ -23,7 +23,6 @@ keywords:
   - "税务投诉流程"
   - "大陆人士新西兰税务"
 chineseServiceAvailable: true
-ogImage: /images/nz-tax-guide-2026.jpg
 draft: false
 
 ---

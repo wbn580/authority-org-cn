@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.authority.org.cn/authority/ca-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比 -->

@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"美国移民政策\", \"USCIS\", \"H-1B改革\", \"学生签证\", \"绿卡排期\", \"2026\"]"
 keywords: "[\"美国签证更新\", \"H-1B 2026\", \"F-1 OPT\", \"绿卡申请\", \"中国大陆申请人\"]"
 chineseServiceAvailable: true
-ogImage: /images/us-immigration-policy-2026.jpg
 draft: false
 
 ---

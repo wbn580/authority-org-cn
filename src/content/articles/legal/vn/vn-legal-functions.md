@@ -25,7 +25,6 @@ keywords:
   - "部门协调"
   - "中文服务可用性"
 chineseServiceAvailable: true
-ogImage: /images/vn-legal-functions-2026.jpg
 draft: false
 
 ---

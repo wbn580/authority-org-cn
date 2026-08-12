@@ -11,7 +11,6 @@ readingTime: 15
 tags: "[\"加拿大\", \"医保\", \"卫生\", \"FAQ\", \"省医保\", \"药物计划\", \"中文服务\"]"
 keywords: "[\"加拿大医保申请\", \"健康卡\", \"等待期\", \"处方药费用\", \"中文服务\", \"医疗投诉\"]"
 chineseServiceAvailable: true
-ogImage: /images/ca-health-faq-2026.png
 draft: false
 
 ---

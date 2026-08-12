@@ -25,7 +25,6 @@ keywords:
   - "荷兰民航"
   - "驾驶考试"
 chineseServiceAvailable: true
-ogImage: /images/nl-transport-faq-og.jpg
 draft: false
 
 ---

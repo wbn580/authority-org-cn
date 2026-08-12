@@ -25,7 +25,6 @@ keywords:
   - "卫生法2014"
   - "国家卫生系统"
 chineseServiceAvailable: 印尼卫生部（Kemenkes）官方网站提供英文和印尼文版本，部分政策文件及公告有英文摘要。对于跨境健康服务相关咨询，可通过卫生部国际司（Biro Kerja Sama Luar Negeri）联系，中文服务可用性有限，建议通过当地注册代理或律师事务所协助沟通。
-ogImage: "/images/tw-finance-guide-2026.png"
 draft: false
 
 ---

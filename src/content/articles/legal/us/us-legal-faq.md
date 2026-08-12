@@ -21,7 +21,6 @@ keywords:
   - "法律费用"
   - "中文法律援助"
 chineseServiceAvailable: true
-ogImage: /images/us-legal-faq-2026-og.jpg
 draft: false
 
 ---

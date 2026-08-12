@@ -25,7 +25,6 @@ keywords:
   - "费用标准"
   - "处理时效"
 chineseServiceAvailable: true
-ogImage: /images/og-cn-finance-contact-guide-2026.png
 draft: false
 
 ---
