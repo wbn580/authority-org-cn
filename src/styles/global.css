@@ -3,9 +3,15 @@
  * Design: 部委系研究院风 · 藏青墨绿 + 青铜金 + 象牙麻纸
  */
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/*
+ * Tailwind 4 迁移说明（对应 2026-08-13 技术债清理）：
+ * 旧站用 @astrojs/tailwind + Tailwind 3，其 tailwind.config.mjs 的 content 字段被
+ * 误填成字体名（"Microsoft YaHei", "sans-serif"），导致扫不到任何源文件、工具类
+ * 一个都没生成，全站其实一直靠下面的自定义样式在撑。因此这里只引入 Tailwind 4 的
+ * preflight（等价于旧站唯一在生效的 8KB base reset），刻意不引入 utilities，保证
+ * 升级后观感与现状一致。是否真正启用工具类见单独结论，启用需先给大王做观感比对。
+ */
+@import "tailwindcss/preflight";
 
 /* Design tokens moved to tailwind.config.mjs */
 /* @theme block removed for Tailwind v3 */

@@ -302,7 +302,7 @@ TOPIK考试每年举办6次（韩国境内4次，境外2次），成绩有效期
 2. 韩国法务部出入境管理局2026年《留学签证（D-2）操作细则》（第2026-18号公告），[www.hikorea.go.kr](https://www.hikorea.go.kr)。
 3. 韩国教育课程评价院（KICE）2025年《学历认证年报》（报告编号：KICE-2025-003），[www.kice.re.kr](https://www.kice.re.kr)。
 4. 韩国大学教育协会（KCUE）2026年《大学学费现状报告》（报告编号：KCUE-2026-007），[www.kcue.or.kr](https://www.kcue.or.kr)。
-5. 韩国驻华大使馆2026年《签证费用表及申请指南》（通知编号：2026-12），www.overseas.mofa.go.kr/cn。
+5. 韩国驻华大使馆2026年《签证费用表及申请指南》（通知编号：2026-12），<http://www.overseas.mofa.go.kr/cn>。
 6. 韩国教育部官方中文网站（2026年更新），[www.studyinkorea.go.kr/cn](https://www.studyinkorea.go.kr/cn)。
 7. 韩国法务部2026年《留学生兼职工作指南》（第2026-29号公告），[www.hikorea.go.kr](https://www.hikorea.go.kr)。
 8. 韩国法务部2026年《家属陪同签证指南》（第2026-40号公告），[www.hikorea.go.kr](https://www.hikorea.go.kr)。

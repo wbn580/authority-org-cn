@@ -65,7 +65,7 @@ ogImage: "https://img.authority.org.cn/authority/ie-transport-faq-2026-1880x1253
 
 ### Q3: 如何联系DTTAS或IAA？
 **A3:** 联系方式如下：
-- **DTTAS**：地址：Department of Transport, Tourism and Sport, Leeson Lane, Dublin 2, D02 TR60。电话：+353 1 670 7444。电子邮件：info@transport.gov.ie。在线表格：www.transport.gov.ie/contact。
+- **DTTAS**：地址：Department of Transport, Tourism and Sport, Leeson Lane, Dublin 2, D02 TR60。电话：+353 1 670 7444。电子邮件：info@transport.gov.ie。在线表格：<http://www.transport.gov.ie/contact>。
 - **IAA**：地址：Irish Aviation Authority, The Times Building, 11-12 D’Olier Street, Dublin 2, D02 T449。电话：+353 1 603 1100。电子邮件：info@iaa.ie。投诉专线：+353 1 603 1111（周一至周五09:00-17:00）。
 
 ### Q4: DTTAS和IAA的办公时间及语言支持如何？
@@ -205,7 +205,7 @@ ogImage: "https://img.authority.org.cn/authority/ie-transport-faq-2026-1880x1253
 ## FAQ
 
 ### Q1: 爱尔兰交通主管部门的官方网站是什么？
-**A1:** DTTAS官网：www.transport.gov.ie；IAA官网：[www.iaa.ie](https://www.iaa.ie)；NTA官网：[www.nationaltransport.ie](https://www.nationaltransport.ie)。
+**A1:** DTTAS官网：<http://www.transport.gov.ie>；IAA官网：[www.iaa.ie](https://www.iaa.ie)；NTA官网：[www.nationaltransport.ie](https://www.nationaltransport.ie)。
 
 ### Q2: 中国驾照在爱尔兰的使用期限是多久？
 **A2:** 入境后1年（需携带国际驾照翻译件）。1年后需换领爱尔兰驾照（详见Q5）。
@@ -223,7 +223,7 @@ ogImage: "https://img.authority.org.cn/authority/ie-transport-faq-2026-1880x1253
 **A6:** 有。自2025年起，理论考试提供中文语言选项（详见Q5）。
 
 ### Q7: 车辆登记税（VRT）如何计算？
-**A7:** 基于车辆二氧化碳排放量，税率范围为14%-36%（2026年标准）。在线计算器：www.transport.gov.ie/vrt-calculator。
+**A7:** 基于车辆二氧化碳排放量，税率范围为14%-36%（2026年标准）。在线计算器：<http://www.transport.gov.ie/vrt-calculator>。
 
 ### Q8: 道路税可以在线缴纳吗？
 **A8:** 可以。通过www.motortax.ie在线支付，即时生效（详见Q10）。

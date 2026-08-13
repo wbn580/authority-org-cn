@@ -53,7 +53,7 @@ draft: false
 
 - **劳动与社会政策部（MLPS）**：负责劳动政策制定、合同监管及就业服务。地址：Via Veneto, 56, 00187 Roma。电话：+39 06 4683 1（总机）。网站：[www.lavoro.gov.it](https://www.lavoro.gov.it)。
 - **国家社会保障局（INPS）**：负责社保缴费、失业救济、养老金等。各地分支机构可通过INPS官网（[www.inps.it](https://www.inps.it)）查询，或拨打免费热线：+39 803 164（意大利境内）、+39 06 164 164（境外）。
-- **国家就业服务门户（ANPAL）**：提供求职、培训及就业匹配服务。网站：www.anpal.gov.it。
+- **国家就业服务门户（ANPAL）**：提供求职、培训及就业匹配服务。网站：<http://www.anpal.gov.it>。
 
 ### 中文服务可用性
 

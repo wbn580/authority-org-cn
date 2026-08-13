@@ -214,5 +214,5 @@ BIR的职权与运作主要依据以下法律：
 4. 菲律宾厘务局《纳税人权利宪章》（Taxpayer’s Bill of Rights），2024年修订版。来源：BIR官网。
 5. 菲律宾财政部（DOF）《2025-2027年税收战略计划》（Tax Revenue Strategy Plan 2025-2027），2025年1月发布。来源：DOF官网（[www.dof.gov.ph](https://www.dof.gov.ph)）。
 6. 菲律宾中央银行（BSP）《2025年第四季度跨境资金流动报告》（Cross-Border Capital Flows Report, Q4 2025），2026年2月发布。来源：BSP官网（[www.bsp.gov.ph](https://www.bsp.gov.ph)）。
-7. 菲律宾税务上诉法院（CTA）《2025年度司法统计报告》（CTA Annual Judicial Statistics 2025），2026年1月发布。来源：CTA官网（www.cta.gov.ph）。
+7. 菲律宾税务上诉法院（CTA）《2025年度司法统计报告》（CTA Annual Judicial Statistics 2025），2026年1月发布。来源：CTA官网（<http://www.cta.gov.ph>）。
 8. 中菲税收协定（Agreement between the Government of the People's Republic of China and the Government of the Republic of the Philippines for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income），2001年11月18日生效。来源：中国国家税务总局官网（[www.chinatax.gov.cn](https://www.chinatax.gov.cn)）。

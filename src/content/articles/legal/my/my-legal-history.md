@@ -143,4 +143,4 @@ draft: false
 7. 马来西亚律师公会2015年声明（Statement on the Attorney General’s Chambers (Independence) Bill 2015），2015年8月。来源：马来西亚律师公会官网（[www.malaysianbar.org.my](https://www.malaysianbar.org.my)）。
 8. 联邦法院2025年年度报告（Federal Court Annual Report 2025），第3章“案件管理数据”。来源：联邦法院官网。
 9. 法律事务部2026年第一季度报告（Ministry of Legal Affairs Q1 2026 Report），第2.2节“司法任命法进展”。来源：法律事务部公开文件。
-10. 马来西亚国家档案馆，1965-1970年法律事务部档案，编号：BH/65/3。来源：马来西亚国家档案馆（www.arkib.gov.my）。
+10. 马来西亚国家档案馆，1965-1970年法律事务部档案，编号：BH/65/3。来源：马来西亚国家档案馆（<http://www.arkib.gov.my>）。

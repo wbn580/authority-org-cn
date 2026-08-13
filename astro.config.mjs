@@ -1,11 +1,10 @@
 import { defineConfig } from 'astro/config';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://authority.org.cn',
   integrations: [
-    tailwind(),
     sitemap({
       filter: page =>
         !page.includes('/state/') &&
@@ -24,5 +23,8 @@ export default defineConfig({
     shikiConfig: {
       theme: 'github-light'
     }
+  },
+  vite: {
+    plugins: [tailwindcss()]
   }
 });

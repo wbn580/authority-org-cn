@@ -1,7 +1,7 @@
 {
   "name": "authority-org-cn",
   "version": "1.0.0",
-  "description": "Global Government Authority Registry \u00b7 \u5168\u7403\u4e3b\u7ba1\u90e8\u95e8\u4fe1\u606f\u6c47\u7f16",
+  "description": "Global Government Authority Registry · 全球主管部门信息汇编",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
@@ -11,13 +11,15 @@
     "deploy": "wrangler deploy"
   },
   "dependencies": {
-    "astro": "^5.0.0",
-    "@astrojs/tailwind": "^5.1.0",
-    "@astrojs/sitemap": "^3.2.1",
-    "tailwindcss": "^3.4.0"
+    "@astrojs/sitemap": "^3.7.3",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^6.4.8",
+    "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
-    "wrangler": "^4.0.0",
-    "@tailwindcss/typography": "^0.5.0"
+    "wrangler": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
   }
 }
