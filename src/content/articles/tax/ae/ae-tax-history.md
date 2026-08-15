@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-tax-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

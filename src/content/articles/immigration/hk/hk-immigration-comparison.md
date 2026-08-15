@@ -33,6 +33,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/hk-immigration-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-guide-hong-kong-students-2026 -->

@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ch-transport-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 印尼劳工部官方网站（kemnaker.go.id）提供印尼语和英语版本，未设专门中文频道。部分政策文件（如《综合就业法》英文版）可通过官方渠道获取。中文服务需求可咨询印尼驻华使馆或商业咨询机构。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/id-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

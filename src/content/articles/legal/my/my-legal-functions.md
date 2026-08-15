@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 部分中文服务（如法律翻译、领事协助）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/my-legal-functions-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->

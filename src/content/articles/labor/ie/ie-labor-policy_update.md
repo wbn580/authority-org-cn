@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 是（部分公共信息提供中文摘要，但官方流程以英文为主）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ie-labor-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

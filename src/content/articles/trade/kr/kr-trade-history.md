@@ -13,6 +13,7 @@ keywords: "[\"韩国贸易主管部门\", \"韩国海关历史\", \"产业通商
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-trade-history-2026-1880x1111.jpg"
 ---
 
 

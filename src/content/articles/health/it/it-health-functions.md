@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 部分核心职能（如药品审批、公共卫生通报）提供英文接口，中文服务有限。重大政策文件（如PNRR相关卫生计划）有英文摘要，但详尽中文翻译需通过第三方机构或驻意使领馆获取。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/it-health-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

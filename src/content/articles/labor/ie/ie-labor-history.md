@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰劳工部\", \"机构沿革\", \"就业事务部\", \"企
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ie-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

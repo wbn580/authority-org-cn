@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: 日本国土交通省及航空局官网提供日文、英文界面，部分公告附有中文摘要。主要中文服务通过各在日中国使领馆及专业咨询机构间接提供。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/jp-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

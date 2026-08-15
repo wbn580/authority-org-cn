@@ -38,6 +38,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/us-trade-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

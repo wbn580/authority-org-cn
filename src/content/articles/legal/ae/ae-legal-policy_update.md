@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-legal-policy_update-2026-1880x1255.jpg"
 ---
 # 阿联酋司法/法务主管部门2026-2026年政策更新追踪
 

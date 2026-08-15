@@ -13,6 +13,7 @@ keywords: "[\"加拿大医保申请\", \"健康卡\", \"等待期\", \"处方药
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ca-health-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

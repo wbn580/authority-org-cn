@@ -33,6 +33,7 @@ chineseServiceAvailable: 德国BA部分服务提供英语咨询，中文服务�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/de-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: career-support-comparison-top-study-destinations -->

@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 是（部分关键文件提供中文摘要；电话口译服务需预约）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ie-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

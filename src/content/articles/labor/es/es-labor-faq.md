@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 是，部分服务可通过SEPE线上系统或电话翻译服务获得中文支持，但主要文书与官方语言为西班牙语。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/es-labor-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

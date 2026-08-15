@@ -13,6 +13,7 @@ keywords: "[\"日本厚生劳动省\", \"日本劳动法\", \"日本就业政策
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/jp-labor-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲it移民acs职业评估与就业前景 -->

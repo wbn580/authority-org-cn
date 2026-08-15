@@ -13,6 +13,7 @@ keywords: "[\"中国台湾金融监管政策更新\", \"央行利率政策\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/tw-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 

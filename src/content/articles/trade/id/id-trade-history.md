@@ -13,6 +13,7 @@ keywords: "[\"印尼贸易部沿革\", \"海关总局历史\", \"1945年宪法\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/id-trade-history-2026-1880x1111.jpg"
 ---
 
 

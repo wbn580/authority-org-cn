@@ -13,6 +13,7 @@ keywords: "[\"德国交通主管部门\", \"BMDV职能\", \"LBA飞行员执照\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/de-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

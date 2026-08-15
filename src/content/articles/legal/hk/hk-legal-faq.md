@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/hk-legal-faq-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->

@@ -30,6 +30,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/uk-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: international-student-health-insurance-guide-2025 -->

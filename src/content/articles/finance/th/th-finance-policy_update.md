@@ -33,6 +33,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 

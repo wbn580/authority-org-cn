@@ -29,6 +29,7 @@ chineseServiceAvailable: 韩国保健福祉部提供中文服务，包括网站�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/kr-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国本科转美国研究生转学指南gpa要求材料录取率-4e610d-og -->

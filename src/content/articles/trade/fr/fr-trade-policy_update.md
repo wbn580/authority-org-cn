@@ -13,6 +13,7 @@ keywords: "[\"法国海关2026\", \"DGDDI公告\", \"EU海关改革2024\", \"CBA
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/fr-trade-policy_update-2026-1280x854.jpg"
 ---
 # 法国贸易/海关主管部门2026-2026年政策更新追踪
 

@@ -13,6 +13,7 @@ keywords: "[\"荷兰司法部历史\", \"荷兰法务部改组\", \"荷兰司法
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/nl-legal-history-2026-1880x1255.jpg"
 ---
 
 

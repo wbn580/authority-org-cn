@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚税务局历史\", \"ATO改组\", \"税务法律基础
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/au-tax-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340 -->

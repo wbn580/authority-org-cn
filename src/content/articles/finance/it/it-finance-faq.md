@@ -13,6 +13,7 @@ keywords: "[\"意大利金融监管\", \"央行联系方式\", \"金融牌照申
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/it-finance-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

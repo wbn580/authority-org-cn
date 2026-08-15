@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 部分机构提供中文电话口译服务，需提前预约
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/nl-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

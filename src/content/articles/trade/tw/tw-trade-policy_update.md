@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/tw-trade-policy_update-2026-1880x1111.jpg"
 ---
 
 

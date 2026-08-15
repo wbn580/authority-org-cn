@@ -13,6 +13,7 @@ keywords: "[\"泰国税务厅\", \"Revenue Code\", \"税收职能\", \"泰国税
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-tax-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

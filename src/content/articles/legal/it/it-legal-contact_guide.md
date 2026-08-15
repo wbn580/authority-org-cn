@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 部分机构提供中文翻译协助，需提前预约
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/it-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 

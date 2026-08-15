@@ -13,6 +13,7 @@ keywords: "[中国民航, 航班延误赔偿, 空域管理, CAAC投诉, 行李�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/cn-transport-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

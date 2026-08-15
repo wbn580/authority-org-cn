@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 1
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-labor-functions-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

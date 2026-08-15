@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/au-transport-overview-2026-1880x1058.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-澳洲留學生活費預算悉尼-vs-墨爾本差幾多 -->

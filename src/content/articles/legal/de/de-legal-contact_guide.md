@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: 部分州法院提供中文翻译服务，需提前申请。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/de-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 

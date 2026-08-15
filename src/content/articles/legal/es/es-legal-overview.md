@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 部分可用
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/es-legal-overview-2026-1880x1255.jpg"
 ---
 
 

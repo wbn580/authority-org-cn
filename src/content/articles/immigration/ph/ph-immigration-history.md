@@ -13,6 +13,7 @@ keywords: "[\"菲律宾移民局历史\", \"移民局改组\", \"菲律宾签证
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-immigration-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

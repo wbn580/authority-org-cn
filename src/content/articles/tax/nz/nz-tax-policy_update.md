@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 是（IRD官网提供中文翻译摘要，部分表格含中文注释；税务代理可在中文社区获取服务）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/nz-tax-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新西兰留学毕业后工签时长是多久 -->

@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 是（部分官方文件提供英文摘要，中文服务有限，建议通过雇主或中介获取翻译协助）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/il-labor-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲it移民acs职业评估与就业前景 -->

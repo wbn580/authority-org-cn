@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 有限
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-trade-overview-2026-1880x1111.jpg"
 ---
 ## 一、机构概况与历史沿革
 

@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ca-transport-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-台灣高中生出國留學美國-vs-加拿大費用對比 -->

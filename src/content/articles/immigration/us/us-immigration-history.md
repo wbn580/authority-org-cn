@@ -13,6 +13,7 @@ keywords: "[\"美国移民局历史\", \"USCIS成立\", \"移民法演变\", \"�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/us-immigration-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

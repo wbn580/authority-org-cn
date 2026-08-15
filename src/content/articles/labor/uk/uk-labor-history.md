@@ -13,6 +13,7 @@ keywords: "[英国劳工部, 就业部, 就业与养老金部, DWP, 机构沿革
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/uk-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-ucl-2026-fees-scholarships--career-outco -->

@@ -13,6 +13,7 @@ keywords: "[\"阿联酋医保改革\", \"迪拜强制健康保险\", \"阿布扎
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-health-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

@@ -13,6 +13,7 @@ keywords: "[\"泰国商务部\", \"泰国海关厅\", \"泰国投资促进委员
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-trade-overview-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

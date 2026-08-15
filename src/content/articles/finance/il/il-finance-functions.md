@@ -33,6 +33,7 @@ keywords:
 chineseServiceAvailable: 以色列央行、证券局、资本市场管理局均提供英文网站及部分中文文件；中文服务有限，建议通过授权代理或律师事务所获取中文协助。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/il-finance-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

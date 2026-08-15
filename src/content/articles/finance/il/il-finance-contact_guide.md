@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: 是（部分主要银行及ISA提供中文文件翻译协助）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/il-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 

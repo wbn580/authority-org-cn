@@ -13,6 +13,7 @@ keywords: "[\"澳门金融管理局\", \"AMCM\", \"澳门央行\", \"金融监�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/mo-finance-overview-2026-1880x1253.jpg"
 ---
 
 

@@ -13,6 +13,7 @@ keywords: "[\"新加坡交通主管部门\", \"新加坡民航主管部门\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/sg-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

@@ -14,6 +14,7 @@ chineseServiceAvailable: 澳大利亚税务局（ATO）提供简体中文版税�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/au-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

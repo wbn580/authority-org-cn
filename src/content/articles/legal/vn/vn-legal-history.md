@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-legal-history-2026-1880x1255.jpg"
 ---
 
 

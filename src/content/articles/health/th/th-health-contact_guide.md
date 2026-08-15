@@ -13,6 +13,7 @@ keywords: "[泰国公共卫生部, 医保局, 健康保险, 外国人医保, 中
 chineseServiceAvailable: 部分
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

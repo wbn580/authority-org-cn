@@ -35,6 +35,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ch-legal-functions-2026-1880x1255.jpg"
 ---
 # 瑞士联邦司法与法务主管部门核心职能详解（2026-2026年）
 

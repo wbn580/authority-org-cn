@@ -13,6 +13,7 @@ keywords: "[\"澳门法务局\", \"司法警察局\", \"第XX/2026号法律\", \
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/mo-legal-policy_update-2026-1880x1255.jpg"
 ---
 
 

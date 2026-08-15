@@ -13,6 +13,7 @@ keywords: "[\"美国签证更新\", \"H-1B 2026\", \"F-1 OPT\", \"绿卡申请\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/us-immigration-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

@@ -13,6 +13,7 @@ keywords: "[\"法国移民局\", \"OFII历史\", \"DGIS职能\", \"法国签证\
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/fr-immigration-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 有限
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/il-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

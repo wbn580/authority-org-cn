@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 马来西亚卫生部官方网站（www.moh.gov.my）提供马来文和英文界面。部分关键政策文件（如2026年国家健康蓝图）有英文摘要。中文服务主要由私人医疗机构及非政府组织提供，政府部门不设中文专线或文件翻译服务。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/my-health-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->

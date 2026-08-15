@@ -34,6 +34,7 @@ chineseServiceAvailable: 越南MOLISA部分业务提供中文服务；新加坡M
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/vn-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

@@ -13,6 +13,7 @@ keywords: "[瑞士劳工局, 瑞士工作许可, 瑞士社保, 瑞士中文服�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ch-labor-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

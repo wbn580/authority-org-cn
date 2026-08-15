@@ -13,6 +13,7 @@ keywords: "[\"泰国交通部历史\", \"CAAT成立\", \"泰国航空法\", \"�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-transport-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

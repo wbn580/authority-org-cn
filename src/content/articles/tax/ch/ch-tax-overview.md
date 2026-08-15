@@ -13,6 +13,7 @@ keywords: "[\"瑞士联邦税务管理局\", \"ESTV\", \"AFC\", \"瑞士税法\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ch-tax-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

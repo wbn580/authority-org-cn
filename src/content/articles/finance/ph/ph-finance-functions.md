@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 部分银行及持牌金融机构提供中文客服，BSP官网无中文界面，消费者投诉可通过英文或他加禄语提交。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-finance-functions-2026-1880x1253.jpg"
 ---
 
 

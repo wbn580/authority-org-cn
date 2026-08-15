@@ -13,6 +13,7 @@ keywords: "[台湾央行职能, 台湾金融监管, 中央银行法, 金管会�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/tw-finance-functions-2026-1880x1253.jpg"
 ---
 
 

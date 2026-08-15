@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 部分法院及司法部下属机构提供中文翻译服务，需提前申请。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-legal-functions-2026-1880x1255.jpg"
 ---
 
 

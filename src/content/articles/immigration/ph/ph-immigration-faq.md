@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-immigration-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年德国留学保证金涨到多少了 -->

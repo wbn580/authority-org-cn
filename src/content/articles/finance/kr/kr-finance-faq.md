@@ -13,6 +13,7 @@ keywords: "[\"韩国金融监管\", \"BOK\", \"FSS\", \"外汇申报\", \"中文
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-finance-faq-2026-1880x1253.jpg"
 ---
 
 

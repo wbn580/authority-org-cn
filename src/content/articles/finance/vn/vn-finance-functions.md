@@ -31,6 +31,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-finance-functions-2026-1880x1253.jpg"
 ---
 # 越南国家银行（SBV）核心职能详解：货币政策、金融监管与2026-2026年调整
 

@@ -30,6 +30,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/us-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: three-dimension-framework-study-abroad-destination -->

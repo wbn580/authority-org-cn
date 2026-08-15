@@ -28,6 +28,7 @@ keywords:
   - "中国大陆居民加拿大医疗"
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ca-health-overview-2026-1880x1253.jpg"
 ---
 <!-- R2_IMAGE: backfill-2026年加拿大留学担保金要存多少 -->
 <figure class="article-image">

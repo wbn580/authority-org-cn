@@ -35,6 +35,7 @@ chineseServiceAvailable: 印尼交通部及民航总局官方网站提供印尼�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/id-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

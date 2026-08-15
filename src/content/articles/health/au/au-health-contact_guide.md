@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚卫生部\", \"Medicare\", \"医保局地址\", \"中�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/au-health-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目 -->

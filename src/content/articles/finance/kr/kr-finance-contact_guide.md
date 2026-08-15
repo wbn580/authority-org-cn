@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 

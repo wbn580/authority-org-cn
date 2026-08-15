@@ -41,6 +41,7 @@ chineseServiceAvailable: false
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/au-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

@@ -34,6 +34,7 @@ keywords:
 chineseServiceAvailable: 是（部分银行及BSP官网提供有限中文）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-finance-overview-2026-1880x1253.jpg"
 ---
 # 菲律宾中央银行与金融监管主管部门概况（2026年版）
 

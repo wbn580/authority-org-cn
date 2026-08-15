@@ -13,6 +13,7 @@ keywords: "[香港金融管理局, 证券及期货事务监察委员会, 2024-20
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/hk-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-澳洲留學簽證體檢要預約邊間要驗咩項目 -->

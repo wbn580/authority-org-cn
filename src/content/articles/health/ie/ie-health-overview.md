@@ -32,6 +32,7 @@ keywords:
 chineseServiceAvailable: 有限。HSE官网提供机器翻译中文版本，部分关键文件有中文摘要，但电话及现场服务无专职中文人员。中国大陆居民可通过HSE官网英文界面或委托在爱亲友办理多数业务。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ie-health-overview-2026-1880x1253.jpg"
 ---
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->
 <figure class="article-image">

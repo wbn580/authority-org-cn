@@ -13,6 +13,7 @@ keywords: "[\"台湾贸易主管部门\", \"财政部关税总局\", \"经济部
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/tw-trade-history-2026-1880x1111.jpg"
 ---
 # 中国台湾地区贸易与海关主管部门机构沿革：从关税总局到国际贸易署的职能演变（近年-2026）
 

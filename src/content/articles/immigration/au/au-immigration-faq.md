@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚移民局联系方式\",\"签证处理时间2026\",\"�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/au-immigration-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲485毕业生工签续签条件与时长变化 -->

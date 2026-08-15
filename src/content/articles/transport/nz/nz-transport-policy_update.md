@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/nz-transport-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新西兰留学一年生活费大概需要多少 -->

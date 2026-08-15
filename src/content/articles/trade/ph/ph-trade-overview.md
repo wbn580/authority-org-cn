@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 有限
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-trade-overview-2026-1880x1111.jpg"
 ---
 
 

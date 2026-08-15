@@ -13,6 +13,7 @@ keywords: "[\"新加坡移民政策2026\", \"ICA 2024-2026\", \"MOM 2025公告\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/sg-immigration-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新加坡公立大学硕士申请需要工作经验吗 -->

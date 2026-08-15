@@ -13,6 +13,7 @@ keywords: "[\"韩国移民主管部门\", \"韩国移民厅\", \"出入境管理
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-immigration-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

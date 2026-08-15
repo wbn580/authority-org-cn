@@ -29,6 +29,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/cn-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-澳洲本科转美国研究生转学指南gpa要求材料录取率-3c08be-og -->

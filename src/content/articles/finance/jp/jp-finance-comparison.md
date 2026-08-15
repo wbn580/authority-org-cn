@@ -36,6 +36,7 @@ chineseServiceAvailable: 日本金融厅及央行部分公开信息提供英文�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/jp-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

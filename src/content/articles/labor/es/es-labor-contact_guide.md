@@ -13,6 +13,7 @@ keywords: "[西班牙劳工局, SEPE联系方式, TGSS地址, 西班牙就业服
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/es-labor-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 部分（雅加达总部及主要城市分局提供中文咨询或翻译协助，非官方标配）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/id-labor-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

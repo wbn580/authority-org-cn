@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: 是（部分公立医院及卫生局提供）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/il-health-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

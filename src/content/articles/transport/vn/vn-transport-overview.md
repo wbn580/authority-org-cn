@@ -13,6 +13,7 @@ keywords: "[\"越南交通运输部\", \"越南民用航空局\", \"越南航空
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-transport-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

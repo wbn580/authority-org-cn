@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: 是（部分省份提供中文电话口译及书面翻译服务）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ca-health-contact_guide-2026-1880x1253.jpg"
 ---
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->
 <figure class="article-image">

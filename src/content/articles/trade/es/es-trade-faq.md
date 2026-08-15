@@ -13,6 +13,7 @@ keywords: "[\"西班牙海关\", \"西班牙贸易\", \"AEAT\", \"西班牙清�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/es-trade-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

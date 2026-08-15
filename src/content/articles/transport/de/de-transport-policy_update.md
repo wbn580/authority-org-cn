@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: 部分服务支持中文界面或中文翻译，具体见各章节标注
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/de-transport-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

@@ -29,6 +29,7 @@ chineseServiceAvailable: 日本法务省不设中文服务专窗，但部分出�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/jp-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

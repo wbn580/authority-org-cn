@@ -13,6 +13,7 @@ keywords: "[\"日本签证政策\", \"在留资格变更\", \"特定技能签证
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/jp-immigration-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

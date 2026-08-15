@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-legal-functions-2026-1880x1255.jpg"
 ---
 # 越南司法部核心职能详解：立法、执行、协调与2026-2026年调整
 

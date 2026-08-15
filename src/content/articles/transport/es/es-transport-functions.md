@@ -13,6 +13,7 @@ keywords: "[\"西班牙交通部\", \"民航局\", \"AESA\", \"ENAIRE\", \"交�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/es-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

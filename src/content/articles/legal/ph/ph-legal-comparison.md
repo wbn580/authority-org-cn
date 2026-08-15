@@ -30,6 +30,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/ph-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: asia-miles-southeast-asia-business-class-comparison -->

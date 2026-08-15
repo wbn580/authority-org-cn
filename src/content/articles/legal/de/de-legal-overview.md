@@ -29,6 +29,7 @@ keywords:
   - "立法"
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/de-legal-overview-2026-1880x1255.jpg"
 ---
 
 

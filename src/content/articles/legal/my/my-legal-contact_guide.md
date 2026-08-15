@@ -22,6 +22,7 @@ keywords:
   - "马来西亚司法费用"
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/my-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->

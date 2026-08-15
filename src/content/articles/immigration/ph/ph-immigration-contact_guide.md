@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: 部分
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-immigration-contact_guide-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

@@ -13,6 +13,7 @@ keywords: "[\"韩国劳动部沿革\", \"雇佣劳动部历史\", \"韩国劳动
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

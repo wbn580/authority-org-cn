@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 是（部分机构提供中文书面材料及电话翻译）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/fr-labor-faq-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

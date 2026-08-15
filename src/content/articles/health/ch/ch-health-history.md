@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 是（联邦卫生局提供中文版网页及部分信息材料，但官方文件以德、法、意、罗曼什语为准）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ch-health-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

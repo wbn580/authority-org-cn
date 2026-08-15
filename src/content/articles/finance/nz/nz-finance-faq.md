@@ -13,6 +13,7 @@ keywords: "[\"新西兰金融监管\", \"RBNZ联系方式\", \"FMA投诉流程\"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/nz-finance-faq-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新西兰研究生转学指南gpa要求材料录取率-3eef97-og -->

@@ -32,6 +32,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/it-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種 -->

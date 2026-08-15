@@ -13,6 +13,7 @@ keywords: "[\"泰国移民局历史\", \"泰国签证政策改革\", \"移民局
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-immigration-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

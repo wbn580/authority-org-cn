@@ -29,6 +29,7 @@ chineseServiceAvailable: 韩国雇佣劳动部下属外国人雇佣支援中心�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/kr-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

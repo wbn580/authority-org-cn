@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: 是（部分柜台及热线提供普通话服务）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/my-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->

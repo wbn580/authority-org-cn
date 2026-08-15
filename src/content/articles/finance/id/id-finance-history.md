@@ -13,6 +13,7 @@ keywords: "[\"印度尼西亚中央银行沿革\", \"印尼金融监管机构改
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/id-finance-history-2026-1880x1253.jpg"
 ---
 
 

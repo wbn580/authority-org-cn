@@ -13,6 +13,7 @@ keywords: "[\"阿联酋卫生部\", \"阿联酋卫生与预防部\", \"阿布扎
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-health-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

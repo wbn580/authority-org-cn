@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 有限（部分大区/城市提供中文翻译或中文版指南，但非全国性统一服务）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/it-health-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

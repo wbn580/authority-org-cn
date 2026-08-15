@@ -33,6 +33,7 @@ chineseServiceAvailable: 是
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/mo-tax-comparison-2026-1880x1253.jpg"
 ---
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->
 <figure class="article-image">

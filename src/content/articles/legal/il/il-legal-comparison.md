@@ -26,6 +26,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/il-legal-comparison-2026-1880x1255.jpg"
 ---
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">

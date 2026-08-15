@@ -13,6 +13,7 @@ keywords: "[\"法国卫生主管部门\", \"Ministère de la Santé\", \"ANSM\",
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/fr-health-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

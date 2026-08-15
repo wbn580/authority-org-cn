@@ -13,6 +13,7 @@ keywords: "[\"泰国公共卫生部\", \"泰国医保\", \"MOPH\", \"NHSO\", \"�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-health-history-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-chi-phí-sinh-hoạt-tại-úc-2026-bao-nhiêu- -->

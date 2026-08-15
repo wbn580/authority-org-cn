@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-trade-policy_update-2026-1880x1111.jpg"
 ---
 # 阿联酋贸易与海关主管部门2026-2026年政策更新追踪
 

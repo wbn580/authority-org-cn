@@ -13,6 +13,7 @@ keywords: "[越南税务职能, 税务总局, 税务管理法, 税收征管, 税
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-tax-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

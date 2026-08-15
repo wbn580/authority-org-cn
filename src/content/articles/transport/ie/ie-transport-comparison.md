@@ -29,6 +29,7 @@ chineseServiceAvailable: 爱尔兰交通部及民航局官方网站提供英文�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/ie-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

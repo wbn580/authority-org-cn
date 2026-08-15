@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 是（粤语、普通话书面及口头服务全覆盖）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/mo-transport-contact_guide-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

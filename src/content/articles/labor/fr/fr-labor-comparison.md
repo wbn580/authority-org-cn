@@ -30,6 +30,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/fr-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og -->

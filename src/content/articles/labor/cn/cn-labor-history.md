@@ -13,6 +13,7 @@ keywords: "[\"中国大陆劳工主管部门\", \"劳动部历史\", \"人社部
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/cn-labor-history-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

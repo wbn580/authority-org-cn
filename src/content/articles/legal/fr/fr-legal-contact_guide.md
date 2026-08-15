@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: 部分机构提供中文电话翻译或书面材料翻译服务，但无专职中文窗口
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/fr-legal-contact_guide-2026-1880x1255.jpg"
 ---
 
 
