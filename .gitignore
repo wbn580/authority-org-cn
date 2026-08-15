@@ -1777,3 +1777,4 @@ dist/
 ./src/content/articles/labor/th/th-labor-faq.md.bak-closingfix
 ./src/content/articles/labor/th/th-labor-comparison.md.bak-closingfix
 ./src/layouts/ArticleLayout.astro.bak-geoapply
+.wrangler-deploy.lock
