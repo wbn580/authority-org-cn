@@ -23,5 +23,14 @@ const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
     <slot />
   </main>
   <Footer />
-</body>
+    <!-- R195：简中页咨询入口只走本站企业微信客服；lead.js 简中分支渲染「微信咨询」按钮。
+         data-color / data-accent 必须带 —— lead.js 要把它们转发给运行时面板，缺了会静默丢主题。 -->
+    <script
+      src="https://chat.authority.org.cn/lead.js"
+      data-site="authority-org-cn"
+      data-lang="zh-CN"
+      data-color="#1B3A2E"
+      data-accent="#A88A3E"
+      async></script>
+  </body>
 </html>
