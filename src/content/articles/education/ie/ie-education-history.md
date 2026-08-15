@@ -13,6 +13,7 @@ keywords: "[\"爱尔兰教育部\", \"Department of Education\", \"Department of
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ie-education-history-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

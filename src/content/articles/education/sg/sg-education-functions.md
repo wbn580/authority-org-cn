@@ -33,6 +33,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/sg-education-functions-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年新加坡国立大学本科申请雅思要求多少分 -->

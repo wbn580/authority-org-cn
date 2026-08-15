@@ -13,6 +13,7 @@ keywords: "[\"马来西亚教育政策\", \"马来西亚留学\", \"中国大陆
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/my-education-policy_update-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年马来西亚留学一年学费生活费大概多少 -->

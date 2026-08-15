@@ -14,6 +14,7 @@ chineseServiceAvailable: true
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/es-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-澳洲本科转英国研究生转学指南gpa要求材料录取率-9c95af-og -->

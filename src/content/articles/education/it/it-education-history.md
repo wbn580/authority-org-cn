@@ -13,6 +13,7 @@ keywords: "[\"意大利教育部\",\"MIM\",\"MPI\",\"教育机构改革\",\"意�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/it-education-history-2026-1880x869.jpg"
 ---
 
 

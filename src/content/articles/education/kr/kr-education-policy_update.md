@@ -13,6 +13,7 @@ keywords: "[\"韩国教育政策更新\", \"国际学生招生\", \"D-2签证\",
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-education-policy_update-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年法国留学签证需要多少担保金 -->

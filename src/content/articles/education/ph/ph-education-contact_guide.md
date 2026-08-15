@@ -24,6 +24,7 @@ keywords:
 chineseServiceAvailable: 部分中文服务
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-education-contact_guide-2026-1880x869.jpg"
 ---
 
 

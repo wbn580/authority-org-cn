@@ -13,6 +13,7 @@ keywords: "[\"阿联酋教育部\", \"高等教育与科学研究部\", \"课程
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-education-overview-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

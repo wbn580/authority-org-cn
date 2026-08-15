@@ -27,6 +27,7 @@ keywords:
 chineseServiceAvailable: 是（部分窗口及热线提供有限中文协助）
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-education-contact_guide-2026-1880x869.jpg"
 ---
 
 

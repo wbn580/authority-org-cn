@@ -39,6 +39,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/my-education-overview-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年马来西亚留学一年学费生活费大概多少 -->

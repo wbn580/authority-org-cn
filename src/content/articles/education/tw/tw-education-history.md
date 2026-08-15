@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/tw-education-history-2026-1880x869.jpg"
 ---
 
 

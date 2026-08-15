@@ -13,6 +13,7 @@ keywords: "[澳门教育主管部门, 教育及青年发展局职能, 澳门教�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/mo-education-functions-2026-1880x869.jpg"
 ---
 
 

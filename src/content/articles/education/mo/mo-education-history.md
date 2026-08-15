@@ -28,6 +28,7 @@ keywords:
 chineseServiceAvailable: 本机构提供中文（繁体及简体）服务，所有公告及申请表格均具中文版本，并设有普通话及粤语咨询热线。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/mo-education-history-2026-1880x869.jpg"
 ---
 
 

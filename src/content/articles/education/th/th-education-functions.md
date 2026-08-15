@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: 泰国教育部官网提供泰文和英文版本，部分文件有英文摘要。基础教育委员会（OBEC）设有国际教育事务处，可提供英文咨询。中文服务主要依赖各府教育办公室或学校国际部，官方层面无统一中文服务窗口。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-education-functions-2026-1880x869.jpg"
 ---
 # 泰国教育主管部门核心职能详解（2026-2026）
 

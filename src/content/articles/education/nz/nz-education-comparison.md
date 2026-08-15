@@ -37,6 +37,7 @@ chineseServiceAvailable: 新西兰教育部官网提供中文版部分页面与�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/nz-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

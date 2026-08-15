@@ -13,6 +13,7 @@ keywords: "[\"泰国教育部\", \"教育机构沿革\", \"泰国教育法\", \"
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/th-education-history-2026-1880x869.jpg"
 ---
 
 

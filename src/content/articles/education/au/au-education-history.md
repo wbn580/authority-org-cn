@@ -26,6 +26,7 @@ keywords:
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/au-education-history-2026-1880x869.jpg"
 ---
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->
 <figure class="article-image">

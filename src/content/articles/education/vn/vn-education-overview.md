@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: 部分服务可通过电子邮件及官网英文界面获取，中文界面尚未推出。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-education-overview-2026-1880x869.jpg"
 ---
 
 

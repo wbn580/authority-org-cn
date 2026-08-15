@@ -13,6 +13,7 @@ keywords: "[\"西班牙教育主管部门\", \"MEFPD职能\", \"西班牙教育�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/es-education-functions-2026-1880x869.jpg"
 ---
 # 西班牙教育主管部门核心职能详解（2026-2026）
 

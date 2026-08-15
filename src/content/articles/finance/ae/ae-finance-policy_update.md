@@ -13,6 +13,7 @@ keywords: "[\"阿联酋金融监管\", \"CBUAE 2025\", \"支付代币监管\", \
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ae-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 

@@ -13,6 +13,7 @@ keywords: "[\"菲律宾教育部\", \"DepEd\", \"CHED\", \"教育法\", \"菲律
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ph-education-history-2026-1880x869.jpg"
 ---
 
 

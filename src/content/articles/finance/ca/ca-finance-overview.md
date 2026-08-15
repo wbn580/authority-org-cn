@@ -13,6 +13,7 @@ keywords: "[\"加拿大银行\", \"金融机构监管局\", \"金融消费者保
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ca-finance-overview-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->

@@ -34,6 +34,7 @@ chineseServiceAvailable: 是（FCAC提供中文资料；BoC无中文服务；FCA
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/ca-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

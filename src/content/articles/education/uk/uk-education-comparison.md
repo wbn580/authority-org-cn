@@ -32,6 +32,7 @@ chineseServiceAvailable: 部分国家（如英国、澳大利亚）提供中文�
 draft: false
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/authority/uk-education-comparison-2026-1880x869.jpg"
 ---
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">

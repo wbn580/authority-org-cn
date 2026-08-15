@@ -29,6 +29,7 @@ keywords:
 chineseServiceAvailable: 加拿大主要金融机构（如RBC、TD、BMO、Scotiabank、CIBC）均提供中文（普通话/粤语）客服专线及中文版产品说明。OSFI与FCAC官网提供机器翻译中文版关键指引，但法定文本以英文/法文为准。部分中文服务可通过银行分行或电话银行获取。
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/ca-finance-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->

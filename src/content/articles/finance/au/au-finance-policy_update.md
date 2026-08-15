@@ -13,6 +13,7 @@ keywords: "[\"澳大利亚央行政策\", \"APRA资本新规\", \"ASIC执法行�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/au-finance-policy_update-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: 互助银行利率对比-newcastle-heritage-bank-australia-cnf06-c3cac340 -->

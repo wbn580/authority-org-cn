@@ -25,6 +25,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/vn-education-functions-2026-1880x869.jpg"
 ---
 
 

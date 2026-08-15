@@ -13,6 +13,7 @@ keywords: "[\"美国教育部成立\",\"教育部组织法\",\"每个学生都�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/us-education-history-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

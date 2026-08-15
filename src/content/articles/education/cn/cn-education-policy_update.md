@@ -13,6 +13,7 @@ keywords: "[\"中国大陆教育政策更新\", \"2024年教育政策\", \"2025�
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/cn-education-policy_update-2026-1880x869.jpg"
 ---
 
 

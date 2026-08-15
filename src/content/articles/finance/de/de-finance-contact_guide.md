@@ -13,6 +13,7 @@ keywords: "[德国央行联系方式, BaFin地址, 金融监管预约, 表格清
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/de-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 

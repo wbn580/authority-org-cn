@@ -30,6 +30,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/cn-education-functions-2026-1880x869.jpg"
 ---
 # 中国大陆教育主管部门核心职能详解（2026-2026年调整）
 

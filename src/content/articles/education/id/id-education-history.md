@@ -13,6 +13,7 @@ keywords: "[\"印尼教育部\", \"Kemendikbud\", \"印尼教育史\", \"教育�
 chineseServiceAvailable: false
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/id-education-history-2026-1880x869.jpg"
 ---
 
 

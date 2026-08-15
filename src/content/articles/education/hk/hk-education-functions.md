@@ -23,6 +23,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/hk-education-functions-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

@@ -13,6 +13,7 @@ keywords: "[\"韩国教育部\", \"文教部\", \"教育政策\", \"机构改组
 chineseServiceAvailable: true
 draft: false
 
+ogImage: "https://img.ulec.com.cn/authority/kr-education-history-2026-1880x869.jpg"
 ---
 
 
