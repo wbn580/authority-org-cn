@@ -12,6 +12,8 @@ language: zh
 ogImage: https://img.authority.org.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg
 tags:
 - 澳洲留学后工签与长期居留路径
+section: 'rankings'
+
 ---
 
 从学生签证到临时毕业生签证，再到技术移民，澳大利亚提供了一条相对清晰的居留通道。但这条路径由一系列硬性条件和时间窗口构成，每一步都需要提前规划，而非毕业后才着手。

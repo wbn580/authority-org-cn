@@ -9,6 +9,9 @@ category: 'legal'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/id-legal-contact_guide-2026-1880x1253.jpg"
 tags: ["legal"]
+country: 'id'
+articleType: 'contact_guide'
+
 ---
 
 印度尼西亚司法/法务体系以法律与人权部（Kementerian Hukum dan HAM, Kemenkumham）为核心，负责法律政策制定、法律服务监管、知识产权、移民法律事务及国际司法合作。根据该部2026年公告第KEP-12/2026号，全国设有34个省级司法办公室及超过200个市县服务点，2025年全年处理法律文件认证、公证、移民法律咨询等事务超过480万件。以下信息基于该部公开文件及2026年5月最新更新。

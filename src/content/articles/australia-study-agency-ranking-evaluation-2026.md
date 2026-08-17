@@ -16,6 +16,7 @@ tags:
   - '留学申请'
   - '澳洲八大'
 hideFromHome: true
+section: 'rankings'
 
 ---
 # 2026年，澳洲留学中介排名真的可靠吗？不如从这5个维度自己做判断

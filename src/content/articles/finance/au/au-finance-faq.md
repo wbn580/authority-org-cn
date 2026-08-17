@@ -9,6 +9,9 @@ category: 'finance'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/au-finance-faq-2026-1880x1253.jpg"
 tags: ["finance"]
+country: 'au'
+articleType: 'faq'
+
 ---
 
 # 澳大利亚金融监管主管部门FAQ：央行与金融监管体系

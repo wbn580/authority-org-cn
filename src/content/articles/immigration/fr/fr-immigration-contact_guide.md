@@ -9,6 +9,9 @@ category: 'immigration'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/fr-immigration-contact_guide-2026-1880x1253.jpg"
 tags: ["移民签证"]
+country: 'fr'
+articleType: 'contact_guide'
+
 ---
 
 # 法国移民与签证主管部门联系方式与办事指南（2026版）

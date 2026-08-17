@@ -9,6 +9,9 @@ category: 'transport'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/de-transport-contact_guide-2026-auto.jpg"
 tags: ["transport"]
+country: 'de'
+articleType: 'contact_guide'
+
 ---
 
 # 德国交通与民航主管部门联系方式与办事指南（2026版）

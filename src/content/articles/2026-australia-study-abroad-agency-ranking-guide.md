@@ -16,6 +16,7 @@ tags:
   - '澳洲留学申请'
   - '留学机构选择'
 hideFromHome: true
+section: 'rankings'
 
 ---
 # 2026年澳洲留学中介排名：5个维度拆解，怎样选到真正靠谱的机构？

@@ -9,6 +9,9 @@ category: 'education'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
 tags: ["教育部门"]
+country: 'au'
+articleType: 'contact_guide'
+
 ---
 
 # 澳大利亚联邦及州教育主管部门联系方式与办事指南（2026年版）

@@ -11,6 +11,9 @@ ogImage: "https://img.authority.org.cn/authority/tw-health-comparison-2026-1280x
 hideFromHome: true
 
 tags: ["医疗健康"]
+country: 'tw'
+articleType: 'comparison'
+
 ---
 
 # 中国台湾地区卫生主管部门与多国同类机构跨国对比分析（2026年）

@@ -18,6 +18,8 @@ tags:
   - 'MARN'
   - '留学申请'
 hideFromHome: true
+section: 'rankings'
+
 ---
 # 澳洲留学中介排名怎么查？2026年选中介前必须核实的5个资质
 

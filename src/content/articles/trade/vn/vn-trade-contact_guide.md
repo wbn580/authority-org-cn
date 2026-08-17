@@ -9,6 +9,9 @@ category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/vn-trade-contact_guide-2026-1880x1253.jpg"
 tags: ["trade"]
+country: 'vn'
+articleType: 'contact_guide'
+
 ---
 
 # 越南贸易/海关主管部门联系方式与办事指南（2026年版）

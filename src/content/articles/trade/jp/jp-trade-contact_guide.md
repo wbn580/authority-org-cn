@@ -9,6 +9,9 @@ category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/jp-trade-contact_guide-2026-1880x1253.jpg"
 tags: ["trade"]
+country: 'jp'
+articleType: 'contact_guide'
+
 ---
 
 # 日本贸易/海关主管部门联系方式与办事指南

@@ -9,6 +9,9 @@ category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/au-trade-contact_guide-2026-auto.jpg"
 tags: ["trade"]
+country: 'au'
+articleType: 'contact_guide'
+
 ---
 
 # 澳大利亚贸易与海关主管部门联系方式与办事指南（2026年更新）

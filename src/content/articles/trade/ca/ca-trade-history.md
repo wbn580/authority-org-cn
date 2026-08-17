@@ -9,6 +9,9 @@ category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/ca-trade-history-2026-1880x1253.jpg"
 tags: ["trade"]
+country: 'ca'
+articleType: 'history'
+
 ---
 
 # 加拿大贸易/海关主管部门机构沿革：从联邦海关到全球事务部的职能演变（1867-2026）

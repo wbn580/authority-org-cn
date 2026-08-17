@@ -1,0 +1,73 @@
+---
+// 机构排名与办理指南 · 文章页（见同目录 index.astro 顶部说明）
+// 只收 frontmatter 显式写了 section: 'rankings' 的文章；领域文章仍走
+// {domain}/[country]/[articleType]，本路由不碰，避免同一篇文章出现两个 URL。
+// 不用 id/路径推断归属：本站 entry.id 取的是 frontmatter slug，领域文章的 id 同样不含 '/'。
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const all = await getCollection('articles');
+  return all
+    .filter((a) => a.data.section === 'rankings')
+    .filter((a) => !a.data.draft)
+    .map((a) => ({
+      params: { slug: String(a.id).replace(/\.md$/, '') },
+      props: { entry: a },
+    }));
+}
+
+const { entry } = Astro.props;
+const article = entry.data;
+const { Content } = (await render(entry).catch(() => ({ Content: null }))) || { Content: null };
+const _ogImageProp =
+  article?.ogImage || article?.heroImage || article?.featured_image || article?.coverImage || undefined; /* og-wiring */
+---
+
+<BaseLayout
+  ogImage={_ogImageProp}
+  title={`${article.title} — 全球主管部门信息汇编`}
+  description={article.description}
+>
+  <div class="max-w-4xl mx-auto px-4 py-10">
+
+    <nav class="text-sm text-ink-500 mb-6">
+      <a href="/" class="text-accent-600 no-underline">首页</a>
+      <span class="mx-2">/</span>
+      <a href="/rankings/" class="text-accent-600 no-underline">机构排名与办理指南</a>
+      <span class="mx-2">/</span>
+      <span class="text-ink-700">{article.title}</span>
+    </nav>
+
+    <article class="prose prose-lg max-w-none">
+      <div class="mb-8 pb-6 border-b border-divider">
+        <h1 class="text-2xl sm:text-3xl font-serif font-bold text-primary-900 m-0 mb-3">{article.title}</h1>
+        <div class="flex flex-wrap gap-2 text-xs text-ink-500">
+          {article.publishDate && (
+            <span>发布日期：{new Date(article.publishDate).toLocaleDateString('zh-CN')}</span>
+          )}
+          {article.lastVerified && <span>· 最后核实：{article.lastVerified}</span>}
+        </div>
+      </div>
+
+      <div class="not-prose mb-8 p-4 bg-paper-100 rounded-lg border border-divider text-sm text-ink-600">
+        本文是对第三方服务机构公开信息的整理与对比，**不属于**本站收录的主管部门官方信息，
+        也不构成推荐、代理或背书。签约前请以机构官网与相关主管部门的当期公开信息为准。
+      </div>
+
+      <div class="article-body">
+        {Content && <Content />}
+      </div>
+    </article>
+
+    <div class="mt-10 text-center">
+      <a
+        href="/rankings/"
+        class="inline-block text-sm text-accent-600 no-underline font-medium border border-accent-600 rounded-full px-4 py-2 hover:bg-accent-50 transition-colors"
+      >
+        ← 返回机构排名与办理指南
+      </a>
+    </div>
+
+  </div>
+</BaseLayout>

@@ -17,6 +17,8 @@ tags:
   - '留学机构选择'
   - '2026澳洲留学'
 hideFromHome: true
+section: 'rankings'
+
 ---
 # 2026年澳洲留学中介排名解析：从资质到服务，这5项指标比名次更重要
 

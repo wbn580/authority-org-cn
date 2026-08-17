@@ -9,6 +9,9 @@ category: 'trade'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/fr-trade-history-2026-auto.jpg"
 tags: ["trade"]
+country: 'fr'
+articleType: 'history'
+
 ---
 
 # 法国贸易与海关主管部门机构沿革：从关税局到商务与海关总署

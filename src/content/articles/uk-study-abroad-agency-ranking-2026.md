@@ -17,6 +17,8 @@ tags:
   - '英国大学申请'
   - 'G5申请'
 hideFromHome: true
+section: 'rankings'
+
 ---
 # 2026年英国留学中介排名：看G5录取数据，找真正靠谱的机构
 

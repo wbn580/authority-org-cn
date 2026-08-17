@@ -9,6 +9,9 @@ category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/nl-health-contact_guide-2026-1880x1253.jpg"
 tags: ["医疗健康"]
+country: 'nl'
+articleType: 'contact_guide'
+
 ---
 
 # 荷兰公共卫生与医疗监管机构联系方式及办事指南（2026年版）

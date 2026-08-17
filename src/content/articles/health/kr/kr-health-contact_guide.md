@@ -9,6 +9,9 @@ category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/kr-health-contact_guide-2026-auto.jpg"
 tags: ["医疗健康"]
+country: 'kr'
+articleType: 'contact_guide'
+
 ---
 
 # 韩国卫生与医保主管部门联系方式与办事指南（2026年版）

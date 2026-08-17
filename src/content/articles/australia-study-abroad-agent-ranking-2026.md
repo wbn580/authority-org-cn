@@ -17,6 +17,7 @@ tags:
   - '签证办理'
   - '留学申请'
 hideFromHome: true
+section: 'rankings'
 
 ---
 ## 为什么你看到的“澳洲留学中介排名”大多指向同一个结论

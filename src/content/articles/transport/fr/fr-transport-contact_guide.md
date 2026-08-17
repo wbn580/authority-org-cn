@@ -9,6 +9,9 @@ category: 'transport'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/fr-transport-contact_guide-2026-1880x1253.jpg"
 tags: ["transport"]
+country: 'fr'
+articleType: 'contact_guide'
+
 ---
 
 # 法国交通/民航主管部门联系方式与办事指南（2026年版）

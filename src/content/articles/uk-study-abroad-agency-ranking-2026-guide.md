@@ -16,6 +16,7 @@ tags:
   - '留学中介对比'
   - '英国硕士申请'
 hideFromHome: true
+section: 'rankings'
 
 ---
 # 2026 英国留学中介排名真的靠谱吗？先看懂这 6 个筛选维度

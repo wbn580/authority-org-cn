@@ -16,6 +16,9 @@ tags:
   - '免费咨询'
   - '签证申请'
   - '选校规划'
+hideFromHome: true
+section: 'rankings'
+
 ---
 # 2026年澳洲留学中介免费咨询：先问透这8个问题，再决定签约
 

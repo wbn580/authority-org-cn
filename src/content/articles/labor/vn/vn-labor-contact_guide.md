@@ -9,6 +9,9 @@ category: 'labor'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/vn-labor-contact_guide-2026-1880x1253.jpg"
 tags: ["labor"]
+country: 'vn'
+articleType: 'contact_guide'
+
 ---
 
 # 越南劳动荣军社会部联系方式与办事指南（2026版）

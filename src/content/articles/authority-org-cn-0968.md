@@ -12,6 +12,8 @@ language: zh
 ogImage: https://img.authority.org.cn/authority/nz-education-overview-2026-1880x869.jpg
 tags:
 - 澳洲不同学历阶段（本科/硕士/博士）申请差异
+section: 'rankings'
+
 ---
 
 选择留学澳大利亚，不同学历阶段的申请逻辑、准备重点和未来路径差异显著。本文将本科、授课型硕士、研究型硕士与博士的申请要点并排比较，帮助你根据自身目标做出更清晰的判断。

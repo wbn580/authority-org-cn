@@ -9,6 +9,9 @@ category: 'transport'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/kr-transport-contact_guide-2026-1880x1253.jpg"
 tags: ["transport"]
+country: 'kr'
+articleType: 'contact_guide'
+
 ---
 
 # 韩国交通/民航主管部门联系方式与办事指南

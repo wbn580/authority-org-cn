@@ -9,6 +9,9 @@ category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/uk-health-overview-2026-1880x1253.jpg"
 tags: ["医疗健康"]
+country: 'uk'
+articleType: 'overview'
+
 ---
 
 # 英国卫生与社会保障部（DHSC）及国民医疗服务体系（NHS）主管部门概况

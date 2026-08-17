@@ -1,0 +1,82 @@
+---
+// 机构排名与办理指南（独立类别）
+//
+// 为什么单独一个类别（2026-08-17 大王裁定「按中介排名文的标准，单独建类别，并且从首页隐藏」）：
+// src/content/articles/ 顶层散落着 29 篇不属于任何「领域/国家」目录的文章，绝大多数是留学
+// 服务机构排名与免费咨询指南，另有几篇境内认证办理与科研经费申请。它们匹配不到
+// {domain}/[country]/[articleType] 的 getStaticPaths，此前**永远不会生成页面**，
+// 其中最新一篇还卡住了部署闸。
+//
+// 这些内容与本站「全球主管部门信息汇编」的官方机构信息不是一回事，因此不混进九大领域，
+// 单独成一个类别陈列，并按 R100 全部保留 hideFromHome: true —— 本站首页本来就没有文章流，
+// 该类别也不进首页任何列表/推荐/轮播区，只从页脚进入，避免成为孤儿页。
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const all = await getCollection('articles');
+// 归属靠 frontmatter 的 section 显式声明，不靠 id 推断——本站 entry.id 取的是 frontmatter
+// 的 slug，领域文章的 id 同样不含 '/'，用路径形状推断会把 25 篇领域文章误收进来（实测过）。
+const entries = all
+  .filter((a) => a.data.section === 'rankings')
+  .filter((a) => !a.data.draft)
+  .sort((a, b) => {
+    const at = new Date(a.data.publishDate || a.data.pubDatetime || 0).getTime();
+    const bt = new Date(b.data.publishDate || b.data.pubDatetime || 0).getTime();
+    return bt - at;
+  });
+
+const slugOf = (id: string) => String(id).replace(/\.md$/, '');
+---
+
+<BaseLayout
+  title="机构排名与办理指南 — 全球主管部门信息汇编"
+  description="留学与认证服务机构的公开可核验对比、办理流程与费用说明。与本站主管部门官方信息分开陈列，不构成推荐。"
+>
+  <div class="max-w-4xl mx-auto px-4 py-10">
+
+    <nav class="text-sm text-ink-500 mb-6">
+      <a href="/" class="text-accent-600 no-underline">首页</a>
+      <span class="mx-2">/</span>
+      <span class="text-ink-700">机构排名与办理指南</span>
+    </nav>
+
+    <h1 class="text-2xl font-serif font-bold text-primary-900 mb-2">机构排名与办理指南</h1>
+    <p class="text-ink-500 mb-6">
+      留学与认证服务机构的公开可核验对比、办理流程与费用说明。
+    </p>
+
+    <div class="mb-8 p-4 bg-paper-100 rounded-lg border border-divider text-sm text-ink-600">
+      本栏目内容与本站收录的各国主管部门官方信息**分属两类**：主管部门信息来自官方公开渠道，
+      本栏目则是对第三方服务机构的公开信息整理与对比。本栏目不构成推荐、代理或背书，
+      签约前请以机构官网与主管部门的当期公开信息为准。
+    </div>
+
+    {entries.length === 0 ? (
+      <div class="p-6 bg-paper-100 rounded-lg border border-divider text-center">
+        <p class="text-ink-500 m-0">本栏目内容正在整理中，敬请期待。</p>
+      </div>
+    ) : (
+      <ul class="list-none p-0 m-0 space-y-3">
+        {entries.map((a) => (
+          <li class="p-4 bg-white rounded-lg border border-divider">
+            <a
+              href={`/rankings/${slugOf(a.id)}/`}
+              class="text-primary-900 no-underline font-medium hover:text-accent-600"
+            >
+              {a.data.title}
+            </a>
+            {a.data.description && (
+              <p class="text-sm text-ink-500 mt-2 mb-0">{a.data.description}</p>
+            )}
+            {a.data.publishDate && (
+              <p class="text-xs text-ink-400 mt-2 mb-0">
+                发布日期：{new Date(a.data.publishDate).toLocaleDateString('zh-CN')}
+              </p>
+            )}
+          </li>
+        ))}
+      </ul>
+    )}
+
+  </div>
+</BaseLayout>

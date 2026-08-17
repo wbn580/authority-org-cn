@@ -9,6 +9,9 @@ category: 'labor'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/il-labor-contact_guide-2026-1880x1253.jpg"
 tags: ["labor"]
+country: 'il'
+articleType: 'contact_guide'
+
 ---
 
 # 以色列劳工主管部门联系方式与办事指南（2026年版）

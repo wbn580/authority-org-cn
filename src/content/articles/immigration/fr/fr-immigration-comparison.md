@@ -11,6 +11,9 @@ ogImage: "https://img.authority.org.cn/authority/fr-immigration-comparison-2026-
 hideFromHome: true
 
 tags: ["移民签证"]
+country: 'fr'
+articleType: 'comparison'
+
 ---
 
 # 法国移民主管部门职能与效率跨国对比分析

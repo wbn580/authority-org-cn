@@ -16,6 +16,7 @@ tags:
   - '英国硕士'
   - '留学申请'
 hideFromHome: true
+section: 'rankings'
 
 ---
 # 2026英国留学中介实力对比：5个维度拆解真实口碑与选择陷阱

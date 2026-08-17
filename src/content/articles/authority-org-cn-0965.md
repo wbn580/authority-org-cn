@@ -12,6 +12,8 @@ language: zh
 tags:
 - 澳洲留学申请时间线与关键截止
 ogImage: "https://img.authority.org.cn/authority/authority-org-cn-0965-2026-1880x1253.jpg"
+section: 'rankings'
+
 ---
 
 申请澳大利亚的大学，时间把控往往比背景提升更能决定最终去向。滚动录取机制下，名额先到先得，晚递交的申请即使条件优秀，也可能因为目标专业已满员而被迫推迟入学。以下按完整申请周期梳理时间线与各阶段的实质任务。

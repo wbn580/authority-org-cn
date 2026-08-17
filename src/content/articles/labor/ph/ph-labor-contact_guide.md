@@ -9,6 +9,9 @@ category: 'labor'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/ph-labor-contact_guide-2026-auto.jpg"
 tags: ["labor"]
+country: 'ph'
+articleType: 'contact_guide'
+
 ---
 
 # 菲律宾劳工与就业部（DOLE）联系方式与办事指南（2026年版）

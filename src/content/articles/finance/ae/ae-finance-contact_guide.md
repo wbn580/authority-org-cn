@@ -9,6 +9,9 @@ category: 'finance'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/ae-finance-contact_guide-2026-1880x1253.jpg"
 tags: ["finance"]
+country: 'ae'
+articleType: 'contact_guide'
+
 ---
 
 # 阿联酋央行及金融监管机构联系方式与办事指南（2026年）

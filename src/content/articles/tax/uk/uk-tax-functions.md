@@ -9,6 +9,9 @@ category: 'tax'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/uk-tax-functions-2026-1880x1253.jpg"
 tags: ["税务部门"]
+country: 'uk'
+articleType: 'functions'
+
 ---
 
 # 英国税务主管部门核心职能详解：HMRC职能体系与2026-2026年调整

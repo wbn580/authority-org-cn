@@ -12,6 +12,8 @@ language: zh
 tags:
 - 澳洲主要留学城市性价比对比
 ogImage: "https://img.authority.org.cn/authority/authority-org-cn-0964-2026-1880x1253.jpg"
+section: 'rankings'
+
 ---
 
 在决定去澳大利亚留学时，城市的选择往往比学校排名更早影响你的预算和生活体验。悉尼、墨尔本、布里斯班、珀斯和阿德莱德是国际学生最集中的五个城市，它们在学费、房租、交通、兼职机会和整体氛围上的差异，会直接塑造你未来几年的留学轨迹。
