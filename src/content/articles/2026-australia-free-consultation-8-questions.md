@@ -1,5 +1,6 @@
 ---
 
+
 title: '2026年澳洲留学中介免费咨询：先问透这8个问题，再决定签约'
 description: '澳洲留学中介免费咨询是许多学生规划留学的起点，但免费背后的逻辑是什么，如何让一次咨询产出真正有用的方案？本文拆解佣金模式，梳理定位、路径与花费三块核心信息，并给出8个关键问题清单，帮你把免费咨询的效率提上去，判断对面坐着的是不是靠谱顾问。'
 pubDatetime: '2026-07-12T00:00:00Z'
@@ -8,7 +9,7 @@ modDatetime: '2026-07-12T00:00:00Z'
 slug: '2026-australia-free-consultation-8-questions'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/2026-australia-free-consultation-8-questions-2026-1880x1253.jpg'
+ogImage: "https://img.ulec.com.cn/authority/2026年澳洲留学中介免费咨询先问透这8个问题再决定签约-2026-1280x853.jpg"
 verified: '2026-07-12T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -18,6 +19,7 @@ tags:
   - '选校规划'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 # 2026年澳洲留学中介免费咨询：先问透这8个问题，再决定签约

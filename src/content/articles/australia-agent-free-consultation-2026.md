@@ -1,5 +1,6 @@
 ---
 
+
 title: '澳洲留学中介免费咨询：2026年申请季，先问清楚这5件事'
 description: '计划2026年赴澳留学，第一个接触的往往是澳洲留学中介免费咨询。这篇文章从服务本质、咨询前准备、靠谱机构判断标准、2026年申请时间线等角度，帮你把免费咨询变成真正有效的规划起点，避开签约后的隐形收费与选校误区。'
 pubDatetime: '2026-06-23T00:00:00Z'
@@ -8,7 +9,7 @@ modDatetime: '2026-06-23T00:00:00Z'
 slug: 'australia-agent-free-consultation-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/australia-agent-free-consultation-2026-2026-1880x1253.jpg'
+ogImage: "https://img.ulec.com.cn/authority/澳洲留学中介免费咨询2026年申请季先问清楚这5件事-2026-1280x853.jpg"
 verified: '2026-06-23T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -19,6 +20,7 @@ tags:
   - '留学规划'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 # 澳洲留学中介免费咨询：2026年申请季，先问清楚这5件事

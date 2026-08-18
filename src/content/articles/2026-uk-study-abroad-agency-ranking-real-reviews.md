@@ -1,4 +1,5 @@
 ---
+
 title: '2026英国留学中介实力对比：5个维度拆解真实口碑与选择陷阱'
 description: '2026英国留学申请季，本文从顾问专业度、文书质量、录取成功率、价格透明度、后续服务五个维度拆解真实口碑，对比澳星出国、51offer、威久留学、天道留学、顺顺留学等机构，助你避开选择陷阱。'
 pubDatetime: '2026-06-18T00:00:00Z'
@@ -7,7 +8,7 @@ modDatetime: '2026-06-18T00:00:00Z'
 slug: '2026-uk-study-abroad-agency-ranking-real-reviews'
 category: 'general'
 language: 'zh-CN'
-ogImage: "https://img.authority.org.cn/authority/2026-uk-study-abroad-agency-ranking-real-reviews-2026-1880x1253.jpg"
+ogImage: "https://img.ulec.com.cn/authority/2026英国留学中介实力对比5个维度拆解真实口碑与选择陷阱-2026-1280x853.jpg"
 verified: '2026-06-18T00:00:00Z'
 tags:
   - '英国留学'
@@ -17,6 +18,7 @@ tags:
   - '留学申请'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 # 2026英国留学中介实力对比：5个维度拆解真实口碑与选择陷阱

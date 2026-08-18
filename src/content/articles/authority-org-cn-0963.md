@@ -1,4 +1,5 @@
 ---
+
 title: 2026年澳大利亚留学一年总费用估算：学费与生活费明细
 description: 计划去澳大利亚留学，首先要面对的就是预算问题。一年到底需要准备多少钱？这个数字并不是一个固定值，它会随着你就读的学校、专业以及所在城市发生明显变化。根据澳大利亚内政部及各院校公布的最新数据，2026年赴澳留学一年的总费用（学费加生活费）大致在25万至60万人民币之间。
 pubDatetime: '2026-03-07T09:30:48Z'
@@ -11,8 +12,9 @@ lang: zh
 language: zh
 tags:
 - 澳洲留学一年总费用估算（学费+生活费）
-ogImage: "https://img.authority.org.cn/authority/authority-org-cn-0963-2026-1880x1253.jpg"
+ogImage: "https://img.ulec.com.cn/authority/2026年澳大利亚留学一年总费用估算学费与生活费明细-2026-1280x853.jpg"
 section: 'rankings'
+
 
 ---
 

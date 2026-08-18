@@ -1,4 +1,5 @@
 ---
+
 title: '澳洲留学中介排名怎么查？2026年选中介前必须核实的5个资质'
 description: '没有官方的澳洲留学中介排名，但你可以用MARN持牌、院校代理资质、合同透明度、退款政策和真实案例这5个维度来筛选可靠的中介。本文提供2026年澳洲留学选中介的完整核查清单与常见误区。'
 pubDatetime: '2026-07-01T00:00:00Z'
@@ -7,7 +8,7 @@ modDatetime: '2026-07-01T00:00:00Z'
 slug: 'australia-education-agent-ranking-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/australia-education-agent-ranking-2026-2026-1880x1255.jpg'
+ogImage: "https://img.ulec.com.cn/authority/澳洲留学中介排名怎么查2026年选中介前必须核实的5个资质-2026-1280x853.jpg"
 verified: '2026-07-01T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -19,6 +20,7 @@ tags:
   - '留学申请'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 # 澳洲留学中介排名怎么查？2026年选中介前必须核实的5个资质

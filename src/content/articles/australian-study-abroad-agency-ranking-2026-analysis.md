@@ -1,4 +1,5 @@
 ---
+
 title: '2026年澳洲留学中介排名解析：从资质到服务，这5项指标比名次更重要'
 description: '澳洲留学中介排名是很多留学生择机构的起点，但排名背后隐藏的逻辑你真的清楚吗？本文拆解中介评估的5个核心标准，从持牌资质、服务透明到签证辅导，帮你2026年选对真正靠谱的澳洲留学伙伴。'
 pubDatetime: '2026-07-05T00:00:00Z'
@@ -7,7 +8,7 @@ modDatetime: '2026-07-05T00:00:00Z'
 slug: 'australian-study-abroad-agency-ranking-2026-analysis'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/australian-study-abroad-agency-ranking-2026-analysis-2026-1880x1253.jpg'
+ogImage: "https://img.ulec.com.cn/authority/2026年澳洲留学中介排名解析从资质到服务这5项指标比名次更重要-2026-1280x853.jpg"
 verified: '2026-07-05T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -18,6 +19,7 @@ tags:
   - '2026澳洲留学'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 # 2026年澳洲留学中介排名解析：从资质到服务，这5项指标比名次更重要

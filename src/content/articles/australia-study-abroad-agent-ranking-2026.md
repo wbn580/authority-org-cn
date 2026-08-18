@@ -1,4 +1,5 @@
 ---
+
 title: '2026 澳洲留学中介排名：不踩坑的 6 个评估维度'
 description: '如何在众多澳洲留学中介里选到靠谱的那一家？本文不讲主观排名，而是拆解你真正该看的 6 个维度：持牌顾问资质、签证成功率、收费透明度、后续服务、真实口碑与 2026 签证新政应对能力。看完再比排名，才能少走弯路。'
 pubDatetime: '2026-06-27T00:00:00Z'
@@ -7,7 +8,7 @@ modDatetime: '2026-06-27T00:00:00Z'
 slug: 'australia-study-abroad-agent-ranking-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/australia-study-abroad-agent-ranking-2026-2026-1880x1255.jpg'
+ogImage: "https://img.ulec.com.cn/authority/2026-澳洲留学中介排名不踩坑的-6-个评估维度-2026-1280x853.jpg"
 verified: '2026-06-27T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -18,6 +19,7 @@ tags:
   - '留学申请'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 ## 为什么你看到的“澳洲留学中介排名”大多指向同一个结论

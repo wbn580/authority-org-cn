@@ -1,4 +1,5 @@
 ---
+
 title: '2026年，澳洲留学中介排名真的可靠吗？不如从这5个维度自己做判断'
 description: '探讨市面上各类“澳洲留学中介排名”为何难以客观，并从MARN持牌、服务透明、案例真实性、费用结构、口碑验证五个维度，为2026年准备赴澳留学的家庭提供一套可自测的评估方法，避开信息陷阱。'
 pubDatetime: '2026-06-26T00:00:00Z'
@@ -7,7 +8,7 @@ modDatetime: '2026-06-26T00:00:00Z'
 slug: 'australia-study-agency-ranking-evaluation-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/australia-study-agency-ranking-evaluation-2026-2026-1733x1300.jpg'
+ogImage: "https://img.ulec.com.cn/authority/2026年澳洲留学中介排名真的可靠吗不如从这5个维度自己做判断-2026-1280x853.jpg"
 verified: '2026-06-26T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -17,6 +18,7 @@ tags:
   - '澳洲八大'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 # 2026年，澳洲留学中介排名真的可靠吗？不如从这5个维度自己做判断

@@ -1,5 +1,6 @@
 ---
 
+
 title: '2026年澳洲留学中介免费咨询全流程：先问清这5件事再签约'
 description: '准备申请澳洲留学，越来越多机构提供免费咨询。本文拆解澳洲留学中介免费咨询的真实服务范围、盈利模式、2026年必问的新政策问题，以及如何在签约前用5个核心问题筛出靠谱顾问，帮你用免费咨询真正省下时间和试错成本。'
 pubDatetime: '2026-06-28T00:00:00Z'
@@ -8,7 +9,7 @@ modDatetime: '2026-06-28T00:00:00Z'
 slug: 'australia-study-agent-free-consultation-guide-2026'
 category: 'general'
 language: 'zh-CN'
-ogImage: 'https://img.authority.org.cn/authority/australia-study-agent-free-consultation-guide-2026-2026-1880x1254.jpg'
+ogImage: "https://img.ulec.com.cn/authority/2026年澳洲留学中介免费咨询全流程先问清这5件事再签约-2026-1280x853.jpg"
 verified: '2026-06-28T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -18,6 +19,7 @@ tags:
   - '2026留学政策'
 hideFromHome: true
 section: 'rankings'
+
 
 ---
 当你在搜索框里输入“澳洲留学”时，大概率立刻会撞上一行字：**澳洲留学中介免费咨询**。几乎每一家机构都把“免费”两个字放在最显眼的位置，从选校到签证，似乎不用花一分钱就能得到全套规划。
