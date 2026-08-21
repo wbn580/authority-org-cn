@@ -40,3 +40,4 @@ User-agent: ToutiaoSpider
 Allow: /
 
 Sitemap: https://authority.org.cn/sitemap-index.xml
+Sitemap: https://authority.org.cn/sitemap.xml
