@@ -12,8 +12,6 @@ tags: "[\"西班牙移民\", \"德国BAMF\", \"法国OFII\", \"葡萄牙SEF\", \
 keywords: "[\"西班牙移民局\", \"德国联邦移民与难民局\", \"法国移民与融合局\", \"葡萄牙移民与边境服务局\", \"行政程序效率\", \"数字化进程\", \"透明度\", \"申诉流程\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/es-immigration-comparison-2026-1880x1253.jpg"
 ---
 

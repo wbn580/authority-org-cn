@@ -29,8 +29,6 @@ keywords:
   - "2026年数据"
 chineseServiceAvailable: 部分
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/it-legal-comparison-2026-1880x1255.jpg"
 ---
 

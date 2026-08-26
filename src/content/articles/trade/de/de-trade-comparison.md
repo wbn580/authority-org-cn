@@ -13,8 +13,6 @@ keywords: "[\"德国贸易主管部门\", \"海关职能对比\", \"监管效率
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/42bc2cc52089.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

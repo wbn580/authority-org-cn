@@ -12,8 +12,6 @@ tags: "[\"瑞士\", \"德国\", \"英国\", \"加拿大\", \"新加坡\", \"劳�
 keywords: "[\"瑞士SECO\", \"德国BA\", \"英国DWP\", \"加拿大ESDC\", \"新加坡MOM\", \"劳动主管部门对比\", \"劳工监管效率\", \"数字化就业服务\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/ch-labor-comparison-2026-1880x1111.jpg"
 ---
 

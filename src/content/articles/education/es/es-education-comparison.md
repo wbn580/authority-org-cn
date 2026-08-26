@@ -12,8 +12,6 @@ tags: "[\"西班牙\", \"教育监管\", \"国际比较\", \"教育部\", \"数�
 keywords: "[\"西班牙教育部\", \"德国文化部长会议\", \"法国国民教育\", \"英国教育部\", \"澳大利亚教育部\", \"教育监管效率\", \"申诉机制\", \"数字化教育\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/es-education-comparison-2026-1880x869.jpg"
 ---
 

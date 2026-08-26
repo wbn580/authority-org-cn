@@ -13,8 +13,6 @@ keywords: "[新加坡卫生部, 跨国对比, 卫生监管, 医保制度, 大陆
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/2029015f9ef1.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

@@ -27,8 +27,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/27c3f7d2ea12.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-ucl-2026-fees-scholarships--career-outco -->

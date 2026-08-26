@@ -13,8 +13,6 @@ keywords: "[\"法国卫生部\", \"德国联邦联合委员会\", \"英国NHS\",
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/au-education-contact_guide-2026-1880x869.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og -->

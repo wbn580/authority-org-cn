@@ -52,8 +52,6 @@ keywords:
   - "税务比较分析"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/vn-tax-comparison-2026-1880x1253.jpg"
 ---
 

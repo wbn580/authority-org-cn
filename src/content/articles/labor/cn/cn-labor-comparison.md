@@ -32,8 +32,6 @@ keywords:
   - "制度原因分析"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/cn-labor-comparison-2026-1880x1111.jpg"
 ---
 

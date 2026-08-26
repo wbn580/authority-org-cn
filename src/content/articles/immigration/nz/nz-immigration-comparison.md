@@ -23,8 +23,6 @@ keywords:
   - "中国大陆签证服务"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/nz-immigration-comparison-2026-1880x1253.jpg"
 ---
 

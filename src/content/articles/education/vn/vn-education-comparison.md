@@ -13,8 +13,6 @@ keywords: "[越南教育与培训部, MOET, 教育部对比, 教育治理, 监�
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/ecb536643a2b.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

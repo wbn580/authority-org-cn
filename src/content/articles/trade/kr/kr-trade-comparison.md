@@ -28,8 +28,6 @@ keywords:
   - "跨境贸易效率"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/kr-trade-comparison-2026-1880x1111.jpg"
 ---
 

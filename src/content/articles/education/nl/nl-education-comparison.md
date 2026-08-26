@@ -27,8 +27,6 @@ keywords:
   - "教育制度差异"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/nl-education-comparison-2026-1880x869.jpg"
 ---
 

@@ -29,8 +29,6 @@ keywords:
   - "制度差异原因"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/mo-labor-comparison-2026-1880x1111.jpg"
 ---
 

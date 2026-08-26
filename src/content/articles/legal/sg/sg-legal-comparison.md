@@ -37,8 +37,6 @@ keywords:
   - "2026 司法数据"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/sg-legal-comparison-2026-1880x1255.jpg"
 ---
 

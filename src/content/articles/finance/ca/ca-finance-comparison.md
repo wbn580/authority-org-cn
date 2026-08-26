@@ -32,8 +32,6 @@ keywords:
   - "制度差异原因"
 chineseServiceAvailable: 是（FCAC提供中文资料；BoC无中文服务；FCA、APRA、MAS均提供中文或简体中文界面/文件）
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/ca-finance-comparison-2026-1880x1253.jpg"
 ---
 

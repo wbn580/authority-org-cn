@@ -8,12 +8,9 @@ slug: 'fr-immigration-comparison'
 category: 'immigration'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/fr-immigration-comparison-2026-1880x1253.jpg"
-hideFromHome: true
-
 tags: ["移民签证"]
 country: 'fr'
 articleType: 'comparison'
-
 ---
 
 # 法国移民主管部门职能与效率跨国对比分析

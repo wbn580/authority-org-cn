@@ -12,8 +12,6 @@ tags: "[荷兰移民, IND, 跨国对比, 移民政策, 签证效率, 数字化, 
 keywords: "[荷兰IND, 德国BAMF, 加拿大IRCC, 澳大利亚Home Affairs, 新加坡ICA, 移民主管部门对比, 签证处理时间, 申诉机制, 大陆人签证]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/nl-immigration-comparison-2026-1880x1111.jpg"
 ---
 

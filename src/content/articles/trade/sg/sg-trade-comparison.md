@@ -12,8 +12,6 @@ tags: "[\"新加坡贸易\", \"海关对比\", \"监管效率\", \"数字化通�
 keywords: "[\"新加坡海关\", \"日本海关\", \"德国海关\", \"阿联酋海关\", \"贸易主管部门\", \"跨境合规\", \"透明度\", \"申诉机制\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/sg-trade-comparison-2026-1880x1111.jpg"
 ---
 

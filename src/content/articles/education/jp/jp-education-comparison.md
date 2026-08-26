@@ -13,8 +13,6 @@ keywords: "[\"日本文部科学省\", \"韩国教育部\", \"德国文教部长
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/29a7145b0aae.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->

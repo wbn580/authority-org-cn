@@ -12,8 +12,6 @@ tags: "[\"移民\", \"签证\", \"跨国对比\", \"中国台湾\", \"美国\", 
 keywords: "[\"移民局\", \"签证处理\", \"数字化\", \"透明度\", \"大陆人接触度\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/tw-immigration-comparison-2026-1880x1253.jpg"
 ---
 

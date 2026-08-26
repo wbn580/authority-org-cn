@@ -34,8 +34,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/jp-immigration-comparison-2026-auto.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

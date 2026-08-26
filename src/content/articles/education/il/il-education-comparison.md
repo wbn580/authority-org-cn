@@ -30,8 +30,6 @@ keywords:
   - "制度差异原因"
 chineseServiceAvailable: 以色列教育部官方网站提供英文界面，部分文件可获取英文摘要。中文服务目前不直接提供，但可通过第三方翻译工具或联系国际事务司获取协助。新加坡教育部官网支持英文、中文、马来文和泰米尔文四种语言。德国各州文教部长联席会议官网主要为德文，部分内容有英文版。加拿大各省教育部长理事会官网提供英文和法文。
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/il-education-comparison-2026-1880x869.jpg"
 ---
 

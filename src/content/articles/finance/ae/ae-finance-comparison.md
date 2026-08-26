@@ -8,12 +8,9 @@ slug: 'ae-finance-comparison'
 category: 'finance'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/ae-finance-comparison-2026-auto.jpg"
-hideFromHome: true
-
 tags: ["finance"]
 country: 'ae'
 articleType: 'comparison'
-
 ---
 
 # 阿联酋央行与金融监管机构跨国对比：职能、效率与制度差异分析

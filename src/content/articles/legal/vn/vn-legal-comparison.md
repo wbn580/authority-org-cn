@@ -34,8 +34,6 @@ keywords:
   - "制度差异原因"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/vn-legal-comparison-2026-1880x1255.jpg"
 ---
 

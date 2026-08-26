@@ -29,8 +29,6 @@ keywords:
   - "司法制度差异原因"
 chineseServiceAvailable: 是
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/th-legal-comparison-2026-1880x1255.jpg"
 ---
 

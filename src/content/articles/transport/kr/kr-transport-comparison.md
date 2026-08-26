@@ -37,8 +37,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/1b5f5cf9fa6c.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

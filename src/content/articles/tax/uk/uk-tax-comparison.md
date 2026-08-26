@@ -37,8 +37,6 @@ keywords:
   - "2026年税务数据"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/uk-tax-comparison-2026-1880x1253.jpg"
 ---
 

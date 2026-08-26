@@ -32,8 +32,6 @@ keywords:
 chineseServiceAvailable: false
 ogImage: "https://img.authority.org.cn/rehost/0782ae9890f7.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

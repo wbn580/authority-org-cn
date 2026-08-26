@@ -28,8 +28,6 @@ keywords:
   - "行政透明度"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/it-immigration-comparison-2026-1880x1111.jpg"
 ---
 

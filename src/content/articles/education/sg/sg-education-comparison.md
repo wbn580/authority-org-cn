@@ -30,8 +30,6 @@ keywords:
 chineseServiceAvailable: 是
 ogImage: "https://img.authority.org.cn/rehost/08f03d3f8ab6.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

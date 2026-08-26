@@ -31,8 +31,6 @@ keywords:
   - "2026"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/ae-immigration-comparison-2026-1880x1253.jpg"
 ---
 

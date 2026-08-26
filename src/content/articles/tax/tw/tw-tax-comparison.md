@@ -25,8 +25,6 @@ keywords:
   - "中国大陆纳税人接触度"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/tw-tax-comparison-2026-1880x1253.jpg"
 ---
 

@@ -25,8 +25,6 @@ keywords:
   - "大陆人接触度"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/kr-education-comparison-2026-1880x869.jpg"
 ---
 

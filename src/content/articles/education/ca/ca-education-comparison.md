@@ -12,8 +12,6 @@ tags: "[\"加拿大教育\", \"教育监管\", \"跨国比较\", \"加拿大就�
 keywords: "[\"加拿大教育主管部门\", \"教育监管比较\", \"ESDC\", \"教育部职能\", \"教育质量保证\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/ca-education-comparison-2026-1880x869.jpg"
 ---
 

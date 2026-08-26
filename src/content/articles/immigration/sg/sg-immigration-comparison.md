@@ -30,8 +30,6 @@ keywords:
   - "中文服务"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/sg-immigration-comparison-2026-1880x1253.jpg"
 ---
 

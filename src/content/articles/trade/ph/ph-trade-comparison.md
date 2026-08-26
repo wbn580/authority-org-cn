@@ -16,8 +16,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/ph-trade-comparison-2026-1880x1253.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 

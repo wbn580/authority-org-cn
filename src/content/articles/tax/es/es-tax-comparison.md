@@ -33,8 +33,6 @@ keywords:
   - "新加坡税务管理"
 chineseServiceAvailable: 是
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/es-tax-comparison-2026-1880x1253.jpg"
 ---
 

@@ -37,8 +37,6 @@ keywords:
   - "2026年金融数据"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/il-finance-comparison-2026-1880x1253.jpg"
 ---
 

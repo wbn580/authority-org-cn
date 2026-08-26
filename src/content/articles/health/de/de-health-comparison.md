@@ -32,8 +32,6 @@ keywords:
   - "制度差异分析"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/de-health-comparison-2026-1880x1253.jpg"
 ---
 

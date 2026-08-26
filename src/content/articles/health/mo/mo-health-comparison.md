@@ -27,8 +27,6 @@ keywords:
   - "医疗制度差异原因"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/mo-health-comparison-2026-1880x1253.jpg"
 ---
 

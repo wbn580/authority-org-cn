@@ -28,8 +28,6 @@ keywords:
   - "制度差异分析"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/kr-legal-comparison-2026-1880x1255.jpg"
 ---
 

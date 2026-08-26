@@ -33,8 +33,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

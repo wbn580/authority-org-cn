@@ -33,8 +33,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

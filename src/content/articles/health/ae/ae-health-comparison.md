@@ -13,8 +13,6 @@ keywords: "[\"阿联酋卫生与预防部\", \"MOHAP\", \"NHS\", \"新加坡卫�
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/ae-health-comparison-2026-1880x1253.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

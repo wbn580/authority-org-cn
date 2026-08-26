@@ -16,8 +16,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/fr-trade-comparison-2026-auto.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 # 法国贸易/海关主管部门与多国同类机构跨国对比分析

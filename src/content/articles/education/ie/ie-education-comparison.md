@@ -27,8 +27,6 @@ keywords:
   - "数字化平台"
 chineseServiceAvailable: 爱尔兰教育部官网（education.ie）提供英文界面，无中文版本；部分关键文件（如《2026年教育行动计划》）有自动翻译功能，但未设专职中文服务人员。
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/ie-education-comparison-2026-1880x869.jpg"
 ---
 

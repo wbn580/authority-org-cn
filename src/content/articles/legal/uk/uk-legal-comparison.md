@@ -32,8 +32,6 @@ keywords:
   - "大陆人法律接触"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/uk-legal-comparison-2026-1880x1255.jpg"
 ---
 

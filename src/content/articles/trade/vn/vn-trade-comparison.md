@@ -29,8 +29,6 @@ keywords:
   - "2026年数据"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/vn-trade-comparison-2026-1880x1111.jpg"
 ---
 

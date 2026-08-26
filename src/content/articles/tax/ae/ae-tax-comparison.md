@@ -27,8 +27,6 @@ keywords:
   - "企业所得税"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/ae-tax-comparison-2026-1880x1253.jpg"
 ---
 

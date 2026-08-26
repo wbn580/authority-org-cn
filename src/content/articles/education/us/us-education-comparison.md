@@ -26,8 +26,6 @@ keywords:
   - "国际学生政策"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/us-education-comparison-2026-1880x869.jpg"
 ---
 

@@ -32,8 +32,6 @@ keywords:
   - "中文服务可用性"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/uk-labor-comparison-2026-1880x1111.jpg"
 ---
 

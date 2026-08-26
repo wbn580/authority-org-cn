@@ -12,8 +12,6 @@ tags: "[\"中国台湾\", \"教育对比\", \"教育部\", \"跨国分析\", \"�
 keywords: "[\"台湾教育主管部门\", \"教育部\", \"文部科学省\", \"文化部长联席会议\", \"教育监管\", \"高等教育\", \"大陆人接触度\", \"数字化教育\", \"教育申诉\"]"
 chineseServiceAvailable: false
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/tw-education-comparison-2026-1880x869.jpg"
 ---
 

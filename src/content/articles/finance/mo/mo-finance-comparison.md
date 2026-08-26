@@ -32,8 +32,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/44885df78191.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

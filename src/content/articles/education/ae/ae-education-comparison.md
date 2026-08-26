@@ -25,8 +25,6 @@ keywords:
   - "跨国教育申诉机制"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/ae-education-comparison-2026-1880x869.jpg"
 ---
 

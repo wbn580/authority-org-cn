@@ -13,8 +13,6 @@ keywords: "[\"美国HHS\", \"英国NHS\", \"德国G-BA\", \"日本厚生劳动�
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/50977beceeec.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

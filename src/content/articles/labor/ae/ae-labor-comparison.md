@@ -32,8 +32,6 @@ keywords:
   - "中文服务"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/ae-labor-comparison-2026-1880x1111.jpg"
 ---
 

@@ -37,8 +37,6 @@ tags:
   - "行政效率"
   - "跨国比较"
   - "透明度"
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/it-education-comparison-2026-1880x869.jpg"
 ---
 

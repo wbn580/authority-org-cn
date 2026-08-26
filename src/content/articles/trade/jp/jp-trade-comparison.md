@@ -12,8 +12,6 @@ tags: "[日本, 贸易, 海关, 对比分析, 经济产业省, 关税局, 韩国
 keywords: "[日本贸易主管部门, 经济产业省, 财务省关税局, 海关职能对比, 贸易监管效率, 数字化通关, 透明度, 申诉机制, 大陆人接触度, 制度差异]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/jp-trade-comparison-2026-1880x1111.jpg"
 ---
 

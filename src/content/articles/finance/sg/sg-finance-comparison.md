@@ -29,8 +29,6 @@ keywords:
   - "制度差异成因"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/sg-finance-comparison-2026-1880x1253.jpg"
 ---
 

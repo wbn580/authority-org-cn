@@ -12,8 +12,6 @@ tags: "[澳大利亚, 劳工, 就业, 跨国比较, 公平工作委员会, FWC, 
 keywords: "[澳大利亚劳工, 公平工作委员会, 美国劳工部, 德国劳动与社会事务部, 新加坡人力部, 劳动法比较, 劳动监管效率, 数字化劳动服务, 劳动透明度, 劳动申诉, 大陆人劳动权益, 中文服务]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/au-labor-comparison-2026-1880x1111.jpg"
 ---
 

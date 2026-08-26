@@ -28,8 +28,6 @@ keywords:
   - "劳动监察效率"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/hk-labor-comparison-2026-1880x1111.jpg"
 ---
 

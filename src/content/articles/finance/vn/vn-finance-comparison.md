@@ -29,8 +29,6 @@ keywords:
 chineseServiceAvailable: 部分
 ogImage: 'https://authority.org.cn/og-default.svg'
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: asia-miles-southeast-asia-business-class-comparison -->

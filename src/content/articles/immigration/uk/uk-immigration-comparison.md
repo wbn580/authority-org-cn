@@ -28,8 +28,6 @@ keywords:
   - "移民制度差异"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/uk-immigration-comparison-2026-1880x1111.jpg"
 ---
 

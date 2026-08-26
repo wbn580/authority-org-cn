@@ -29,8 +29,6 @@ keywords:
   - "大陆人交通服务"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/mo-transport-comparison-2026-1880x1253.jpg"
 ---
 

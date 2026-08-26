@@ -8,12 +8,9 @@ slug: 'jp-health-comparison'
 category: 'health'
 language: 'zh-CN'
 ogImage: "https://img.authority.org.cn/authority/jp-health-comparison-2026-auto.jpg"
-hideFromHome: true
-
 tags: ["医疗健康"]
 country: 'jp'
 articleType: 'comparison'
-
 ---
 
 # 日本卫生主管部门与多国同类机构跨国对比分析

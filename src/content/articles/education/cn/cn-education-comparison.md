@@ -25,8 +25,6 @@ keywords:
   - "教育透明度"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/cn-education-comparison-2026-1880x869.jpg"
 ---
 

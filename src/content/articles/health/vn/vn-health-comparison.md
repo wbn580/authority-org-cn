@@ -13,8 +13,6 @@ keywords: "[\"越南卫生部\", \"国家医保\", \"跨国卫生对比\", \"制
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/vn-health-comparison-2026-1880x1253.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

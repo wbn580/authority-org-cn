@@ -32,8 +32,6 @@ keywords:
   - "数字化税务"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/cn-tax-comparison-2026-1880x1253.jpg"
 ---
 

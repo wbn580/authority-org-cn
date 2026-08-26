@@ -28,8 +28,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/fr-trade-contact_guide-2026-auto.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: asia-miles-southeast-asia-business-class-comparison -->

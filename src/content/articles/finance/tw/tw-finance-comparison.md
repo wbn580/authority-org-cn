@@ -36,8 +36,6 @@ keywords:
   - "跨境金融"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/tw-finance-comparison-2026-1880x1253.jpg"
 ---
 

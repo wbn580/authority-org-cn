@@ -26,8 +26,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/mo-immigration-comparison-2026-1880x1253.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: three-dimension-framework-study-abroad-destination -->

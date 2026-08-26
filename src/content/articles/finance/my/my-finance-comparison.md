@@ -40,8 +40,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/rehost/33d824cf2d37.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

@@ -34,8 +34,6 @@ keywords:
   - "税务申诉机制"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/hk-tax-comparison-2026-1880x1253.jpg"
 ---
 

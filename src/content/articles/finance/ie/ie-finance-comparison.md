@@ -28,8 +28,6 @@ keywords:
   - "金融申诉机制"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/ie-finance-comparison-2026-1880x1253.jpg"
 ---
 

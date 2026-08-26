@@ -12,8 +12,6 @@ tags: "[澳大利亚税务局, ATO, HMRC, IRS, CRA, IRAS, 税务对比, 税务�
 keywords: "[澳大利亚税务局, ATO, 英国税务海关总署, HMRC, 美国国税局, IRS, 加拿大税务局, CRA, 新加坡国内税务局, IRAS, 税务对比, 税务效率, 数字化税务, 税务透明度, 税务申诉机制]"
 chineseServiceAvailable: 澳大利亚税务局（ATO）提供简体中文版税务指南、在线申报辅助材料及电话口译服务（131 450）。美国IRS提供西班牙语、中文（简体/繁体）等语言表格及电话协助。加拿大CRA提供法语及英语服务，中文服务通过第三方口译热线提供。英国HMRC提供中文电话口译服务。新加坡IRAS提供英文及中文双语网站及电话咨询。
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/au-tax-comparison-2026-1880x1253.jpg"
 ---
 

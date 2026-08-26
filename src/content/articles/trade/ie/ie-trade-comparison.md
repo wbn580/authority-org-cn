@@ -29,8 +29,6 @@ keywords:
   - "跨境贸易对比"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/ie-trade-comparison-2026-1880x1111.jpg"
 ---
 

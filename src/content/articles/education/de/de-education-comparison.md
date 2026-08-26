@@ -30,8 +30,6 @@ keywords:
 chineseServiceAvailable: true
 ogImage: "https://img.authority.org.cn/authority/cn-trade-functions-2026-1880x1253.jpg"
 draft: false
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: expand-expand-澳大利亚本科申请时间线什么时间做什么事含checklist-b87a5f-og -->

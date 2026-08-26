@@ -24,8 +24,6 @@ keywords:
   - "制度差异"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.authority.org.cn/authority/au-trade-comparison-2026-1880x1111.jpg"
 ---
 

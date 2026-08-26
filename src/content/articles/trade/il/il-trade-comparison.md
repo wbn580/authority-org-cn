@@ -31,8 +31,6 @@ keywords:
   - "制度原因"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/il-trade-comparison-2026-1880x1111.jpg"
 ---
 

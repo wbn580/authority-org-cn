@@ -12,8 +12,6 @@ tags: "[\"马来西亚卫生部\", \"MOH\", \"新加坡卫生部\", \"MOH Singap
 keywords: "[\"马来西亚卫生部\", \"新加坡卫生部\", \"泰国卫生部\", \"澳大利亚卫生部\", \"英国卫生与社会保障部\", \"卫生系统对比\", \"医保监管\", \"数字化医疗\", \"患者申诉\"]"
 chineseServiceAvailable: true
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/my-health-comparison-2026-1880x1253.jpg"
 ---
 

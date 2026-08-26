@@ -39,8 +39,6 @@ keywords:
   - "制度差异"
 chineseServiceAvailable: false
 draft: false
-hideFromHome: true
-
 ogImage: "https://img.ulec.com.cn/authority/au-transport-comparison-2026-1880x1253.jpg"
 ---
 
