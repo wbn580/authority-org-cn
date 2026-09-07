@@ -32,7 +32,7 @@ keywords:
   - "数字化税务"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/cn-tax-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

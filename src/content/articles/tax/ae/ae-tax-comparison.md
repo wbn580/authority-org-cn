@@ -27,7 +27,7 @@ keywords:
   - "企业所得税"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ae-tax-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

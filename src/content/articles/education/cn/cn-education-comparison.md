@@ -25,7 +25,7 @@ keywords:
   - "教育透明度"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/cn-education-comparison-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国本科转美国研究生转学指南gpa要求材料录取率-4e610d-og -->

@@ -32,7 +32,7 @@ keywords:
   - "制度原因分析"
 chineseServiceAvailable: 法国教育部官网及部分下属机构提供英文/法文界面，中文服务有限；加拿大CMEC提供多语言资源，中文支持较完善。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/fr-education-comparison-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og -->

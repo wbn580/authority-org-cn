@@ -29,7 +29,7 @@ keywords:
   - "制度差异分析"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/uk-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

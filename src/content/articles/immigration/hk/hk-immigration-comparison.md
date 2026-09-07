@@ -31,7 +31,7 @@ keywords:
   - "申诉机制"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/hk-immigration-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/hk-immigration-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-guide-hong-kong-students-2026 -->

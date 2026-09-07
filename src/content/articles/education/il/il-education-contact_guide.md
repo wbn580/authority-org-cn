@@ -30,7 +30,7 @@ keywords:
 chineseServiceAvailable: 部分
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/il-education-contact_guide-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/il-education-contact_guide-2026-1880x869.jpg"
 ---
 
 

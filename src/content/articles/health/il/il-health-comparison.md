@@ -26,7 +26,7 @@ keywords:
   - "大陆人接触度"
 chineseServiceAvailable: 有限
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/il-health-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/il-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

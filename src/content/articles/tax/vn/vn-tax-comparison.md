@@ -52,7 +52,7 @@ keywords:
   - "税务比较分析"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/vn-tax-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/vn-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

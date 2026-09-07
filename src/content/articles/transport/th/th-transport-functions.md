@@ -24,7 +24,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/th-transport-functions-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/th-transport-functions-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

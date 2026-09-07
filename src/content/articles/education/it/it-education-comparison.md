@@ -37,7 +37,7 @@ tags:
   - "行政效率"
   - "跨国比较"
   - "透明度"
-ogImage: "https://img.ulec.com.cn/authority/it-education-comparison-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/it-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->

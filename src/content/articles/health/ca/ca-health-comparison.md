@@ -12,7 +12,7 @@ tags: "[\"加拿大\", \"卫生\", \"医保\", \"跨国对比\", \"Health Canada
 keywords: "[\"加拿大卫生主管部门\", \"Health Canada\", \"跨国对比\", \"职能\", \"监管\", \"效率\", \"数字化\", \"透明度\", \"申诉机制\"]"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ca-health-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ca-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

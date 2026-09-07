@@ -26,7 +26,7 @@ keywords:
   - "制度差异"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ph-health-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大研究生申请时间线什么时间做什么事含checklist-b3a7d3-og -->

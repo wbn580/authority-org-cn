@@ -12,7 +12,7 @@ tags: "[\"美国劳工部\", \"德国劳动部\", \"日本厚生劳动省\", \"�
 keywords: "[\"美国劳工部职能\", \"德国劳动法\", \"日本劳动基准法\", \"新加坡雇佣法令\", \"巴西CLT\"]"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/us-labor-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/us-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

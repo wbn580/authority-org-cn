@@ -30,7 +30,7 @@ keywords:
   - "中文服务可用性"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/il-labor-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/il-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: career-support-comparison-top-study-destinations -->

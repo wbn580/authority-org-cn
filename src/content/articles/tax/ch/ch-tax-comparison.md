@@ -24,7 +24,7 @@ keywords:
   - "大陆人士税务服务"
 chineseServiceAvailable: 部分国家（新加坡、日本）提供中文界面或中文协助；瑞士、德国、美国以官方语言（德/法/意/英/日）为主，无专门中文服务。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ch-tax-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

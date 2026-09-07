@@ -12,7 +12,7 @@ tags: "[瑞士司法, 德国司法, 法国司法, 新加坡司法, 跨国对比,
 keywords: "[瑞士联邦司法与警察部, FDJP, 德国联邦司法部, 法国司法部, 新加坡律政部, 司法效率, 大陆人接触度, 司法申诉]"
 chineseServiceAvailable: 瑞士FDJP下属移民与庇护部门提供中文文件翻译服务；德国联邦司法部官网提供中文法律摘要；新加坡律政部官网提供中文界面。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ch-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

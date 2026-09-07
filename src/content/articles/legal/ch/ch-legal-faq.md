@@ -31,7 +31,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/ch-legal-faq-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/ch-legal-faq-2026-1880x1255.jpg"
 ---
 
 

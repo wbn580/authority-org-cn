@@ -26,7 +26,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/tw-labor-policy_update-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/tw-labor-policy_update-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

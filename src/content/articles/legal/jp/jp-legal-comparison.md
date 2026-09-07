@@ -27,7 +27,7 @@ keywords:
   - "司法效率指标"
 chineseServiceAvailable: 日本法务省不设中文服务专窗，但部分出入境及在留手续可通过法务省入国管理局官网（日/英/中/韩）提交；韩国法务部出入境外国人政策本部提供中文版表格；德国联邦司法部无中文服务；新加坡律政部官网仅英文。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/jp-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/jp-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

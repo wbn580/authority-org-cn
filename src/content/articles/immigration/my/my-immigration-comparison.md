@@ -31,7 +31,7 @@ keywords:
   - "2026年数据"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/my-immigration-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/my-immigration-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

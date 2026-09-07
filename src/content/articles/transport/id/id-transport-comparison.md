@@ -33,7 +33,7 @@ keywords:
   - "中文服务"
 chineseServiceAvailable: 印尼交通部及民航总局官方网站提供印尼语与英语界面，无专门中文服务；部分线下柜台（如雅加达苏加诺-哈达机场）有少量中文志愿者，但非官方服务。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/id-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/id-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

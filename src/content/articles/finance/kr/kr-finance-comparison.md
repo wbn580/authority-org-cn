@@ -26,7 +26,7 @@ keywords:
   - "大陆人金融接触"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/kr-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

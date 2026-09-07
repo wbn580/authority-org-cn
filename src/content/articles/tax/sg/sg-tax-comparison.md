@@ -26,7 +26,7 @@ keywords:
   - "中文服务"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/sg-tax-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/sg-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

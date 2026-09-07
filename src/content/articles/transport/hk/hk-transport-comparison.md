@@ -33,7 +33,7 @@ keywords:
   - "制度差异"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/hk-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/hk-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

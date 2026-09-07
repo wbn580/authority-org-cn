@@ -30,7 +30,7 @@ keywords:
   - "教育制度差异原因"
 chineseServiceAvailable: 部分国家（如英国、澳大利亚）提供中文版关键政策摘要；加拿大各省服务语言以英语/法语为主；新加坡教育部网站以英文为主。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/uk-education-comparison-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/uk-education-comparison-2026-1880x869.jpg"
 ---
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
 <figure class="article-image">

@@ -27,7 +27,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/de-finance-faq-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/de-finance-faq-2026-1880x1253.jpg"
 ---
 
 

@@ -34,7 +34,7 @@ keywords:
   - "制度差异"
 chineseServiceAvailable: 日本金融厅及央行部分公开信息提供英文及日文版本，中文服务有限。主要依赖英文界面。新加坡MAS提供中文版官方网站。英国FCA提供多语言摘要。美联储与ECB主要以英文运营。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/jp-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/jp-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

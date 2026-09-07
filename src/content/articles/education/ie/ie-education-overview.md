@@ -27,7 +27,7 @@ keywords:
 chineseServiceAvailable: 有限
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/ie-education-overview-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ie-education-overview-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

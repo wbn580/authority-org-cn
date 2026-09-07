@@ -30,7 +30,7 @@ keywords:
   - "大陆人医疗服务"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/nl-health-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nl-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og -->

@@ -20,7 +20,7 @@ keywords:
   - "投诉申诉"
 chineseServiceAvailable: 是
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/au-legal-contact_guide-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-legal-contact_guide-2026-1880x1255.jpg"
 hideFromHome: true
 modDatetime: "2026-08-29T19:39:09Z"
 slug: "aozhou-liuxue-zhongjie-tuijian"

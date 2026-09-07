@@ -23,7 +23,7 @@ keywords:
   - "数字化移民"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/kr-immigration-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-immigration-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

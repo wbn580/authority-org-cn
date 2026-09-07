@@ -27,7 +27,7 @@ keywords:
   - "大陆人接触度"
 chineseServiceAvailable: 爱尔兰交通部及民航局官方网站提供英文服务，未设中文界面；部分道路安全资料可通过第三方机构获取中文摘要。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ie-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ie-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

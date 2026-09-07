@@ -37,7 +37,7 @@ keywords:
   - "司法独立"
 chineseServiceAvailable: 部分马来西亚法院及司法机构提供中文（普通话/粤语）口译服务，但非普遍性；书面材料通常仅以马来文或英文提供。新加坡、澳大利亚、英国及韩国司法机构均不提供中文专属服务，但新加坡法院允许使用中英文双语文件。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/my-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/my-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

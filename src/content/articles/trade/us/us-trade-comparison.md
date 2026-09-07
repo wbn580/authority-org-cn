@@ -33,7 +33,7 @@ keywords:
   - "2026"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/us-trade-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/us-trade-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

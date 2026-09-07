@@ -28,7 +28,7 @@ keywords:
 chineseServiceAvailable: 有限
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/us-education-overview-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/us-education-overview-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

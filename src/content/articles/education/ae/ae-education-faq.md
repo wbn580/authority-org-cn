@@ -27,7 +27,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/ae-education-faq-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ae-education-faq-2026-1880x869.jpg"
 ---
 
 

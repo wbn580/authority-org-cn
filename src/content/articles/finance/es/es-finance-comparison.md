@@ -30,7 +30,7 @@ keywords:
   - "数字化监管"
 chineseServiceAvailable: 西班牙央行不设中文专线，官网仅西/英双语。申诉可通过西语线上表格提交，无中文指引。德国BaFin、法国ACPR、日本FSA均无中文服务。新加坡MAS官网提供中文版消费者警示及部分表格。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/es-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/es-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

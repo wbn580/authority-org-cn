@@ -28,7 +28,7 @@ keywords:
   - "金融申诉机制"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ie-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/ie-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

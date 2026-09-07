@@ -26,7 +26,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/it-trade-functions-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/it-trade-functions-2026-1880x1111.jpg"
 ---
 # 意大利贸易与海关主管部门核心职能详解
 

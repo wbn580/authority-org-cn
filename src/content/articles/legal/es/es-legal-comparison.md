@@ -34,7 +34,7 @@ keywords:
   - "2026"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/es-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/es-legal-comparison-2026-1880x1255.jpg"
 ---
 
 

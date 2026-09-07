@@ -26,7 +26,7 @@ keywords:
   - "大陆人接触度"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/ie-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/ie-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

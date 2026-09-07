@@ -29,7 +29,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/kr-legal-overview-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-legal-overview-2026-1880x1255.jpg"
 ---
 
 

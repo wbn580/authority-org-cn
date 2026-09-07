@@ -27,7 +27,7 @@ keywords:
   - "申诉机制"
 chineseServiceAvailable: 法国交通主管部门官网提供英语服务，部分内容支持法语自动翻译；中文服务有限，但可通过第三方代理或使馆协助。
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/fr-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026-英國bno簽證住滿5年入籍英文試要考邊種 -->

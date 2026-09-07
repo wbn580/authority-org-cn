@@ -25,7 +25,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/mo-trade-overview-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/mo-trade-overview-2026-1880x1111.jpg"
 ---
 
 

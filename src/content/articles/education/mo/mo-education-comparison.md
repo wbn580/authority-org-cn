@@ -29,7 +29,7 @@ keywords:
   - "教育制度差异"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/mo-education-comparison-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/mo-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->

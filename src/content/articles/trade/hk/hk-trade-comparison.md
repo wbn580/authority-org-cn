@@ -29,7 +29,7 @@ keywords:
   - "制度差异原因"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/hk-trade-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/hk-trade-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

@@ -29,7 +29,7 @@ keywords:
   - "制度差异原因"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/fr-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

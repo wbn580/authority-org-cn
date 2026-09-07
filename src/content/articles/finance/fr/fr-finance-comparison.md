@@ -39,7 +39,7 @@ keywords:
   - "新加坡金融管理局"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/fr-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/fr-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

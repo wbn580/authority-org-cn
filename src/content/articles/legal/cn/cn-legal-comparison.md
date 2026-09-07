@@ -30,7 +30,7 @@ keywords:
   - "制度差异"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/cn-legal-comparison-2026-1880x1255.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-legal-comparison-2026-1880x1255.jpg"
 ---
 
 <!-- R2_IMAGE: data-driven-career-support-comparison-chinese-applicants -->

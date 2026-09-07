@@ -30,7 +30,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/kr-trade-faq-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/kr-trade-faq-2026-1880x1111.jpg"
 ---
 
 

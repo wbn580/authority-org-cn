@@ -28,7 +28,7 @@ keywords:
 chineseServiceAvailable: 部分
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/vn-finance-overview-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/vn-finance-overview-2026-1880x1253.jpg"
 ---
 
 

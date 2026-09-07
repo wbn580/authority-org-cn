@@ -27,7 +27,7 @@ keywords:
   - "医疗制度差异原因"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/mo-health-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/mo-health-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

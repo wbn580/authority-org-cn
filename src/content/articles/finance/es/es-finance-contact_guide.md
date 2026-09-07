@@ -30,7 +30,7 @@ keywords:
 chineseServiceAvailable: 是
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/es-finance-contact_guide-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/es-finance-contact_guide-2026-1880x1253.jpg"
 ---
 
 

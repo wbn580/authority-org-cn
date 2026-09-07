@@ -33,7 +33,7 @@ keywords:
   - "新加坡税务管理"
 chineseServiceAvailable: 是
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/es-tax-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/es-tax-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: uk-hk-singapore-business-master-comparison -->

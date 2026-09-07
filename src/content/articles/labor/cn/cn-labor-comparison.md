@@ -32,7 +32,7 @@ keywords:
   - "制度原因分析"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/cn-labor-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.authority.org.cn/authority/cn-labor-comparison-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-hk-vs-sg-banking-2026-which-city-pays-mo -->

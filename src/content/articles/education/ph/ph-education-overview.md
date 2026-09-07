@@ -28,7 +28,7 @@ keywords:
 chineseServiceAvailable: true
 draft: false
 
-ogImage: "https://img.ulec.com.cn/authority/ph-education-overview-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/ph-education-overview-2026-1880x869.jpg"
 ---
 
 

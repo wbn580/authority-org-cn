@@ -29,7 +29,7 @@ keywords:
   - "大陆人接触度"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/nl-transport-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/nl-transport-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-国内本科转新加坡研究生转学指南gpa要求材料录取率-837603-og -->

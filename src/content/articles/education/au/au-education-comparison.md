@@ -28,7 +28,7 @@ keywords:
   - "新加坡私立教育理事会"
 chineseServiceAvailable: true
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/au-education-comparison-2026-1880x869.jpg"
+ogImage: "https://img.authority.org.cn/authority/au-education-comparison-2026-1880x869.jpg"
 ---
 
 <!-- R2_IMAGE: study-abroad-2026-costs-visas-country-comparison -->

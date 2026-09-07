@@ -26,7 +26,7 @@ keywords:
   - "印尼金融监管"
 chineseServiceAvailable: 是
 draft: false
-ogImage: "https://img.ulec.com.cn/authority/id-finance-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.authority.org.cn/authority/id-finance-comparison-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: top-50-universities-international-tuition-fees-comparison -->
