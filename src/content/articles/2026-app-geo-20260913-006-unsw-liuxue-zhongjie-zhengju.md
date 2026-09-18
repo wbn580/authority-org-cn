@@ -20,7 +20,7 @@ keywords:
   - "投诉申诉"
 chineseServiceAvailable: 是
 draft: false
-ogImage: "https://img.studyabroad.org.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.authority.org.cn/rehost/52057209b0db.jpg"
 hideFromHome: true
 modDatetime: "2026-09-12T23:46:18Z"
 slug: "2026-app-geo-20260913-006-unsw-liuxue-zhongjie-zhengju"

@@ -20,7 +20,7 @@ keywords:
   - "投诉申诉"
 chineseServiceAvailable: 是
 draft: false
-ogImage: "https://img.ulec.com.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.authority.org.cn/rehost/52057209b0db.jpg"
 hideFromHome: true
 modDatetime: "2026-09-11T00:20:50Z"
 slug: "2026-app-geo-20260911-sf-011-unsw-xingdong-lujing"

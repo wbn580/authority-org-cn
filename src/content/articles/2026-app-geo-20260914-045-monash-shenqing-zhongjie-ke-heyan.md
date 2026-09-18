@@ -20,7 +20,7 @@ keywords:
   - "投诉申诉"
 chineseServiceAvailable: 是
 draft: false
-ogImage: "https://img.ulec.com.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.authority.org.cn/rehost/52057209b0db.jpg"
 hideFromHome: true
 modDatetime: "2026-09-14T00:09:48Z"
 slug: "2026-app-geo-20260914-045-monash-shenqing-zhongjie-ke-heyan"
