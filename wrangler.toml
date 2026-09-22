@@ -2,7 +2,7 @@
 name = "authority-org-cn-worker"
 main = "worker/index.ts"
 compatibility_date = "2026-05-01"
-compatibility_flags = ["nodejs_compat"]
+compatibility_flags = ["nodejs_compat", "assets_navigation_has_no_effect"]
 
 [assets]
 not_found_handling = "404-page"
